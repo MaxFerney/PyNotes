@@ -123,9 +123,6 @@ class Data():
         tab = 0
         
         '''
-        All indenting and bullet point editing will be
-        done and implemented in the GUI version of
-        PyNotes, expected to be in version v1.
 
         IDEA!!!!!
         since the program uses textwrap, which reads and
@@ -134,6 +131,9 @@ class Data():
 
         this above statement has been officially completed
         as of version 0.1.08.
+        
+        yay!!!
+        
         
         '''
 
