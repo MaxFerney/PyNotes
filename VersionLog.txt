@@ -1,3 +1,7 @@
 ---VERSION LOG---
 
 v0.0.01
+...
+
+Currently trying to make an auto version log updater
+may not use a version notes... awaiting further decicion
