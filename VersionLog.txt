@@ -5,3 +5,21 @@ v0.0.01
 
 Currently trying to make an auto version log updater
 may not use a version notes... awaiting further decicion
+
+
+10.12.2015
+there are now a few PyApps, as I will start calling them
+  this includes PyNotes, PySlides, and PyOutline
+  
+  PyNotes:
+    for note taking
+
+
+  PySlides:
+    for making slideshows
+
+  PyOutline:
+    for making an outline
+    this was originally meant to be implemented into pynotes,
+    then created as a new program entirely
+    
