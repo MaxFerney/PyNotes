@@ -1,6 +1,6 @@
 #Author: Max Ferney
 #Date Created: 8.12.2015
-#Date Modified: 10.12.2015
+#Date Modified: 10.13.2015
 #Version: 0.2.15
 #Description: Organize and take notes with PyNotes!
 
@@ -134,8 +134,6 @@ class PyNotes():
         self.readF(sts=True)
         #this reads from last timestamp, not whole text
         if self.FileName == None:
-            print("[ERROR: NO FILE SELECTED]")
-            print("Use SelectFile() to select a file.")
             return None
         file = self.FileName
         text = self.text
@@ -226,8 +224,6 @@ class PyNotes():
             to enter Code Input: type 'CODEMODE'
             to exit Code Input: Type 'CODEEXIT'
                 
-                
-                
             """)
             #This checks if the last time modified was on
             #the same date as the current date..
@@ -277,10 +273,6 @@ class PyNotes():
                     #key_commands
                     if string.lower() == 'done':
                         break
-                    
-##                    elif pretext == '':
-##                        pretext = bp
-##                        width = 55
                         
                     elif string == '-->':
                         spaces = ' '
@@ -288,13 +280,13 @@ class PyNotes():
                             spaces += ' '
                         pretext = spaces + pretext
                         ind_lvl += 1
-                        width -= 2 #change to lenI
+                        width -= len(spaces) #2
 
                     elif string == '<--':
                         if ind_lvl > 0:
                             pretext = pretext[lenI+1:]
                             ind_lvl -= 1
-                            width += 2 #change to lenI
+                            width += len(spaces) #2
                         
 
                     elif string == 'ChBp':
@@ -390,7 +382,7 @@ class PyNotes():
             f.write(t)
         f.close()
 
-        #Write to file backup location too
+        #Write to file backup location too, if backup=True
         if backup:
             currentCwd = self.cwd
             os.chdir(self.MainCwd)
@@ -400,7 +392,7 @@ class PyNotes():
             os.chdir(currentCwd)
             print("Backup Successful!")
 
-        #set current text to text in the file
+        #Set current text to text in the file
         with open(file) as f:
             text = f.read()
             self.text = text
