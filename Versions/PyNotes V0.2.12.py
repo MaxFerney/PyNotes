@@ -1,6 +1,6 @@
 #Author: Max Ferney
 #Date Created: 8.12.2015
-#Date Modified: 9.23.2015
+#Date Modified: 9.24.2015
 #Version: 0.2.12
 #Description: Organize and take notes with PyNotes!
 
@@ -15,7 +15,6 @@ import textwrap
 #globals
 files = []
 CPaths = []
-#cwd = os.getcwd()
 #DoNotChange
 ORIGINAL_CWD = os.getcwd()
 
@@ -29,6 +28,7 @@ class Data():
     cpaths = []
     cfiles = []
     InitializeTimeStamp = None
+    version = '0.2.12'
     
     text = ""
 
@@ -163,7 +163,7 @@ class Data():
         as of version 0.1.08.
 
 
-        replace last index[-1] with [-(len(bp))]
+        ##replace last index[-1] with [-(len(bp))]
 
         ##implement code key_command, for code input
             this will have no bullet points
@@ -194,7 +194,8 @@ class Data():
             key_commands = ['DONE', '-->',
                             '<--', 'ChBp',
                             'TITLELINE', 'SUBTITLE',
-                            'CODEMODE', 'CODEEXIT']
+                            'CODEMODE', 'CODEEXIT'
+                            'OUTLINEMODE', 'OUTLINEEXIT']
             print("""
                 to end input: type 'DONE' or press Ctrl+c
                 to indent: type '-->'
@@ -204,6 +205,9 @@ class Data():
                 to change the bullet point: type 'ChBp'
                 to enter Code Input: type 'CODEMODE'
                 to exit Code Input: Type 'CODEEXIT'
+                to enter Outline Mode: type 'OUTLINEMODE'
+                to exit Outline Mode: type 'OUTLINEEXIT'
+                
                 
             """)
             #This checks if the last time modified was on
@@ -435,7 +439,8 @@ class Data():
                'Current cwd: ' + str(self.cwd) + '\n' +\
                'Current path: ' + str(self.path) + '\n' +\
                'Time Stamp: ' +\
-               str(self.InitializeTimeStamp) + '\n'
+               str(self.InitializeTimeStamp) + '\n' +\
+               'Version: v' + str(self.version) + '\n'
                
         
 

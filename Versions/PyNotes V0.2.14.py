@@ -645,4 +645,3 @@ def quickstart(path):
     a = Data()
     a.cd('files')
     a.cd(path)
-

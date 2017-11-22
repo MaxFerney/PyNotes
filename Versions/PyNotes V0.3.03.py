@@ -1,7 +1,7 @@
 #Author: Max Ferney
 #Date Created: 8.12.2015
-#Date Modified: 11.04.2015
-#Version: 0.2.16
+#Date Modified: 2.17.2016
+#Version: 0.3.03
 #Description: Organize and take notes with PyNotes!
 
 
@@ -22,18 +22,19 @@ ORIGINAL_CWD = os.getcwd()
 #classes
 class PyNotes:
     FileName=None
-    MainCwd = None
+    MainCwd = 'C:\\Users\\lisaf_000\\Desktop\\Python\\PyNotes'
     cwd = None
     path = None
     cpaths = []
     cfiles = []
     InitializeTimeStamp = None
-    version = '0.2.16'
+    version = '0.3.03'
+    lastIndex = 0
     
     text = ""
 
     def __init__(self):
-        self.MainCwd = os.getcwd()
+        #self.MainCwd = os.getcwd()
         self.cwd = os.getcwd()
         self.path = os.path.join(self.cwd)
 
@@ -59,9 +60,12 @@ class PyNotes:
         for c in os.walk(path).__next__()[2]:
             self.cfiles.append(c)
 
-    def readF(self, AllLines=True, sts=False, lines=200):
+    def readF(self, sts=False, Display=True):
         #sts = Since Time Stamp
         text = self.text
+
+        AllLines=True
+        lines=200
         
         if self.FileName == None:
             print("[ERROR: NO FILE SELECTED]")
@@ -90,22 +94,29 @@ class PyNotes:
                 lastIndex = text.rfind('TIMESTAMPSTR')
                 
             DisplayText = text[lastIndex:]
+            
+            if Display:
+                # \t is for tab before timest
+                print('\t', end='')
+            
         else:
             DisplayText = self.text
 
-        # \t is for tab
-        print('\t', end='')
-        print(DisplayText)
+        self.text = DisplayText
+        if Display:
+            print(DisplayText)
 
-    def sf(self, file):
+    def sf(self, file, show_text=True):
         self.UPL()
         self.FileName = file
-        self.readF(sts=True) #This now prints from
-        #last timestamp string
+        if not show_text:
+            self.readF(sts=True, Display=False)
+        else:
+            self.readF(sts=True, Display=True)
         
 
-    def cd(self, newpath=""):
-        if len(str(newpath))==0:
+    def cd(self, newpath=''):
+        if len(str(newpath))==0 or str(newpath)=="" or str(newpath)=='sysmain':
             newpath = self.MainCwd
         elif str(newpath)[-1] == '/':
             newpath = str(newpath)[:-1]
@@ -114,6 +125,28 @@ class PyNotes:
         self.path = os.path.join(self.cwd)
         #self.InitSettings()
 
+    def search(self):
+##        keywords = []
+##        print('Input Keywords. type \'done\' when you are finished')
+##        ask = ''
+##        while ask != 'done':
+##            ask = input()
+        string_type = input('keyword type (title, subtitle, WIP(time)): ')
+        keyword = input('Keyword: ')
+        max_chr = int(input('max characters: '))
+        self.readF(Display=False)
+##        if string_type == '':
+        keyword_index = self.text.find(keyword, self.lastIndex)
+        self.lastIndex = keyword_index
+        
+        substring = ''
+        for c in range(self.lastIndex, self.lastIndex+max_chr):
+            substring += self.text[c]
+
+        print(substring)
+        self.lastIndex += 1
+            
+    
     def NewFile(self, name, TITLE=' ', Type='txt'):
         file = name + "." + Type
         dateCreated = time.asctime()
@@ -125,11 +158,19 @@ class PyNotes:
         f.close()
 
     def EditFile(self, file='', system=False, message=""):
-        #use line numbers in text to go back and edit line
-        #will be used with index
+        def testchar(string):
+            try:
+                string = int(string)
+                string = chr(string)
+            except ValueError:
+                string = str(string)
+            return string
+
+        #if filename variable is used
         if len(file)>0:
             self.sf(file)
         self.readF(sts=True)
+        
         #this reads from last timestamp, not whole text
         if self.FileName == None:
             return None
@@ -137,93 +178,56 @@ class PyNotes:
         text = self.text
 
         # Initial Variables
-        bp = input('input bullet point: ') #Bullet Point
-        try:
-            bp = int(bp)
-            bp = chr(bp)
-        except ValueError:
-            bp = str(bp)
-            bp = str(bp)
+        bp = input('input bullet point: ')
+        #create predefined variable custom error
+        bp = testchar(bp)
+        
+        #text for saving
         SaveText = str(input('type(y/n) for TimeStamp text: ')) #controls if last save text is turned on
-        savebool = True
-        if SaveText == 'n':
-            savebool = False
+        savebool = False
+        if SaveText == 'y':
+            savebool = True
+
         width = 55
         lenI = 1
+
+        #text commands
         Coding = False
         
-        '''
-        All indenting and bullet point editing will be
-        done and implemented in the GUI version of
-        PyNotes, expected to be in version v1.
+        tagging = False
+        taggingPretext = ''
 
-        IDEA!!!!!
-        since the program uses textwrap, which reads and
-        edits the text that was inputed...
-        use that ability to do bulletpoints/indentation
+        delete_last_line = False
+        last_string = ''
 
-        this above statement has been officially completed
-        as of version 0.1.08.
+        t = ''
 
-
-        ##replace last index[-1] with [-(len(bp))]
-
-        ##implement code key_command, for code input
-            this will have no bullet points
-            indents will be either 2 or 4
-            textwrap will be turned off
-
-        ##add subtitle key_command
-
-        pySlideShow
-            clear screen for each slide
-            include margins/borders
-            -text version
-            -PySlides is pygame version
-
-        ##Shorten the read text
-            make it in the  past 50 lines
-            or in the past 300 characters
-            ##or since the last TIMESTAMPSTR
-
-        ##put the timestampstr at before rest of text
-
-        ##Make a new file for the outline.
-            this will use the bp pretty much.
-            import the new data class, and
-            modify so:
-                class outliner(data):
-                    def EditFile() #this is only
-                                   #thing changed
-
-        needs modify previous lines
-            erase lines..
-            maybe not break on input.........
-                This can cause a TON of problems..
-                if it is even possible in the first place
-
-        Add SideNote Capability
-            if there is something not related to the topic
-
-        Implement a Highlight Mode
-            It would make the object more noticible
-            try to use fonts or abstract characters            
-        
-                    
-        '''
+            
         
         with open(file) as f:
             t = f.read()
         f.close()
+            
+
+        
         if not system:
             pretext = bp
             ind_lvl = 0
             key_commands = ['DONE', '-->',
-                            '--->', '<---', #user errors
+                            '--->', '<---',     #user errors
+                            '00>', '<00',       #user errors
+                            '==>', '<==',       #user errors
+                            '--', '<-', '->',   #user errors
+                            ',--', '--.',       #user errors
+                            '-->>', '<<--',     #user errors
+                            '>', '<',           #user errors
+                            '--:', ':--',       #user errors
                             '<--', 'CHBP',
                             'TITLELINE', 'SUBTITLE',
                             'CODEMODE', 'CODEEXIT',
-                            'BULLETS']
+                            'BULLETS', 'SIDENOTE',
+                            'DELETE_LAST_LINE',
+                            'TAGSTRING']
 
 ##            user_errors = ['--.', '-..'
 ##                           ',__', '__.']
@@ -233,13 +237,15 @@ class PyNotes:
             print("""
             to end input: type 'DONE' or press Ctrl+c
             to indent: type '-->'
-            to unindent: type '<--'
-            to make title line: type 'TITLELINE'
-            to make subtitle line: type 'SUBTITLE'
+            to dedent: type '<--'
+            to make a tagged string: type 'TAGSTRING'
+            to make a sidenote: type 'SIDENOTE'
+            to make a highlight: type 'HIGHLIGHT'
             to change the bullet point: type 'CHBP'
             to enter Code Input: type 'CODEMODE'
             to exit Code Input: type 'CODEEXIT'
             to see bullet points: type 'BULLETS'
+            to erase last line: type 'DELETE_LAST_LINE'
                 
             """)
             def specialPoints():
@@ -247,6 +253,38 @@ class PyNotes:
                     print(str(i) + ' = ' + chr(i))
                 for i in range(11, 32):
                     print(str(i) + ' = ' + chr(i))
+
+
+            def tag_string(system=False,
+                           tagstart='blank',
+                           tagend='blank',
+                           pretext='',
+                           lenI=0):
+                # Inputs
+                if not system:
+                    tagstart = input('start tag: ')
+                    tagend = input('end tag: ')
+                tagstart = testchar(tagstart)
+                tagend = testchar(tagend)
+                note = input('NOTE: ')
+                #Function
+                taggingPretext = pretext
+                pretext = pretext[:-lenI]
+                string = tagstart + tagstart + \
+                         ' ' + note + ' ' + \
+                         tagend + tagend
+                tagging = True
+                if len(pretext) + len(string) >= 55:
+                    print(pretext + string + '\n')
+                else:
+                    print(pretext + string)
+                variables = [taggingPretext, tagging, string, pretext]
+                return variables
+
+            with open(file, 'w') as f:
+                f.write(t)
+            f.close()
+
                             
             #This checks if the last time modified was on
             #the same date as the current date..
@@ -270,52 +308,58 @@ class PyNotes:
                               ']'
             
             if not lastDateMatches('TIMESTAMPSTR'):
+                long_line = ''
+                for s in range(54):
+                    long_line += '+'
+                t += '\n' + long_line
                 t += '\n' + \
                      '\t' + timestampstring + \
                      '\n' + \
-                     '\t#####Last Save: [' + \
+                     '\tLast Save: [' + \
                      time.asctime() + \
-                     ']#####\n\n'
-                
-
-                #20-26
-                 
-            while 1:
+                     ']\n'
+                t += long_line + '\n\n\n'
+         
+            while 1: 
                 try:
-                    if pretext == '':
+                    if pretext == '' :
                         pretext = bp
                         width = 55
+
+                    elif tagging:
+                        tagging = False
+                        pretext = taggingPretext
                         
                     string = input(str(pretext))
                     lenI = len(bp)
+                    
 
                     
                     #key_commands
                     if string.lower() == 'done':
                         break
                         
-                    elif string == '-->' or string == '--->':
-                        spaces = ' '
+                    elif string == '-->' or \
+                         string == '--->' or \
+                         string == '->':
+                        spaces = '  '
                         for i in range(lenI):
                             spaces += ' '
                         pretext = spaces + pretext
                         ind_lvl += 1
                         width -= len(spaces) #2
 
-                    elif string == '<--' or string == '<---':
+                    elif string == '<--' or \
+                         string == '<---' or \
+                         string == '<-':
                         if ind_lvl > 0:
-                            pretext = pretext[lenI+1:]
+                            pretext = pretext[lenI+2:]
                             ind_lvl -= 1
                             width += len(spaces) #2
 
                     elif string == 'CHBP':
                         char = input('input bullet point: ')
-                        try:
-                            char = int(char)
-                            newbp = chr(char)
-                        except ValueError:
-                            char = str(char)
-                            newbp = str(char)
+                        newbp = testchar(char)
                         pretext = pretext[:-lenI] + newbp
                         bp = newbp
                             
@@ -324,18 +368,20 @@ class PyNotes:
                         pretext = ''
                         string2 = input('input title: ')
                         string = "--[" + string2 + "]--"
+                        print(string)
                     elif string == 'SUBTITLE':
-                        ind_lvl = 0
+                        ind_lvl = 0 #change this...do tagstring for this
                         pretext = ''
                         string2 = input('input subtitle: ')
                         string = "[" + string2 + "]"
+                        print(string)
 
                     elif string == 'CODEMODE':
                         ind_lvl = 0
                         pretext = '  '
                         Coding = True
                         savedBp = bp
-                        bp = ''
+                        bp = ' >'
                     elif string == 'CODEEXIT':
                         Coding = False
                         pretext = ''
@@ -344,12 +390,40 @@ class PyNotes:
                     elif string == 'BULLETS':
                         specialPoints()
 
-                    
+                    elif string == 'TAGSTRING':
+                        var = tag_string(pretext=pretext,
+                                         lenI=lenI)
+                        taggingPretext = var[0]
+                        tagging = var[1]
+                        string = var[2]
+                        pretext = var[3]
+                    elif string == 'SIDENOTE':
+                        var = tag_string(True,
+                                         "<>", "<>",
+                                         pretext=pretext,
+                                         lenI=lenI)
+                        taggingPretext = var[0]
+                        tagging = var[1]
+                        string = var[2]
+                        pretext = var[3]
+                    elif string == 'HIGHLIGHT':
+                        var = tag_string(True,
+                                         chr(4), chr(4),
+                                         pretext=pretext,
+                                         lenI=lenI)
+                        taggingPretext = var[0]
+                        tagging = var[1]
+                        string = var[2]
+                        pretext = var[3]
 
+                    elif string == 'DELETE_LAST_LINE':
+                        t = t[0:-len(last_string)]
+                        print(pretext[:lenI] +\
+                              'deleted string:' +\
+                              last_string)
+
+                    #Make this conditional a function
                     elif len(string) > width:
-                        #this is breaking indentation
-                        #FIND IT!!!!!
-                        # .....Found it.. yay
                         lines = textwrap.wrap(string, width)
                         new_string = ''
                         for l in lines:
@@ -362,7 +436,7 @@ class PyNotes:
                                 new_string += l + \
                                               '\n' + \
                                               pretext[:-lenI] + \
-                                              ' '
+                                              '  '
 
                         string = new_string
                             
@@ -372,21 +446,28 @@ class PyNotes:
                     for k in key_commands:
                         if string == k:
                             key_match -= 1
+                            
                     if key_match < 3:
                         t += ''
+
+                    #finalizes text variable "t"
                     else:
-                        if len(string) > width:
+                        if string == '':
+                            t += '\n'   #blank lines will be blank, not bullets
+                            last_string = '\n'
+                        elif len(string) > width:
                             t += pretext + string
+                            last_string = pretext + string
                         else:
                             t += pretext + string + '\n'
+                            last_string = pretext + string + '\n'
 
-                    
+                #Break Loop    
                 except KeyboardInterrupt:
                     break
                     
             else:
                 t += 'SYSTEM\t'+message+'\n'
-
 
 
         #This shows the time of the last save,
@@ -438,6 +519,130 @@ class PyNotes:
             print(c)
 
 
+    def VersionLog(self):
+        print('''
+        All indenting and bullet point editing will be
+        done and implemented in the GUI version of
+        PyNotes, expected to be in version v1.
+
+        since the program uses textwrap, which reads and
+        edits the text that was inputed...
+        use that ability to do bulletpoints/indentation
+
+        this above statement has been officially completed
+        as of version 0.1.08.
+
+
+        ##replace last index[-1] with [-(len(bp))]
+
+        ##implement code key_command, for code input
+            this will have no bullet points
+            indents will be either 2 or 4
+            textwrap will be turned off
+
+        ##add subtitle key_command
+
+        pySlideShow
+            clear screen for each slide
+            include margins/borders
+            -text version
+            -PySlides is pygame version
+
+        ##Shorten the read text
+            make it in the  past 50 lines
+            or in the past 300 characters
+            ##or since the last TIMESTAMPSTR
+
+        ##put the timestampstr at before rest of text
+
+        ##Make a new file for the outline.
+            this will use the bp pretty much.
+            import the new data class, and
+            modify so:
+                class outliner(data):
+                    def EditFile() #this is only
+                                   #thing changed
+
+        ##needs modify previous lines
+            erase lines..
+            maybe not break on input.........
+                This can cause a TON of problems..
+                if it is even possible in the first place
+
+        ##Add SideNote Capability
+            if there is something not related to the topic
+
+        #<REVISIT> Implement a Highlight Mode(
+            It would make the object more noticible
+            try to use fonts or abstract characters
+            try using Colorama
+                (only works in system console)
+
+            Use Error Text Colors, special colors.
+                needs to make a custom font for this
+
+            #use <>[]{}()//\\||(make tags)
+
+        0.3.02(incomplete)
+        AUTOSAVE
+            an autosave feature to pretty much run the
+            editfile function multiple times.
+                editFile(inloop=False):
+                    ...
+                    editFile(inloop=True)
+                    ...
+
+        Implement Search feature
+            display all TITLELINEs
+            add tags
+            allow the user to search for a title/tags
+            
+
+        Look into Ipython/jupyter
+        
+        ###Custom Made Warning    
+        import warnings as w
+        >>> w.showwarning("message", Warning, "mod", 21)
+
+
+
+        Add a spell checker feature
+            This will be able to edit everything up to
+            the top
+            Use a text file for reference, maybe one for
+            each topic or study.
+                place a text file in the corresponding
+                subject
+
+        <<<This should be implemented as soon as possible>>>
+        ##Add a command to entirely delete the above line
+            make it easy not to mistake it, or call it
+            accidentally
+        look for a bullet point, so that other lines
+        can be deleted
+
+
+        Create a few custom errors for more specific
+            error handling
+            predefined variables in function
+                bullet point, save
+
+
+        TextWrap Function
+        Hightlight and sidenote are pretty much identical.
+            Make it a function, maybe with the textwrap
+            function.
+
+        0.3.03
+        Allow subtitle to be indented
+            
+        add a numbered bullet point function
+            input number of bullets
+            
+                     
+        ''')
+
+
     def help(self):
         print('''
 
@@ -475,6 +680,14 @@ class PyNotes:
         -Lists all folders and files in the current
         directory.
 
+        search()
+        -Searches through a file for keywords, and
+        displays results. The user may display the
+        line of the text file. This works for date
+        and title lines, as in the range of the text.
+        WIP-- It will include only the text with a
+        higher indent level under the selected line.
+
         help()
         -Displays this text...
 
@@ -487,7 +700,8 @@ class PyNotes:
                'Current path: ' + str(self.path) + '\n' +\
                'Time Stamp: ' +\
                str(self.InitializeTimeStamp) + '\n' +\
-               'Version: v' + str(self.version) + '\n'
+               'Version: v' + str(self.version) + '\n' +\
+               'Version Log: ' + '\n'
                
         
 
@@ -527,7 +741,7 @@ def startUp():
             print()
         print("""
         --------------------
-        Welcome to PyNotes V0.2.16
+        Welcome to PyNotes V0.3.03
         
         This program is used to take notes
         and save them to a simple text document
@@ -552,9 +766,7 @@ def startUp():
 
 
 startUp()
-FileManager = PyNotes()
-#(You can rename filemanager to a shorter variable,
-# I use the variable 'a')
+a = PyNotes()
 
 
 #This is only if you have subdirectories in your files
@@ -562,16 +774,17 @@ FileManager = PyNotes()
 
 def quickstart(path, system=False, file=None):
     global a
+    
+    a = PyNotes()
+    a.cd()
+    a.cd('Files')
+    a.cd(path)
     if not system:
-        a = PyNotes()
-        a.cd('Files')
-        a.cd(path)
-    else:
-        a = PyNotes()
-        a.cd('Files')
-        a.cd(path)
-        a.sf(file)
-        a.EditFile()
+        pass
+    if system:
+        #this is reading it twice
+        a.sf(file, show_text=False) #this fixes it
+        a.EditFile() 
     
 
 def notes():
@@ -581,103 +794,71 @@ def notes():
     day = time.asctime()[:3]
     hour = time.asctime()[11:13]
     minute = time.asctime()[14:16]
+    str_time = time.asctime()[11:16]
+    
+    day = day.lower()
     hour = int(hour)
     minute = int(minute)
+
+
+    def convert_time(time='08:00'):
+        time_hour = int(time[0:2])
+        time_min = int(time[3:])
+
+        minutes = 0
+        minutes += (time_hour * 60) + time_min
+
+        return minutes
+        
 
     def is_in_time(days=['mon', 'wed', 'fri'],
                    starttime='08:00',
                    endtime='08:50',
                    minutes_before_start=30):
-        pass
         
+        start_minutes = convert_time(starttime)
+        current_minutes = convert_time(str_time)
+        end_minutes = convert_time(endtime)
+        
+        for d in days:
+            if day == d:
+                if current_minutes >= (start_minutes - minutes_before_start) and \
+                   current_minutes <= end_minutes:
+                    return True
+                else:
+                    return False
 
     #classes
+    SOCL = False
     CSCI = False
-    PSYC = False
-    MUST = False
     WRIT = False
-    
-    #Computer Science / Psychology
-    if day.lower() == 'tue' or day.lower() == 'thu':
-##        if (int(hour) >= 12 and int(minute) >= 15) and \
-##           (int(hour) <= 13 and int(minute) <= 50):
-##            #csci
-##            quickstart('CSCI', True, 'csci207_notes01.txt')
-        # Computer Science
-        if int(hour) >= 12 and int(hour) <= 13:
-            if hour == 12:
-                if minute >= 15 and minute <= 59:
-                    CSCI = True
-            if hour == 13:
-                if minute >= 00 and minute <= 45:
-                    CSCI = True
+    MCOM = False
 
-        # Psychology
-        if int(hour) >= 16 and int(hour) <= 18:
-            if hour == 16:
-                if minute >= 45 and minute <= 59:
-                    PSYC = True
-            if hour == 17:
-                if minute >= 00 and minute <= 59:
-                    PSYC = True
-            if hour == 18:
-                if minute >= 00 and minute <= 15:
-                    PSYC = True
-        
-                
-            
-                    
-##        elif ((int(hour) == 16 and int(minute) >= 45) or \
-##             (int(hour) >= 17 and int(minute) >= 00)) and \
-##             (int(hour) <= 18 and int(minute) <= 15):
-##            #psyc
-##            pass
-    elif day.lower() == 'mon' or \
-         day.lower() == 'wed' or \
-         day.lower() == 'fri':
-        
-        if int(hour) >= 7 and int(hour) <= 8:
-            if hour == 7:
-                if minute >= 45 and minute <= 59:
-                    WRIT = True
-            if hour == 8:
-                if minute >= 00 and minute <= 50:
-                    WRIT = True
-        
-##        if ((int(hour) >= 7 and int(minute) >= 50) and \
-##            (int(hour) <= 8 and int(minute) <= 50)):
-##            #writ
-##            pass
-        elif day.lower() == 'mon' and \
-             day.lower() != 'wed' and \
-             day.lower() != 'fri':
-            if int(hour) >= 16 and int(hour) <= 19:
-                if hour == 16:
-                    if minute >= 45 and minute <= 59:
-                        MUST = True
-                if hour == 17 or \
-                   hour == 18:
-                    if minute >= 00 and minute <= 59:
-                        MUST = True
-                if hour == 19:
-                    if minute >= 00 and minute <= 45:
-                        MUST = True
-##            if ((int(hour) >= 16 and int(minute) >= 45) and \
-##                (int(hour) <= 21 and int(minute) <= 50)):
-##                #must
-##                pass
+    #Sociology
+    if is_in_time(['mon', 'wed', 'fri'],'10:00','10:50',30):
+        SOCL = True
+    #Computer Science Excel
+    elif is_in_time(['mon', 'wed'],'17:00','18:15',30):
+        CSCI = True
+    #Writing
+    elif is_in_time(['mon', 'wed'],'18:30','19:45',10):
+        WRIT = True
+    #MCOM
+    elif is_in_time(['tue', 'thu'],'15:30','16:45',30):
+        MCOM = True
 
     #Start Notes
-    if CSCI:
-        quickstart('CSCI', True, 'csci207_notes01.txt')
-    elif PSYC:
-        quickstart('PSYC', True, 'PsychologyNotes_01.txt')
+    if SOCL:
+        quickstart('SOCL', True, 'SociologyNotes.txt')
+    elif CSCI:
+        quickstart('CSCI', True, 'excel.txt')
     elif WRIT:
-        quickstart('WRIT', True, 'Writ notes 2.txt')
-    elif MUST:
-        quickstart('MUST', True, 'Music_appr.txt')
+        quickstart('WRIT', True, 'SpringSemesterNotes.txt')
+    elif MCOM:
+        quickstart('MCOM', True, 'MCOM_notes 01.txt')
     else:
-        print("NOT VALID CLASS TIME")
+        print("you are not in class right now.")
+        print("use: quickstart(path) to see notes.")
         #turn this into a raise error, possibly
         
 

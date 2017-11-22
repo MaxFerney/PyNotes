@@ -1,7 +1,7 @@
 #Author: Max Ferney
 #Date Created: 8.12.2015
-#Date Modified: 11.04.2015
-#Version: 0.2.16
+#Date Modified: 11.17.2015
+#Version: 0.2.17
 #Description: Organize and take notes with PyNotes!
 
 
@@ -28,7 +28,8 @@ class PyNotes:
     cpaths = []
     cfiles = []
     InitializeTimeStamp = None
-    version = '0.2.16'
+    version = '0.2.17'
+    lastIndex = 0
     
     text = ""
 
@@ -59,9 +60,12 @@ class PyNotes:
         for c in os.walk(path).__next__()[2]:
             self.cfiles.append(c)
 
-    def readF(self, AllLines=True, sts=False, lines=200):
+    def readF(self, sts=False, Display=True):
         #sts = Since Time Stamp
         text = self.text
+
+        AllLines=True
+        lines=200
         
         if self.FileName == None:
             print("[ERROR: NO FILE SELECTED]")
@@ -90,12 +94,17 @@ class PyNotes:
                 lastIndex = text.rfind('TIMESTAMPSTR')
                 
             DisplayText = text[lastIndex:]
+            
+            if Display:
+                # \t is for tab before timest
+                print('\t', end='')
+            
         else:
             DisplayText = self.text
 
-        # \t is for tab
-        print('\t', end='')
-        print(DisplayText)
+        self.text = DisplayText
+        if Display:
+            print(DisplayText)
 
     def sf(self, file):
         self.UPL()
@@ -114,6 +123,28 @@ class PyNotes:
         self.path = os.path.join(self.cwd)
         #self.InitSettings()
 
+    def search(self):
+##        keywords = []
+##        print('Input Keywords. type \'done\' when you are finished')
+##        ask = ''
+##        while ask != 'done':
+##            ask = input()
+        string_type = input('keyword type (title, subtitle, WIP(time)): ')
+        keyword = input('Keyword: ')
+        max_chr = int(input('max characters: '))
+        self.readF(Display=False)
+##        if string_type == '':
+        keyword_index = self.text.find(keyword, self.lastIndex)
+        self.lastIndex = keyword_index
+        
+        substring = ''
+        for c in range(self.lastIndex, self.lastIndex+max_chr):
+            substring += self.text[c]
+
+        print(substring)
+        self.lastIndex += 1
+            
+    
     def NewFile(self, name, TITLE=' ', Type='txt'):
         file = name + "." + Type
         dateCreated = time.asctime()
@@ -124,7 +155,7 @@ class PyNotes:
             f.write('\t[Title: ' + TITLE + ']\n')
         f.close()
 
-    def EditFile(self, file='', system=False, message=""):
+    def EditFile(self, file='', InLoop=False, system=False, message=""):
         #use line numbers in text to go back and edit line
         #will be used with index
         if len(file)>0:
@@ -142,7 +173,6 @@ class PyNotes:
             bp = int(bp)
             bp = chr(bp)
         except ValueError:
-            bp = str(bp)
             bp = str(bp)
         SaveText = str(input('type(y/n) for TimeStamp text: ')) #controls if last save text is turned on
         savebool = True
@@ -207,8 +237,34 @@ class PyNotes:
 
         Implement a Highlight Mode
             It would make the object more noticible
-            try to use fonts or abstract characters            
+            try to use fonts or abstract characters
+            try using Colorama
+                (only works in system console)
+
+            Use Error Text Colors, special colors.
+                needs to make a custom font for this
+
+            use <>[]{}()//\\||(make tags)
+
+        AUTOSAVE
+            an autosave feature to pretty much run the
+            editfile function multiple times.
+                editFile(inloop=False):
+                    ...
+                    editFile(inloop=True)
+                    ...
+
+        Implement Search feature
+            display all TITLELINEs
+            add tags
+            allow the user to search for a title/tags
+            
+
+        Look into Ipython/jupyter
         
+        ###Custom Made Warning    
+        import warnings as w
+        >>> w.showwarning("message", Warning, "mod", 21)
                     
         '''
         
@@ -223,7 +279,7 @@ class PyNotes:
                             '<--', 'CHBP',
                             'TITLELINE', 'SUBTITLE',
                             'CODEMODE', 'CODEEXIT',
-                            'BULLETS']
+                            'BULLETS', 'SIDENOTE']
 
 ##            user_errors = ['--.', '-..'
 ##                           ',__', '__.']
@@ -295,7 +351,7 @@ class PyNotes:
                         break
                         
                     elif string == '-->' or string == '--->':
-                        spaces = ' '
+                        spaces = '  '
                         for i in range(lenI):
                             spaces += ' '
                         pretext = spaces + pretext
@@ -304,7 +360,7 @@ class PyNotes:
 
                     elif string == '<--' or string == '<---':
                         if ind_lvl > 0:
-                            pretext = pretext[lenI+1:]
+                            pretext = pretext[lenI+2:]
                             ind_lvl -= 1
                             width += len(spaces) #2
 
@@ -324,6 +380,7 @@ class PyNotes:
                         pretext = ''
                         string2 = input('input title: ')
                         string = "--[" + string2 + "]--"
+                        print(string)
                     elif string == 'SUBTITLE':
                         ind_lvl = 0
                         pretext = ''
@@ -335,7 +392,7 @@ class PyNotes:
                         pretext = '  '
                         Coding = True
                         savedBp = bp
-                        bp = ''
+                        bp = '  '
                     elif string == 'CODEEXIT':
                         Coding = False
                         pretext = ''
@@ -343,6 +400,9 @@ class PyNotes:
                         
                     elif string == 'BULLETS':
                         specialPoints()
+
+                    elif string == 'SIDENOTE':
+                        pass
 
                     
 
@@ -362,7 +422,7 @@ class PyNotes:
                                 new_string += l + \
                                               '\n' + \
                                               pretext[:-lenI] + \
-                                              ' '
+                                              '  '
 
                         string = new_string
                             
@@ -372,10 +432,15 @@ class PyNotes:
                     for k in key_commands:
                         if string == k:
                             key_match -= 1
+                            
                     if key_match < 3:
                         t += ''
+
+                    #finalizes text variable "t"
                     else:
-                        if len(string) > width:
+                        if string == '':
+                            t += '\n'   #blank lines will be blank, not bullets
+                        elif len(string) > width:
                             t += pretext + string
                         else:
                             t += pretext + string + '\n'
@@ -475,6 +540,14 @@ class PyNotes:
         -Lists all folders and files in the current
         directory.
 
+        search()
+        -Searches through a file for keywords, and
+        displays results. The user may display the
+        line of the text file. This works for date
+        and title lines, as in the range of the text.
+        WIP-- It will include only the text with a
+        higher indent level under the selected line.
+
         help()
         -Displays this text...
 
@@ -527,7 +600,7 @@ def startUp():
             print()
         print("""
         --------------------
-        Welcome to PyNotes V0.2.16
+        Welcome to PyNotes V0.2.17
         
         This program is used to take notes
         and save them to a simple text document
@@ -562,14 +635,13 @@ FileManager = PyNotes()
 
 def quickstart(path, system=False, file=None):
     global a
+    a = PyNotes()
+    a.cd()
+    a.cd('Files')
+    a.cd(path)
     if not system:
-        a = PyNotes()
-        a.cd('Files')
-        a.cd(path)
-    else:
-        a = PyNotes()
-        a.cd('Files')
-        a.cd(path)
+        pass
+    if system:
         a.sf(file)
         a.EditFile()
     
@@ -581,91 +653,113 @@ def notes():
     day = time.asctime()[:3]
     hour = time.asctime()[11:13]
     minute = time.asctime()[14:16]
+    str_time = time.asctime()[11:16]
+    
+    day = day.lower()
     hour = int(hour)
     minute = int(minute)
+
+
+    def convert_time(time='08:00'):
+        time_hour = int(time[0:2])
+        time_min = int(time[3:])
+
+        minutes = 0
+        minutes += (time_hour * 60) + time_min
+
+        return minutes
+        
 
     def is_in_time(days=['mon', 'wed', 'fri'],
                    starttime='08:00',
                    endtime='08:50',
                    minutes_before_start=30):
-        pass
         
+        start_minutes = convert_time(starttime)
+        current_minutes = convert_time(str_time)
+        end_minutes = convert_time(endtime)
+        
+        for d in days:
+            if day == d:
+                if current_minutes >= (start_minutes - minutes_before_start) and \
+                   current_minutes <= end_minutes:
+                    return True
+                else:
+                    return False
 
     #classes
     CSCI = False
     PSYC = False
     MUST = False
     WRIT = False
+
+    #Writing
+    if is_in_time(['mon', 'wed', 'fri'],'08:00','08:50',30):
+        WRIT = True
+    #Music Appreciation
+    elif is_in_time(['mon'],'17:00','19:45',30):
+        MUST = True
+    #Computer Science
+    elif is_in_time(['tue', 'thu'],'12:30','13:45',30):
+        CSCI = True
+    elif is_in_time(['tue', 'thu'],'15:00','16:30',30):
+        CSCI = True
+    #Psychology
+    elif is_in_time(['tue', 'thu'],'17:00','18:15',15):
+        PSYC = True
+
+    
     
     #Computer Science / Psychology
-    if day.lower() == 'tue' or day.lower() == 'thu':
-##        if (int(hour) >= 12 and int(minute) >= 15) and \
-##           (int(hour) <= 13 and int(minute) <= 50):
-##            #csci
-##            quickstart('CSCI', True, 'csci207_notes01.txt')
-        # Computer Science
-        if int(hour) >= 12 and int(hour) <= 13:
-            if hour == 12:
-                if minute >= 15 and minute <= 59:
-                    CSCI = True
-            if hour == 13:
-                if minute >= 00 and minute <= 45:
-                    CSCI = True
-
-        # Psychology
-        if int(hour) >= 16 and int(hour) <= 18:
-            if hour == 16:
-                if minute >= 45 and minute <= 59:
-                    PSYC = True
-            if hour == 17:
-                if minute >= 00 and minute <= 59:
-                    PSYC = True
-            if hour == 18:
-                if minute >= 00 and minute <= 15:
-                    PSYC = True
-        
-                
-            
-                    
-##        elif ((int(hour) == 16 and int(minute) >= 45) or \
-##             (int(hour) >= 17 and int(minute) >= 00)) and \
-##             (int(hour) <= 18 and int(minute) <= 15):
-##            #psyc
-##            pass
-    elif day.lower() == 'mon' or \
-         day.lower() == 'wed' or \
-         day.lower() == 'fri':
-        
-        if int(hour) >= 7 and int(hour) <= 8:
-            if hour == 7:
-                if minute >= 45 and minute <= 59:
-                    WRIT = True
-            if hour == 8:
-                if minute >= 00 and minute <= 50:
-                    WRIT = True
-        
-##        if ((int(hour) >= 7 and int(minute) >= 50) and \
-##            (int(hour) <= 8 and int(minute) <= 50)):
-##            #writ
-##            pass
-        elif day.lower() == 'mon' and \
-             day.lower() != 'wed' and \
-             day.lower() != 'fri':
-            if int(hour) >= 16 and int(hour) <= 19:
-                if hour == 16:
-                    if minute >= 45 and minute <= 59:
-                        MUST = True
-                if hour == 17 or \
-                   hour == 18:
-                    if minute >= 00 and minute <= 59:
-                        MUST = True
-                if hour == 19:
-                    if minute >= 00 and minute <= 45:
-                        MUST = True
-##            if ((int(hour) >= 16 and int(minute) >= 45) and \
-##                (int(hour) <= 21 and int(minute) <= 50)):
-##                #must
-##                pass
+##    if day.lower() == 'tue' or day.lower() == 'thu':
+##        
+##        # Computer Science
+##        if int(hour) >= 12 and int(hour) <= 13:
+##            if hour == 12:
+##                if minute >= 15 and minute <= 59:
+##                    CSCI = True
+##            if hour == 13:
+##                if minute >= 00 and minute <= 45:
+##                    CSCI = True
+##
+##        # Psychology
+##        if int(hour) >= 16 and int(hour) <= 18:
+##            if hour == 16:
+##                if minute >= 45 and minute <= 59:
+##                    PSYC = True
+##            if hour == 17:
+##                if minute >= 00 and minute <= 59:
+##                    PSYC = True
+##            if hour == 18:
+##                if minute >= 00 and minute <= 15:
+##                    PSYC = True
+##
+##    elif day.lower() == 'mon' or \
+##         day.lower() == 'wed' or \
+##         day.lower() == 'fri':
+##        
+##        if int(hour) >= 7 and int(hour) <= 8:
+##            if hour == 7:
+##                if minute >= 45 and minute <= 59:
+##                    WRIT = True
+##            if hour == 8:
+##                if minute >= 00 and minute <= 50:
+##                    WRIT = True
+##        
+##        elif day.lower() == 'mon' and \
+##             day.lower() != 'wed' and \
+##             day.lower() != 'fri':
+##            if int(hour) >= 16 and int(hour) <= 19:
+##                if hour == 16:
+##                    if minute >= 45 and minute <= 59:
+##                        MUST = True
+##                if hour == 17 or \
+##                   hour == 18:
+##                    if minute >= 00 and minute <= 59:
+##                        MUST = True
+##                if hour == 19:
+##                    if minute >= 00 and minute <= 45:
+##                        MUST = True
 
     #Start Notes
     if CSCI:
@@ -677,7 +771,8 @@ def notes():
     elif MUST:
         quickstart('MUST', True, 'Music_appr.txt')
     else:
-        print("NOT VALID CLASS TIME")
+        print("you are not in class right now.")
+        print("use: quickstart(path) to see notes.")
         #turn this into a raise error, possibly
         
 

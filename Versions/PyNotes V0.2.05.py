@@ -124,6 +124,7 @@ class Data():
             savebool = False
         width = 55
         lenI = 1
+        Coding = False
         
         '''
         All indenting and bullet point editing will be
@@ -141,12 +142,12 @@ class Data():
 
         replace last index[-1] with [-(len(bp))]
 
-        implement code key_command, for code input
+        ##implement code key_command, for code input
             this will have no bullet points
             indents will be either 2 or 4
             textwrap will be turned off
 
-        add subtitle key_command
+        ##add subtitle key_command
 
         pySlideShow
             clear screen for each slide
@@ -162,7 +163,8 @@ class Data():
             ind_lvl = 0
             key_commands = ['done', '-->',
                             '<--', 'ChBp',
-                            'TITLELINE', 'SUBTITLE']
+                            'TITLELINE', 'SUBTITLE',
+                            'CODEMODE', 'CODEEXIT']
             print("""
                 to end input: type 'done' or press Ctrl+c
                 to indent: type '-->'
@@ -170,6 +172,9 @@ class Data():
                 to make title line: type 'TITLELINE'
                 to make subtitle line: type 'SUBTITLE'
                 to change the bullet point: type 'ChBp'
+                to enter Code Input: type 'CODEMODE'
+                to exit Code Input: Type 'CODEEXIT'
+                
             """)
             while 1:
                 
@@ -212,6 +217,17 @@ class Data():
                         pretext = ''
                         string2 = input('input subtitle:')
                         string = "[" + string2 + "]"
+
+                    elif string == 'CODEMODE':
+                        ind_lvl = 0
+                        pretext = ' '
+                        Coding = True
+                        savedBp = bp
+                        bp = ''
+                    elif string == 'CODEEXIT':
+                        Coding = False
+                        pretext = ''
+                        bp = savedBp
 
                     elif len(string) > width:
                         #this is breaking indentation
