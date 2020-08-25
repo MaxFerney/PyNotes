@@ -1,9 +1,9 @@
 #Author: Max Ferney
 #Date Created: 8.12.2015
-#Date Modified: 1.14.2019
-#Version: 0.5.05
+#Date Modified: 1.7.2019
+#Version: 0.5.04
 #Description: Organize and take notes with PyNotes!
-#Bugs: 2
+#Bugs: 3
 
 
 #imports
@@ -25,13 +25,13 @@ ORIGINAL_CWD = os.getcwd()
 #classes
 class PyNotes:
     FileName=None
-    MainCwd = 'C:\\Users\\ferne\\documents\\Python\\PyNotes'
+    MainCwd = 'C:\\Users\\lisaf_000\\Desktop\\Python\\PyNotes'
     cwd = None
     path = None
     cpaths = []
     cfiles = []
     InitializeTimeStamp = None
-    version = '0.5.05'
+    version = '0.5.04'
     lastIndex = 0
     previousIndex = 0
     last_indented_line = 0
@@ -416,7 +416,6 @@ class PyNotes:
                     string = tagstart + tagstart + \
                              ' ' + note + ' ' + \
                              tagend + tagend
-                #Not double function
                 else:
                     string = tagstart + \
                              '' + note + '' + \
@@ -1075,7 +1074,9 @@ class PyNotes:
                     value error. Now it doesnt, but it's a
                     bit glitchy without it.
 
-            
+            09  Header
+                    indenting directly after using header function
+                    does not work if current indent level is 0
 
             
 
@@ -1389,25 +1390,12 @@ class PyNotes:
 
         0.5.04
         -Updated for Spring 2019
+        
 
-        0.5.04.1
-        -Attempt to move PyNotes to its own, import it
-         through another programe.
-            -Other program will have schedule and focus more
-             on user customization.
-        -This will allow updates to the schedule separate
-         from the actual development, therefore less
-         version progression.
 
-        0.5.05
-        PyNotes:
-        -Now in a main file
-            -main V1.0.0
-            -This file will be used for keeping schedule
-             updated since PyNotes progression has slowed
-            -Main File will only be used for the schedule
-             therefore any problems that occur in the
-             files will be kept separately.
+            
+            
+
 
 
 
@@ -1442,9 +1430,14 @@ class PyNotes:
         0.2.04
         -File/pdf opener? tkinter project perhaps
 
-        
-
-        
+        0.2.04.1
+        -Attempt to move PyNotes to its own, import it
+         through another programe.
+            -Other program will have schedule and focus more
+             on user customization.
+        -This will allow updates to the schedule separate
+         from the actual development, therefore less
+         version progression.
         
         
         
@@ -1557,7 +1550,7 @@ class PyNotes:
 
         
 
-'''
+
 #functions
 def UFL(folder="Files\\"):
     global files
@@ -1590,7 +1583,7 @@ def startUp():
             print()
         print("""
         --------------------
-        Welcome to PyNotes V0.5.05
+        Welcome to PyNotes V0.5.04
         
         This program is used to take notes
         and save them to a simple text document
@@ -1719,4 +1712,4 @@ def convert_to_min(time_string):
 def clear(lines=30):
     for i in range(lines):print()
 
-'''
+

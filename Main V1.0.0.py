@@ -1,6 +1,6 @@
 #Author: Max Ferney
 #Date Created: 1.14.2019
-#Date Modified: 1.14.2019
+#Date Modified: 8.21.2019
 #Version: 1.0.0
 #Description: Using the PyNotes class, this program mostly
 #               uses a schedule function. Rather than
@@ -144,21 +144,14 @@ def notes():
     #classes
 
     #Computer Science
-    if is_in_time(['tue', 'thu'],'09:30','10:45',15):
-        quickstart('CSCI', True, 'csci_243.txt', '10:45')
+    if is_in_time(['mon', 'wed'],'12:30','13:45',15):
+        quickstart('CSCI', True, 'csci441.txt', '13:45')
+    #Algorithms
+    elif is_in_time(['tue', 'thu', 'fri'],'12:30','13:45',15):
+        quickstart('CSCI', True, 'csci271.txt', '13:45')
     #Digital Information Design
-    elif is_in_time(['tue','thu'],'12:30','14:20',15):
-        quickstart('DIFD', True, 'difd_311.txt', '14:20')
-    #Geology Lecture
-    elif is_in_time(['mon', 'wed'],'12:30','13:45',10):
-        quickstart('GEOL', True, 'geol_110.txt', '13:45')
-    #Geology Lab
-    elif is_in_time(['wed'],'14:30','17:20',10):
-        quickstart('GEOL', True, 'geol_113.txt', '17:20')
-    #Visual Communications
-    elif is_in_time(['mon','wed'],'18:30','21:15',20):
-        quickstart('VCOM', True, 'vcom_262.txt', '21:15')
-
+    elif is_in_time(['tue', 'thu'],'15:30','16:45',15):
+        quickstart('DIFD', True, 'difd322.txt', '16:45')
     else:
         print("you are not in class right now.")
         print("use: quickstart(path) to see notes.")

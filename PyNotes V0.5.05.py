@@ -1,6 +1,6 @@
 #Author: Max Ferney
 #Date Created: 8.12.2015
-#Date Modified: 1.14.2019
+#Date Modified: 1.7.2019
 #Version: 0.5.05
 #Description: Organize and take notes with PyNotes!
 #Bugs: 2
@@ -25,7 +25,7 @@ ORIGINAL_CWD = os.getcwd()
 #classes
 class PyNotes:
     FileName=None
-    MainCwd = 'C:\\Users\\ferne\\documents\\Python\\PyNotes'
+    MainCwd = 'C:\\Users\\lisaf_000\\Desktop\\Python\\PyNotes'
     cwd = None
     path = None
     cpaths = []
@@ -416,7 +416,6 @@ class PyNotes:
                     string = tagstart + tagstart + \
                              ' ' + note + ' ' + \
                              tagend + tagend
-                #Not double function
                 else:
                     string = tagstart + \
                              '' + note + '' + \
@@ -1403,11 +1402,12 @@ class PyNotes:
         PyNotes:
         -Now in a main file
             -main V1.0.0
-            -This file will be used for keeping schedule
-             updated since PyNotes progression has slowed
-            -Main File will only be used for the schedule
-             therefore any problems that occur in the
-             files will be kept separately.
+        
+
+
+            
+            
+
 
 
 
