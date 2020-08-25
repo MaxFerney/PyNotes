@@ -1,0 +1,1069 @@
+
+===========================================================
+	[FILE: Csci207.txt]
+	[DATE CREATED: Thu Dec 15 15:50:49 2016]
+	[Title: Introduction to Computer Science C++]
+
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	TIMESTAMPSTR:  Tue Jan 10 12:23:45 2017 
+	Last Save:     Tue Jan 10 12:23:47 2017 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+--[Chapter 1]--
+   -Problem Difinition
+   -Requirements
+   -Specifications
+      -what?
+   -Design
+      -how?
+      -psudocode
+      -language independent
+   -Implementation
+   -Test
+   -Delivery
+   -Maintenance
+
+
+   -Algorithm
+      -set of instructions
+      -flowcharts
+      -Pseudocode
+         -combination of english and syntax for a set of
+           instructions
+         -ie:
+            -prompt user for input
+            -validate input
+            -output number
+            -if (number < 100)
+               -output "less"
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	TIMESTAMPSTR:  Tue Jan 17 12:17:25 2017 
+	Last Save:     Tue Jan 17 12:17:28 2017 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+--[Chapter 2: C++ Basics]--
+
+   [Variables and Data Types]
+      int
+      double
+      float
+      char
+      string
+      bool
+
+      integer
+      double/float
+         fixed point notation
+         decimals
+         double is twice the size of a float
+      char
+         one single character only
+         ''
+         'a', '1', '2', '\n'
+      boolean
+         true or false
+      String
+         NOT built in to c++ normally
+         array of characters
+         contained in ""
+         "hello world"
+         "a"
+         not built into c, but they are built into c++
+           using arrays
+
+         REQUIRES header file
+         #include <string>
+   these datatypes are used to create variables to
+     represent what we need to do in our program
+
+
+   [Variables]
+      like a locker
+      memory addresses used to store items
+      they can only store ONE thing
+      must first assign the variable
+
+      give it a type and a name
+         any of the above data types
+         name is what you come up with
+  int length;
+  int width;
+  int area;
+
+  length = 4;
+  width = 5;
+  area = length * width;
+      int length; <- declaring a variable
+      can declare multiple variables of the same type
+         on the same line, separate with ',' end with
+           ';'
+      int area = length * width;
+         valid because length and width have int
+           variables assigned to them and have been
+           initialized/declared
+      naming conventions of variables
+      can use CamelCase or underscore_variables
+         its personal preference
+
+  int main()
+  {
+      int sum;
+      ...
+      sum = score1+score2;
+      ...
+      return 0;
+  }
+      to make a variable that the programmer or program
+        cannot change later on is the keyword
+         constant
+
+  const int LENGTH = 48;
+   if trying to declare later, then compile error
+     because trying to change the value of a constant
+     variable
+  double number = 2;
+      //this will make it 2.0 as the variable
+
+   [input and output]
+
+      datastream is a sequence of data
+      input stream is for the program to use
+      output stream is the programs output
+
+
+  #include <iostream>
+  using namespace std;
+  int main()
+  {
+      int length,width,area;
+      cout<<"input length: ";
+      cin>>length;
+      cout<<"input width: ";
+      cin>>width;
+      area=length*width;
+      cout<<"Area="<<area;
+      return 0;
+  }
+
+  //can do this for inputs as well
+  cout<<"input length and width";
+  cin>>length>>width
+  //would be separated in input with space or enter
+can do cout<<endl;
+can do cout<<"\n";
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	TIMESTAMPSTR:  Thu Jan 19 12:18:26 2017 
+	Last Save:     Thu Jan 19 12:18:29 2017 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+--[Flow of Control]--
+
+   flow of control
+      order that statements are executed
+   branch
+      lets program choose between two alternatives
+
+   student has hold on account...can not register
+      prompt student if they have hold on an account
+      if student has hold on account
+         student cannot register for class, set
+           register variable to false
+      else (if student has no holds on their account)
+         allow student to register
+
+   [Syntax]
+  if (condition true):
+  {
+
+  }
+  else
+  {
+
+  }
+
+
+      ==
+      !=
+      <=
+      >=
+      braces not required if there is only one line of
+        output code
+  int main()
+  {
+      bool hold;
+      if (hold==true)
+          cout<<"Hold on account. You may not
+          register"<<endl;
+      else
+          cout<<"No hold on account. You may
+          register"<<endl;
+      return 0;
+  }
+
+
+   [Loops]
+
+      needs stopping point
+      closer to #1 with each iteration
+      while and do-while loop
+      counters
+         x=x+1
+         x+=1
+         x++
+         ^^^^^^^^^^
+         these are all valid counters
+         int x=5
+         cout<<x++<<endl;
+         cout<<x
+            this will return 5 then 6
+         another counter is ++x
+      while and do while
+  #include <iostream>
+  using namespace std;
+
+  int main()
+  {
+      int counter=0;
+      char student = 'y';
+
+      while (student=='y')
+      {
+          cout<<"new student. type 'y' or
+          'n'."<<endl;
+          cin>>student
+          counter++
+      }
+      cout<<"Total number of students:
+      "<<counter<<endl;
+      return 0;
+  }
+      loops
+      while loop
+  while (conditional)
+  {
+      code...
+  }
+      with a while loop, there is no guarentee that the
+        loop will be entered.
+      Do while loop, guarentees that the loop will be
+        execuded atleast once
+  do
+  {
+      code...
+  } while (conditional);
+   if statements
+
+      can do multiple booleans
+  if ( (cond 1) && (cond 2) )
+  if ( (class==1) && (gender=='f') )
+  {}
+   and = &&
+   or  = ||
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	TIMESTAMPSTR:  Thu Jan 26 12:37:06 2017 
+	Last Save:     Thu Jan 26 12:37:08 2017 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+Multiway Nested Statements
+   <_
+   example
+  //prompt user to input 10 grades and class
+  //check if passing (70+)
+      //track by class
+  //output freshman through seniors who are passing
+
+  #include <iostream>
+  using namespace std;
+
+  int main()
+  {
+      int fresh, soph, jun, sen;
+      int count = 0;
+      int class_level;
+      while(count<10)
+      {
+          cout<<"input grade and class (1-4)"<<endl;
+          cin>>grade>>class_level;
+          if(grade>=70)
+          {
+              if(class_level==1)
+                  fresh++;
+              if(class_level==2)
+                  soph++;
+              if(class_level==3)
+                  jun++;
+              if(class_level==4)
+                  sen++;
+              else
+              {
+                  cout<<"not a valid entry"<<endl;
+                  count-=1;
+              }
+          }
+          count++;
+      }
+      cout<<"Freshman: "<<fresh<<endl;
+      cout<<"Sophomores: "<<soph<<endl;
+      cout<<"Juniors: "<<jun<<endl;
+      cout<<"Seniors: "<<sen<<endl;
+      return 0;
+  }
+Multiway branch
+   if
+   else if
+   else if
+   else if
+   else
+
+   else if is more efficient
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	TIMESTAMPSTR:  Tue Jan 31 12:52:33 2017 
+	Last Save:     Tue Jan 31 12:52:36 2017 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+
+
+--[Switch Statements and For Loops]--
+   [Switch Statement]
+      a few options
+         1) view checking
+         2) view savings
+         3) exit
+
+         1)display check balance
+         2)display savings balance
+         3)quit
+
+
+  cout<<"enter: ";
+  cin>>choice;
+  if (choice==1)
+      cout<<checking;
+  else if (choice==2)
+      cout<<savings;
+  else
+      break;
+  return 0
+
+
+
+      switch (controlling expression
+      {
+         case constant1:
+            statement sequence 1
+            break;
+         case constant2
+            statement sequence 2
+            break;
+         case constantn:
+            statement sequence n
+            break;
+         default:
+      }
+      NEVER NEST SWITCH STATEMENTS
+      but you can nest it in a loop or a conditional,
+        just dont use the switch in a switch... EVER
+      it is to simplify your code
+  switch(choice)
+  {
+      case 1: cout<<checking
+              break;
+      case 2: cout<<savings
+              break;
+      default:
+  }
+
+
+
+
+
+
+      input (a,b,c,d,f,A,B,C,D,F)
+      increment count of each grade
+      output grade distribution
+      gonna do a while loop
+      students = 0;
+      while(students < max)
+      {
+          cout<<"enter grade";
+          cin>>grade; //char variable
+          switch(grade)
+          {
+              case 'a':  count_a++;
+                         break;
+              case '
+              case 'A': count_a++;
+                        break;
+              case 'b': count_b++;
+                        break;
+              case 'B': count_b++;
+                        break;
+
+
+
+
+              // can do this
+               
+              case 'a':
+
+              case 'A': count_a++;
+                        break;
+              case 'b':
+
+              case 'B': count_b++;
+                        break;
+              // and so on
+              default:
+          }
+          students++;
+      }
+      cout<<"num a's: "<<count_a<<endl;
+  return 0;
+
+
+
+   [Inumerated types]
+      inum
+      it is giving a value its own type
+      example
+
+  inum Days{MON,TUES,WED,THURS,FRI}; //capitals
+  because they are constants
+  int x;
+  Days day;
+  //can do
+  //these are defaults but can be changed
+  inum Days{MON=0,TUES=1,WED=2,THURS=3,FRI=4};
+
+
+
+
+
+   [For loops]
+
+  for (starting pt; stopping; how closer?)
+  {}
+
+  for (students=0; students<max; students++)
+      cout
+      cin
+      switch
+      .
+      .
+      .
+      no need for counter down here
+
+
+
+      Example
+  sum=0
+  for (n=1;n<=10;n++)
+  	<-
+      sum=sum+n
+
+
+  //for a counter that is only  used for the loop;
+  for (int n=1; n<=10; n++)
+
+
+      the counter that is defined INSIDE of the for
+        loop, the counter will not be valid outside
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	TIMESTAMPSTR:  Thu Feb  9 12:23:05 2017 
+	Last Save:     Thu Feb  9 12:23:09 2017 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	TIMESTAMPSTR:  Thu Feb 16 12:33:50 2017 
+	Last Save:     Thu Feb 16 12:33:53 2017 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+--[Top-Down Design]--
+
+   makes them easier overall
+
+--[Predefined Functions]--
+   #include <iostream>
+
+   making a function
+   int main()
+   ...
+   return 0;
+
+   type name(parameters)
+   {
+      code
+      returns whatever a variable determined by the
+        type of function
+   }
+
+   #include <cmath>
+      int x = pow(2,5)
+
+
+   [Random Number Generators]
+      seed the RNG
+         #include <cstdlib>
+         #include <ctime>
+
+         srand(time(0))
+      the rand() function returns a random integer that
+        is greater than or equal to 0 and less than
+        rand_max
+
+
+      Seed RNG
+      Generate RN's
+
+      srand(time(0))
+
+      int num = rand();
+      num = rand();
+
+      this will be random each time num=rand() is
+        called
+
+      to set a range for rand()
+         int die=(rand()%6)+1
+
+            % means how many remainders looking for
+            so %6 is 0-5
+            so doing %6)+1 is 1-6
+
+      so for 10<x<21
+      int num = (rand()%10)+11
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	TIMESTAMPSTR:  Tue Feb 21 12:22:26 2017 
+	Last Save:     Tue Feb 21 12:22:31 2017 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+--[Programmer Defined Functions]--
+   3 requirements
+      1) Function Declaration
+      2) Function Definition
+      3) Function Call
+
+      1) used above
+      2) used below
+      3) used inside of int main
+
+  #include <iostream>
+  int func (int x, int y);
+  //sums two integers and returns sum
+
+  int main()
+  {
+  	  int num = func(2,3);
+  	  return 0;
+  }
+  int func (int x, int y)
+  {
+  	  int sum = x+y;
+  	  return sum;
+  }
+      int sum;
+      sum = x+y
+      return sum
+  }
+
+
+  int func (int x, int y)
+  {
+  	  //can do this
+  	  return (x+y);
+  }
+  //need to always include braces with function
+
+
+   example
+  3 ints as parameters
+  determine and return the largest
+  make another function to determine which is the
+  smallest
+
+
+  #include <iostream>
+  using namespace std;
+
+  int max (int a, int b, int c);
+  int min (int a, int b, int c);
+
+
+  int main()
+  {
+      cout<<max<<min<<endl;
+      return 0;
+      ,_
+  }
+
+  int max (int a, int b, int c)
+  {
+      int large = a;
+      if(b>large)
+      	  large=b;
+      else if(c>large)
+          large=c;
+      return large;
+  }
+
+  int min (int a, int b, int c)
+  {
+      int small = a;
+      if(b<small)
+          small=b;
+      else if(c<small)
+      	  small=c;
+      return small;
+  }
+
+
+  int main()
+  {
+      int small,large,x,y,z;
+      small = min(x,y,z);
+      large = max(x,y,z);
+      cout<<"max: "<<large<<"\nmin: "<<small<<endl;
+      return 0;
+  }
+  ---------- FOR TOP OF CODE ----------
+  int max (int a, int b, int c);
+  //calculates the largest of 3 integers
+  int min (int a, int b, int c);
+  //calculates the smallest of 3 integers
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	TIMESTAMPSTR:  Tue Feb 28 12:30:41 2017 
+	Last Save:     Tue Feb 28 12:30:50 2017 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+
+
+Black Box Analogy
+   needs to know what the function does, not how it
+     works
+   the prorammer needs to know what will be producted
+     if the proper arguments are put into the box
+
+information hiding
+   the function can be used without knowing how it is
+     coded
+   function body can be "hidden from view"
+   designing these functions as black boxes is an
+     example of information hiding
+
+implementations of the black box
+   designing with the black box in mind allows us...
+      to change or improve a function definition
+        without forcing programmers using the function to
+        change what they have done
+      to know how to use a function simply by reading
+        the function declaration and its comment
+procedural abstractiokn
+   should include comment under declaration
+   put comments inside of function
+      preconditions
+         what is expected to be put into paramaters
+      postconditions
+         what is expected to be the outcome
+
+program testing
+   find where your error is, need to try to run it for
+     yourself
+   should test for incorrect arguments
+   should be trying to break your code
+                        ^^^^^
+
+
+Local variables
+   local to scope, cannot be used outside of function
+   have function as the scope
+   if decleared in main part of program, then they
+     cannot be used from outside the main part
+   have the main part as the scope
+
+Global costants
+   valid everywhere in code
+   must sit outside the int main
+   const double pi=3.14;
+   double volume(double)
+   etc.
+
+   do NOT make global variables, ONLY global CONSTANT
+     variables
+
+
+
+
+Scope
+   defined by {}
+   its easier to use { along with indents }
+
+
+
+Overloading Function Names
+   giving a function more than one meaning
+   giving it multiple uses
+   ie:
+      double ciel (double x);
+      float ceil (float x);
+      long double (long double x);
+   the TYPE AND/OR the PARAMETERS must be different
+   uses the same function name
+
+   can do one with 2 parameters, one with 3 parameters,
+     etc
+
+
+
+can call functions within a function
+   double avg (double n1, double n2)
+   {
+      int mysum = sum (n1, n2);
+      return mysum/2
+   }
+
+this is passing by value
+"Passing-By-Reference"
+
+&mysum
+   memory address of mysum
+mysum
+   value stored in mysum
+
+
+why?
+   change something in function that may want to use
+     late
+   r
+
+[Void Function]
+   No type
+   void show_results(params)
+   {
+      cout<<"some string with params";
+      return;
+   }
+
+   It can be used to put all output into a single
+     function
+
+
+Pass by reference
+   can do:
+
+
+  void get_input(double& f_variable)
+  {
+      cout<<"enter fahrenheit: ";
+      cin>>f_variable;
+  }
+
+
+   this works to store variables
+   can use it to store variables into parameters
+   uses functions to change the parameters
+
+
+pass by value: int var
+pass by reference: int& var
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	TIMESTAMPSTR:  Tue Mar  7 12:51:52 2017 
+	Last Save:     Tue Mar  7 12:51:54 2017 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+
+--[Pre and Post Conditions]--
+   Pre and post conditions are nothing more than
+     comments
+   precondition
+      tells how it is supposed to be used
+   postcondition
+      tells what is supposed to be returned
+      tells what is supposed to happen
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	TIMESTAMPSTR:  Thu Mar 30 13:00:08 2017 
+	Last Save:     Thu Mar 30 13:00:11 2017 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+
+--[Arrays]--
+
+   must store homogenous items
+   direct access
+   enough room for continuous block
+
+   type name[size];
+
+   int array[6];
+
+   memory adress
+      say address is 1000
+      then for each item in array
+      1000, 1002, 1004,etc
+      each item in the array stores 2 bytes of data
+
+   Direct Access
+      cannot access every item at once
+      can only do one at a time
+
+      Index Value
+         size is length of it
+         first position is at 0
+         array[2] = 45
+         this sets the value at index 2 to 45
+         array[2] += 5
+         this updates the value at index 2 to 50
+      if you try to do array += 5
+         it will change the memory adress
+
+         address = base + size * (index)
+         = 1000+2(4)
+         starting address will be changed to 1008
+      Do Not Do This
+
+      can do cout<<array
+
+      NOTICE
+         can do array[6]=55
+         this will not create a compile error, but it
+           needs to be caught by the programmer
+
+
+   array elements cannot be nonexistant, they have to
+     have some sort of variable stored in them
+
+
+   Assigning values
+      can do:
+      int array[6] = {15,20,25,30,35,40};
+
+      or do
+      int array[6] = {15,20,25,30};
+         this will zero out the rest of the values
+      int array[] = {15,20,25,30};
+         this will set the size of the variable to
+           however many variables are given
+
+   CANNOT
+      get input variable: size
+      int array[size];
+   this does not work because the compiler needs to
+     compile arrays before getting input from the use
+   user*
+
+
+
+[2 Dimensional Arrays]
+
+   rows and columns
+
+   type name [][];
+      int grades[2][6]
+      [row][column]
+
+      int grades[1][4]=22
+         set item at row 2 column 5 to 22
+
+
+      for (x)
+         for (y)
+            grade[x][y]=0
+
+
+   Can do 3 dimensional arrays, but it gets more
+     complicated and exponentially grows in size
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	TIMESTAMPSTR:  Tue Apr  4 12:31:14 2017 
+	Last Save:     Tue Apr  4 12:31:20 2017 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+
+
+[Arrays in Functions]
+
+   int i, n, a[10]
+   void my_function(int n);
+
+   can do:
+      my_function(a[0]);
+      my_function(a[3]);
+      my_function(a[i]);
+
+   when declaring a function and defining a function
+     using an array, you use:
+      int func(int array[], int size)
+         int num=func(a,10);
+         you pass without brackets because you are
+           using the array parameter itself
+   do not use & for array in a funciton
+
+   for 2 dimensional arrays:
+   ^^^^^^^^^^^^^^^^^^^^^^^^
+      void display_page(const char page[][100],int
+        size_dimension_1);
+
+   Cannot return arrays from functions!
+   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+   [Changing arrays in functions]
+      NEVER USE & with array in parameter
+      to not change the array, you must use
+         int func(const int array[], int size)
+      to CHANGE the array, you must use
+         int funct(int array[], int size);
+
+      be aware of using const and not using const in
+        functions.
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	TIMESTAMPSTR:  Tue Apr 11 12:43:16 2017 
+	Last Save:     Tue Apr 11 12:43:19 2017 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+
+--[C-Strings]--
+   Character Array
+   char s[11]
+   c-strings use the null character'\0' to end a string
+      the null character is a single character
+   because of the null character:
+      char s[11] is going to be a string size 10
+   ALWAYS make the array 1 bigger than the string
+     itself
+   must account for whitespaces
+   you  do NOT need to fill out the rest of the string
+     after the null character
+   if you do not have a null character, then it is just
+     an array of characters
+
+   char array_name[max_c_string_size+1];
+      +1 rreserves the slot for the null character
+
+   CAN DO
+      char my_message[20]="hi there."
+         this adds the null character for you
+      char short_string[] = "abc";
+   CANNOT DO
+      char short_string[]={'a','b','c'};
+
+      adding a null character in the end of this will
+        NOT MAKE A CSTRING
+
+
+   example
+      int index=0;
+      while(our_string[index]!='\0')
+      {
+         out_string[index]='X';
+         index++;
+      }
+
+   If the null character is somehow replaced, then the
+     c-string is NO LONGER a cstring, it becomes a
+     character array
+
+   MAKE SURE YOU NEVER HIT THE NULL CHARACTER
+
+
+   need to do
+   #include <cstring>
+
+   not
+   #include <string>
+
+
+  #include <cstring>
+      ...
+  char a_string[11];
+  strcpy(a_string,"Hello");
+
+   this automatically includes the null character
+
+   but to fix any overloading limits, you can do
+
+   strncpy(another_string,"hello",9);
+      "hello" can be a variable string
+      cstring*
+      the 9 means that if the variable string is over
+        that size, then it will only copy up to that
+        index
+
+
+   strcmp(cstring1,cstring2)
+      if this is true, then this is not the same
+   strlen(a_string)
+      returns int variable for length of the string
+   char string_var[20]="the rain";
+   strcat(string_var,"in spain"
+      concatinate function, allows the user to append
+        to the string\
+      can also do strncat(str_var,"in spain",11)
+         this will limit the size of the string being
+           appended
+
+
+   passing cstrings into functions
+   void function(char a_string[])
+      can change variables in the array like other
+        arrays
+
+   can do 
+      char news[]="c-strings!";
+      cout<<news<<"are out!"<<endl;
+
+   char a[80]
+   cout<<"enter input:\n";
+   cin.getline(a, 80);
+   cout<<a<<"End of Output\n";
+
+   this allows the whitespace
+
+   never really need to worry about adding the null
+     character as a programmer yourself. You only need to
+     worry if you accidentally overwrite the null
+     character
+
+   char string[]="1234";
+   can convert this to integer
+   atoi("1234");
+
+   atof("9.99")
+      returns 9.99
+
+   these need to have something to store it as
