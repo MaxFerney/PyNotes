@@ -216,7 +216,7 @@ def startUp():
             i+=1
         print("""
         --------------------
-        Welcome to PyNotes V0.0.03
+        Welcome to PyNotes V0.0.02
         
         This program is used to take notes
         and save them to a simple text document

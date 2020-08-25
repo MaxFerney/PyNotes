@@ -123,6 +123,9 @@ class Data():
         tab = 0
         
         '''
+        All indenting and bullet point editing will be
+        done and implemented in the GUI version of
+        PyNotes, expected to be in version v1.
 
         IDEA!!!!!
         since the program uses textwrap, which reads and
@@ -131,9 +134,6 @@ class Data():
 
         this above statement has been officially completed
         as of version 0.1.08.
-        
-        yay!!!
-        
         
         '''
 
@@ -150,13 +150,14 @@ class Data():
                 to end input: type 'done' or press Ctrl+c
                 to indent: type '-->'
                 to unindent: type '<--'
+                to make title line: type 'TITLELINE'
             """)
             while 1:
                 
                 try:
                     
                     string = input(str(pretext))
-
+                    pretext = bp
                     if string.lower() == 'done':
                         break
                     
@@ -168,6 +169,17 @@ class Data():
                         if ind_lvl > 0:
                             pretext = pretext[2:]
                             ind_lvl -= 1
+                            
+                    elif string == 'TITLELINE':
+                        ind_lvl = 0
+                        pretext = ''
+                        string = "--[" + string + "]--"
+                        
+
+##                    i = 0
+##                    while i < ind_lvl * 2:
+##                        pretext = '  ' + pretext
+                        
 
 ##                    #textwrap
 ##                    lines = textwrap.wrap(string, 55)

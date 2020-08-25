@@ -1,23 +1,205 @@
+
+
+
+"""
+######################################
+
+IDEA:
+current users:
+add the joined users to a list, if they leave, then
+remove them from the list
+
+######################################
+"""
+
+'''
+-------------------------------------------------------
+from tkinter import *
+
+root = Tk()
+
+
+label1 = Label( root, text="Month(MM)")
+E1 = Entry(root, bd =5)
+
+label2 = Label( root, text="Day(DD)")
+E2 = Entry(root, bd =5)
+
+label3 = Label( root, text="Year(YYYY)")
+E3 = Entry(root, bd =5)
+
+def getDate():
+    print (E1.get())
+    print (E2.get())
+    print (E3.get())
+
+submit = Button(root, text ="Submit", command = getDate)
+
+label1.pack()
+E1.pack()
+label2.pack()
+E2.pack()
+label3.pack()
+E3.pack()
+submit.pack(side =BOTTOM) 
+root.mainloop()
 '''
 
-#http://www.tutorialspoint.com/python/tk_menu.htm
+
 
 '''
+-------------------------------------------------------
+from tkinter import *
+root = Tk()
+class Application(Frame):
+    root = Tk()
+    entrytxt = None
+##    def say_hi(self):
+##        root = self.root
+##        print("hi there, everyone!")
 
-''' GUI VERSION OF PYNOTES
-    This program was originally created
-    off of the program pychatGUI.py
-    it has been modified, but is used for
-    the same purpose as PyNotes. This is
-    just the GUI version... That is all...
+##    def user(self):
+##        pass
+    
+    def chat(self):
+        root = self.root
+        self.entrytxt = Entry()
+        #self.entrytxt.pack()
+        
+        self.root.geometry("400x200")
+        
+        self.contents = StringVar()
+        self.contents.set("text")
+        self.entrytxt["textvariable"] = self.contents
+        self.entrytxt.bind('<Key-Return>',
+                              self.uploadText)
+        
+        
+
+    def uploadText(self, event):
+        root = self.root
+        print(self.contents.get())
+        
+
+    def createWidgets(self):
+        root = self.root
+##        self.QUIT = Button(self)
+##        self.QUIT["text"] = "Leave Chat"
+##        self.QUIT["fg"]   = "red"
+##        self.QUIT["command"] =  self.quit
+##
+##        self.QUIT.pack({"side": "left"})
+
+        self.Speak = Button(self)
+        self.Speak["text"]  = "Enter"
+        self.Speak["fg"]    = "green"
+        self.Speak["command"] = self.chat
+        
+        self.root.geometry("400x200")
+        self.Speak.pack({"side": "bottom"})
+
+
+
+
+        
+##        self.hi_there = Button(self)
+##        self.hi_there["text"] = "Hello",
+##        self.hi_there["command"] = self.say_hi
+##
+##        self.hi_there.pack({"side": "left"})
+        
+
+    def __init__(self, master=Tk()):
+        root = self.root
+        
+        Frame.__init__(self, master)
+        
+        self.createWidgets()
+        self.root.geometry("400x200")
+        self.pack()
+
+
+root = Tk()
+app = Application(master=root)
+#app.geometry("400x200")
+app.mainloop()
+
+
+class App(Frame):
+    def __init__(self, master=None):
+        Frame.__init__(self, master)
+        self.pack()
+
+        self.entrythingy = Entry()
+        self.entrythingy.pack()
+
+        # here is the application variable
+        self.contents = StringVar()
+        # set it to some value
+        self.contents.set("this is a variable")
+        # tell the entry widget to watch this variable
+        self.entrythingy["textvariable"] = self.contents
+
+        # and here we get a callback when the user hits return.
+        # we will have the program print out the value of the
+        # application variable when the user hits return
+        self.entrythingy.bind('<Key-Return>',
+                              self.print_contents)
+
+    def print_contents(self, event):
+        print("hi. contents of entry is now ---->",
+              self.contents.get())
+
+root = Tk()
+app = Application(master=root)
+app.mainloop()
+root.destroy()
+print("text widget")
+myapp = App()
+
+#
+# here are method calls to the window manager class
+#
+myapp.master.title("My Do-Nothing Application")
+myapp.master.maxsize(1000, 400)
+
+# start the program
+myapp.mainloop()
+
+
+
+-------------------------------------------------------
+
+# use Tkinter to show a digital clock
+# tested with Python24    vegaseat    10sep2006
+ 
+from Tkinter import *
+import time
+ 
+root = Tk()
+time1 = ''
+clock = Label(root, font=('times', 20, 'bold'), bg='green')
+clock.pack(fill=BOTH, expand=1)
+ 
+def tick():
+    global time1
+    # get the current local time from the PC
+    time2 = time.strftime('%H:%M:%S')
+    # if time string has changed, update it
+    if time2 != time1:
+        time1 = time2
+        clock.config(text=time2)
+    # calls itself every 200 milliseconds
+    # to update the time display as needed
+    # could use >200 ms, but display gets jerky
+    clock.after(200, tick)
+ 
+tick()
+root.mainloop(  )
+-------------------------------------------------------
 '''
-
-#Author: Max Ferney
-#Date Created: 8.12.2015
-#Date Modified: 9.03.2015
-#Version: 1.0.01
-#Description: Organize and take notes with PyNotes!
-
+#Created by: Max Ferney
+#tkinter windows... http://www.python-course.eu/tkinter_menus.php
 print("input name:\n")
 name = input('\t')
 
@@ -48,9 +230,9 @@ else:
 
 AU = {"state":False,"AUI":5}
 ##print("\ngroup chat:")
-##c_file_ask = input()
-##if c_file_ask == None:
-##    c_file = c_file_ask
+##c_group_ask = input()
+##if c_group_ask == None:
+##    c_group = c_group_ask
 print()
 #from game_menu import GameMenu
 
@@ -63,10 +245,9 @@ root = Tk()
 class App(Frame):
     name=""
     autoClear = False
-    c_file = 'test'
+    c_group = '__PYNOTES_GUI_'
     chats = []
     chat_buttons = []
-    bulletPoint = "*"
     #chat_menus = []
     
 ##    autoUpdate = False
@@ -82,9 +263,9 @@ class App(Frame):
         self.pack()
 
         
-##        start_group = 'test'
-##        if self.c_file == 'DEBUG' or self.c_file == '':
-##            self.c_file = 'test'
+##        start_group = '_Main Chat_'
+##        if self.c_group == 'DEBUG' or self.c_group == '':
+##            self.c_group = '_Main Chat_'
 
         
         self.UFL()
@@ -114,11 +295,6 @@ class App(Frame):
         self.entrythingy.bind('<Key-Return>',
                               self.print_contents)
 
-        ''' menu bar '''
-        menubar = Menu(root)
-        filemenu = Menu(menubar, tearoff=0)
-        filemenu.add_command(label="New", command=donothing)
-
         
         ''' manually clear text '''
         self.hi_there = Button(self)
@@ -144,7 +320,7 @@ class App(Frame):
 
         self.QUIT.pack({"side": "left"})
 
-        ''' New File '''
+        ''' New Chat '''
         self.NewChat = Button(self)
         self.NewChat["text"] = "New Chat"
         self.NewChat["fg"] = "blue"
@@ -156,10 +332,10 @@ class App(Frame):
 ##        self.UFL()
         for c in self.chats:
             
-            if c["name"]==self.c_file:
+            if c["name"]==self.c_group:
                 c["joined"]=True
                 c["color"]="green"
-                #self.c_file = c["name"]
+                #self.c_group = c["name"]
                 
             else:
                 c["joined"]=False
@@ -171,7 +347,7 @@ class App(Frame):
             index = self.chat_buttons.index(cb)
             if cb["text"] == "DEBUG":
                 self.chat_buttons[index].configure(state=DISABLED)
-            cb.pack({"side": "bottom", "pady": 5})
+            cb.pack({"side": "bottom", "pady": 1})
 
 
 ##        ''' Menu Bar '''
@@ -205,10 +381,10 @@ class App(Frame):
                 
     ''' General Functions '''
     def upload_contents(self, string="", mode="user"):
-        c_file = self.c_file
+        c_group = self.c_group
         # opens file and saves a text variable
         # this variable is the "old" text
-        file = 'Files/'+str(c_file)+'.txt'
+        file = 'Files/Tests/'+str(c_group)+'.txt'
         with open(file) as f:
             t = f.read()
         f.close()
@@ -249,9 +425,9 @@ class App(Frame):
         self.contents.set("")
 
     def readF(self):
-        c_file = self.c_file
+        c_group = self.c_group
         text = self.text
-        FileName = 'Files/' + str(c_file) + '.txt'
+        FileName = 'Files/Tests/' + str(c_group) + '.txt'
 
         
         with open(FileName, 'r') as f:
@@ -260,8 +436,8 @@ class App(Frame):
         f.close()
 
     def update(self):
-        c_file = self.c_file
-        file = 'Files/'+str(c_file)+'.txt'
+        c_group = self.c_group
+        file = 'Files/Tests/'+str(c_group)+'.txt'
         with open(file) as f:
             display = f.read()
             self.text = display
@@ -271,14 +447,13 @@ class App(Frame):
         print(display)
         print()
         print("---notice---")
-        print("When changing chats, make sure to go to main chat first, then your chat. " + \
-              "\nYou must do this every time you switch.")
+        print("When changing chats, make sure to go to main chat first, then your chat. \nYou must do this every time you switch.")
 
 
     def UFL(self):
         self.chats = list()
         cwd = os.getcwd()
-        path = os.path.join(cwd, "Files\\")
+        path = os.path.join(cwd, "Files\\Tests\\")
         #print("------------FILES------------")
         for c in os.walk(path).__next__()[2]:
             #print(c)
@@ -287,10 +462,10 @@ class App(Frame):
                                "joined":False,
                                "color":"red"})
             for ch in self.chats:
-                if ch["name"]==self.c_file:
+                if ch["name"]==self.c_group:
                     ch["joined"]=True
                     ch["color"]="green"
-                    #self.c_file = ch["name"]
+                    #self.c_group = ch["name"]
                 else:
                     ch["joined"]=False
                     ch["color"]="red"
@@ -324,8 +499,8 @@ class App(Frame):
             if self.chats[index]["joined"]:
 ####                if self.chats[index]["name"] == config["name"]:
 ####                    break
-##                if self.chats[index]["name"] != "test":
-##                    self.c_file = "test"
+##                if self.chats[index]["name"] != "_Main Chat_":
+##                    self.c_group = "_Main Chat_"
                 
                 
                 string = "SYSTEM\tUSER: ["+self.name+"] HAS LEFT THE CHAT"
@@ -333,10 +508,10 @@ class App(Frame):
                 self.chats[index]["joined"] = False
                 self.chats[index]["color"] = "red"
                 
-                self.c_file = config["name"]
+                self.c_group = config["name"]
                 
                 print("##########################")
-                string = "SYSTEM\tUSER: ["+self.name+"] HAS JOINED CHAT: "+self.c_file     #config["name"]
+                string = "SYSTEM\tUSER: ["+self.name+"] HAS JOINED CHAT: "+self.c_group     #config["name"]
                 self.upload_contents(string, "join")
                 config["joined"] = True
                 config["color"] = "green"
@@ -384,7 +559,7 @@ class App(Frame):
             
         def create():
             file = E.get()+".txt"
-            with open('Files/'+file, 'w') as f:
+            with open('Files/Tests/'+file, 'w') as f:
                 f.write("Welcome to the "+str(file)[:-4]+" chat\n")
             f.close()
                 
@@ -397,10 +572,12 @@ class App(Frame):
 
     ''' chatting '''
     def leave_chat(self):
+        #Time String
         string = "SYSTEM\tUSER: ["+self.name+"] HAS LEFT THE CHAT"
         self.upload_contents(string, "quit")
 
     def join_chat(self):
+        #Time String
         string = "SYSTEM\tUSER: ["+self.name+"] HAS JOINED THE CHAT"
         self.upload_contents(string, "join")
 
@@ -408,8 +585,7 @@ class App(Frame):
         if self.contents.get() == '':
             self.update()
         else:
-            string = self.bulletPoint + self.contents.get()
-##            string = self.name+": "+self.contents.get()
+            string = self.name+": "+self.contents.get()
             self.upload_contents(string, "user")
 
 
@@ -424,7 +600,7 @@ class App(Frame):
         #"auto update":self.autoUpdate,
         #"auto update interval":self.AUI
         return {"name":self.name,
-                "c_file":self.c_file,
+                "c_group":self.c_group,
                 "chats":self.chats}
 
     
@@ -480,3 +656,71 @@ except TclError:
 #TclError
 
 
+
+
+
+
+
+
+
+
+
+
+
+##from tkinter import *
+##class App:
+##  def __init__(self, master):
+##    frame = Frame(master)
+##    frame.pack()
+##    self.button = Button(frame, 
+##                         text="QUIT", fg="red",
+##                         command=frame.quit)
+##    self.button.pack(side=LEFT)
+##    self.slogan = Button(frame,
+##                         text="Hello",
+##                         command=self.write_slogan)
+##    self.slogan.pack(side=LEFT)
+##  def write_slogan(self):
+##    print("Tkinter is easy to use!")
+##
+##root = Tk()
+##app = App(root)
+##root.mainloop()
+##
+##
+##
+##
+##
+
+
+
+##import tkinter as tk
+##
+##class Demo1:
+##    def __init__(self, master):
+##        self.master = master
+##        self.frame = tk.Frame(self.master)
+##        self.button1 = tk.Button(self.frame, text = 'New Window', width = 25, command = self.new_window)
+##        self.button1.pack()
+##        self.frame.pack()
+##    def new_window(self):
+##        self.newWindow = tk.Toplevel(self.master)
+##        self.app = Demo2(self.newWindow)
+##
+##class Demo2:
+##    def __init__(self, master):
+##        self.master = master
+##        self.frame = tk.Frame(self.master)
+##        self.quitButton = tk.Button(self.frame, text = 'Quit', width = 25, command = self.close_windows)
+##        self.quitButton.pack()
+##        self.frame.pack()
+##    def close_windows(self):
+##        self.master.destroy()
+##
+##def main(): 
+##    root = tk.Tk()
+##    app = Demo1(root)
+##    root.mainloop()
+##
+##if __name__ == '__main__':
+##    main()
