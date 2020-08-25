@@ -1,0 +1,124 @@
+Welcome to the _GuiPynotesTest_ chat
+SYSTEM	USER: [Max] HAS JOINED CHAT: _GuiPynotesTest_
+SYSTEM	USER: [Max] HAS LEFT THE CHAT
+SYSTEM	USER: [Max] HAS JOINED CHAT: _GuiPynotesTest_
+Max: hello
+SYSTEM	USER: [Max] HAS LEFT THE CHAT
+SYSTEM	USER: [Max] HAS JOINED CHAT: _GuiPynotesTest_
+SYSTEM	USER: [Max] HAS LEFT THE CHAT
+SYSTEM	USER: [Max] HAS JOINED CHAT: _GuiPynotesTest_
+SYSTEM	USER: [Max] HAS LEFT THE CHAT
+SYSTEM	USER: [Max] HAS JOINED CHAT: _GuiPynotesTest_
+SYSTEM	USER: [Max] HAS LEFT THE CHAT
+SYSTEM	USER: [Max] HAS JOINED CHAT: _GuiPynotesTest_
+SYSTEM	USER: [Max] HAS LEFT THE CHAT
+SYSTEM	USER: [Max] HAS JOINED CHAT: _GuiPynotesTest_
+SYSTEM	USER: [Max] HAS LEFT THE CHAT
+SYSTEM	USER: [Max] HAS JOINED CHAT: _GuiPynotesTest_
+SYSTEM	USER: [Max] HAS LEFT THE CHAT
+SYSTEM	USER: [Max] HAS JOINED CHAT: _GuiPynotesTest_
+SYSTEM	USER: [Max] HAS LEFT THE CHAT
+SYSTEM	USER: [Max] HAS JOINED CHAT: _GuiPynotesTest_
+SYSTEM	USER: [Max] HAS LEFT THE CHAT
+*test line1
+
+	TIMESTAMPSTR:  [Thu Sep 10 19:57:20 2015]
+	Last Save: [Thu Sep 10 19:57:58 2015]
+
+*test
+*line 2
+*line 3
+  *line 4
+  *line 5
+  *line 6
+      *line 7 indent 2
+      *line 8 indent 3
+      *line 9 indent 3
+        *line 10 indent 4
+        *sdajfkoadifgqkknfvodsffqj aslkn dfnqwoe dnw selkfnka4
+        kkvkw4jrf  awnesofdwn3 in4fowksne
+        
+
+	Last Save: [Thu Sep 10 20:15:20 2015]
+
+*line 1
+  *line 2
+    *line 
+    *line 4
+    *asd wekknasod 9r48 j0df 3q4iijf 9o4wknf o4ij
+    9ifjgfoq4kn apdofinql43 dj4oi  q4oijform oig
+    oifn34oij 4ieo 4;okandr
+    
+      *line6
+    *--
+  *aselk
+  *aefarlk
+  *fga
+  *er
+  *dfgearefjamk4 lorf aksjdfkj4e idfjnu sdifjqo43u ld
+  qlir a;ls
+  
+
+	Last Save: [Thu Sep 10 21:04:01 2015]
+
+*asd
+* fasdfjow4j d fa ek dk lkajdkf ojnasod4 oasjddnf qkj
+ aidsjf k ain kjh a lsen4 iaksd
+
+  * lajjn asnkj akrjn4 oiadkrjoffkj lwj wa dijn paofh jjn
+   peur ajj i
+  
+    * aie4n jn4 ajdfnk4jnkb akj4nodizlajknvbn w4jnsdjfn
+     4k aosdnj4 alsdjgnakje4 g dfkjd l4j sdjff 4nlisjnd
+     lsdj
+    
+  * oaekrnl fjk nq4kjjn sojjdfn lq4jjnj aosk ngln
+   sd;ofnfl e4jn gaajn
+  
+
+	Last Save: [Thu Sep 10 21:06:23 2015]
+
+*jkasd fdk faphe aksej4uas djh4a jhf w4k asdf jfakjehhf
+ asdjf
+ 
+  *kja we asejj4na se faw se dfaw4f df aw4 efdawefa sef
+   asrfg tr wegstdffa r
+   
+    * j asjfa4j dfaeksdfhasdf aejrhdfakjekjnuf gjja sd
+     ad faje4eafksfek
+     
+      *e4aisefa
+       sdfna84oajl;'o5oiydonfkabsdkfjan'ak4jbaskdjfjh4d
+       alsrfa-->
+       
+      *akewj ajerfadhfa dfahie4h afdapw4 ejdnaiw4
+       awehfai dflaiuhd
+       
+        *akejh dajn djak4jahiduhfaw 4adoaiw4
+         dfao4uhta09wjdkjgstlkji w34eeqiaf
+         d06eiysodfdkjf
+         
+      *akaeh 4ji daoah gkakdjg kap9qja dn adifqo3w
+       jdifja sidqiajxnc
+       
+
+	TIMESTAMPSTR:  [Fri Sep 11 07:48:41 2015]
+	Last Save: [Fri Sep 11 07:50:11 2015]
+
+*line 1
+*line 2
+*lasdk wakdg ad foae4j adof alwke dcajlekjdfaow4j
+ adkfjawkejd fakejdlfa sdlkafjlsek
+   *oejajds faokejoasd fawknasdkjfaow4 oadkfao4aodijfao
+   asoeidjfaoej
+   
+	Last Save: [Fri Sep 11 07:54:34 2015]
+
+*line 1
+*--->
+      *line 3
+      +line 4
++line 5
+
+	Last Save: [Fri Sep 11 08:01:08 2015]
+

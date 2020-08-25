@@ -1,0 +1,33 @@
+use dacus library
+//electronic resources
+databases
+p
+psycArticles
+choose databases
+psychology and behavioral sciences and(one below it)
+
+current research articles, 2010-2015 (2005 if nothing in range)
+only do journal articles(scholarly (peer reviewed) journals)
+pdf version
+must be able to read full article, not an abstract
+
+atleast 4 current journal articles using dacus
+	pdf version - print out first page(to turn in)
+	summary for each article(should be about 2 paragraphs)
+	cite source in APA format
+	
+	citation in apa format, then do summary, then first article page
+		do this for each article
+
+
+	TIMESTAMPSTR:  [Tue Oct 20 11:49:28 2015]
+	#####Last Save: [Tue Oct 20 11:51:53 2015]#####
+
+
+--[TOPIC]--
+How sleep deprivation affects motivation
+How sleep deprivation affects:
+  grades
+  motivation
+  college life
+  activity

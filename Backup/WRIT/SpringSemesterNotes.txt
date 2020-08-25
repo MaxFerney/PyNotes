@@ -1,0 +1,527 @@
+	[FILE: SpringSemesterNotes.txt]
+	[DATE CREATED: Mon Jan 11 16:59:03 2016]
+	[Title: Writing 101]
+
++++++++++++++++++++++++++++++++++++++++++++++
+	TIMESTAMPSTR:  [Mon Jan 11 18:24:15 2016]
+	#####Last Save: [Mon Jan 11 18:24:18 2016]#####
+
++++++++++++++++++++++++++++++++++++++++++++++
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	TIMESTAMPSTR:  [Mon Jan 25 18:31:51 2016]
+	#####Last Save: [Mon Jan 25 18:31:54 2016]#####
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+Writing a paper
+--[Writing a paper]--
+   invention
+      Purpose
+      Audience
+      Genre
+      Style
+      Research
+
+
+      Purpose
+         the general idea
+         topic
+      Audience
+         think of it based on level of education
+         audience of college students
+      Genre
+         persuasive/argumentative
+      Style
+         satire
+         conversational
+         refers to the general audience
+      Research
+         30% needs to be support for your topic
+
+
+      Strategies
+         ask critical questions
+         Freewrite & Brainstorm
+            can be anything, just getting ideas out
+         Map & Cluster
+            basic brainstorming
+            like web of ideas
+         Keep a journal
+            .....not needed
+
+
+   Compose
+      Conduct research
+      narrow topic
+      develop thesis
+      organize ideas
+      write first draft
+
+      conduct research
+         developing claim
+
+   Revise
+   proofread
+      find the errors
+
+   organization of paper
+      general to specific
+      information to support thesis
+   clear thesis
+   clear ideas
+   paragraph structure
+   supporting details
+   conclusion restates the thesis and overviews the
+     main idea
+   generally.. little fluff as possible
+
+   owl.english.purdue.edu
+      good help site
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	TIMESTAMPSTR:  [Wed Jan 27 18:30:47 2016]
+	#####Last Save: [Wed Jan 27 18:32:31 2016]#####
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+--[evaluating and critical reading]--
+   critical reader must be able to evalueate arguments
+      when you evaluate an argument (a set of claims),
+        you determine its value or persuasiveness.
+      to be ale to do a good job evaluating arguments,
+        ou need to know what an argument is and how an
+        argument is put together
+
+   argment is a claim that iis supported by reasons or
+     evidence
+      when an author tries to persuade the reader that
+        something is true or correct by presenting
+        supporting reasons or evidence, an argument is
+        being made.
+      this means that an argument is different from a
+        statement.
+
+   the point of arguing?
+      an argument peresents logical reasons and
+        evidence to support a viewpoint
+
+   Parts of an argument
+      issue
+         problem or controversy about which people
+           disagree
+      claim
+         the position on the issue
+      support
+         reasons and evidence that the claim is
+           reasonable and should be accepted
+      refutation
+         opposing viewpoints
+
+   Persuasion
+   -->>
+      the author is trying to convince the reader that
+        a claim is true by giving supporting reasons or
+        evidence.
+
+   The claim
+      the cla9im of an argument is the point of the
+        argument.
+      when an author makes an argument,its the claim
+        that the author is trying to persuade the reader
+        to accept as true
+
+      Types of claims
+         claim of fact
+            statement that can bbe provent orr verified
+              by observation or research
+            <0
+         Claim of value
+            states that one thing or idea is better or
+              more desirable than another
+         claim of policy
+            suggests what should or ought to be done to
+              solve a problem
+   Analysis
+      To evaluate an arment, you need to analyze it.
+      when you analyze an argument, you break it down
+        into its parts and examine them by themselves and
+        in relation to the other parts of the argument
+
+      Types of support
+         reason
+            a general statement that supports a claim
+         evidence-
+            consists of facts, statistics, experience,
+              comparisons, and examples that show why
+              the claim is valid.
+         emotional apeals
+            ideas that are targeted toward needs or
+              values that readers are likely to care
+              about
+   Inductive and deductive arguments
+      inductive
+      reaches a general conclusion from obwserved
+        specifics
+
+      deductive
+         begins with a major premise and moves toward a
+           more specific statement or minor premise
+   Strategies for reading an argument
+      Think before you read
+      What does the title suggest? Preview!
+      who is the author, and what are his or her
+        qualifications?
+      what is the date of publications?
+      what do I already know about the issue?
+
+
+      Read Actively
+         read once for an initial impression.
+         read the argument several more times
+         annotate as you read
+         highlight key terms
+         diagram or map to analyze strucure
+
+      Strategies for evaluating arguments
+         evaluate ypes of evidence
+            is it sufficieent to support the claim
+         personal experience
+            may be biased, os do not accept it
+         examples
+            should not be used by themselves
+
+         statisitics
+            can be bisused, manipulated or
+              misinterpreted.
+            comparisons and analogies
+            ////
+         comparisons and analogies
+            reliability depends on how closely the
+              correspond to the situation
+         relevancy and sufficiency of evidence
+            is there nough of the right kind to support
+              the claim
+         definition of terms
+            should be carefully defined and used
+              consistently
+         cause-effect relationships
+            evidence that the relationship exists
+              should be presented
+         implied or stated value system
+            are they consistent with your personal
+              value system
+         recognizing and refuting opposing viewpoints
+            question the accuracy, relevancy or
+              sufficiency of the opponents evidence
+            does the authror addressopposing viewpoints
+              clealy and fairly
+            does the author refute the opposing
+              viewpoint...
+         unfair emotional appeals
+            emotionally charged or biased language
+            false authority
+            association
+            appeal to "Common Folk"
+            ad hominem
+               attack on the person rather than his/her
+                 viewpoint
+            "Join the Crowd" Appeal or Bandwagon
+         Errors in logical reasoning
+            circular reasoning/begging the question
+            hasty generalization
+               stereotypes
+            son sequitur ("it does not follow")
+            false cause
+            either-or fallacy
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	TIMESTAMPSTR:  [Wed Feb 17 18:35:20 2016]
+	Last Save: [Wed Feb 17 18:35:22 2016]
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+Mla
+   in text citation:
+      1. Signal phrase
+      2. sentence incorporation
+
+
+      signal phrase
+         example: According to john smith, "direct
+           quote"(48).
+         dont use same word over again
+
+         example: if author not in sentence
+            (smith 48)
+
+      sentence incorporation
+         many people choose to "forego caffeine around
+           60% of the time when working out" (Jones
+           par.17)
+            for an online page
+            (author, paragraph number)
+
+            when changing part of quote, put it in
+              brackets
+            "forego [liquor] around 60% of the time
+              when working out"
+
+      Works cited = in-text citation
+         if source not used in in-text, do not put in
+           works cited.
+         use source in in-text = W.C.
+      (smith 48).
+      (first year college par 12)
+         smith, joe r.
+         ---"first year college students".
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	TIMESTAMPSTR:  [Mon Feb 22 18:33:00 2016]
+	Last Save: [Mon Feb 22 18:33:04 2016]
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+--[fallacies]--
+   Fallacy is a mistake in reasoning
+   often masquerade as logical statements
+   ^^^Logical Fallacies^^^
+
+   why study fallacies
+      able to spot poor reasoning and know why wrong
+      able to correct others misstakes or refute them
+        convincingly
+      supplements  your knowledge on logic
+   3 categories of fallacies
+      fallacies of emotion (4)
+      fallacies that distract (3)
+      other commmon types (5)
+
+      Appeal to emotions
+         appeal to fear/force/scare tactics -adbaculum
+            the claim makes use of threats
+            the treats are irrevelant to the argument
+            therefore the claim is fallacious
+      Appeal to vanity/flattery
+         use flattery to make the reader or listener
+           feel special
+         use persuasive language
+         ften used in advertisements. to entice
+           consumers to buy products or services
+      Appeal to numbers/bandwagon/peer pressure
+         use oto solicit group identity
+         put pressure on individuals to follow the
+           crowd
+         often used in adverts = to buy software of
+           hardwaror other products and services
+      Appeal to pity (ad misericodium
+         use pity to establish the truth of a
+           conclusion
+         use language to evoke compassionn to induce
+           the listener to accept the claim
+      Ad Hominem / against the person
+         sometimes called = fallacy of opposition
+         attacks the person's personality, beliefs,
+           affiliation, ethnicity to reject a claim
+      Red Herring
+         an issue brought into the picture to divert
+           the listener's or reader's attention from the
+           real issue
+         this happens a lot in meetings and group
+           discussions
+         be aware of this!
+      straw man
+         oversimplify an evidence to support a claim
+         the simplification, therefore cannot support
+           the claim
+         ie: guns are dangerous
+      begging the question
+         the claims in the premise is again drawn in
+           the conclusion.
+         redundant
+         repeating an issue
+            going in circles
+         the arguement does not go anywhere
+      slippery slope
+         domino theory
+         cause and effect
+      false delimma or black/white argument/ either -or
+         a limited number or opinion is given in
+           reality there are more options
+         an illegitimate use of the word "or"
+         no grey area
+      hasty generalization
+         this is the chief error made by many
+         leaping to a conclusion without a strong lead
+         Stereotypes
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	TIMESTAMPSTR:  [Wed Feb 24 18:35:36 2016]
+	Last Save: [Wed Feb 24 18:35:49 2016]
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+      Burden of Proof (appeal to ignorance)
+         Premise: if something has not been proven as
+           false, the claim must be true.
+         Shifts the burden the other party to prove in
+           order to make a claim
+         used in many legal cases
+         example
+            if cannot prove ghosts dont exist, then
+              they do
+      Emotions
+         fear/force
+         vanity/flattery
+         numbers/belief
+         pity
+      distract
+         ad hominem (attack/against the person)
+         red herring
+         straw man
+      other common types
+         beggging the question (circular arguments)
+         slippery slope (domino theory)
+         false deilemma (either- or)
+         hasty generalization
+         burden of proof
+
+
+
+--[argument parts]--
+   Ethos
+      Ethics
+      Moral Questioning
+   Pathos
+      Emotion
+      Pity
+      Psychological needs
+   Logos
+      Logic
+      Sound reasoning
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	TIMESTAMPSTR:  [Mon Feb 29 19:01:27 2016]
+	Last Save: [Mon Feb 29 19:01:32 2016]
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+Always state your beliefs
+Provide outside documentation
+and then analysis of that documentation.
+
+Conclusion- restatement of ffacts,but you are offering
+  a solution or suggestions as to how to prevent the
+  negative behaviors.
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	TIMESTAMPSTR:  [Mon Mar  7 18:33:07 2016]
+	Last Save: [Mon Mar  7 18:33:35 2016]
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+--[How much you agree or disagree with it]--
+(women and liquor
+)
+   social stigma of women drinking
+   mother left child on christmas eve
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	TIMESTAMPSTR:  [Wed Mar  9 18:31:55 2016]
+	Last Save: [Wed Mar  9 18:32:01 2016]
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	TIMESTAMPSTR: [Mon Mar 28 18:33:42 2016]
+	Last Save:    [Mon Mar 28 18:33:44 2016]
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+
+Argumentation;
+pitbulls and common misperceptions
+
+points and counterpoints
+
+point
+   stereotypes
+      bite (locking jaw)
+      25000 lbs of crushing power
+      aggressive naturally
+   types of owner
+      drug dealers
+      gang bangers
+      other criminals: dog fighters
+
+Counter point
+   misconceptions
+      physical capabilities
+      not naturally aggressive
+   types of owner
+      educated
+      excellent careeers
+      non-criminals
+      responsible pet owners
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	TIMESTAMPSTR: [Mon Mar 28 18:33:42 2016]
+	Last Save:    [Mon Mar 28 18:39:57 2016]
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+p(points)
+   1)Stereotypes
+       a)Bite(locking jaw)
+           -overgeneralization
+           -very little backing
+           -isolated incidents where pitbulls are named
+             specifically
+
+
+points
+point
+   3) BSL (breed specific legislation)
+      a) Necessity (based on attacks)
+      b) based on banning & public safety
+counterpoint
+   3) BSL
+      a) Statistics based on ALL dogs
+      b) Bans did not stop attacks OR help bublic
+        safety
+      c) Analysis
+ toward pathos (owners)
+
+Introduction:
+   -Background
+   -Opponent Concession
+   -Claim (yours)
+point
+   3)
+      c) Fear
+
+Pet Owners looked at  Ethos and Pathos
+Legislators looked at Ethos and Logos
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	TIMESTAMPSTR:  Wed Mar 30 18:38:32 2016 
+	Last Save:     Wed Mar 30 18:38:46 2016 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	TIMESTAMPSTR:  Mon Apr  4 10:00:47 2016 
+	Last Save:     Mon Apr  4 17:04:09 2016 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+

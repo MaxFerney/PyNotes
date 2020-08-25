@@ -1,0 +1,302 @@
+	[FILE: Ordered_List.txt]
+	[DATE CREATED: Mon Mar  7 19:10:46 2016]
+	[Title: Ordered/Numbered bullet point test]
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	TIMESTAMPSTR: [Mon Mar  7 19:22:49 2016]
+	Last Save:    [Mon Mar  7 19:25:51 2016]
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+line  1
+line 2
+   line 3
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	TIMESTAMPSTR: [Tue Mar  8 16:53:50 2016]
+	Last Save:    [Tue Mar  8 16:54:04 2016]
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+line1
+line 2
+line 
+   line 4
+   line 5
+   ordering
+   ind
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	TIMESTAMPSTR: [Wed Mar  9 10:39:44 2016]
+	Last Save:    [Wed Mar  9 10:39:58 2016]
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+line 1
+line 3
+line 3
+line 4
+   line 5
+   line 6
+   _..
+      line 7
+      line 8
+      order
+      0)line 1
+      1)line 2
+          2)line 3
+          2)line 4
+      2)line 5
+      3)line 6
+  4)line 7
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	TIMESTAMPSTR: [Wed Mar  9 18:42:26 2016]
+	Last Save:    [Wed Mar  9 18:42:45 2016]
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+line 1
+line 2
+   line 3
+   line 4
+      line 5
+      order
+      1)line 1
+      2)line 2
+          -line 3
+          -line 4
+             -line 5
+          -line 6
+       4)line 7
+       5)line 8
+       6)6.0
+           -6.1
+           -6.2
+        8)7.0
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	TIMESTAMPSTR: [Wed Mar  9 18:59:43 2016]
+	Last Save:    [Wed Mar  9 19:00:37 2016]
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+line 1
+line 2
+   line 3
+      line 4
+      line 5
+      order
+      0)line 6
+      1)line 7
+          -line 8
+       2)line 9
+       3)line 10
+   line 11
+   line 12
+   line 13
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	TIMESTAMPSTR: [Wed Mar  9 18:59:43 2016]
+	Last Save:    [Thu Mar 10 15:34:53 2016]
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+1.line 
+    1.line 1
+        1.line 2
+    1.lien 3
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	TIMESTAMPSTR: [Fri Mar 11 09:59:28 2016]
+	Last Save:    [Fri Mar 11 09:59:47 2016]
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+line 1
+   line 2
+      line 3
+      line 4
+         line 5
+         order
+         1)line 6
+         2)line 7
+             -line 8
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	TIMESTAMPSTR: [Fri Mar 11 10:03:17 2016]
+	Last Save:    [Fri Mar 11 10:04:55 2016]
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+      line 1
+      line 2
+         line 3
+         1)line 4
+              -line 5
+         2)line 6
+         3)IT WORKS!!!
+         4)line 7
+         5)line 8
+              -line 9
+                  -line 10
+              -line 11
+         6)line 12
+         7)ORDERED END
+     7)line 8
+        7)line9
+     line 11
+  line 11
+     line 12
+  it broke..
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	TIMESTAMPSTR: [Fri Mar 11 13:50:35 2016]
+	Last Save:    [Fri Mar 11 13:51:06 2016]
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+line 1
+line 2
+line 3
+   line 4
+   line 5
+      line 6
+      order
+      1)line 1
+      2)line 2
+           -line 3
+      3)line 4
+      4)line 5
+               -line 6
+           -line 7
+           -line 8
+      5)line 9
+  6line 10?
+line 11
+line 12
+   line 13
+   line 14
+   order
+   1)line 15
+   2)line 16
+   3)line 17
+        -line 18
+   4)line 19
+line 20
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	TIMESTAMPSTR: [Fri Mar 11 13:54:28 2016]
+	Last Save:    [Fri Mar 11 13:54:48 2016]
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+line 1
+line 2
+   line 3
+      line 4
+      line 5
+      order
+      1)line 1
+      2)line 2
+           -line 3
+      3)line 4
+      4)line 5
+  line 6
+line 7
+   line8
+line 9
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	TIMESTAMPSTR: [Mon Mar 21 09:45:49 2016]
+	Last Save:    [Mon Mar 21 09:46:04 2016]
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+      line 1
+      ordering
+      1)line 1
+      2)line 2
+           -line 3
+           -line 4
+               -line 4
+           -line 6
+           -line 7
+      3)line 8
+           -line 9
+      4)line 10
+  line 11
+line 12
+   line 13
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	TIMESTAMPSTR: [Mon Mar 21 09:53:34 2016]
+	Last Save:    [Mon Mar 21 09:53:48 2016]
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+line 1
+line 2
+line 3
+ordered
+1)line 4
+     -line 5
+     -line 6
+         -line 7
+     -line 8
+         -line 9
+2)line 10
+3)line 11
+4)ORDERED END
+4)line 12
+fixed
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	TIMESTAMPSTR: [Wed Mar 23 14:48:02 2016]
+	Last Save:    [Wed Mar 23 14:48:12 2016]
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+line 1
+line 2
+   line 3
+   line 4
+   line 5
+      line 6
+      line 7
+      ordering
+      1)line 8
+      2)line 9
+      3)line 10
+           -line 11
+           -line 12
+               -line 13
+           -line 14
+      4)line 15
+      5)line 16
+      6)ending order
+      7)line 17
+  8broken
+  8cannot fix this problem..
+  8maybe adjust the pretext = pretext[:-lenI+/-1]
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	TIMESTAMPSTR: [Fri Mar 25 09:53:33 2016]
+	Last Save:    [Fri Mar 25 09:53:50 2016]
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+line 1
+   line 2
+      line 3
+      1)lien 14
+      2)line 5
+           -line 6
+      3)line 7
+  line 8
+line 9
+   line 10
+   5)lien 11
+   line 12
+lien 14
+   li3 14

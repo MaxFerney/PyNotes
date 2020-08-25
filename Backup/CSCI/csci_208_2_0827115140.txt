@@ -1,0 +1,144 @@
+
+===========================================================
+	[FILE: csci_208_2.txt]
+	[DATE CREATED: Tue Aug 21 12:32:16 2018]
+	[Title:  ]
+
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	TIMESTAMPSTR:  Mon Aug 27 10:54:54 2018 
+	Last Save:     Mon Aug 27 10:56:55 2018 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+--[The software process]--
+   [Software Engineering]
+      a disciplined approach to the design production,
+        and maintenance of computer programs
+      [Software Life Cycle]
+         Problem analysis
+         requirements elicitation
+         High- and low-level design
+         implementation of the design
+         testing and verification
+         Delivery
+         Operation
+         Maintenance
+   [Programmer Toolboxes]
+      Hardware: computers and other devices
+      software...
+   [Algorithm]
+      logical sequcence of descrete steps
+   [Goals of Quality Software]
+      it works
+      it can be modified without excessive time and
+        effort
+      it is reusable
+      it is completed on time and within budget
+   [Quality Software Works]
+      requirements: describe the service it proides
+      specification: written document that tells what a
+        program does, but not how
+      it must do everything explained in the
+        specification
+   [Quality software can be modified]
+      changes may occur during the design, coding, and
+        testing phases
+      bug fixes and small changes are made during the
+        maintenance phase
+      easily modified programs are readable, well
+        documented, aand easily understood by other
+        humans
+   [Quality software is reusable]
+      spend extra effort to make components more
+        general now in order to save time later
+      using code that is already designed implemeted ,
+        and tested allows programmers to focus on the
+        rest of the program
+      this does not require extra effort during
+        specification and design phases
+   [sOFTWARE sPECIFICATIONS]
+      The specification describes what servicees a
+        program should provide based on the users'
+        requirements
+      scenario: sequence of events describing one
+        complete execution of the program
+      usefull questions:
+         what is the expected input and output
+         how will errors be handled
+         how will the program be used
+   [Program Design]
+      a program's specification describes what a
+        program does, not how it does it
+      disign phase: evaluating how a program will
+        accomplish its specified task
+   [Abstraction]
+      A model of a complex system that includes only
+        the essential details
+      programs are abstractions
+      simplify work by hiding complex details
+   [Information Hiding]
+      the practice of hiding the details of a module
+        with the goal of controlling access to the
+        details of a module
+      Module: a cohesive system subuinit that performs
+        some share of the work
+      Iformation hiding allows programmers to focus on
+        one module at a time
+      each module should serve a single purpose
+   [Stepwise Refinement]
+      approaching a problem in stages, step by step
+      Top down
+         break problem into pieces, ddeferring details
+           as long as possible
+      bottom up
+         focus on details first and build up to the
+           high level components
+      fuctional decomposition
+         approach a program as a set of cooperating
+           functions
+      round trip gestalt
+         top down with emphasis on objects and data
+   [Visual tools]
+      abstraction, information hiding, and stepwise
+        refinement help manage complexity
+   [Design approaches]
+      [Top Down Design]
+   [Object Oriented design]
+      divide and conquer, but break down the program
+        into things instead of tasks
+      the design consists of objects, which are defined
+        by classes
+   [Verification of software correctness]
+      testing: executing a program with input designed
+        to find errors
+      debugging: investigation and removing known erros
+        from a program
+      Acceptance test: testing in a real environment
+        with real data
+      Regression test: testing athat a program is still
+        correct after being modified
+   [Verification and validation]
+      is testing enough?
+      Verification: checking that a program fulfills
+        its specification
+         are we doing the job right?
+      validation: checking that the program fulfills
+        its intended purpose
+         are we doing the right job?
+   [Run Time Errors]
+      Robustness: theability of a program to recover
+        from an error
+      run time erros can often be found with sufficient
+        testing
+      errors should be hangled gracefully instead of
+        allowing the program to crash
+   [Preconditions and postconditions]
+   precondition : condition that must be true before an
+     operation is executed
+   postcondition: a condition that will be true after
+     an operation is executed
+
+   Design First, Program Second
+   ^^^^^^        ^^^^^^^

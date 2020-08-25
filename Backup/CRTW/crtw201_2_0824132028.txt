@@ -1,0 +1,31 @@
+
+===========================================================
+	[FILE: crtw201_2.txt]
+	[DATE CREATED: Wed Aug 23 11:00:28 2017]
+	[Title: crtw try 2]
+
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	TIMESTAMPSTR:  Thu Aug 24 12:28:16 2017 
+	Last Save:     Thu Aug 24 12:28:18 2017 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+[Personality Characteristics]
+   e/i n f j/p
+
+   Extravert/Introvert
+   Intuition
+      speculative, dreamer, imaginative, gut feeling
+   Feeling
+      rely on emotions, values, morals, etc
+   Judging/percieving
+      p
+         open ended
+         perceptive
+      j
+         concluding
+         closure
+         list makers
+         outcome oriented

@@ -1,0 +1,12 @@
+	[FILE: another_test.txt]
+	[DATE CREATED: Wed Nov  4 11:07:35 2015]
+	[Title: yet another test]
+
+	TIMESTAMPSTR:  [Wed Nov  4 10:57:35 2015]
+	#####Last Save: [Wed Nov  4 11:08:48 2015]#####
+
+--[the title]--
+  a
+
+	Last Save: [Wed Nov  4 11:12:29 2015]
+

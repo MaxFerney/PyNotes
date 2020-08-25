@@ -1,0 +1,23 @@
+-did it erase everything?
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	TIMESTAMPSTR:  Tue Jan 24 12:22:21 2017 
+	Last Save:     Tue Jan 24 12:22:44 2017 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+-is there anything here?
+-line 1
+-lien 2
+   -line 3
+      -line 4
+      -line5
+   -line 6
+   -line 7
+      -line 8
+   -line 9
+-how does this work
+-why does this work
+   -all I did was add a print statement and change the
+     size of the list
+-FIXED IT

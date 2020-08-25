@@ -1,0 +1,685 @@
+
+===========================================================
+	[FILE: difd322.txt]
+	[DATE CREATED: Mon Jan 13 13:18:49 2020]
+	[Title: difd 322]
+
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	TIMESTAMPSTR:  Thu Jan 16 15:39:32 2020 
+	Last Save:     Thu Jan 16 15:39:34 2020 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+[Information Architecture]
+   organizing, structuring, and labeling
+   Understanding where things are
+   what people find
+   what is around the interface
+   what to expect; what is there to do
+      winthrop website: quick links has all of the
+        links
+      can be viewed as good or bad honestly
+
+   Context, content, and users
+   context
+      business goals, funding, culture, tech, etc
+   content
+      document, data types, volume
+   users
+      audience, etc
+   It's like a bridge builder
+
+[User Experience]
+   Making things work together seamlessly
+   sometimes known as Customer Experience
+      others say Experience Design
+   meeting the needs of the customer that allows
+     them to seamlessly achieve their goal
+   process of creating products and meaningful
+     experiences
+
+   understand context of use ->
+      specify user requirements ->
+         design solutions ->
+            evaluate against requirements
+
+   example, different types of juicers
+      some are easy to use, some are more effective,
+        some are simply fun
+
+   They Design Experiences
+    ^^^^^^^^^^^^^^^^^^^^^^^
+
+   UX is like using the item or website
+               ^^^^^
+
+
+[User Interaction]
+   How the user faces the system is User Interface
+   how the system acts on the user is User
+     Interaction
+   Basically like anything a user might interact
+     with
+   History
+      1970s
+         Command Line Interface
+      1980s
+         first GUI was developed by Xerox PARC
+         using icons
+      1984
+         Apple Macintosh personal Computer'
+
+   Basically Any Input from the user
+                  ^^^^^
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	TIMESTAMPSTR:  Tue Jan 21 15:35:55 2020 
+	Last Save:     Tue Jan 21 15:36:33 2020 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+--[Methodologies]--
+
+[Card Sorting]
+   Open and closed card sorting
+   [Open]
+      organize topics from content within website
+        into groups.
+      create categories
+      users group categories with content using
+        terms or labels
+   closed
+      predefined categories, just organizing them
+   categorization of the thoughts of the user
+   language of the user
+   discovering content and unknown
+Prototyping
+   research, production, preliminary, etc
+   sort of a visual of the idea, that can be shown to
+     others
+
+   learn by making
+      double check yourself
+   learn by failing
+      what didn't work
+   design with users
+      you translate the users need as they critique.
+   pitch ideas
+   share ideas
+      multidisciplinary
+      different viewpoints
+   test ideas
+   learn problem more
+   find questions
+      elaborate more questions
+   find solutions
+      better solutions
+
+
+   [Rapid Prototyping]
+      fast
+      not clean
+      for feedback purposes
+           ^^^^^^^^
+
+      should be rough
+      it will go into review
+      this will give you feedback
+      then use the feedback for refining
+      then Repeat the process
+
+   [Paper Prototyping]
+      Test potential problems
+         simple tasks to do
+      anticipate user
+      make each action of the task
+         catch all steps of the process
+         usability
+
+      because it is paper, you can ask a broader range
+        of users to test it (like elderly)
+      allow them draw things on the prototype
+      gives them more power and easier use of the site
+      ask what they remember, how they do things
+         what they remember of the site
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	TIMESTAMPSTR:  Thu Jan 23 15:27:58 2020 
+	Last Save:     Thu Jan 23 15:28:05 2020 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+--[Persona]--
+   common language to talk about the customer
+   represents distinct group of people
+   no standard format for persona
+   have been used for almost 20 years, mostly in the
+     field of user experience
+   [How to come up with group]
+      topic of stacks books in persona
+      might fall into a categories
+         data driven
+            deep analysis certain pattern emerged
+         institutional
+            organization target audience
+            be sure it works for current purpose
+         procedural
+            persona roles based on customer lifecycle
+            reflect their lives
+   its NOT just demographics
+      specific to an imagined user
+      persona is a fictional description of a person
+        which is nonetheless realistic
+      instead invent a person that doesnt exist
+      can combine important qualities of multiple
+        representatives of your group
+      this is based on surveys, demographics, etc
+   collecting data
+      market research
+      statistic analysis
+      user interviews
+      focus groups
+      contextual inquiries
+      collect information and generate hypotheses
+      validate hypotheses by means of survey
+   [What is it made of]
+      Name
+         give them a name that you randomly select from
+           phone book or online link
+      classification
+         try ot describe the person using one or very
+           few terms such as learner or bank account hawk
+      motivation
+         people who have similar needs are motivated by
+           those needs and form a group of users.
+         all the personas together make up the
+           motivations of people have to visit the site
+         what features should support motivations of
+           the user
+            calendar?
+            interactivity
+            share?
+      User behaviors
+         how user gets or send information
+         use action terms to describe the behavior
+      Scenarios
+         realistic scene that sets stage between site
+           and user
+            consider information the user may already
+              have
+            give some context
+               first timem home buyer and uses online
+                 banking
+               needs to check mortgage payment dates
+            what do they do with the information they
+              get from the interaction
+            try starting scenario sentence with
+               i am concerned about... so I need to...
+      Quotes
+         adding actual quotes from users will help to
+           ground the information in research as well as
+           add realistic imporession
+         do NOT just make them up  that smacks of your
+           bias
+         "If I send a customer service request, how
+           long will it take to get a real response"
+      Demographic info
+         information about demographic should still be
+           specific to a persona
+            not
+               jane is 18-25 yr old female
+            rather
+               jane is 21 and about to move to a
+                 college
+      technology skill
+         what is the level of comfort that the user has
+           wth a computer/smart phone/ electronic device
+         How much human contact to people want when
+           dealing with the organization
+         how good are they with tech?
+      Persona background
+         difference between representation of user and
+           a typical user
+         peronal background should add something to the
+           scenario
+      Photos
+         real photo
+         imagees of users that came to your research is
+           useful, but may remind you of a powerful
+           personality
+         be sure to get release information from the
+           people in the photo
+         do NOT use an illustration
+         helps make user seem real
+   [Who will use a persona]
+      web designers
+      stakeholders
+      helps to describe personas to people who aren't
+        used to them
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	TIMESTAMPSTR:  Tue Jan 28 15:41:45 2020 
+	Last Save:     Tue Jan 28 15:41:54 2020 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+--[Usability Testing]--
+   Seperate from paper prototyping sorta
+   evaluate a product/service by testing with
+     representative user
+   identify any usability problems to collect
+     qual/quant data determine the participants
+     satisfaction with the product
+   [Good Usability]
+      Simple and natural
+      speaking user's language
+      minimize memory load
+      support recal
+      constructive error messages
+      clear exits
+      support recall
+      shortcuts
+      give feedback
+      prevent errors
+      thrive consistency
+   [What to observer]
+      can they complete the task
+      how they complete a task
+      how long it takes
+      how satisfied are they
+      identify changes
+      analyze performance to know if it met your
+        usability objectives
+   [Why Usability Test]
+      Usability issues
+         all the things you typically find inn
+           testing...
+         confusing concepts
+         poor terminology
+         layout problems
+         lack of feedback
+      Missing (or non-specified) functional
+        requirements
+         needs that dev team is not aware of
+         team may mistake assumptions
+      Preference for one design alternative
+         sometimes bias towards a specific design
+      Priorities
+         no company has unlimited resources - paper
+           prototyping can sepearate got to haves from
+           nice to haves
+      issues outside the user interface
+         product is more than User Interface
+         brand and company's reputation are important,
+           as well as the context in which the product
+           will be used
+         can uncover issues beyond the user interface
+      don't make something look fancy if its actually
+        cheap, that will confuse everyone
+   [Benefits of Usability Testing]
+      Good for interative design process
+      can be small groups to get major problems
+        discovered
+      insight into the users' habits, approaches new
+        ways of looking at the site
+      >The Science and Art of User Experience at
+        Google<
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	TIMESTAMPSTR:  Tue Feb 11 15:39:59 2020 
+	Last Save:     Tue Feb 11 15:40:09 2020 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+--[Mind Mapping and Scenario Writing]--
+   [Mind Mapping]
+      graphical way to represent ideas and concepts
+      visual thinking that helps structure info
+      maps out ideas
+      [Usage]
+         note taking
+         planning
+         problem solving
+         brainstorming
+         presenting information
+         research
+         jogging creativity
+         gaining insight on complex subjects
+         studying and memorization
+      [Organize information]
+         show relationships among different pieces of
+           the whole
+         Can be like brainstorming map
+         grouping things together
+         subject -> idea -> sub ideas
+   [Scenario Writing]
+      story telling is a base for scenario writing
+      freytag's pyramid
+      [Creating]
+         who is user
+         knowing persona
+         what is motivation, expectation
+         goals
+         satisfaction
+         scenario based on goal or task
+         elaborate scenario
+         full scale task
+         what they know
+      Put people in a situation, have the user imagine
+        a situation and they are in said situation
+      elaborated scenario
+         loooong story
+         very detailed
+         almost that of a story
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	TIMESTAMPSTR:  Thu Feb 20 15:34:58 2020 
+	Last Save:     Thu Feb 20 15:35:00 2020 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+--[Usability Test]--
+   What is it and why
+      how to navigate a site
+      taking sample of typical users to ferform
+        specific tasks on a site to solicit
+         feedback
+      important difference is qualitative data you
+        collect, not just quantitative data
+   how to plan
+      incudes
+         version history, test objectivve/goals
+         research question
+         logistics
+         test script
+         pre-test
+         follow-up questions
+      organize users to participate in the test
+      LOOK ON POWER POINT NOTES (lots of info)
+      Schedule your test
+      questions will be same for every participant
+      same tone to ask
+      act the same for each test
+      should ALSO include
+         overview
+         methodoloogy (subject desighn)
+         overview of scenarios
+         taksk list
+         user profile
+         screener
+         evalueation measurews
+   how to test
+      1) All Persona Types
+      2) 8-15 Users
+      3) A variety if possible
+      Using a screener is important if you are not
+        recruiting users yourself
+      You can find people at the coffee shop but you
+        must determine first if they are eligible
+      ( pre-test: how often are they using/how adept
+        are they at using computers/browsing web/etc )
+   What to test for
+      state goals you want to achieve
+      remember WHY you are testing
+      you will draw your tasks from the goals you have
+        stated
+      findability, functionality, legibility,
+        readability, and predictability
+      usability is never used to determine aesthetic
+        qualities
+      learn their language
+         what language do the users use
+   When do we test
+      early and often
+      as early as you can in the design process
+      as often as you have a budget to do it
+      as often as time will allow
+      after the initial plan or specifications are
+        written down
+   What type of user testing method to use
+      Scope of Project
+      Purpose of Test
+      Type of feedback we are looking for
+
+
+
+      PREPARE FOR TESTING BY NEXT TUESDAY (25)
+
+
+
+      each user will have different tasks
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	TIMESTAMPSTR:  Tue Feb 25 15:34:34 2020 
+	Last Save:     Tue Feb 25 15:34:36 2020 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+3 tasks
+Same scenario
+same script
+individual AND group report
+both long report
+Individual
+   based just on the two people we do
+Group
+   gather information from all reports (should do
+     individual one first)
+Make a share drive
+   for group
+Run scenarios by her before testing
+######################################################
+
+
+--[Expert Feedback]--
+   [Cognitive Walkthrough]
+      The kinds of check that are made during the
+        walkthrough. ask questions that address
+        exploratory kind of learning
+      to do this the evaluators go through each step in
+        the task and provide a story about why that step
+        is or is not good
+      to do a walkthrough you need 4 things
+         Specific document
+            description of prototype of the system
+            doesnt have to be complete, but should be
+              fairly detailed
+            such as location and wording for a menu can
+              make a big difference
+         Tasks
+            description of the task the user is to
+              perform on the system. this should be a
+              representative task that most users follow
+         Actions
+            complete written list of the actions needed
+              to complete the task
+         Audience
+            indication of who the users are and what
+              kind of experience and knowledge the
+              evaluators can assume about them
+      given this information, the evaluators step
+        thorugh the action sequence (actions) to critique
+        the system and tell a believable story about its
+        usability
+
+      a) will user be trying to produce action
+      b) will user be able to notice correct action
+      c) once user find correct action, will they know
+        it is the right one for the effect
+      d) after the action is taken, will users
+        understand the feedback they get?
+
+      what is goal?
+      is action available
+      is goal = action
+      is there feedback?
+   [10 Heuristic Analysis]
+      10 general principles for the user interfact
+        design
+      called the heuristics because they are more int
+        the nature of rules of thumb than specific
+        usability guildlines
+      good usability
+      GOING TO BE ON TEST
+      10 analysis
+         1) Visibility of System Status
+            keep users informed about whats going on
+         2) Match between system and the real world
+            system should speak the User's Language
+         3) User control and Freedom
+            emergency exit
+            users often choose system function by
+              mistake and will need a clearly marked
+              emergency exit
+            support undo and redo
+         4) Consistency and Standards
+            Users should not have to wonder whether
+              diff words, situation, actions mean the
+              same thing
+            follow platform conventions
+         5) Error Prevention
+            even better than good error messages is
+              careful design with proevents problem from
+              occuring in the first place
+            ie: present users with a confirmation
+              option
+         6) Recognition rather than recal
+            minimize users memory load by making
+              objects, actions, and options visible
+            the user should not have to remember
+              information from one part of the dialogue
+              to another
+            instructions for user of the system should
+              be visible or easily retrievable whenever
+              appropriate
+         7) Flexibility and efficiency of use
+            Accelerators - unseen by novice user - may
+              often speed up the interaction for both the
+              expert user such that they system can cater
+              to both inexperienced and experienced users
+            allows users to tailor frequent actions
+            EXAMPLE
+               Undo, cut/copy/paste, indent/dedent
+                 shortcuts
+         8) Aesthetic and minimalist Design
+            Dialogue should not contain information
+              which is irrelevant or rarely needed
+            every extra unit of information  in a
+              dialogue competes with the revelant units
+              of information and diminishes their
+              relative visibility
+         9) Help users Recognize, Diagnose, and Recover
+           from Errors
+            Error messages should be expressed in plain
+              language (no code), precisely indicate the
+              problem, and constructively suggest a
+              solution
+            EXAMPLE
+               Constructive 404 error page, tell user
+                 what happened and what they can do next
+         10) Help and documentation
+            Even though it is better if the system can
+              be used without documentation, it may be
+              necessary to provide help and documentation
+            any such information should be easy to
+              search, focused on the users task, list
+              concrete steps to be carried out and not be
+              too large
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	TIMESTAMPSTR:  Tue Mar  3 15:38:23 2020 
+	Last Save:     Tue Mar  3 15:38:27 2020 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+potential notes for research and testing users
+   emotions translate. might not be helpful to be
+     overly excited, but also not good to negative
+   might try and keep constant tone.
+   don't use leading language
+      descriptors that are one way or another
+   do not tell them how to think
+   describe smile rather than they were happy
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+   Low profile note taking
+      like sit on floor in a corner
+      dont be more or less casual than the environment
+      do not attract attention to yourself
+   practice questions
+      make sure no leading terms in the script
+      try not to vary from the script
+      acting
+   push on questions that matter the most
+   if user is quiet, might want to start with close
+     ended question and follow up with open ended
+     question
+   suprises vs expectations
+      good suprise vs bad suprise
+         good suprise means they wont as easily forget
+           about it
+      Expected results
+         might mean they would be bored and just go
+           through without remembering or anything
+           noteworthy
+      Needs good balance. Don't be a bad suprise, but
+        don't bore them
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	TIMESTAMPSTR:  Thu Mar  5 15:32:31 2020 
+	Last Save:     Thu Mar  5 15:32:34 2020 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+   have a good idea of the site, so that you aren't
+     suprised when people do something
+      find other paths to get to achieve your tasks
+      (including search and a-z indexes)
+   if user is lost
+      give them a bit of time (3 to 5 minutes)
+      if they cannot find anything, give a hint
+         "go to first page and look around this area or
+           some technology bits"
+      allow them to search, or tell them about a back
+        button or "emergency exit"
+long report stuffs
+   prepared for -> professor
+   prepared by -> me
+   executive summary
+      like percentages, findings, overall methodologies
+      notes and comments, point out feedback from users
+   which problems were shared amongst many people
+   sort out which problems were just extraneous
+
+   executive sumarry
+      how many people
+      overall summary
+      results
+      analysis
+      summary of a to z
+   users can fail
+      but if they do help them by giving hints
+      don't write it up as them failing, but make notes
+        on what they had trouble with
+   what happened during test
+   what participants did
+      2-3 paragraphs
+      everything participants did in all of the tasks
+      [as a group, it will be about ALL participants
+        together, not as individuals]
+      as individual report, this will be about more
+        descriptive for each user tested
+   remove notes from the report
+   findings and recommendations
+      what you found
+         user had trouble on a certain point
+      what could be done to make certain portions of
+        the site better
+   put scenarios on there
+   have a LOT of exit questions
+   during the tasks, you can ask questions mid task if
+     needed
+   and you can answer them mid task as well

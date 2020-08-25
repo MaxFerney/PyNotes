@@ -1,0 +1,352 @@
+
+===========================================================
+	[FILE: crtw201_2.txt]
+	[DATE CREATED: Wed Aug 23 11:00:28 2017]
+	[Title: crtw try 2]
+
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	TIMESTAMPSTR:  Thu Aug 24 12:28:16 2017 
+	Last Save:     Thu Aug 24 12:28:18 2017 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+[Personality Characteristics]
+   e/i n f j/p
+
+   Extravert/Introvert
+   Intuition
+      speculative, dreamer, imaginative, gut feeling
+   Feeling
+      rely on emotions, values, morals, etc
+   Judging/percieving
+      p
+         open ended
+         perceptive
+      j
+         concluding
+         closure
+         list makers
+         outcome oriented
+
+
+-taylor
+   -hr concentration
+   -getting married
+-Riley
+   -human development major
+-Makeyla
+   -early childhood education
+   -love reality tv
+-Alisa
+   -Russia
+   -excersise science major
+   -only russian student here
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	TIMESTAMPSTR:  Tue Aug 29 12:29:22 2017 
+	Last Save:     Tue Aug 29 12:29:34 2017 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+hard skills are quantifiable, something you learn on
+  the job
+   math, science, etc,
+   job experience
+   speaking a foreign language
+   specializations
+   typing speed
+   programming
+   tangible
+soft skills
+   intangible
+   communication skills
+   interpersonal skills
+   persuasion
+   Problem Solving Abilities
+   time management
+   teamwork skills
+   work ethic
+
+
+   making mistakes and being able to learn from your
+     mistakes
+
+
+
+INVENTORY
+   1) Male
+   2) United States
+   3) Vermont
+   4) No
+   5) No
+-inventory
+   -Gender: Male
+   -born: US
+   -born: VT
+   -most of life in birthplace: No
+   -church: no
+   -suporter of no political party
+   -liberal: yes
+   -conservative: no
+   -believer in no faith
+   -always lived in south: No
+   -Computer science major
+   -family member in military: yes
+   -attended: JL Mann HS
+   -attend: WU
+   -grew up in suburbs: yes
+   -newspaper read: no
+   -national news: no
+   -last book I read: mistakes were made (but not by me)
+      -I was 19 when I finished the book
+
+
+
+-Writing Prompt
+   -must be turned in
+   -NEXT TUESDAY (9/5)
+
+   -left hand corner
+      -name
+      -mcduffie
+      -crtw-201-12:30TR
+      -date
+   -center
+      -make a title
+   -1-1.5 pages
+   -typed
+   -double spaced
+   -11-12 pt. font
+
+   -after reading chapter one of nosich
+
+   --
+      -Describe what you believe to be your biggest
+        impediment to critical thinking
+      -also:
+         -Discuss how you think this impediment will
+           cause challenge for you as you kwork to
+           develop stronger critical thinking skills
+
+      -evidence that your thinking about this in depth
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	TIMESTAMPSTR:  Thu Aug 31 12:27:28 2017 
+	Last Save:     Thu Aug 31 12:28:16 2017 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	TIMESTAMPSTR:  Thu Sep  7 12:41:48 2017 
+	Last Save:     Thu Sep  7 12:41:51 2017 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	TIMESTAMPSTR:  Tue Sep 12 12:31:29 2017 
+	Last Save:     Tue Sep 12 12:31:32 2017 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+--[Logical Fallacies]--
+   [Post Hoc]
+      -Post Hoc, Ergo Propter Hoc
+      -After This, Therefore also this
+   [Hasty Generalizations]
+      -make basis of not a lot of information
+      -becauuse destiny 2 had 58% less sales than
+        destiny 1, then it means it was worse. this
+        doesnt include the 1.2 million concurrent players
+   [Sweeping Generalization]
+      -make too much out of too little
+      -uses all, must, always, etc.
+      -"All fast food is fattening
+   [False Analogies]
+      -reach a conclusion by comparing one thing to
+        another
+      -because these two things are true, why cant this
+        be true as well
+         -false analogy because it does not include the
+           deeper reasons or some externalities
+      -Forcing students to attend culteral events is
+        like hearding cattle to slaughter
+         -the students stampede into the event where
+           they are systematically put to sleep by the
+           program
+   [Red Herrings]
+      -too little revelence to the argument at hand
+      -changing the question at issue
+   [Either or arguments]
+      -one or the other, no middle ground
+      -this is itself a falacy
+      -we go to point a or we dont go anywhere at all
+   [slippery slope]
+      -one thing will lead to another no matter what
+      -little evidence to support it
+   [Bandwagon]
+   --
+      -popular
+   [Ad Hominem]
+      -attacking the opponent
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	TIMESTAMPSTR:  Tue Sep 19 12:45:14 2017 
+	Last Save:     Tue Sep 19 12:45:20 2017 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	TIMESTAMPSTR:  Tue Sep 26 12:32:35 2017 
+	Last Save:     Tue Sep 26 12:32:38 2017 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+in class writing
+   october 3
+   can bring introduction paragraph with thesis.
+   can bring 1 page as outline for whole paper
+
+   topic:
+   [Concept of Education]
+      What Purpose does the educational system serve
+      What are the goals
+      what we want the system to accomplish
+
+      (include that info learned that schools were set
+        up to teach children for factory work
+
+      how educational practices DISCOURAGE critical
+        thinking
+         pg 21 nosich
+      can use external sources, but this is NOT a
+        research argumentative
+
+
+      Examples
+         purpose to train a labor force
+         to train students how to "Live in Society"
+         keep children off of the streets and safe
+
+      NOT responsible of HOW this can be done, it is
+        for what it should be
+
+   intro, thesis, claim
+   then 2 supporting points
+   3 body paragraph should be concession
+      allow people to argue your point
+      if someone doesnt agree with me what would they
+        think
+
+   >Ideas<
+      rotc properly trains some in leadership skills
+      good education
+
+   5 paragraph paper
+   concession is conceding points
+
+
+   2 to 3 pages handwritten
+   can type up \t intro
+
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	TIMESTAMPSTR:  Tue Oct 24 12:58:37 2017 
+	Last Save:     Tue Oct 24 12:58:41 2017 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+
+
+--[beckwith]--
+   [example from text]
+      [examples]
+
+   Primary Colors
+   "oo"
+   Use of Rhyming
+   story telling
+   "Little vs Big"
+
+   story behind 60 minutes
+      ,-
+
+   Primary Colors
+      cereal boxes
+      google
+      walmart
+      chrome
+      america
+      many corporate logos
+   "oo" sound
+      scooby doo
+      blues clues
+      doctor who
+      zoom
+      the who (band)
+   rhyming 
+      tootsie roll
+      intel inside
+      best part of waking up is a cup with folgers
+        inside
+-(homework
+   -go to www.superbowl.commercials.org (use 2017 and
+     2016)
+   -ones that relate to childhood
+   -storytelling)
+   -write it down()
+   -www.superbowl-commercials.org
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	TIMESTAMPSTR:  Thu Oct 26 12:29:28 2017 
+	Last Save:     Thu Oct 26 12:29:44 2017 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	TIMESTAMPSTR:  Tue Nov  7 13:22:14 2017 
+	Last Save:     Tue Nov  7 13:22:17 2017 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	TIMESTAMPSTR:  Thu Nov  9 12:38:01 2017 
+	Last Save:     Thu Nov  9 12:38:07 2017 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+malcolm gladwell  - > spaghetti - Happiness
+
+
+Seth Godens
+   how to spread your idea
+
+   things are remarkable, those are what sell
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	TIMESTAMPSTR:  Tue Nov 14 13:22:15 2017 
+	Last Save:     Tue Nov 14 13:22:17 2017 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	TIMESTAMPSTR:  Sat Jan 13 00:33:11 2018 
+	Last Save:     Sat Jan 13 00:34:38 2018 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+hello world
+         lkjjdfla slakjjsfa lasdjf sldkfja dlsk awed
+           sak4

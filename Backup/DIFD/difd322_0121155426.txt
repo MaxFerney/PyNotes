@@ -1,0 +1,132 @@
+
+===========================================================
+	[FILE: difd322.txt]
+	[DATE CREATED: Mon Jan 13 13:18:49 2020]
+	[Title: difd 322]
+
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	TIMESTAMPSTR:  Thu Jan 16 15:39:32 2020 
+	Last Save:     Thu Jan 16 15:39:34 2020 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+[Information Architecture]
+   organizing, structuring, and labeling
+   Understanding where things are
+   what people find
+   what is around the interface
+   what to expect; what is there to do
+      winthrop website: quick links has all of the
+        links
+      can be viewed as good or bad honestly
+
+   Context, content, and users
+   context
+      business goals, funding, culture, tech, etc
+   content
+      document, data types, volume
+   users
+      audience, etc
+   It's like a bridge builder
+
+[User Experience]
+   Making things work together seamlessly
+   sometimes known as Customer Experience
+      others say Experience Design
+   meeting the needs of the customer that allows
+     them to seamlessly achieve their goal
+   process of creating products and meaningful
+     experiences
+
+   understand context of use ->
+      specify user requirements ->
+         design solutions ->
+            evaluate against requirements
+
+   example, different types of juicers
+      some are easy to use, some are more effective,
+        some are simply fun
+
+   They Design Experiences
+    ^^^^^^^^^^^^^^^^^^^^^^^
+
+   UX is like using the item or website
+               ^^^^^
+
+
+[User Interaction]
+   How the user faces the system is User Interface
+   how the system acts on the user is User
+     Interaction
+   Basically like anything a user might interact
+     with
+   History
+      1970s
+         Command Line Interface
+      1980s
+         first GUI was developed by Xerox PARC
+         using icons
+      1984
+         Apple Macintosh personal Computer'
+
+   Basically Any Input from the user
+                  ^^^^^
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	TIMESTAMPSTR:  Tue Jan 21 15:35:55 2020 
+	Last Save:     Tue Jan 21 15:36:33 2020 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+--[Methodologies]--
+
+[Card Sorting]
+   Open and closed card sorting
+   [Open]
+      organize topics from content within website
+        into groups.
+      create categories
+      users group categories with content using
+        terms or labels
+   closed
+      predefined categories, just organizing them
+   categorization of the thoughts of the user
+   language of the user
+   discovering content and unknown
+Prototyping
+   research, production, preliminary, etc
+   sort of a visual of the idea, that can be shown to
+     others
+
+   learn by making
+      double check yourself
+   learn by failing
+      what didn't work
+   design with users
+      you translate the users need as they critique.
+   pitch ideas
+   share ideas
+      multidisciplinary
+      different viewpoints
+   test ideas
+   learn problem more
+   find questions
+      elaborate more questions
+   find solutions
+      better solutions
+
+
+   [Rapid Prototyping]
+      fast
+      not clean
+      for feedback purposes
+           ^^^^^^^^
+
+      should be rough
+      it will go into review
+      this will give you feedback
+      then use the feedback for refining
+      then Repeat the process

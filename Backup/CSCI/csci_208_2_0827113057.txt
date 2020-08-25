@@ -1,0 +1,89 @@
+
+===========================================================
+	[FILE: csci_208_2.txt]
+	[DATE CREATED: Tue Aug 21 12:32:16 2018]
+	[Title:  ]
+
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	TIMESTAMPSTR:  Mon Aug 27 10:54:54 2018 
+	Last Save:     Mon Aug 27 10:56:55 2018 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+--[The software process]--
+   [Software Engineering]
+      a disciplined approach to the design production,
+        and maintenance of computer programs
+      [Software Life Cycle]
+         Problem analysis
+         requirements elicitation
+         High- and low-level design
+         implementation of the design
+         testing and verification
+         Delivery
+         Operation
+         Maintenance
+   [Programmer Toolboxes]
+      Hardware: computers and other devices
+      software...
+   [Algorithm]
+      logical sequcence of descrete steps
+   [Goals of Quality Software]
+      it works
+      it can be modified without excessive time and
+        effort
+      it is reusable
+      it is completed on time and within budget
+   [Quality Software Works]
+      requirements: describe the service it proides
+      specification: written document that tells what a
+        program does, but not how
+      it must do everything explained in the
+        specification
+   [Quality software can be modified]
+      changes may occur during the design, coding, and
+        testing phases
+      bug fixes and small changes are made during the
+        maintenance phase
+      easily modified programs are readable, well
+        documented, aand easily understood by other
+        humans
+   [Quality software is reusable]
+      spend extra effort to make components more
+        general now in order to save time later
+      using code that is already designed implemeted ,
+        and tested allows programmers to focus on the
+        rest of the program
+      this does not require extra effort during
+        specification and design phases
+   [sOFTWARE sPECIFICATIONS]
+      The specification describes what servicees a
+        program should provide based on the users'
+        requirements
+      scenario: sequence of events describing one
+        complete execution of the program
+      usefull questions:
+         what is the expected input and output
+         how will errors be handled
+         how will the program be used
+   [Program Design]
+      a program's specification describes what a
+        program does, not how it does it
+      disign phase: evaluating how a program will
+        accomplish its specified task
+   [Abstraction]
+      A model of a complex system that includes only
+        the essential details
+      programs are abstractions
+      simplify work by hiding complex details
+   [Information Hiding]
+      the practice of hiding the details of a module
+        with the goal of controlling access to the
+        details of a module
+      Module: a cohesive system subuinit that performs
+        some share of the work
+      Iformation hiding allows programmers to focus on
+        one module at a time
+      each module should serve a single purpose

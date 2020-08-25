@@ -1,0 +1,100 @@
+
+===========================================================
+	[FILE: csci211..txt]
+	[DATE CREATED: Mon Jan  8 14:01:29 2018]
+	[Title: Assembly]
+
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	TIMESTAMPSTR:  Mon Jan  8 14:00:20 2018 
+	Last Save:     Mon Jan  8 14:03:43 2018 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+--[Computer Organization/Architecture]--
+   -logic gates
+      -and
+      -or
+      -not
+   -processor
+   -memory
+   -io interface
+
+   [Instructions]
+      -instrctions are in memory
+         -fetch instruction, then execute it
+            -fetch execute cycle
+         -More detailed
+            -fetch instruction
+            -fetch operands
+            -execute instruction
+            -save result
+            -determine next instruction
+   [Processor Components]
+      -Datapath
+         -Hardware that electrons flow through to accomplish
+           an instruction
+      -Control
+         -Tells hardware what to do and when to do it
+      -Registers
+         -Small amount of memory (32 4-bte for FIPS) that can
+           be operated upon
+         -This is also known as RAM or Rapid
+           Access Memory
+      -one byte can hold 256 numbers
+      -32 bits or 4 bytes in a word
+   [What's Inside]
+      -Everything n the computer is represented with 0s
+        and 1s (on-off)
+         -integers
+         -characters
+         -boolean
+         -float
+         -instructions
+
+      -Bits are bits
+         -it determines how to use it by the context or
+           how it is used
+         -does not know anything about data types
+   [Languages]
+      -Machine Language
+         -Just 0s and 1s
+         -very hard to program
+      -Assembly
+         -Symbolic for machine language
+         -Easy to create a program to translate from
+           assembly language to machine language (almost
+           1 to 1)
+         -Keeps track of variables' addresses
+   [Why Learn Assembler]
+      -Understand what the machine does
+         -helps you learn to be a better guesser
+      -Needed to write a compiler (431)
+      -Needed to build CPUs
+      -Faster to execute
+      -to determine timeing
+      -Gives you the power to access anything
+      -Maintaining older systems
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	TIMESTAMPSTR:  Wed Jan 10 13:55:01 2018 
+	Last Save:     Wed Jan 10 13:55:04 2018 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+   [Why not use Assembly]
+      -tedious
+      -error prone
+      -slow to write
+      -machine dependent
+      -good compilers produce fast code already
+   [MIPS CPU]
+      -Used in many systems
+         -SGI workstations
+         -Sony PS2
+         -Dish Network set top box
+         -Tivo DVR
+         -Pioneer Plasma TV
+         -HP Color laser printer
+         -Many More

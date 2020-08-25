@@ -1,0 +1,62 @@
+
+===========================================================
+	[FILE: Math101.txt]
+	[DATE CREATED: Mon Aug 15 14:19:27 2016]
+	[Title: Precalculus and Trigonometry Notes]
+
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	TIMESTAMPSTR:  Wed Aug 24 09:28:06 2016 
+	Last Save:     Wed Aug 24 09:28:09 2016 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+--[Trigonometry]--
+   for unit circle
+      initial side is on the positive of the x axis
+      Terminal side is the ending side
+
+      counterclockwise is positive rotation
+         theta angle
+      Clockwise is negative rotation
+
+      angles are determined from initial side to
+        terminal side
+      Coterminal Angles
+         2 angles that start at the initial side end up
+           in the same terminal side
+         if negative rotation, angle is negative
+   Arclength
+      c=2(pi)r
+      for the arclength of theta angle
+         c = 2(pi)r * (theta/360)
+
+   Radians
+      radian is center angle of a unit circle
+        corresponding to a unit arclength
+
+      s = (pi/180) * theta
+         if the angle 135 degrees
+            135 * (pi/180)
+            in radians, = 3pi/4
+         if the angle 2pi/9 radians
+            2pi/9 * 180/pi = 40 degrees
+
+
+   Area
+      areas of a sector
+         ...
+         formula sheet, understand the trig sheet on
+           blackboard
+
+
+For class on monday
+   Bring Colored Pencils to Class
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	TIMESTAMPSTR:  Wed Aug 31 09:22:20 2016 
+	Last Save:     Wed Aug 31 09:22:23 2016 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+

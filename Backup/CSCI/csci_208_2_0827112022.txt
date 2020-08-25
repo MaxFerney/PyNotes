@@ -1,0 +1,52 @@
+
+===========================================================
+	[FILE: csci_208_2.txt]
+	[DATE CREATED: Tue Aug 21 12:32:16 2018]
+	[Title:  ]
+
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	TIMESTAMPSTR:  Mon Aug 27 10:54:54 2018 
+	Last Save:     Mon Aug 27 10:56:55 2018 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+--[The software process]--
+   [Software Engineering]
+      a disciplined approach to the design production,
+        and maintenance of computer programs
+      [Software Life Cycle]
+         Problem analysis
+         requirements elicitation
+         High- and low-level design
+         implementation of the design
+         testing and verification
+         Delivery
+         Operation
+         Maintenance
+   [Programmer Toolboxes]
+      Hardware: computers and other devices
+      software...
+   [Algorithm]
+      logical sequcence of descrete steps
+   [Goals of Quality Software]
+      it works
+      it can be modified without excessive time and
+        effort
+      it is reusable
+      it is completed on time and within budget
+   [Quality Software Works]
+      requirements: describe the service it proides
+      specification: written document that tells what a
+        program does, but not how
+      it must do everything explained in the
+        specification
+   [Quality software can be modified]
+      changes may occur during the design, coding, and
+        testing phases
+      bug fixes and small changes are made during the
+        maintenance phase
+      easily modified programs are readable, well
+        documented, aand easily understood by other
+        humans

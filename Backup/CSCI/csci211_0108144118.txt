@@ -1,0 +1,44 @@
+
+===========================================================
+	[FILE: csci211..txt]
+	[DATE CREATED: Mon Jan  8 14:01:29 2018]
+	[Title: Assembly]
+
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	TIMESTAMPSTR:  Mon Jan  8 14:00:20 2018 
+	Last Save:     Mon Jan  8 14:03:43 2018 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+--[Computer Organization/Architecture]--
+   -logic gates
+      -and
+      -or
+      -not
+   -processor
+   -memory
+   -io interface
+
+   [Instructions]
+      -instrctions are in memory
+         -fetch instruction, then execute it
+            -fetch execute cycle
+         -More detailed
+            -fetch instruction
+            -fetch operands
+            -execute instruction
+            -save result
+            -determine next instruction
+   [Processor Components]
+      -Datapath
+         -Hardware that electrons flow through to accomplish
+           an instruction
+      -Control
+         -Tells hardware what to do and when to do it
+      -Registers
+         -Small amount of memory (32 4-bte for FIPS) that can
+           be operated upon
+         -This is also known as RAM or Rapid
+           Access Memory

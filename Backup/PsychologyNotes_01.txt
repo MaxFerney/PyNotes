@@ -1,0 +1,2571 @@
+[FILE: PsychologyNotes_01.txt]
+*Biology And Behavior
+*Modules 3 & 4
+*Nervous system:
+*>Neurons:
+*>>Cell body
+*>>dendrites(recieve info from other neurons)
+*>>axon(long structure connected to cell body, sends
+electrical currents)
+*>>Myelin sheath(acts as insulator, increases speed of
+pulses, on some neurons)
+*>>terminal branches of axon(sends out signals)
+*>Types of Neurons:
+*>>3 types:
+*>>1) sensory
+*>>2) motor
+*>>3) interneuron
+*>>1) send signals to brain
+*>>2) sends signals from brain to muscles
+*>>3) connect between other neurons(only located in
+brain and spinal column)
+*>How they transmit info:
+*>>action potential(sends info)
+*>>occurs through electically charged ions
+*>>>resting(abundance of positively charged ions)
+*>>>active (abundance of negatively charged ions)
+*>>produced when a signal is great enough to exceed the
+threshold
+*>>intensity
+*>>>rate of firing
+*>>>number of neurons firing
+*>Neural Communication:
+*>>Signals can be:
+*>>>Excitatory(begin an action)
+*>>>Inhibitory(stop doing something)
+*Keeping things in balance= Homeostasis
+*What happens when you touch a hot stove?
+*>reflexive response to pain
+*>directly at spinal cord
+*>(reflex before swear)
+*Neural Communication:
+*>electrical imulses(action potentials) travel from one
+neuron to another
+*>Neurotransmitters are released when the action
+potential reaches the axon terminal at the end of the
+neuron
+*>there is a small space at between terminal branch and
+dendrites. this space is clalled the synaptic gap
+*>they then cross the synaptic gam and open tiny
+channels on the dendrites of recieving neuron.
+*Reuptake
+*>extra neurotransmitters get taken back to the axon
+terminal
+*Blocking Reuptake
+*>Blocks reuptake of neurotransmitters into axon
+terminal.
+*Divisions of The Nervous System:
+*>Nervous System
+*>A) Peripheral
+*>A1 Somatic(have control over)
+*>A2 Autonomic(heart)
+*>A2>>sympathetic
+*>A2>>>activating, like stress, fight or flight response,
+no logic, survival response.
+*>A2>>parasympathetic, calming response
+*>B) Central
+*Central Nervous System:
+*>Comprised of brain and spinal cord
+*>ascending tracts send sensory information up to the
+brain
+*>Descending tracts send motor responses down through
+the spinal cord
+*Endocrine System
+*>interconnected with the nervous system
+*>secrete hormones as chemical messengers.
+*>Brain>pituitary gland> other glands>hormones>brain
+*END NOTES
+*hello world
+*new line
+*
+
+TIMESTAMPSTR:  Thu Sep  3 17:01:32 2015
+*
+*---The Brain---
+*
+*Parts of the brain:
+*Brainstem, cerebellum, thalamus, limbic system,
+cerebral cortex
+
+TIMESTAMPSTR:  Thu Sep  3 17:01:32 2015
+*
+*Brainstem and thalamus:
+*>medulla
+*>pons
+*
+*>Medulla
+*>>heartbeat & respiration
+*>Pons
+*>>coordination of movement, relays to cerebellum
+*>
+*>reticular formation
+*>>arousal & alertness
+*>>without it, it would be like coma))
+*>thalamus
+*>>acts like relay station
+*
+*from bottom to top-
+*medulla, pons, reticular formation
+*thalamus
+*>thalamus
+*>>relay station
+*>>receives info from all sensory organ except smell
+*
+*cerebellum:
+*>principal functions:
+*>>coordination voluntary movement
+*
+*Limbic System:
+*>HYpothalamus, pituitary gland
+*>amygdala
+*>hippocampus
+*
+*>Hypothalamus
+*>>maintenance functions-
+*>>>regulates hunger, thirst, body temp, sexual behavior
+*>>reward center of brain
+*>Amygdala
+*>>(experiments done by: Kluver & bucy)
+*>>leision
+*>>fear and aggression
+*
+*>Hyppocampus
+*>>memory
+*>>>facts or episodes
+*>>long term memory
+*
+*Cerebral cortex
+*>Compromised of four lobes:
+*>>frontal, temporal, parietal, occipital
+*>Contrilateral functioning
+*>>right half of brain controls opposite side of body, &
+vice versa
+
+TIMESTAMPSTR:  Thu Sep  3 17:01:32 2015
+*>Frontal lobe
+*>>contains
+*>>>Motor cortex
+*>>and association areas:
+*>>>responsible for:
+*>>>>planning
+*>>>>judgement
+*>>>>impulse control
+*
+*>Parietal Lobes
+*>>contains
+*>>>sensory cortex
+*>>>>recieves information from body
+*>>>and association areas:
+*>>>>responsible for:
+*>>>>>integrating sensory information
+*
+*temporal and occipital lobes
+*>>temporal
+*>>>contains auditory cortex
+*>>>>used when hearing something, recieving audio
+information
+*
+*hemispheric specialization:
+*>corpus callosum - allows both sides of your brain to
+communicate with one another
+*left hemisphere
+*> language
+*right hemisphere
+*> visual-spatial/perceptual tasks
+*
+
+TIMESTAMPSTR:  Thu Sep  3 17:01:32 2015
+*Brain Plasticity
+*>the ability of the brain tissue to talke on new
+functions
+*>>examples
+*>>>split-brain surgeries
+*>>>hemisphere removals
+*>>>amputees
+*>Greatest in childhood
+*>important if parts of the brain are damaged or
+destroyed
+
+TIMESTAMPSTR:  Thu Sep  3 17:01:32 2015
+
+TIMESTAMPSTR:  Thu Sep  3 17:01:32 2015
+
+
+TIMESTAMPSTR:  [Fri Sep  4 21:54:41 2015]
+Last Save: [Fri Sep  4 21:56:06 2015]
+
+	TIMESTAMPSTR:  [Tue Sep  8 17:03:05 2015]
+	Last Save: [Tue Sep  8 17:04:52 2015]
+
+*modules 6 & 8
+*
+*Examining Sleep
+*        why do we sleep?
+*        what happens
+*        what happens if we go without sleep
+*        why do we dream
+*
+*What reguates our sleep/wake cycle
+*>circadian rhythm
+*>operates on a 24 hour cycle
+*.activated by light(natural or artificial)
+*>light triggers area of the brain that controls the
+circadian clock
+*>>regulates the production of melatonin
+*>>sleep inducing
+*
+*Circadian rhythms
+*>when light  enters eye, goes to optical nerve, and
+then to the suprachiasmatic nucleus. this affects the
+amount of melatonin(sleep) in the brain.
+
+	Last Save: [Tue Sep  8 17:12:20 2015]
+*
+*Sleep
+*>also operates according to a biological rhythm
+*>occurs in 90 inute cycles
+*>4 differnt sleep stages
+
+	Last Save: [Tue Sep  8 17:18:19 2015]
+*measuring sleep activity
+*>left eye oveets
+*right eye movements
+*emg(muscle movements)
+*eeg(brain activity
+*
+*sleep transition
+*>instant transition
+*
+*awake, alert
+*>beta waves
+*>alpha waves
+*>evidence sleep spindles(bursts ofativity
+*)
+*>slow wave sleep
+*>rapid eye movement
+*
+*awake,alert
+*awake, relaxed
+*stage 1 NREM-1
+*>lasts about 5 minutes
+*>like sensation of falling
+*stage 2 NREM-2
+*>clearly asleep
+*stage 3
+*stage 3 NREM-3
+*>known as deep sleep
+*>sleep walking, night terrors
+*stage 4 REM
+*>breathing irregular
+*>dreaming in a storylike way
+*>motor cortex is very active, but brainstem is still
+blocking the motor nerves
+*>paradoxical sleep
+*>>brain active, but body inactive
+*>lasts about 10 minutes
+
+	Last Save: [Tue Sep  8 17:31:42 2015]
+
+	Last Save: [Tue Sep  8 17:42:17 2015]
+*Why do we sleep?
+*>reuperation/restoration
+*>memory consolidation
+*>growth and development
+*
+*restorative function
+*>helps repair cell damage
+*>when body metabolizes glucose, molecules called Free
+Radicals are formed
+*>>can cause damage to cells(including brain cells)
+*>>known as oxidative stress
+*>body combats free radicals with neutralizing enzymes
+*>>breaks down free radicals ito componentstat are
+harmless
+*>when deprived of sleep, levels of neutralizing enzymes
+drop.
+
+	Last Save: [Tue Sep  8 17:49:18 2015]
+
+	Last Save: [Tue Sep  8 17:50:42 2015]
+
+
+	Last Save: [Tue Sep  8 17:51:17 2015]
+
+
+	Last Save: [Tue Sep  8 17:51:46 2015]
+
+*Restorative Function
+*>sleep may also contribute to new cell growth in the
+brain
+*>new neurons continue to grow throughout life
+*>>particularly in an area of the hippocampus
+*>sleep deprivation found to impede this new growth
+*
+*Memory Consolidation
+*>slow wave sleep may serve in emory consolidation
+*>may help brain to recover from a long day spent
+learning
+*>>while awake, connections between neurons are
+constantly changing
+*>>>strengthening and weakening through active and
+passive learning
+*>>slow-wave sleep weakens all neural connections, so
+that unnecessary inforation may be disarded and space
+is freed up
+
+	Last Save: [Tue Sep  8 17:57:55 2015]
+
+*Growth and development
+*>pituitary gland releases HGH during stage 3 sleep
+*>as we age, we release less of this hormone and spend
+less time in deep(stage 3) sleep
+*>also relationship between REM and development
+*
+*Why do we dream:
+*>according to freud:
+*>>form of wish fulfillment
+*>>provides safe outlet for inappropriate wants and
+desires
+*>>manifest content- the "story line". consored,
+symbolic version of the real content
+*>>latent content- underlying meaning. stuff that would
+be to anxiety provoking if it were expressed directly.
+*
+
+	Last Save: [Tue Sep  8 18:11:21 2015]
+
+*why do we dream:
+*///////
+*necissity of REM sleep:
+*>REM rebound
+*>>your body spends more time in rem sleep
+*>global experience of REM in all mamals and in most
+anials where behavior is influenced by learning
+*//read rest in book
+
+	Last Save: [Tue Sep  8 18:14:31 2015]
+
+*test
+
+	Last Save: [Tue Sep  8 18:48:49 2015]
+
+*--[Module 8: Drugs and Consciousness]--
+
+	TIMESTAMPSTR:  [Thu Sep 10 16:57:42 2015]
+	Last Save: [Thu Sep 10 17:02:16 2015]
+
+*--[Module 8: Drugs and Consciousness]--
+*What drives drug use?
+  *Distraction
+  *Boredom
+  *Curiosity
+  *Peer Pressure
+  *Relaxation
+  *Dependent
+    *cant function without it
+    *withdrawal
+    *compulsivity
+      *have to have it
+    *continued use despite negative consequences
+    *tolerance
+      *needs more substance for continued effect
+        *this is called: neuroadaptation
+  *it is driven by our desie for altering our state of 
+  *consciousness
+
+	Last Save: [Thu Sep 10 17:10:27 2015]
+
+*Effects of drug use
+  *tolerance- neuroadaptation
+  *withdrawal symptoms
+  *Dependence
+    *Physiological
+    *Psychological
+  *Addiction
+    *Compulsive craving and use of a substance despite
+    *adverse consequences
+    *Often associated with withdrawal symptoms
+*How drugs operate
+  *Most work by affecting the synaptic transmission
+  *fall into 2 categories
+    *agonist- facilitate neurotransmitter effects
+      *by mimicking a neurotransmitter
+      *or by blocking reuptake(at sending neuron)
+    *antagonists
+      *which inhibit of block neurotransmitter
+      *By decreasing its release
+      *Or by blocking its absorption(at recieving neuron)
+  *--
+
+	Last Save: [Thu Sep 10 17:21:25 2015]
+
+*Drug Use:
+  *drugs can be swallowed, snorted, injected, or smoked
+  *route of intake impacts effects
+    *quicker route is to the bloodstream, quicker the
+    *effects
+*Drug classifications
+  *depressants
+    *slow neural activity and decrease arousal
+  *stimuants
+    *excite neural activity and increase arousal
+  *Hallucinogens
+    *Distort perceptions. induce hallucination
+*Depressants
+  *alcohol
+    *slows sympathetic nervous system
+    *disrupts memory processing
+      *Impacts hippocampus
+      *Suppression of rem sleep
+    *Lowers inhibition
+
+	Last Save: [Thu Sep 10 17:30:03 2015]
+
+  *Barbituarates
+    *tranquilizers used for general anesthesia or to sedate
+    *e.g., Nembutal, seconal, phenobarbital
+    *Some preveiously used to treat anxiety
+      *now replaced by benzodiazepines
+  *Opiates
+    *e.g., morphine, heroin, oxycodone
+    *Floods brain with artificial "feel good" chemicals
+      *mimic body's own endorphins
+    *Prescribed forms used to treat pain
+    *With misuse or abuse, brain eventually stops producing
+    *its own natural occuring opiates
+*Stimulants
+
+	Last Save: [Thu Sep 10 17:36:54 2015]
+
+*Stimulants
+  *caffeine, nicotine
+  *Methamphetamine
+    *heightened energy and euphoria
+    *triggers release of dopamine
+  *cocaine and crack
+  *rush of euphoria related to flood of dopamine, serotonin
+  *and norepinephrine
+  *ecstasy
+    *release of dopamine as well
+    *primary effect is relatedto serotonin
+      *release massive amounts of serotonin and blocks
+      *reabsorption, prolonging "feel-good flood"
+    *>
+*Hallucinogens
+  *Ecstacy(also a  stimulant)
+    *triggers release of dopamine and serotonin
+    *repeated use and its impact on serotonin
+  *marijana
+    *relaxes, disinhibits
+    *mild hallucinoginic effects
+      *increased sensitivity to color, tastes, sounds,
+      *smells
+    *LSD
+  *LSD
+    *powerful hallucinogenic
+*Why do some people use drugs regularly, while others dont?
+
+	Last Save: [Thu Sep 10 17:51:36 2015]
+
+*Why do some people use drugs regularly, while others dont?
+*Influences for Drug Use
+  *Biological
+    *evidence from twin and adoption studies
+    *presence of certain genes likely to predispose
+    *a person to becoming alcoholic
+      *may produce deficiencies in dopamine reward system
+  *Psychological and social
+    *coping ddeficits
+    *peer group/normative effects
+
+	Last Save: [Thu Sep 10 17:55:34 2015]
+
+
+	Last Save: [Thu Sep 10 17:56:28 2015]
+
+*testing
+
+	TIMESTAMPSTR:  [Tue Sep 15 16:59:35 2015]
+	#####Last Save: [Tue Sep 15 17:00:42 2015]#####
+
+*
+*
+--[Nature/Nurture Effects: Modules 5 & 13]--
+*
++
++Nature Vs. Nurture
+  +what makes who we are
+    +Genes?
+    +Environment?
+    +Both?
++Genes
+  +Segments of DNA that make up our chromosomes
+    +nucleus
+    +chromosomes
+    +DNA
+    +Gene
+    +^order from cell to genes
++Chromosomes
+  +humans have 23 pairs of chromosmes
+  +The nucleus of every cell has an entire set of these
+  46 chromosomes
+      +except for the sec cells, which only contain half
+    of the necessary 46
+        +the combination of these two cells during
+    conception provides us with all 46
+        +Each parent provides 23 of them
++Differentiating between genes and environment
+  +Use of:
+    +twin studies
+      +identical vs. fraternal
+      +raised together or apart
+    +Adoption studies
+      +comparison with biological and adoptive parents
+      and sibs
+      +
++Gene-environment interaction
+  +reciprocal relationship
+  +each both acts on, and is effected by, the other.
++Experience & Brain Development
++--->
+  +experience helps to develop neural connections
++
++
++Gender Development
++What impacts what it means to be either male of female
+  +Nature or Nurture, or Both?
+  +
+  +Nature(biology))-
+    +sense of being male of female
+  +Nurture(environmental)-
+    +how we express or interpret gender roles
++
++Genes and Gender
+  +Sex chromosomes are what determine the sex of a child
+    +two types: x and y
+      +mother can be x
+      +father can be x or y
+  +First 7 weeks of fetal development, internal sex
+  organs of male and female fetuses are identical.
+    +gene on y  chromosome controls differentiation
+    +if gonads develope into y, then they become
+    testicals
+      +
+  +once internal sex organs have developed, hormones
+  then impact gender developement
+    +do so in two ways:
+    +1. organizational effects--in utero
+      +impacts the way the brain organizes
+    +2. activational effects--in puberty
+      +brings about primary and secondary sex
+      characteristics associatied with puberty
+          +<
++
++Sex hormones and Variation
++
+  +May also play a role in variations in gender identity
+  and sexual orientation
+    +
+  +Sexual orientation = who we are attracted to
+  +gender identity = which gender we identify with
+  +
+  +similarly related to how hormones effect brain
+  organization in utero
+    +transgender individuals
+    +biologically one sex but identify as the opposite
+    gender
+      +individuals with same-sex attraction
+    +impact sex hormones have on area of hypothalamus
++
++Environment and Gender
++--->
+  +gender roles- set of behavioral expectations for
+  males and females
+    +gender-typing- degree to which we take on traditional
+  masculine of feminine roles
+      +theories of gender-typing:
+      +social learning theory
+      +gender schema theory
++Social Learning Theory
+  +Theory that children learn gender-linked behaviors
+  by:
+      +observation
+    +differential reinforcement
+  +Most children acquire a basic sense of gender
+  identity by age 2.5
+    +over attend to sex-stereotyped behaviors
++Gender Schema Theory
+  +gender schema theory
+  +(schema is way to simplify and frame info)
+    +children construct schemas to organize beliefs and
+    expectations about being male or female
+        +construction of [in-group/out-group schema]
+      +"this is what boys do... This is what girls do."
+    +Adoption of [own-sex schema]
+      +impacts what they  attend to
+  +<-
+
+	TIMESTAMPSTR:  [Tue Sep 22 16:56:18 2015]
+	#####Last Save: [Tue Sep 22 16:58:23 2015]#####
+
+--[Learning]--
++
+[Modules 18-20]
++
++Learning
+  +a relatively permanent change in behavior due to
+   [experience]
++
++How do we learn things?
+  +via experience
+    +by way of association
+      +classical conditioning
+      +operant conditioning
+    +By observation
+  +
++Classical conditioning
+  +a form of learning
+  +results from our making associations
+  +ivan pavlov and his famous dog experiments
+  +
+  +Unconditioned stimulus
+    +noise
+    +light
+    +shock
+    +smell of food
+  +Unconditioned response
+    +startle reaction
+    +pupil dilation
+    +muscle flex
+    +salivation
+  +unconditioned stumulus + conditioned stimulus(neutral
+   stimulus) = unconditioned response
+
+	Last Save: [Tue Sep 22 17:13:21 2015]
+
+  +conditioned stimulus-->conditioned response
+  +
+[terms]
++
++unconditioned stimulus(ucs) - stimulus that
+ automatically triggers a response
++unconditioned response(ucr) - unloearned naturally
+ accuring to ucs
++
+  +pavlovs dog
+    +food(ucs)
+    +salivation(ucr)
+    +
+    +tone(ns)
+    +no salivation
+    +
+    +
+    +tone(ns) + food(ucs) = salivation(ucr)
+    +tone(ns) = salivation(ucr)
+    +
+  +Real life example
+    +UCS(Jagermeister)
+    +UCR(nausea)
+    +
+    +CS(licorice smell)
+    +UCS(Jagermeister)
+    +UCR(nausea)
+    +
+    +CS(licorice smell)
+    +CR(nausea)
+    +
+  +Unconditioned is automatic, conditioned is learned
+  +
+  +Acquisition
+  +Extinction
+  +///////
+  +Acquisition
+    +CS+UCS
+  +Extinction
+    +CS alone
+  +Spontaneous Recovery
+    +not forgotten
+    +like instant Acquisition
+  +
+  +Generalization- Tendency to respond to stimuli
+   similar to the conditioned stimuli
+  +Discrimination- learned ability to differentiate
+   between a conditioned stimulus and irrelevant stimuli
+  +example of little albert(may be in book)
+  +
+    +like conditioning of phobia
+  +
+  +
+  +Treatment Applications- works at breaking
+   maladaptive/unhealthy associations or by creating
+   healthy/more adaptive associations
+  +treating:
+    -Simple phobias
+    -social phobias
+  +_..
+    +systematic desinsitivation
+      +like watching video
+      +then getting more increased
+      +
+      +It creates an extinction, to the fear
++
++
++Operant Conditioning
+  +another type of associative learning
+    +But taking into account [consequences]
+  +B. F. Skinner
+    +operant chamber
+    +skinner box
+      +learn to do specific things, use reinforcement to
+       teach
+    +Shaping
+      +teaching something to do something, and rewards
+       based on a behavior.
+      +
+      +
+      +Teaching a cat how to fetch
+  +Principles of reinforcement
+    +Reinforcement- any event that [increases] the
+     frequency of the behavior it follows.
+      +Positive reinforcement- strengthening a response
+       by adding a positive stimulus
+      +Negative reinforcement- strengthening a response
+       by removing an unpleasant stimulus
+    +
+      +positive example> getting treat or praise
+    +
+    +Examples of negative reinforcement
+      +for each item, identify:
+        +/////
+      +taking aspirin to relieve a headache
+      +----positive------------------negative
+      +----Negative------------------positive
+      +(first one is incorrect)
+    +
+    +Types of reinforcers
+    +->>
+      +primary
+        +dont require any learning to have value
+        +ie: food
+      +Conditional(secondary)
+        +learned to respond
+        +ie: earning a paycheck
+        +<00
+      +Immediate
+      +Delayed
+      +(immediate- is required)
+      +(delayed- mostly in adults)
+      +(immediate is mostly in children)
+      +
+      +Absence of reinforcement is NOT punishment
+    +Reinforcement Schedules
+      +Continuous
+      +--->
+        +every time subject does responce, reinforcement
+      +Partial(intermittent)
+        +fixed-ratio
+          +based on [fixed] number of responses
+        +Variable-ratio
+          +based on [variable] number of responses
+        +
+        +Fixed-interval
+          +based on [fixed] length of time passing
+        +Variable-interval
+          +based on [variable] length of time passing
+        +_
+        +
+          +example: attendance in this class
+
+	TIMESTAMPSTR:  [Wed Sep 23 10:25:35 2015]
+	#####Last Save: [Wed Sep 23 10:25:47 2015]#####
+
+
+	Last Save: [Wed Sep 23 10:25:49 2015]
+
+
+	TIMESTAMPSTR:  [Thu Sep 24 12:44:08 2015]
+	#####Last Save: [Thu Sep 24 16:48:03 2015]#####
+
++
+
+	Last Save: [Thu Sep 24 16:48:07 2015]
+
+    +Punishment
+      +Any event that decreases the frequency of a
+       behavior it follows
+        +Positive punishment
+          +Adding an unpleasant stimulus
+        +Negative Punishment
+          +Removing a rewarding stimulus
+  +Clinical Applications of Operant Conditioning
+    +Based on principle that voluntary behaviors are
+     strongly influenced by their consequences
+    +therefore, treatment aims to:
+      +reinforce desired behaviors
+      +withhold reinforcement for negative behaviors
+    +Behavior modification via:
+      +shaping
+      +(Successive Approximation)
+      +Token Economy
++Classical conditioning
+  +response: involuntary
+  +Acquisition: associating events
+  +Extinction
+    +cr decreases when cs is repeadedly presented alone
+  +congnitive processes
+    +defvelop expectation that cs signals arrival of ucs
++
++
+[Observational Learning]
++
+  +We learn behavior  by observing others
+  +Modeling- Process of observing specific behaviors and
+   then oimitating them
+  +Albert Bandura
+    +Famous Bobo doll experiment
+    +--->
+  +What Determines if we imitate a behavior we've
+   observed?'
+    +interest
+      +Model
+      +Behavior
+    +Outcome
+      +Reinforcement
+      +Punishment
+      +////CONTINUE LATER
+    +attention, retention, performance, and production
+    +Attention
+      +Model behavior, observer
+      +behavior
+      +observer
+    +Retention
+      +imagery
+      +language
+      +mental rehearsal
+    +Performance
+      +Observers:
+      +observer's:*
+        +Capacity
+        +Prior Experience
+    +Production
+      +Consequences:
+        +model
+        +observe
+  +Observational Learning
+    +Applications
+      +treating phobias
+      +Learning Prosocial Behaviors
+
+	TIMESTAMPSTR:  [Thu Oct  1 16:54:14 2015]
+	#####Last Save: [Thu Oct  1 17:05:46 2015]#####
+
+-
+--[motivation (modules 28-31)]--
+-
+  -motivation:
+    -need or desire that energizes of diret behavior
+[what motivates our behavior]
+[drive reduction theory]
+-
+  -to maintain homeostasis
+  -
+  -Physiological need ->
+  -Aroused State (drive) ->
+  -behavior
+  -(when need is high, aroused state is high and so is
+   behavior
+  -)
+  -incentives also lead to behavior
+  -
+-Optimal Arousal
+  -Some motivated behaviors seek to increase arousal
+  -we are motivated to maintain an optimal level
+    -not enough arousal: boredom
+    -too much arousal:   stress 
+  -
+    -sensation seeking
+    -extroversion
+    -introversion
+-what determines which needs we satisfy first
+-
+[Maslow's Heirarchy]
+-
+  -triangle diagram..
+    -(bottom to top)
+    -Physiological
+      -air, food, water, survival
+    -Safety
+      -shelter, securities
+    -belongingness and love
+      -need to connect and relationships
+      -social needs
+    -Esteem
+      -self mastery, accomplish something, be good at
+       something, experience appreciation from others
+       because of accomplishments
+    -Self-actualization
+      -best version of ourselves that we can be
+-needs
+---.
+  -hunger
+    -what causes us to feel hungry?
+      -stomach contractions
+      -(emptiness)
+      -Body Chemistry
+        -hormones that drive to eat and sensation of
+         being full
+      -The Brain
+      -
+  -Hunger and the brain
+    -Brain monitors:
+      -glucose levels
+      -appetite hormones
+    -By way of the hypothalamus
+      -(like a thermostat)
+      -Lateral
+      -ventromedial
+        -glucose is low, lateral motivates eating
+         behavior
+        -glucose is high, ventromedial depresses hunger
+        -lateral motivates
+        -ventromedial depresses
+  -Other factors effecting eating motives
+    -Culture/Conditioning
+      -culturally prescribed times for eating
+        -3 meals a day
+      -tend to like what we know
+        -food aversions
+      -tend to not like what we've had negative
+       experiences with
+    -Biology
+      -crave carbs and sweets when depressed
+        -they cause an increase in serotonin(mood boost)
+      -innate aversion to certain tastes that may be
+       harmful
+        -infants showing aversionn for sour or bitter
+      -nausea during early pregnancy
+-
+--[emotion (modules 30 & 31)]--
+-
+[emotions]
+-Expressions
+-verbal reaction
+-how do you feel
+-
+-emotion
+  -involves
+    -Psysiological arousal
+    -outward expression or behavior
+    -conscious experience(cognition)
+-Theories of emotion
+  -james-lange(1880's):
+    -"We feel sad because we cry."
+  -stimuli->phusiological arousal->
+  -percieve the arousal-> Emotion
+  -
+  -
+  -eyes
+    -sypathetic(pupils dialate)
+    -parasympathetic(pupils contract
+  -salvation
+    -sympathetic(decreases)
+    -parasympathetic(increases)
+  -
+  -Cannon-Bard(1920's):
+    -"We cry because we are sad."
+    -,,_
+  -stimuli
+  ---->
+    -both
+      -subjective experience of the emothion
+      -shysiological arousal
+      -physiological*
+  -
+  -
+  -
+  -
+  -
+[theories of emotion]
+  -schacter and singer's two-factor theory
+    -emotions compised of:
+      -physical arousal
+      -cognitive label
+      -
+      -stimuli->
+        -pysiological arousal
+        -cognitive apraisal
+      --> emotion
+      -cognitive appraisal is consciously interpret the
+       arousal
+  -
+  -Processing Fear
+  --->>
+-cognition- zajonc and le doux
+  -fear response
+    -brain needs to process quickly
+    -
+  -processing fear
+    -low road
+      -thalamus(emotional stimulus
+      --> amygdala(emotional response)
+    -high road
+      -goes to cortex in between thalamus and amygdala
+
+	TIMESTAMPSTR:  [Tue Oct  6 17:06:39 2015]
+	#####Last Save: [Tue Oct  6 17:06:52 2015]#####
+
+--[development]--
+  +conception and prenatal development
+    +fertilization
+    +-> zzygote
+    +-> blastocyst
+    +-> then implants self into wall of uterus
+    +this process takes about 2 weeks
+    +
+    +Outer Layer
+      +skin
+      +hair
+      +sweat glands
+      +nervous system
+    +Middle Layer
+      +Muscle
+      +Bones
+      +Circulatory  System
+    +Inner
+      +Internal Organs
+    +
+    +
+  +Prenatal Development
+    +Placenta delivers nutrients and oxygen to fetus
+    +also a route for exposure to harmful agents known
+     as [teratogens]
+      +things like drugs, alcohol
+      +Factors occurring prenatally can have wide-
+       ranging effects on later development
+      +First 8 weeks of pregnancy when risk is greatest
+        +essential parts of development happen in this 8
+         week period
+  +
+  +Infancy
+    +come equipped with hardwired reflexive behaviors
+     necessary for survival.
+      +rootig reflex
+      +rooting reflex*
+      +sucking reflex
+      +Distress cries
+      +Preference for faces, human voices, and mother's
+       smell or scent
+  +Infancy and Childhood
+    +motor development
+      +Brain development enables motor coordination
+        -allows for development of crawling, walking,
+         toilet training, etc.
+      +Order of Motor Development is universal
+        -but individual differences in timing
+  +Cognitive Development
+    +cognitive abilities:
+      +all of the mentail activities associated with
+       thinking, knowing, remembering, and communicating
+    +Piaget
+      +Believed a child's mind develops through a series
+       of stages in a set order
+      +organize information into schemas, using:
+        +assimilation
+        +accommodation
+        +
+        +assimilation:
+          +learn new information
+        +accommodation
+          +add new information to existing schemas
+        +
+      +Piaget's stages of cognitive development
+        +sensorimotor
+        +preoperational
+        +concrete operational
+        +formal operational
+        +
+        +
+        +Sesorimotor stage:
+          +from birth to 2 years of age
+          +understand their environment through sensory
+           and otor interactions with objects
+            +putting things in their mouth
+          +significant cognitive development in this
+           stage:
+            +object permanence
+            +stranger anxiety
+              +schemas for familiar people
+        +Preoperational Stage
+          +roughly from ages 2 to 7
+          +too young to perform mental operations
+            +lack concept of conservation
+              +conservation: when something changes in
+               mass, it doesnt change in quantity
+            +evidence egocentrism
+          +significant cognitive developments
+            +language
+            +pretend play and symbolic thinking
+              +make something represent something else
+            +begin forming a "theory of mind"
+              +part of empathy
+        +Concrete operational Stage
+          +rougly from ages 7 to 11
+          +able to use logical thinking, but only about
+           concrete events
+          +(concrete as in literal)
+          +significant cognitive developments:
+            +understanding of conservation
+            +mathematical transformations
+        +Formal operational Stage
+          +Begins around 12 years of age
+          +able to think logically about abstract
+           concepts
+          +significant cognitive developments:
+            +ability for abstract reasoning
+            +basis for forming moral reasoning
+
+	TIMESTAMPSTR:  [Thu Oct  8 17:02:03 2015]
+	#####Last Save: [Thu Oct  8 17:16:12 2015]#####
+
+  +Moral Reasoning
+    +Kohlberg
+      +sought to describe the development of moral
+       reasoning
+      +posed moral dilemmas to:
+        +children
+        +adolescents
+        +adults
+      +analyzed each age group's answers for evidence of
+       stages of moral thinking
+      +
+      +Kohlbergs theory of moral reasoning
+        +as we develop intellectually, pass through as
+         many as six stages of moral thinking
+        +begin with simplistic and concrete reasoning
+         and move toward the more abstract and
+         principled
+        +knolberg's three levels of moral development:
+          1.preconventional- to avoid punishment
+          2.Conventional- conform to social norms
+          3.Postconventional- based on personal,
+           internalized values
++--.
+  +Attachment
+  +--.
+    +A strong emotional bond to another person, or
+     animals to one another
+    +Behavioral system through which we regulate
+     emotional distress
+      +By proximity-seeking
+    +important for emotional and social development
+    +quality of early attachment experiences may impact
+     attachments in adult romantic relationships
+    +
+    +Harlow's Attachment Experiments
+      +a caregiver is an important foodsource, caregiver
+       as in a mother character
+    +
+    +Bowlbyy  and attachment theory
+      +infants are biologically hardwired to form
+       attachments and seek atachment figures for
+       support
+        +some species - rigid attachment process
+          +imprinting - occurs during critical period
+            +happens to species who are mobile directly
+             after birth who still need care
+        +Humans hardwired to engage in proximity-siiking
+         and equipped with behaviors that elicit
+         attachment (sucking, clinging, smiling,
+         vocalizing)
+          +Humans - "sensitive period" rather than
+           critical period
+            +this is rather longer than the critical
+             period, which is very short
+      +Attachment is interaction between infant
+       behaviors/temperament and parental responsiveness
+    +Attachmennt Experiments
+      +Ainsworth and the "Strange Situation"
+      +Identified three attachment styles
+        +secure
+        +insecure
+          +avoidant
+          +anxious/ambivalent
+            +when mother in room, keeping eye on mother
+            +when mother leaves and stranges enters, is
+             anxious
+            +when mother re-enters room, becomes
+             ambivalent
+            +
+            +often have inconsistant mothers, or
+             intrusive
+          +avoidant
+            +consistant
+    +Effects of attachment
+      +form "Internal Working Models"
+        +unreliable mom, less trustworthy
+      +impacts:
+        +Social Competence
+        +Basic trust
+      +Deprivation of attachment
+        +did not how to socially interact
+        +very neurotic and wierd
+      +
+    +Erikson's Psychosocial Stages
+      +Birth to 1 year
+        +trust vs mistrust
+      +1 to 3 years of age
+        +Autonomy vs shame and doubt
+      +3 to 6 years of age
+        +Initiative vs guilt
+      +6 to 12 years of age
+        +competency vs inferiority
+      +12 to 20 years of age
+        +who you would like to be
+        +identity vs role confusion
+      +20 to 40
+        +intimacy vs isolation
+      +40 to 65
+        +generativity vs stagnation
+        +generativity, contributing to the world
+      +65 and older
+        +integrity vs despair
+        +despair, regret life decisions
+        +integrity, feel good about life decisions
+        +<-0
+      +--- MUST REMEMBER ALL OF THESE STAGES ---+
+  +
+  +
+  +
+  +Adolescence
+    +period between childhood and adulthood
+    +Effects of industrialization have lengthened the
+     span of adolescence:
+      +better nutrition --> puberty begins earlier
+      +compulsory education --> marriage occurs later
+    +(adolescence is getting longer and longer)
+      +because puberty earlier and marriage later
+    +Physical Development
+      +Puberty
+      +changes in
+        +primary sex characteristics- internal and
+         external sex organs
+        +secondary sex characteristics- nonreproductive
+         sexual characteristics
+    +Cognitive development
+      +reach formal operational thinking, resulting in
+       ability for:
+        +abstract reasoning
+        +moral reasoning
+  +Adulthood
+    +Hormonal changes in middle adulthood
+      +females- decrease in estrogen and resulting
+       menopause
+        +50ish years of age
+      +Males- decrease in testosterone, effecting libido
+       and sexual performance
+    +Physical changes
+      +sensory abilities decline, as seen with changes
+       in:
+        +visual activity
+        +muscle strength
+        +reaction time
+        +sense of smell
+        +stamina
+        +hearing
+        +depth perception
+      +Health
+        +immune system weakens
+        +neurological changes, effecting:
+          +reaction time
+          +memory
+    +Effects of aging on intelligence
+      +depends on the type of intelligence being
+       measured:
+        +fluid- nonverbal abilities, such as those
+         requiring quick processing speed and abstract
+         reasoning
+        +OR
+        +Crystallized- verbal abilities, based on
+         accumulated knowledge
+
+	TIMESTAMPSTR:  [Thu Oct 15 16:55:25 2015]
+	#####Last Save: [Thu Oct 15 16:55:52 2015]#####
+
+--[Module 36: Social Psychology]--
+[Social Psychology]
+  +Interested in the social influences that affect
+   behavior
+  +Attempting to explain why the same person acts
+   differently in different situations
++Social Thinking
+  +attribution theory
+    +our need to find a casual explanation for people's
+     behavior
+    +by attributing it either to:
+      +situational factors
+      +dispositional factors
+  +Explaining our own behavior vs others
+    +fundamental attribution error
+  +effects of attribution
+    +impacts our behaviors and the way we react to
+     others
+    +example:
+      +negative behavior
+      +dispositional attribution
+        +unfavorable reaction
+      +situational attribution
+        +tolerant reaction
+  +Attitudes and Actions
+    +Attitudes
+      +feelings, typically based on our beliefs, that
+       predispose our reactions to objects, people, and
+       events
+    +can we predict how people will act by knowing what
+     their attitudes towards something are?
+    +attitudes will guide our actions, when
+      +outside influence is minimal
+        +we dont feel outside pressure from others
+      +the attitude is relevant to our action
+        +our belief matches up with what we are doing
+      +we are in tune with our attitudes
+        +we are "plugged in" to that belief
+    +how we feel impacts our behavior but our behavior
+     can also imact how er feel
+    +as seen with:
+      +foot-in-the-door phenomenon
+  +mismatch between actions and beliefs
+    +cognitive dissonance theory
+      +we experience discomfort when our actions and
+       attitudes don't coincide
+      +we act to reduce this discomfort
+      +
+      +Effects of cognitive dissonance
+        +smoking cigaretts is unhealty <-unpleasant
+         tension state-> I smoke cigarettes
+          +smoking cigaretts is unhealthy
+          +i dont smoke cigarettes anymore
+          +
+          +the research on smoking is not conclusive
+          +I smoke cigarettes
++Social Influence
+  +group pressure and conformity
+    +conformity- adjusting our behavior or thinking to
+     coincide with a group or standard
+    +how does group pressure effect our tendency to
+     conform?
+    +->>
+      +asch's conformity experiments
+        +asch's line study
+    +
+    +Conformity
+      +conditions that strengthen conformity:
+        +feelings of incompetence/insecurity
+        +group size
+        +Unanimous group opinion
+        +admiring group's status and attractiveness
+        +no prior commitment made to a response
+        +culture respects social standards
+  +Obedience
+    +milgram's experiments
+  +Significance of conformity and obedience studies
+    +help us to understand the underlying processes that
+     shape our behavior
+    +reveal how strong social influence can be
+    +its relation to corrupt and evil social behaviors
+      +Ex., Nazi Germany
+    +proximity of authoritive vigure
+    *Proximity or learner
+    +degree of value placed on the authority figure
+      +level of expertise
+      +prestige, etc.
+    +whether or not someone else did not(omit)
+  +Effects of group influence
+    +social facilitation
+    +social loafing
+      +in a group
+      +"I dont have to work hard because someone else
+       will pick up the slack"
+    +deindividuation
+      +large group, wouldnt do things I would otherwise
+       do
+      +"mob mentality"
+      +being anonymous
+    +Group Polarization
+      +in a group of like minded people, and speak on
+       that same topic, we will be more entrenched in
+       our beliefs
+      +results from discussion within a group
+      +our beliefs become more intense when we are
+       discussing them with like-minded people
+    +group think
+      +desire to maintain harmony within the group
+      +occurs in highly cohesive groups
+
+	TIMESTAMPSTR:  [Thu Oct 22 16:55:58 2015]
+	#####Last Save: [Thu Oct 22 16:56:42 2015]#####
+
+--[Memory: Modules 21-23]--
+[Memory]
+  ability to store and retrieve information
+  indication that learning has persisted over time
+  information processing:
+    encoding
+    storage
+    retrieval
+  Memory Processing
+    external events
+    -> sensory memory
+    -> working/short-term memory
+    -> long term storage
+    
+    Time, Frequency, Space
+    time
+      sequence
+    space
+    --
+    where my car is parked..
+      where my car is parked..
+  Encoding
+    automatic processing
+      unconscious encoding of incidental information
+        space; time; frequency
+    Effortful Processing
+      requires effort to encode and remember
+      impacted by:
+        rehearsal
+          repeated practice of something
+          if interrupted, it will be lost
+        spacing effect
+        serial position effect
+    Organize information to aid in encoding:
+      importance of having a context for the
+       information
+        creating meaning - semantic encoding*
+      use of mental pictures
+        mnemonic devices
+          eg., peg-word system*
+            way to help remember order of things
+            attaches a picture to each "peg"
+            very effective system***********
+      chunking
+          eg., first letter technique or acronyms
+      use of hierarchies
+          eg., creating an outline
+  What is involved with memory storage
+  storage
+    sensory memory storage
+    short-term(working)memory storage
+    long-term memory storage
+    
+    Sensory memory
+      immediate, initial recording of sensory
+       imformation
+        iconic memory (visual)
+        echoic memory (auditory)
+        
+        iconic lasts for a fraction of a second
+        echoic lasts for a few seconds
+    Working/short-term memory
+      limited in:
+        duration
+        capacity
+          can hold 7 bits of info in short term memory,
+           + or - 2
+    Long term memory
+      wirtually limitless in its storage capacity
+      two long-term memory systems
+        explicit
+          (declarative) with conscious recall
+        implicit
+          (nondeclarative) without conscious recall
+          <00
+        explicit is basically facts
+        explicit
+          facts
+          personal experience
+    --
+        Implicit
+          motor skills relative to explicit memories
+          ie: muscle memory
+          classical and operand conditioning effects
+  Retruival
+    what helps us access memories?
+      retrival cues
+      context affects
+      mood states
+      
+      
+      retrieval cues
+        priming
+          activation of associations related to the
+           material we are recalling
+          example:
+      context effects
+        we recall things best when we are in a context
+         similar to where we learned them
+      mood and memory
+        mood-congruency
+          issues of bias
+
+	TIMESTAMPSTR:  [Tue Oct 27 16:56:30 2015]
+	#####Last Save: [Tue Oct 27 16:56:48 2015]#####
+
+--[]--
+
+
+--[Sensation and Perception: Modules 15-17]--
+first page is first page of article(abstract)
+
+--[Sensatiion and Perception: Modules 15-17]--
+  what each means:
+    sensation
+      recieving physical energy from environment and
+       encoding it
+    perception
+      organize and interperet these sensations
+      <-
+      
+  How is it that we're able to do this?
+  Sensory Thresholds
+    absolute threshold
+      minimum amount of intensity that our stimulus
+       needs to perceive it
+    sound, pressure
+      absolute threshold is not always constant
+    Subliminal Stimuli
+      effects of priming
+        brain takes in visual/auditory information, but
+         still affecting experience
+      things can influence you without you realizing it
+Sensation and Perception...
+  sensory adaptation
+    habituation
+  selective attention
+    the "Cocktail Party Effect"
+    
+      attend to specifics, even though there are many
+       things else going on that may be destracting
+    cannot see two things at the same time
+Vision
+[Vision]
+  Importance of Light Energy
+    Sensory perception effected by variations in:
+      Wavelength
+        distance between two waves
+        effects 'hue' that we see
+          shorter if cool
+          longer if warm
+      Amplitude
+        height of wave
+          greater amplitude - lighter the color
+          lesser amplitude - darker the color
+        intensity of brightness
+  The Eye
+    Cornea
+      outer layer
+    Iris
+      how much light enters into eye
+      contracts and expands
+    Pupil
+      allows light to enter..
+    lens
+      changes in shape
+      as it changes, it allows us to focus an image
+    retina
+      back of the eye
+      layers of cells
+    Fovea
+    Optic Nerve
+    Blind Spot
+    
+    
+    Retina
+      3 layers of specialized cells
+        in 3rd layer, it is known as rods and cones
+          cones
+            specialized cells that detect color
+          Rods
+          Cones
+            color
+            daytime vision
+            fine detail
+            Cones are contained Only in Fovea
+          Rods
+            activated in low light conditions
+            see in low light conditions, but in less
+             detail
+            detect black, white, gray
+              rather than color
+    Color Vision
+      How does color vision occur
+      Young-Helmholts Trichromatic Theory
+        retina has three types of color receptors(or
+         cones)
+          Red
+          Green
+          Blue
+        Stimulating various combinations of these
+         receptors allows us to perceive other colors
+      Stimulating various combinations of these
+       receptors allows us to perceive other colors
+      ///
+      
+      Opponent-Process Theory
+      --.
+        they are in inner most layer of retina
+         (ganglion)
+        red/green, blue/yellow, black/white
+
+	TIMESTAMPSTR:  [Tue Nov  3 16:55:29 2015]
+	#####Last Save: [Tue Nov  3 16:56:40 2015]#####
+
+--[Stress and Health: Module 32-33]--
+  What are some examples of stressful life events?
+    unknown assignments
+    trauma
+    public speaking
+    secrets
+    death
+    finances
+    parking ticket
+    procrastination
+    
+    positives:
+    children
+    wedings
+    ..
+  
+  Stress and Illness
+    stress
+      process of appraising and coping with treats and
+       challenges
+      how we appraise an event determines whether we
+       experience it as a positive or negative stressor
+      
+      stressfull event
+        can be threat
+          panic, freeze up
+        can be threat
+        can be challenge
+        00>
+          aroused, focused
+      
+    Stress Response
+      fight or flight response(Cannon)
+        activation of sympathetic nervous system
+        release of epinephrine and norephirine
+        causes increase in:
+          heart rate
+          respiration
+          circulation in skeletal muscles
+        dulls pain and releases glucose and fat for
+         energy
+        
+        dual response system
+          autonomic nervous system releases adrenalin
+          endocrine respose.
+          adrenal glands release cortisol
+      Negative effects of prolonged stress
+      Selye's experiments with rats found:
+        enlargedment of the adrenal cortex
+        shrinkage of thymus gland
+        bleeding ulcers
+      
+      Selye realized effects were the result of stress
+       to the rat, not the substance he was injecting
+      Identified the General Adaptation Syndrome:
+        Sequence of reactions all animals experience as
+         a result of stress
+        three phases:
+          alarm reaction
+          resistance
+          exhaustion
+      General Adaptation Syndrome
+        phase 1:
+          stress occurs
+        phase 2:
+          body's resistance to stress can only last so
+           long before..
+        phase 3:
+          .. exhaustion sets in
+          reserves depleted
+      (cortisol is calming, adrenalin is energising)
+      Percieved control
+        when you have control what is happening to us,
+         we can manage stress over it:
+          if we have little to no control, we feel more
+           stressed
+  
+  Stess and the Immune System
+    can backfire:
+      by either responding too strongly
+      or not enough
+    stress also taxes the immune system
+      mking us more prone to illness
+      significance or managing stress to promote health
+  
+  Stress and Disease
+    stress contributes to the top four leading causes
+     of death
+      heart disease
+      cances
+      cancer*
+      stroke
+      chronic lung disease
+      
+    Stress and Heart Disease
+      Classic Study: Friedman & Rosenman (1956)
+        examined 3000 men, ages 35 to 59 over a 9 year
+         period
+        interviewed at outset about work and eating
+         habits
+        idendified personality styles
+          type A and type B
+            type A:
+              competitive
+            <00
+        at end of study, 257 men had suffered heart
+         attacks
+          69% or these were type A
+          not one "pure" type B had sustained an attack
+        types
+          A:
+            competitive
+            impatient
+            aggressive
+            anger prone
+          B:
+            laid back
+            calm
+            relaxed
+            easy going
+        Characteristics of Type A exacerbating risk:
+          tendency toward negative emotions
+            anger-prone response style
+            vigilant ANS - "Combat Ready"
+            Exacerbate Negative response to stress
+      
+  
+  Coping with Stress
+    Aerobic Exercise
+    Relaxation Techniques
+      Progressiv eMuscle Relaxation (PMR)
+      Deep Breathing
+      Meditation
+    Access to social support
+
+	TIMESTAMPSTR:  [Tue Nov 10 16:58:45 2015]
+	#####Last Save: [Tue Nov 10 16:58:48 2015]#####
+
+--[Personality]--
+  personality
+    difference between trait vs state
+    our characteristic patterns of thinking, feeling,
+     and acting.
+      distinct
+      consistent
+    Theories of personality
+      psychoanalytic perspective
+      trait perspective
+      humanistic perspective
+      social-cognitive perspective
+      
+      
+      Psychoanalytic Perspective
+        sigmund freud
+        
+        Theory of personality that attributes thoughts
+         and actions to unconscious motives and
+         conflicts
+        Beliees personality is shaped by early
+         childhood experiences
+        
+        Personality Structure
+          made up of three distinct, but interacting
+           parts
+            the id
+            the ego
+            the superego
+            
+            The Id
+              present at birth
+              functions in the unconscious
+                constantly wanting to satisfy basic
+                 drives
+              Operates on the pleasure Principal
+                wants immediate gratification
+                when any tension arises from an unmet
+                 need, the id attempts to discharge it
+              ,--
+            The Ego
+              based on the reality principle
+                begin to understand that other people
+                 have needs and how their behavior
+                 effects others
+                attempt to meet the needs of the Id in
+                 socially appropriate ways
+            Superego
+              Represents internalization of parental
+               and societal values
+              Harse and punitive- strives for
+               perfection
+              3 interrelated goals
+                Inhibit inappropriate Id impulses
+                Force Ego to act morally rather than
+                 rationally
+                Accomplish perfectionism
+              a harsh superego is more of a
+               perfectionist
+              a weak  superego is more antisocial, no
+               guilt..
+            power struggle
+              id is like devil on one shoulder
+              superego is like angel on the other
+              ego navigates between id and superego
+        Ego becomes overwhelmed with reconciling
+         between Id and Superego
+        -> Experience anxiety
+        -> Recruit defense mechanisms to cope
+          like rationalization
+          to cope with anxiety
+        Defense Mechanisms
+          when we experience anxiety, we can respond in
+           two ways:
+            increase rational problem solving efforts
+            use a defense mechanism
+              a distortion of reality to cope with
+               anxiety
+                consciously
+                OR unconsciously
+          
+          Repression(underlies all defenses)
+            tries to repress some problem causing
+             anxiety
+          Regression
+            regress back to an earlier developmental
+             stage
+          Reaction Formation
+            Turn something into its opposite as a way
+             to cope
+          Projection
+            Release feelings onto another
+          Rationalization
+            lessen anxiety
+          displacement
+            taking anger out on an object
+            
+            projection is dealing with said
+             object/person
+            dispacement is dealing with said
+             object/person, but on a different target
+          Denial
+            "this is not happening"
+            "it did not happen"
+      --.
+      Personality Development
+        Psychosexual Stages
+          birth to 1yr.
+            oral
+          ages 1 to 3
+            anal
+          ages 3 to 6
+            phallie
+          Age 6 to onset of puberty
+            latency
+            (dormancy)
+          genital (from puberty on)
+          
+          first 3 stages is where fixation can occur
+        Oedipus and Electra Complex
+        
+          Oediups Complex
+            Gender Identity
+              identifying with same-sex parent
+          Exectra Complex
+          electra
+            Same as oedipus.
+          oedipus is for male
+          electra is for female
+
+	TIMESTAMPSTR:  [Thu Nov 12 16:58:46 2015]
+	#####Last Save: [Thu Nov 12 16:58:51 2015]#####
+
+      
+      Assessing the Unconcious
+        use of Projective testing
+          Rorshach
+          Thematic Apperception Test
+          
+          rorshach
+            ink blot test
+    Trait perspective
+      describes personality  in terms of fundamental
+       traits:
+        characteristic pattern of behavior or
+         disposition to feel and act in a certain way
+      Use of factor analysis
+        statistical procedure used to identify clusters
+         of related items
+      Eysenck- believed mst of the variations in
+       personality traits could be organized into two
+       personality dimensions:
+        extraversion-introversion
+        emotional stability-instability(neuroticism)
+        
+          instability
+            fragility of a person
+            difficult regulating emotions
+        look up in book: Eysenck's Personality
+         Dimensions
+      The "Big Five" Model
+        Conscientiousness
+        agreeableness
+        neuroticism
+        openness
+        extraversion
+        (CANOE)
+      
+      Biology and Personality Traits
+        base levels of brain arousal
+          frontal lobe activity
+          ->
+          eg., extraverts seek stimulation because base
+           levels of arousal are low
+        Autonomic Nervous System Reactivity
+          Impacts how we respond to stress
+            eg., sensation seeking vs. anxiety
+          Influences traits of:
+            extroversion/introversion
+            degree of emotional stability/neuroticism
+          <
+          
+      Evaluating the trait perspective
+        are personality traits stable?
+        so, why don't we act the same way everywhere?
+        
+        Person-situation controversy
+          our behavior is influenced by the interaction
+           of our inner disposition with the environment
+          but which is more important?
+            our inner disposition personality?
+            or
+            the environment?
+          We may modify our behaviour to adapt to a
+           particular environment, but true personality
+           traits will tend to persist over time annd
+           across situations.
+          ***
+
+
+
+intro..
+transition into first study
+transition into second..
+conclusion
+
+formal, no bias whatsoever
+
+  in a study conducted by jones and smith(2015), the
+   content they wrote
+
+
+need cover page
+need reference page
+
+minimum of 4 - 5 pages, not including cover and
+ reference pages
+
+do not use direct quotes
+
+
+	TIMESTAMPSTR:  [Tue Nov 17 17:00:40 2015]
+	#####Last Save: [Tue Nov 17 17:00:56 2015]#####
+
+--[Psychological Disorders: Modules 32-34]--
+   What defines a psychological disorder?
+      pattern of behavior and/or emotions that:
+         is deviant
+            Not expected as normal part of development
+              or <culture>
+         Causes the individual distress
+         dauses dysfunction
+
+
+      Biospychosocial model
+         biological influences, psychological
+           influences, social-cultual influences
+         -->>> all lead to psychological disorders
+
+   Classifying Psychological Disorders
+      The Diagnostic and Statistical Manual of Mental
+        Disorders(DSM-5)
+         Provides a structured diagnostic system
+         Lists observable symptoms and criteria
+           necessary for diagnosing a particualar
+           disorder
+   Selected Psychological disorders
+      Anxiety disorders
+      personality disorders
+      mod disorders
+      schizophrenia
+
+      Anxiety Disorders
+         Mild amout of arousal is normal
+         mobilzes us for action
+         //
+         mild amout of arousal is normal
+            aids i motivation
+            moilizes us for action
+         we begin to consider the presence of an
+           anxiety disorder if anxiety levels:
+            are excessive/out of proportion
+            are persistent
+            occur in the absense of any real threat
+
+         Generalized anxiety disorder
+         panic disorder
+         phobias
+         obsessive-compulsive dissorder
+
+         Generalized Anxiety
+            Feel constantlyy anxious or worried- but
+              not sure about what
+            unable to control axiety
+            sleep disturbances
+            Difficulty concentrating or mind going
+              blank
+            muscle tension, irritability, or fatigue
+            restlessness- feeling keyed-up or on edge
+            intense enough to cause distress of
+              impairment in important functioning-
+              social, school work, etc.
+
+         Panic Disorder
+            Panic attack
+               an intense sense of panic without any
+                 direct source of danger
+            ymptoms:
+            sypmtoms*
+               heart races, sweat, feelings of
+                 smothering or choking
+               Chest pains, dizziness, lightheadedness
+               feel like you're going crazy or dying
+         Phobias
+            Persistent, irrational fear and avoidance
+              of a specific object or situation
+               specific
+               social
+               agoraphobia
+                  fear that object will appear
+                    somewhere you may go. Obsessive-
+                    compulsive disorder
+         Obsessive-compulsive disorder
+            Obsessions
+               recurring thoughts, impulses or mages
+               Experiences as intrusive
+                  and inappropriate
+               causes marked distress or anziety
+               attemts made to suppress thoughts with
+                 some other thought or action
+            Cumpulsions:
+            compulsions:
+               repetitive acts person reels driven to
+                 performin response to obsessive thought
+               aimed at reducint distress or preventing
+                 some dreaded event
+               but either not connected in a realistic
+                 way or clearly excessive
+
+         Explaining anxiety Disorders
+            the learning perspective
+               classical and perant conditioning
+                  fear conditioning
+                  reinforcement
+                  stimuus generalization
+               Observational learning
+
+            The Biological perspective
+               evolution
+               genes
+               physiology
+
+
+      Personality  Disorders
+         a pervasive pattern of behavior that is:
+            enduring
+            inflexible
+            impairs interpersonal functioning
+            onset in adolesceense or early adulthood
+            stable over time
+         10 distinct personality disorders that cluster
+           in to 3 areas based on behavior that is
+           either:
+            odd or eccentric
+            anxious of fearful
+            dramatic, emotional, or erratic
+
+               antisocial personality disorder
+                  lack empathy
+                     or guilt
+                        lack remorse
+                  pervasive pattern for and violation
+                    of the rights of others, as seen
+                    with:
+                     failure to conform to social norms
+                     decietfulness
+                     impulsivity
+                     irritability and aggressiveness
+                     reckless disregard for safety of
+                       self or others
+                     consistent irresponsibility
+                     lack of remorse fo rbehavior
+                  ability to compartmentalize
+
+	TIMESTAMPSTR:  [Thu Nov 19 17:00:21 2015]
+	#####Last Save: [Thu Nov 19 17:00:33 2015]#####
+
+
+
+      Mood Disorders
+         Come in two principal forms:
+            major depressive disorder
+            bipolar disorder
+
+            Major Depressive Disorder
+               Characterized by:
+                  Feelings of depressed mood
+                  Loss of interest in previously
+                    enjoyed activities
+                  Fatigue
+                  Sleep disturbances
+                  Feelings of worthlessness or
+                    hopelessness
+                  Difficulty concentrating
+                  Suicidal thoughts or gestures
+                  Symptoms must occur for at least two
+                    weeks
+
+            Bipolar Disorder
+               Alternate between periods of depression
+                 and intense highs called manic episodes
+               Manic episodes characterized by:
+                  Euphoria
+                  Hyperactivity
+                  Wild optimism
+                  Pressured speech
+                  Elation
+                  Little need for sleep
+
+         Biological Explanation for Mood Disorders
+            Genetic influences- runs in families
+               risk of depression and bipolar sidorder
+                 increases if one's parent or sibling was
+                 diagnosed with it prior to age 30
+               identical twins:
+                  if one twin has clinical depression,
+                    .5 chance the other twin will develop
+                    it
+                  if one twin has bipolar disorder, .7
+                    chance the other twin will develop it
+
+         Explaining Mood Disorders
+            Biological Perspective
+               Brain and neurochemisty
+                  norepinephrine
+                  serotonin
+               Use of Medication:
+                  drugs used to treat bipolar disorder:
+                    <Decrease> elevations of
+                    norepinephrine
+                  Drugs used to treat depression:
+                     <increase> levels of
+                       norepinnephrine or serotonin
+                       either by blocking reuptake or by
+                       slowing their chemical breakdown
+                       so more is available
+
+
+      Schizophrenia
+         characterized by:
+            Disorganized or delusional thinking
+            Diesturbed perceptions
+            Inappropriate epotions and/or actions
+
+
+
+         Disorganized Thinking
+            Thining is fragmented, bizarre, and
+              distorted by false beliefs
+               experience delusions(e.g., paranoid,
+                 persecutory
+            Possibly due to a breakdown in selective
+              attention
+               over-attend to irrelevant stimuli
+            Speech can be disorganized
+               eg., loose association; disjointed
+                 syntax; "word salad"
+         D
+
+         Disturbed Perceptions
+            Hallucinations
+               percieving things that are not there in
+                 reality
+               Yupically auditory, but may be visual,
+                 olfactory, or involve sensations or
+                 taste
+               typically auditory**
+         Inappropriate Emotions and Actions
+
+         Inappropriate Emotions and Actions
+            Emotions
+               May exhibit inappropriate or flat affect
+            Motor behavior
+               May perform senseless or repetitive acts
+               May display catatonic(non responsive)
+                 behavior
+
+         Possible Causes
+            Dopamine levels
+               Excess of dopamine receptors in
+                 schizophrenics
+               May intensify brain signals
+               Related to cause of hallucinations and
+                 paranoia
+
+               ***
+
+               Thorazone
+                  Dopamine
+               thorazone decreases dopamine
+               cocaine, amphetemines, meth
+                  increase dopamine levels
+               Thorazine*
+               Thorazine is an anti-psychotic
+
+               ***
+
+
+            Brain abnormalities
+               Activity
+                  Under-activity in frontal lobe
+                  Over-activity in thalamus
+               Enlarged ventricle size and shrinkage of
+                 prain tissue
+
+         two-hit Hypothesis
+            genetic predisposition and environmental
+              insult
+               express the disorder
+            environmental factors:
+               prental viral infections
+               nutritional or oxygyn deprivation
+                 stressor
+               stressor
+
+	Last Save: [Thu Nov 19 18:10:23 2015]
+
+
+	TIMESTAMPSTR:  [Tue Dec  1 17:14:18 2015]
+	#####Last Save: [Tue Dec  1 17:14:24 2015]#####
+
+
+
+--[Therapy: Modules 42 & 43]--
+   Major therapeutic perspectivs:
+      Psychoanalysis
+      Humanistic
+      Behavioral
+      Cognative
+
+      Psychoanalysis
+         subject would lay down
+         analyst would be hidden from view
+
+         The "Talking Cure"
+
+         id, superego, ego
+         ..
+         Symptoms are the result of:
+            Unconscious conflict
+            and early childhood experiences
+         Treatment centers around accessing repressed
+           content
+            to gain insight
+            resolve unconscious conflict
+
+               Methods
+               ///
+            methods
+               access unconscious material by way of:
+                  free association, and
+                  interpretation of:
+                     resistance transference
+                     ////////
+                     resistance
+                     transference
+
+
+      Humanistic Therapy
+         Focus on:
+            Persent and future, rather than the past
+            Conscious thought
+            Taking responsibility
+            Promoting growth, rather than "curing
+              illness"
+         Carl Rogers
+         Client-centered therapy (Rogers)
+         Goal of therapy is to help people become more
+           fully functioning and achieve personal growth
+         <>Non-directive<>
+         Therapist enables this by:
+            providing Unconditional Positive
+              Regard(aceptance)
+            Being empathetic
+            Being genuine
+            Using <active listening> techniques:
+               Paraphrasing
+               Inviting Clarification
+               Reflecting feelings
+
+
+      Behavior Therapies
+         <>Directive<>
+         Not interested in unconscious of historical
+           issues
+         Focuses on changing maladaptive behaviors
+         View certainn disorders as the result of
+           learned asociations
+         Treat by conditioning of reinforcing new
+           respones to stimuli that trigger the unwanted
+           behaviors or emotions
+
+
+         Behavioral therapy using classical
+           conditioning
+            makes use of classical conditioning
+              principles to change unwanted behaviors or
+              symptoms
+               recondition individuals to make new
+                 associations
+               useful for treating things like phobias,
+                 OCD
+                  social anziety, sexual dysfunction
+
+
+         Exposure Techniques
+            Systematic Desensitization
+               Anzziety hierarchy
+               anxiety*
+                  start with least anxiety provoking
+                     pictures, visuals
+               --------
+               create an "anxiety hierarchy"
+               gradual exposure to an anxiety-provoking
+                 stimulus while in a relaxed state
+                  Use of progressive muscle relation:
+                    deep breathing, etc.
+
+            Exposure with response prevention
+            Aversive conditioning
+               give unpleasant response for their
+                 compulsion
+         Behavioral therapy using operant conditiong
+            Based on principle that voluntary behaviors
+              are strongly influenced by thieir
+              consequences
+            Therefore, treatment acts to:
+               reinforce desire behaviors
+               withold reinforcement for negative
+                 behaviors
+
+            Operant behavioral treatment
+               behavior modifecation
+                  shaping
+                  token economy
+
+
+      Cognitive Therapies
+         Based on the assumption that our thinking
+           affects our feelings
+         View disorders such as depression and anxiety
+           as caused by distortions in thinking
+         for example:
+            Negative self-talk
+            Overgeneralization
+               one thing bad happened means everything
+                 is
+            catastophizing
+         treatment works to address distorted beliefs
+           and rumination
+
+
+	TIMESTAMPSTR:  [Thu Dec  3 16:58:57 2015]
+	#####Last Save: [Thu Dec  3 16:59:00 2015]#####
+
+         <>none<>
+
+         Cognitive-Behavioral Therapy
+            Combines changin maladaptive thinking
+              patterns with changes in behavior
+               Example with threatment of OCD
+                  Cognitive: Identify and relablel
+                    compusive thinking/urge to ritualizze
+                    as part of OCD
+                  Behavioral: Delay acting on
+                    compulsion by distraction - engaging
+                    in another behavior
+
+         Group and Family Therapies
+            Group Therapy
+               Treats multiple people at once
+               cost effective and sometimes more
+                 beneficial for treatment
+            Family Therapy
+               Treats the family as a system
+               sees symptomatic patient as part of this
+                 larger system
+
+
+   Evaluating Psychotherapies
+      Is psychotherapy effective?
+      and how should we assess effectiveness?
+      --?|>
+         clients' perceptions
+         clinician's perceptions
+         Outcome research
+
+         Client's perceptions:
+            Clients tend to report "feeling better"
+              upon entering treatment
+            ofte, just initiating treatment process
+              causes people to feel better
+               Wait-list control
+                  feel better knowing they will
+                    evenutally  get treated
+                  not reliable
+
+            some reasons why critics are skeptical
+              about patient reports of effectiveness:
+               typically enter therapy while in crisis
+               want to believe it was worth it
+               Relationship with therapist forms and
+                 clients want to perceive them favorably
+
+            some people drop out of treatment
+               not always known why
+
+         Outcome research
+            Use of controlled research studies
+               random assignment to treatment or a
+                 control group
+               Evaluation of outcomes by blind
+                 evaluators
+            Findings from these studies support the
+              efficacy of psychotherapy
+            <>graph in book<>
+
+
+   are some metods better than others?
+      Most studies indicate that, by in large, tere is
+        no one therapy that is actually superior to
+        another
+      some therapies, however, are sell suited to
+        particular disorders
+      therapy is most effective when a problem is
+        clear-cut/specific
+
+   Shared beneficial factors
+      Importance of:
+         cultivating hope
+         providing insight and new perspective
+         Therapeutic relationship/alliance
+            <>look that up maybe<>
+
+
+   bIOMEDICAL THERAPIES
+      Drug therapies
+      electroconvulsive therapy(ect)
+      psychosurgery
+
+
+      Psychotropic Medication
+         Thorazine
+
+         Impact of psychotropic medications
+            revolutionized the way we treat mental
+              illness
+
+         Evaluate effectiveness using the "double-
+           blind" technique
+            jhalf recieve drug
+            half recieve placeo
+            both patients and staff are unaware of
+              which treatment condition is being applied
+         Results indicatte four primary classes of
+           drugs are effective:
+            antipsychotic
+            antianxiety
+            antidepressant
+            mood stabilizers
+
+
+            Antipsychotic
+               Initially, medication was only used to
+                 sedate
+               Use of one sedating medication led to
+                 the discovery of its antipsychotic
+                 properties
+                  thorazine
+               works by blocking dopamine receptors
+               issue of side-effects
+
+            Antianxiety
+               act by depressing CNS activity
+                  ex: ativan, xanax, klonopin
+               to redduce tension and anxiety
+               can be habit-forming
+                  high risk of abuse
+                  high risk of adiction
+               now tend to use antidepressants
+
+            antidepressants
+               increase the availability of
+                 neurotransmitters serotonin and
+                 norepinephrine
+               most serve to eleviate arousal and mood
+                 by:
+                  blocking reuptake
+
+            Mood stabilizers
+               used to regulate mood
+                  treats manic sxs associated with
+                    bipolar disorder
+                     lithiu
+                     lithium*
+                     depakote
+
+
+               Electroconvulsive therapy
+                  (ECT)
+                  Uses an electrical current to
+                    simulate controlled seizures wile
+                    patient is anesthetized
+                  side effects
+                     short term memory loss
+                     severe headaches
+
+                  Useful in treating drug-resistant
+                    depression
+
+
+      Psychosurgery
+         Acts to remove or destroy specific area of
+           prain tissue in an attempt to alleviate
+           symptoms
+         Used only in extreme cases
+         most commonly with severe forms of:
+         --
+            epilepsy
+            Obsessive-compulsive disorder
+         MRI is used to identify precise areas
+         "Halo" device is used to target these areas

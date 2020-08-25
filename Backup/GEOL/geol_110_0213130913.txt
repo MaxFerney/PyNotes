@@ -1,0 +1,612 @@
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	TIMESTAMPSTR:  Mon Jan  7 12:30:09 2019 
+	Last Save:     Mon Jan  7 12:30:10 2019 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+--[Geology 110]--
+   [Hypothesis]
+      Null Hyphothesis
+         expected outcome if experiment has no effect
+      Hypothesis
+         educated guess
+      Laws:
+         generalizations about what has happened, which
+           we can generalize about what we expect to
+           happen
+      Theories
+         Rigerously and repeated testing of the
+           hhypothesis to gain explanations of
+           observations (or of laws)
+   [Accepted Theory]
+      theories that are well accepted in the comumity
+      atomic theory of matter
+      quantum mechanics
+      relativity
+      plate tectonic
+      evolution
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	TIMESTAMPSTR:  Wed Jan  9 12:20:33 2019 
+	Last Save:     Wed Jan  9 12:31:30 2019 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+--[Earth origins and structure]--
+   [Big Bang Theory]
+      15 Billion Years ago
+      Exploded into existance
+      Fundamental particles that make up everything we
+        know to exist were created
+      Observationall evidence for the big bang
+        includes:
+         hubble's observations on motion of galaxies
+         observation of uniform cosmic background
+           radiation
+         some consistency arguments on the time it
+           takes to form the observed galaxy clusters and
+           atomic elements
+      temperature of empty space is 2.7k (kelvin)
+         nearly absolute zero
+      300,000 years:
+         hydrogen and helium nuclei form
+      1 billion years
+         protogalaxies form
+      So universe only had hydrogen and helium
+         within stars, solar fusion occurs and creates
+           the other 90 naturally occurring elements
+           created in stars
+         Star is a nuclear furnace
+      within stars, high temperatures allow fusion
+        beginning with hydrogen and continuing through
+        iron
+         stars can make up to iron
+   [Supernovas and heavier elements]
+      remaining elements require much energy to form,
+        energy is found in supernovae explosions
+      Elements heavier than iron form in thefew secons
+        ofa large stellar explosion and subsequently less
+        abundant
+
+   [Our Solar System]
+      Formed about 4.5 billion years ago, when a gas
+        cloud produced from the big bang and a prior
+        supernovae coalesced
+      The proto-sun was concentrated at the center of
+        the disc, and perhaps rings formed much like
+        those around saturn
+         these rings would become planets
+      the gravitational collapse ignighted fusion began
+        in the sun
+      Early sun had a powerful solar wind that began to
+        blow much of the light elements away from the
+        inner parts of the disk
+      Fundamental reason for the rocky inner planets
+        and gaseous outer planets in our solar system. in
+        the meantime, planets formed by the gaggregation
+        of the nebular material material remaining in the
+        disckk
+   [Early Earth Formation]
+      Dust and ice particals form in the disks collide
+        and form progressively larger planetesimals
+      larger planetesimals collide to form proto
+        oearth, which is heated from the violent tature
+        of collisions
+      gravity reshapes earth into a sphere, the hot
+        inner liquid core differentiates from a semi-
+        molten mantle
+
+      [Two hypotheses of earth accretion]
+         heterogeneous
+            iron core forms before lighter materials
+         Homogeneous
+            everything groups together, then splits up
+
+      Soon after the earth forms, it is impacted with a
+        mars-sized planet or meteorite
+         impact forms ring of dust around earth
+   [The moon]
+      The udst and debris from the impact eventually
+        eggregate to form a large singular mass
+      due to conserved angular momentum during impact,
+        the earth and moon rotate on a 1:1 ratio
+      Same side always faces earth
+   [Meanwhile]
+      the earth continues to develop
+         more dense material moves toward center
+         Due to extremely high pressure at earth
+           center, a solid core of iron and nickel
+           develops
+      Much volcanic activit results in 2 things
+         less dense material (silica, oxygen, carbon,
+           hydrogen, moved to surface
+            some in solid form: magma, lava
+            some in gaseous: water vapor, carbon
+              dioxide, methane
+   [The Earth's atmosphere]
+      early atmosphere had no o2 gas
+         all o2 derived from photosynthesis
+         evidense from banded iron formations
+      Mostly contains n2 and o2
+         78% n2
+         21% o2
+   [Surface]
+      most solid material on surface
+         oxygen
+      much of earths crust lies below sea level
+      Highest point on earth vs lowest point
+         8.8km highest
+         10.9km lowest
+         19774 meters between highest and lowest points
+   [Earths interior]
+      3.3km is deepest mine
+      1741m is deepest drilling point
+      kimberlite deposits
+      diamonds
+      these are volcanic
+      everything else we know about the materials below
+        the crust comed fromm seismic waves
+         earthquakes
+      derived from wave velocity discontinues
+   [Earth Construction]
+      continental crust
+      sea level
+      Upper Mantle
+      Lower mantle
+         solidish
+      outer core
+         liquid
+      inner core
+         solid
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	TIMESTAMPSTR:  Mon Jan 14 12:29:00 2019 
+	Last Save:     Mon Jan 14 12:29:05 2019 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+--[Minerals]--
+   There are about 3-4k out there
+   They are the building blocks of all rocks and earth
+     materials
+   Why are they important
+      economically very important
+      commodities
+   Useful in everyday life
+      Food seasoninng (salt)
+         Halite
+      Nutritional Supplements
+         Zinc (willimite
+   Gemstones
+      Not all gemstones are minerals
+      Aesthetically pleasing
+         Some of us wearing some right nw
+   Energy Sources
+      Uranite U02
+      Solar Panels (silicon)
+    Dont need to know the chemical composition 
+   Mineral
+      jNaturally occuring inorganic homogeneous solid
+        with a definite chemical composition and ordered
+        atomic arrangement
+         Naturally occuring
+         Inorganic
+         Homogeneous solid
+         Definite Chemical Composition
+         Ordered atomic arrangement
+
+      [Naturally Occuring]
+         Found in nature forming through natural
+           physical and chemical process
+         Materials formed in the laboratory through
+           human intervention do not count
+         Man made jewels
+            perfectly identical
+            but man made ones are too perfectly formed
+      [Inorganic]
+         Sugars and other compounds formed trough
+           natural organic chemical processes do not
+           count
+         so pearls do not count
+      [Homogeneous Solid]
+         Single substance in solid phase tat cannot be
+           separated into similar compounds
+            Rocks are often built through the
+              combination of many minerals
+      [Definite Chemical Compound]
+         Composition of entire speciment can be
+           represented as a chemical formula
+            Quartz SiO2
+         Some varition in exact chemical formula
+           (discuss later)
+      [Ordered Atommic Arrangement]
+         Repeating chemical structure at the atomic
+           levle
+            With large speciments, this will often
+              result in a characteristic symmetry
+               discuss later
+
+      [Minerals forming environments]
+         Minerals form in a wide range of environments
+           both on the surface and deep in the interior
+         These environments include, but are not
+           limited to:
+            upper mantle (high pressure environments)
+            Volcanic environments
+            Ocean basins
+            Evaporative basins (salt)
+            interior of mountainn building zones
+      [Properties in mineral identification]
+         Basic Properties of Minerals
+            Crystal form
+            Cleavage/Fracture
+            Color/Streak/Luster
+            Hardness/Tenacity
+            Specific Gravity
+            Acid Test/Magnetism/Etc
+
+         [Crystal Form]
+            Derived form of the "Repeating chemical
+              structure at the atomic level
+         [Cleavage]
+            Tendency to split along >planes< of
+              weakness corresponding to weaker chemical
+              links in internal structure of chrystal
+            essentially reflectivelness
+            Direction
+               Each set of parallel planes of weakness
+                 is one direction of cleavage
+               Mineral is most likely to break along
+                 these lines
+               One direction of cleavage
+                  Weak bonds between silicate layers
+                    allow mineral to peel apart
+                  Van der wall bonds
+                     These bonds are held together by
+                       static electricity
+               Two Directions
+                  will break along 2 planes
+               Three directions
+                  cubes
+               Four Direcitons
+                  Flourite
+                  diamond/triangle shapes
+
+         Fracture
+            Any characteristic breakage in a mineral
+              that is not cleavage
+            Chonchoidal fracture
+            characterisic of quartz
+
+         Color
+            Can be defining characteristic of minerals,
+              useless in others
+            In many cases changes in color are due to
+              minor impurities in a mineral
+            this often makes minerals more rare and
+              valueable for jewelry in art
+            Blue diamonds are due to a presence of
+              boron
+            green jade is due to presense of chromium
+               Jade is supposed to be white
+         Color Streak
+            Can be more characteristic in some minerals
+               not all minerals leave a sreak
+            Hematite (Fe2O3)
+            Leaves iron streak that contains rust
+         Luster
+            Quality of light reflected from the mineral
+              surface
+               gold
+               pyrite
+               magneite
+               silver
+            Nonmetalic lusters
+               quarts 
+                  vitreous (glassy)
+               talc
+                  pearly
+               sphalerite
+                  resinous
+         Hardness
+            the resistence of a mineral to scratchin or
+              abrasion
+               Mohs Hardness Scale
+                  Based on relative harndess of 10
+                    common minerals
+
+         Specific Gravity (Density
+            Basically, the density of the mineal
+            related to both:
+               atomic weight of elements in the mineral
+               how tightly those elements are packed
+                 together
+            atomic weight directly proportionate to
+              weight of meneral
+            Density minerals
+               how tightly packed together
+
+      Dana classification System
+         Native elements
+         Sulfides and sulfates
+         Oxides
+         Silicates
+         Carbonates
+         Others
+      Most of these minerals contain Oxygen or Silicon
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	TIMESTAMPSTR:  Wed Jan 30 12:24:50 2019 
+	Last Save:     Wed Jan 30 12:25:07 2019 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+--[Igneous Rocks]--
+   [Volcanic Hazards]
+      Felsic
+         explosive
+      Mafic
+         Flows
+      hazards based on
+         type of volcano
+         active vents
+         Earthquakes
+         Calderas
+         Historical flows
+         rift zones
+         slopes
+   Plutons are the pockets of magma
+
+   Intrusive (plutonic)
+   extrusive (volcanic)
+
+--[Weathering]--
+   [Weathering Processes]
+      Physical Weathering
+      Chemical Weathering
+      Biological Weathering
+
+      [Physical Weathering]
+         Physically or mechanically breaking it down
+         Jointing/exfoliation
+         Root wedging
+         Bioturbation
+
+         [Jointing/exfoliation]
+            buried rock reaches surface, pressure is
+              lessened
+            natural cracks form in rocks (called
+              joints) during process called jointing
+            this happens as the surface thins or
+              expands out, revealing deeper rocks
+            Sierra Nevada Mountains
+         [Frost Wedging]
+            Water entering cracks or joints in rocks,
+              then freezes and expands to force rock
+              apart
+            as water freezes, it increases its volume
+              by 9%
+            also a common way potholes form on roadways
+         [Root Wedging]
+            tree roots enter cracks or joints in rocks
+              will grow and force rocks apart
+         [Salt Wedging]
+            Precipitation of salts in pore spaces of
+              rock in arid regions grow to larger
+              crystals
+            causes more effective erosion by wind and
+              water forces
+         [Abrasion]
+            Gradual wearing away of rock by fine grains
+              susbended in moving wind and water
+            Ie: Sandblasting
+            Wind and water
+         [Thermal Expansion]
+            Extreme heating and cooling during and
+              after a forest fire can cause rocks to
+              expand and contract ith the surface
+              breaking off in sheets
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	TIMESTAMPSTR:  Mon Feb  4 12:27:59 2019 
+	Last Save:     Mon Feb  4 12:28:01 2019 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+         [Bioturbation]
+            Animals (earthworms, ophers) can disrupt
+              natural rock by digging processes
+            Animals such as mountain goats and deer
+              move around much exposed rock
+               humans do more of this than any other
+                 animals
+      [Chemical Weathering]
+         Power and rate of chemical weathering far
+           exceeds that of physical weathering
+         Hydrolysis
+         Oxidation
+         Hydration
+         Dissolution
+         All of these reactions involve water in  some
+           way
+
+         Rate of chemical weathering strongly related
+           to rock chemistry and surface area
+            The bigger it is the longer it takes to
+              weather. if it's a bunch of tiny pieces,
+              then it will weather much faster
+         [Hydrolysis]
+            Any reaction involving water leads to
+              decomposition of a compound is a hydrolysis
+              reaction
+               Potassium feldspar, for instance,
+                 decomposes in the clay mineral kaolinite
+            Hydrolysis is one of the chief processes
+              involved in the chemical breakdown of
+              common rocks
+            rain and water seeps into the soil, then
+              breaks down the rock underground
+            These reactions are responsible for
+              creating a great deal of clay minerals
+            VERY prevalent in Carolina Piedmont soils
+               We will discuss this later
+            potassium feldspar turns into kaolinite
+            The red clay is because of iron in the
+              rocks
+         [Oxidation]
+            Reaction that occurs when an element loses
+              electrons
+               becomes more positive/oxidation state
+                 increases
+            In nature, this is commonly due to a
+              combination with oxygen, 02
+            most common example is in iron bearing
+              minerals
+            Red Rocks of the west (grand canyon,
+              arches, etc.) are due to oxidation of Fe in
+              rocks
+               The beautiful colors are the same as
+                 rust on your bikes
+            Some mining operations, especially where
+              sulfur is present, Fe compounds can enter
+              streams and groundwater
+            acid mine drainage
+               Sulfuric Acid
+         [Hydration]
+            The absorption of water into the crystal
+              structure of minerals
+               causes some clays to expand
+            Clays from weathered rocks expand to
+              mechanicallyy weather remaining rocks
+               both chemical and physical weathering
+                 process
+            it is absorbing the water
+            Clay is often a result of a lot of rainfall
+         [Dissolution]
+            Process by which ALL of the mineral
+              dissolves into water
+               mostly due to acid/base reactions
+            Income instances, this is part of a rock
+               calcite veins
+            in others, it is nearly all of the rock
+               Limestone, marble, dolomite
+            Most rainwater is acidic -- global average
+              is pH 5.7
+               Central pennsylvania through new england
+                 is 4 to 4.3
+               arizona and colorado is around 5.7
+            Acidic rain weathers limestone fairly
+              rapidly compared to other rocks
+            Weathering of limestones, dolomites,
+              marbles, etc. learve almost no soil
+              building material
+            The burren--limestone "Moonscape" of
+              ireland
+      [Weathering driven by rock type]
+         Mafic are least resistant
+         intermediate is relatively resistant
+         silic is most resistant
+         Bowens Reaction Series
+   [What becomes of all the rock material then?]
+      Rocks becomes smaller rocks
+      smaller rocks can become
+         sediments (sand, silt, clay)
+         remain in solution in water (ground or ocean)
+         become soils
+      Sediments and soils are NOT The same thing
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	TIMESTAMPSTR:  Wed Feb 13 12:29:13 2019 
+	Last Save:     Wed Feb 13 12:29:16 2019 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+--[Soils and Soil Formation]--
+   Soils and Sediments are fundamentally different.
+   soils support life
+   [Soils vs Sediments]
+      Sediments are particles of rocks that have been
+        weathered either physically or chemically from
+        their original state
+         feldspar to clay
+         sandstone to san
+      sediments can form in situ (in place) relative to
+        the source rock material or be transported long
+        distances by wind or water
+
+      Soils ALWAYS form in place. sediments are part of
+        the soil
+         sediment can be deposited in the soil and be
+           incorporated
+         soil that is eroded in some fasion is now
+           sediment
+      soil is Anisotropic and has the presence of
+        Organic Material
+
+      Organic matter
+         dead things, mostly plants
+      Anistropic
+         organized change from one side to anotyher
+           different from top to bottom - horizons
+
+   [Soils]
+      Hans Jenny - founder of modern soils science
+      five soil forming factor
+         Parent Material
+         Biology
+         Topography
+         Climate
+         Time
+      Time is the only independent soil forming factor
+
+      they form in horizons
+         Top to bottom
+         O
+         A
+         E
+         B
+         C
+         R
+
+         O
+            Organic
+            no influence from geology
+            not affected much by parent material
+            dark in color
+            mostly plant derived
+            bacteria
+            fungus
+            Dead Bodies
+            Poop
+         A
+            lots of geology
+            but has influence from biology
+            darker than horizons below
+            less clay than horizons below
+            Zone of leeching
+               like with coffee or tea
+               dissolved what was in the tea and took
+                 it out into the water
+                  all of the tannins are leeched out of
+                    the leaves
+               ** Leaching
+         B
+            almost all geology
+            bright color
+            very little influence from biology
+            clay occumulation
+            Zone of Accumulation
+         C
+            Weathered Bedrock
+            only biology is around roots that cut
+              through
+
+         E
+            between a and b
+            no organics
+            very bright color
+            white/light gray
+            no clay
+            zone of maximum leaching

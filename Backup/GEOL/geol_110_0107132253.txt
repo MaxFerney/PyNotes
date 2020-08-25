@@ -1,0 +1,28 @@
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	TIMESTAMPSTR:  Mon Jan  7 12:30:09 2019 
+	Last Save:     Mon Jan  7 12:30:10 2019 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+--[Geology 110]--
+   [Hypothesis]
+      Null Hyphothesis
+         expected outcome if experiment has no effect
+      Hypothesis
+         educated guess
+      Laws:
+         generalizations about what has happened, which
+           we can generalize about what we expect to
+           happen
+      Theories
+         Rigerously and repeated testing of the
+           hhypothesis to gain explanations of
+           observations (or of laws)
+   [Accepted Theory]
+      theories that are well accepted in the comumity
+      atomic theory of matter
+      quantum mechanics
+      relativity
+      plate tectonic
+      evolution

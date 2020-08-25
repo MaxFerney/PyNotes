@@ -1,0 +1,104 @@
+
+===========================================================
+	[FILE: crtw201_2.txt]
+	[DATE CREATED: Wed Aug 23 11:00:28 2017]
+	[Title: crtw try 2]
+
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	TIMESTAMPSTR:  Thu Aug 24 12:28:16 2017 
+	Last Save:     Thu Aug 24 12:28:18 2017 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+[Personality Characteristics]
+   e/i n f j/p
+
+   Extravert/Introvert
+   Intuition
+      speculative, dreamer, imaginative, gut feeling
+   Feeling
+      rely on emotions, values, morals, etc
+   Judging/percieving
+      p
+         open ended
+         perceptive
+      j
+         concluding
+         closure
+         list makers
+         outcome oriented
+
+
+-taylor
+   -hr concentration
+   -getting married
+-Riley
+   -human development major
+-Makeyla
+   -early childhood education
+   -love reality tv
+-Alisa
+   -Russia
+   -excersise science major
+   -only russian student here
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	TIMESTAMPSTR:  Tue Aug 29 12:29:22 2017 
+	Last Save:     Tue Aug 29 12:29:34 2017 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+hard skills are quantifiable, something you learn on
+  the job
+   math, science, etc,
+   job experience
+   speaking a foreign language
+   specializations
+   typing speed
+   programming
+   tangible
+soft skills
+   intangible
+   communication skills
+   interpersonal skills
+   persuasion
+   Problem Solving Abilities
+   time management
+   teamwork skills
+   work ethic
+
+
+   making mistakes and being able to learn from your
+     mistakes
+
+
+
+INVENTORY
+   1) Male
+   2) United States
+   3) Vermont
+   4) No
+   5) No
+-inventory
+   -Gender: Male
+   -born: US
+   -born: VT
+   -most of life in birthplace: No
+   -church: no
+   -suporter of no political party
+   -liberal: yes
+   -conservative: no
+   -believer in no faith
+   -always lived in south: No
+   -Computer science major
+   -family member in military: yes
+   -attended: JL Mann HS
+   -attend: WU
+   -grew up in suburbs: yes
+   -newspaper read: no
+   -national news: no
+   -last book I read: mistakes were made (but not by me)
+      -I was 19 when I finished the book

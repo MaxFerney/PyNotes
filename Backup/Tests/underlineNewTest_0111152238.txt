@@ -1,0 +1,46 @@
+
+===========================================================
+	[FILE: underlineNewTest.txt]
+	[DATE CREATED: Wed Jan 10 14:29:55 2018]
+	[Title:  ]
+
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	TIMESTAMPSTR:  Wed Jan 10 14:29:29 2018 
+	Last Save:     Wed Jan 10 14:30:03 2018 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+-hello world
+ ^^^^^
+
+-hai there
+     ^^^^^
+
+-hello there
+ ^^^^
+
+-a line
+^^^^^^^^^^^^^^^^^^
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	TIMESTAMPSTR:  Thu Jan 11 15:21:13 2018 
+	Last Save:     Thu Jan 11 15:21:31 2018 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+-this is with the normal underline
+                         ^^^^^^^^^
+
+
+-this is with the new underline
+                      ^^^^^^^^^
+
+
+
+-this is a random string of text
+underline
+^^^^^^^^^
+-lets see

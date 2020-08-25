@@ -1,0 +1,17 @@
+	[FILE: outline for argument.txt]
+	[DATE CREATED: Sun Nov 15 13:32:54 2015]
+	[Title: actual outline this time]
+
+	TIMESTAMPSTR:  [Sun Nov 15 13:32:00 2015]
+	#####Last Save: [Sun Nov 15 13:36:09 2015]#####
+
+
+	TIMESTAMPSTR:  [Mon Nov 16 20:37:45 2015]
+	#####Last Save: [Mon Nov 16 20:40:38 2015]#####
+
+   I.Background for thesis
+      A.Happiness is a state of mind
+        01.we feel safe
+        02.we feel at ease
+        03.where we always want to be
+        04.our "happy place"

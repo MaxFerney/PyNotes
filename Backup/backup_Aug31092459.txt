@@ -1,0 +1,23 @@
+
+===========================================================
+	[FILE: backup.txt]
+	[DATE CREATED: Wed Aug 31 09:24:10 2016]
+	[Title: new backup file system]
+
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	TIMESTAMPSTR:  Wed Aug 31 09:22:20 2016 
+	Last Save:     Wed Aug 31 09:24:16 2016 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+line 1
+line 2
+line 3
+   line 4
+   line 5
+end
+line 6
+line 7
+line 8

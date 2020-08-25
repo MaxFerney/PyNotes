@@ -1,0 +1,63 @@
+[FILE: test2.txt]
+-Test file line 1
+-Test file line 2
+-
+-
+-next line test
+-this is dashed lines
+-each line has a dash before it. This will
+-make bullet point easier. This sentence is a test for making the words wrap around. each line is 60 characters long.
+-hello, this is the new line and will be used to test if
+ sixty characters in a statement will go next line
+-
+ easy lines to type, the goal is to go for about three
+ lines-this is the next test for 3 line testing. I am using or
+ trying to use this long line of random text to see if the b b b-This is another test for trying to make three lines. I
+ would assume using random text would be quite a lot easier,
+ easier,-This is another line to test if going beyond the sixty
+ characters and formatting each line neatly works properly. 
+ properly. -this line is a test for the text wrap function found on stackoverflow. It is very hopefull that this test will actually finally work. this is the third line of text.
+-this line is a test for the text wrap function found on stackoverflow. It is very hopefull that this test will actually finally work. this is the third line of text.
+-['this line is a test for the text wrap function found on', 'stackoverflow. It is very hopefull that this test will', 'actually finally work. this is the third line of text.']-[
+-this line is a test for the text wrap function found on
+stackoverflow. It is very hopefull that this test will
+actually finally work. this is the third line of text.
+This is extremely a long word, but not really. Welcome
+to this beautiful fourth line, but we are now on the
+fifth line.
+-cookies
+-coding is a difficult thing for me to do well.
+SYSTEM	USER: [Max] HAS JOINED CHAT: test2
+Max: hello
+Max: This is testing for PYNOTES GUI EDITION
+Max: a
+SYSTEM	USER: [Max] HAS LEFT THE CHAT
+*Hello World
+
+
+TIMESTAMPSTR:  [Fri Sep  4 21:54:41 2015]
+Last Save: [Fri Sep  4 21:56:41 2015]
+*test next line
+*test 2 line
+*test 3rd line
+*
+
+	TIMESTAMPSTR:  [Tue Sep  8 16:47:29 2015]
+	Last Save: [Tue Sep  8 16:49:02 2015]
+*test
+*test line 2
+*testing line 3
+	Last Save: [Tue Sep  8 16:50:28 2015]
+*test
+
+	TIMESTAMPSTR:  [Wed Sep  9 07:52:08 2015]
+	Last Save: [Wed Sep  9 15:27:38 2015]
+
+*test 2
+*test line 3
+
+	Last Save: [Wed Sep  9 15:33:48 2015]
+
+
+	Last Save: [Wed Sep  9 15:34:30 2015]
+

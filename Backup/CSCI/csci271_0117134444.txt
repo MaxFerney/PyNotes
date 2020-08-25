@@ -1,0 +1,56 @@
+
+===========================================================
+	[FILE: csci271.txt]
+	[DATE CREATED: Mon Jan 13 13:17:56 2020]
+	[Title: csci 271]
+
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	TIMESTAMPSTR:  Tue Jan 14 12:28:07 2020 
+	Last Save:     Tue Jan 14 12:28:10 2020 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+test line
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	TIMESTAMPSTR:  Thu Jan 16 13:23:03 2020 
+	Last Save:     Thu Jan 16 13:23:06 2020 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+--[Algorithms]--
+   [Greatest Common Divisor]
+      one at a time. yes. just one at a time. and stop
+        at 36
+         most innefficient
+         but gets job done. it is one algorithmm
+      start with smaller of two numbers, and start
+        going downwards
+         first one you'll find will be the greatest
+      prime factors
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	TIMESTAMPSTR:  Fri Jan 17 13:20:51 2020 
+	Last Save:     Fri Jan 17 13:20:54 2020 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+   Design strategies
+      brute force, divide and conquer
+      greedy approach
+      divide and conquer
+      decrease and conquer
+      backtracking
+      branch and bound
+      iterative improvements
+      space and time tradeoffs
+      dynamic programming
+      transform and conquer
+   how good is it?
+      Time efficiency
+      Space efficiency
+   is there better ways?
+      optimization

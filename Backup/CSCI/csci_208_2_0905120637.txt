@@ -1,0 +1,329 @@
+
+===========================================================
+	[FILE: csci_208_2.txt]
+	[DATE CREATED: Tue Aug 21 12:32:16 2018]
+	[Title:  ]
+
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	TIMESTAMPSTR:  Mon Aug 27 10:54:54 2018 
+	Last Save:     Mon Aug 27 10:56:55 2018 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+--[The software process]--
+   [Software Engineering]
+      a disciplined approach to the design production,
+        and maintenance of computer programs
+      [Software Life Cycle]
+         Problem analysis
+         requirements elicitation
+         High- and low-level design
+         implementation of the design
+         testing and verification
+         Delivery
+         Operation
+         Maintenance
+   [Programmer Toolboxes]
+      Hardware: computers and other devices
+      software...
+   [Algorithm]
+      logical sequcence of descrete steps
+   [Goals of Quality Software]
+      it works
+      it can be modified without excessive time and
+        effort
+      it is reusable
+      it is completed on time and within budget
+   [Quality Software Works]
+      requirements: describe the service it proides
+      specification: written document that tells what a
+        program does, but not how
+      it must do everything explained in the
+        specification
+   [Quality software can be modified]
+      changes may occur during the design, coding, and
+        testing phases
+      bug fixes and small changes are made during the
+        maintenance phase
+      easily modified programs are readable, well
+        documented, aand easily understood by other
+        humans
+   [Quality software is reusable]
+      spend extra effort to make components more
+        general now in order to save time later
+      using code that is already designed implemeted ,
+        and tested allows programmers to focus on the
+        rest of the program
+      this does not require extra effort during
+        specification and design phases
+   [sOFTWARE sPECIFICATIONS]
+      The specification describes what servicees a
+        program should provide based on the users'
+        requirements
+      scenario: sequence of events describing one
+        complete execution of the program
+      usefull questions:
+         what is the expected input and output
+         how will errors be handled
+         how will the program be used
+   [Program Design]
+      a program's specification describes what a
+        program does, not how it does it
+      disign phase: evaluating how a program will
+        accomplish its specified task
+   [Abstraction]
+      A model of a complex system that includes only
+        the essential details
+      programs are abstractions
+      simplify work by hiding complex details
+   [Information Hiding]
+      the practice of hiding the details of a module
+        with the goal of controlling access to the
+        details of a module
+      Module: a cohesive system subuinit that performs
+        some share of the work
+      Iformation hiding allows programmers to focus on
+        one module at a time
+      each module should serve a single purpose
+   [Stepwise Refinement]
+      approaching a problem in stages, step by step
+      Top down
+         break problem into pieces, ddeferring details
+           as long as possible
+      bottom up
+         focus on details first and build up to the
+           high level components
+      fuctional decomposition
+         approach a program as a set of cooperating
+           functions
+      round trip gestalt
+         top down with emphasis on objects and data
+   [Visual tools]
+      abstraction, information hiding, and stepwise
+        refinement help manage complexity
+   [Design approaches]
+      [Top Down Design]
+   [Object Oriented design]
+      divide and conquer, but break down the program
+        into things instead of tasks
+      the design consists of objects, which are defined
+        by classes
+   [Verification of software correctness]
+      testing: executing a program with input designed
+        to find errors
+      debugging: investigation and removing known erros
+        from a program
+      Acceptance test: testing in a real environment
+        with real data
+      Regression test: testing athat a program is still
+        correct after being modified
+   [Verification and validation]
+      is testing enough?
+      Verification: checking that a program fulfills
+        its specification
+         are we doing the job right?
+      validation: checking that the program fulfills
+        its intended purpose
+         are we doing the right job?
+   [Run Time Errors]
+      Robustness: theability of a program to recover
+        from an error
+      run time erros can often be found with sufficient
+        testing
+      errors should be hangled gracefully instead of
+        allowing the program to crash
+   [Preconditions and postconditions]
+   precondition : condition that must be true before an
+     operation is executed
+   postcondition: a condition that will be true after
+     an operation is executed
+
+   Design First, Program Second
+   ^^^^^^        ^^^^^^^
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	TIMESTAMPSTR:  Wed Aug 29 10:59:56 2018 
+	Last Save:     Wed Aug 29 11:00:05 2018 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+
+--[Diffferent Views of Data]--
+   Data abstractions
+      separate our logical view of data from the
+        computer's implementation view
+   Data are the nouns of the programming world
+   [Data Abstraction]
+      logical view
+         what are the possible values
+         what are the operations on this data
+      implementation view
+         how is the data used
+         how is it stored in memory
+         how can it be implemented in c++
+   [Data Encapsulation]
+      Encapsulation separates the representation of
+        data from applications that use the data at the
+        logical level
+      the physical representation is hidden behind an
+        interface for interacting with the data
+      abstract data types
+   [Data Structures]
+      collection of data elements with operations that
+        store and manipulate individual elements
+         can be decomposed into individual elements
+         the arrangement of elements in the structure
+           is significant
+         arrangement and access of elemments can be
+           encapsulated
+      used to implement ADT's
+         Abstract Data Types
+   [Example: Library as an ADT]
+      library's data elements are the books
+      adt interfact: users can check books in or out,
+        reserve books, pay fines
+      data sstructure: can order books randomly,
+        alphabetically by title, or use the dewey decimal
+        system
+      users dont need to know how the library organizes
+        the books
+   [Data from different levels]
+      Application (user) level
+      Logical (abstract) level
+      Implemenation (programming) level
+      [Data levels of a library]
+         application level: library building itself
+         logical level: books
+         implementation: how to represent books and
+           make operations work for the books
+   [ADT Operator categories]
+      constructors: create new objects of an adt
+      transformers: change internal state of the object
+      observers: view state of the object
+      iterators: for the sequential processing of
+        elements
+   [Composite Data type]
+      stores a collection of indivudual data
+        componenets under one name and allows access to
+        indivudual components
+      two forms
+         unstructured: not organized wwith respect to
+           eachother (classes)
+         Structured: organized and affects how they are
+           accessed (arrays)
+   [Structs]
+      also known as records
+      struct: finite collection of elements that are
+        called members or fields
+      can be members are accessed using named selectors
+        such as mystruct.fieldname
+         can also be used to assign values to fields
+  
+  struct weather
+  {
+      string month;
+      int temp;
+  }
+  weather myweather;
+  weather newtemps;
+  myweather.month = "january";
+  myweather.temp = 55;
+
+
+
+   Struct Example
+
+
+  struct person
+  {
+      string first_name;
+      string last_name;
+      int ssn;
+      double height;
+      double weight;
+      char gender;
+  }
+  person student1;
+  student1.first_name = "john";
+  student1.last_name = "doe";
+  student1.ssn = 123456789;
+  student1.height = 68;
+  student1.weight = 150;
+  student1.gender = 'm';
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	TIMESTAMPSTR:  Wed Sep  5 10:58:16 2018 
+	Last Save:     Wed Sep  5 11:13:11 2018 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+--[Classes]--
+[3 types of files]
+   Specification (header)
+   Implementation
+   Client
+
+   Structs are always public
+   Classes are not so simple
+
+   [Class]
+      Data
+      Operations
+
+      Classes are Private. This means that the data
+        cannot be directly accessed. can only
+        manipulate the data in a class is directly in
+        the class or using a function
+   Class Student
+      Data
+         ID (int)
+         first, last(string)
+         class, gender (char)
+      Functions
+         getID
+         changeID
+         getFirst
+         changeFirst
+         ...
+         ...
+         changeGender
+      Must have a Public: and a Private:
+   all of the above is meant for the speifications file
+   should be called student.h
+
+   implementation file should include the code of the
+     functions.
+
+   [Implementation File]
+      Student.cpp
+
+      int class::function(parameters)
+      {
+      }
+      #include "student.h" at the top of the file
+      #include <iostream>
+      #include <string>
+      using namespace std;
+      //all of these should be at the top of the file
+        above the int class
+
+      int student::getID()
+      {
+         return ID;
+      }
+      void student::changeID(int value)
+      {
+         ID = value;
+      }
+   [Client File]
+      #include <iostream>
+      #include "Student.h"
+      using namespace std;
+
+      int main
+      {
+         Student newStudent;
+         newStudent.changeID(5423);

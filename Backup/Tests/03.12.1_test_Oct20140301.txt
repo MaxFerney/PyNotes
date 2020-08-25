@@ -1,0 +1,27 @@
+
+===========================================================
+	[FILE: 03.12.1_test.txt]
+	[DATE CREATED: Thu Oct 20 14:00:27 2016]
+	[Title:  ]
+
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	TIMESTAMPSTR:  Thu Oct 20 13:59:35 2016 
+	Last Save:     Thu Oct 20 14:00:32 2016 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+HELP
+help function works
+   how about an indented underline function?
+                 ^^^^^^^^                         
+well it put indentation back to original
+time works fine
+######################################################
+linebreak works
+######################################################indented linebreak works?
+it puts indentation back to none
+LINK
+goes back to indent original as well
+end of test

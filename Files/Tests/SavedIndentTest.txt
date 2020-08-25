@@ -1,0 +1,28 @@
+
+===========================================================
+	[FILE: SavedIndentTest.txt]
+	[DATE CREATED: Tue Nov  7 12:27:39 2017]
+	[Title: Test of the Saved Indent]
+
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	TIMESTAMPSTR:  Tue Nov  7 12:26:52 2017 
+	Last Save:     Tue Nov  7 12:27:48 2017 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+titleline
+this is the file to test the saved indent with
+  indentation
+   also is to be tested with using indented lines to
+     determine if the lines are properly textwrapped
+   end here
+   this is the new file now
+   if this current line is indented properly and
+     textwrapped properly then it works. if it is a bit
+     off there is only a bit more modification to do
+back to original
+      this line is three lines indented, hopefully
+        this line works properly as well
+   end

@@ -1,0 +1,106 @@
+
+===========================================================
+	[FILE: math261.txt]
+	[DATE CREATED: Tue Aug 22 14:14:21 2017]
+	[Title: Discrete Mathematics]
+
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	TIMESTAMPSTR:  Tue Aug 22 14:13:32 2017 
+	Last Save:     Tue Aug 22 14:22:45 2017 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+--[sets]--
+   -set: well defined collection of items
+      -Well defined: there can be no ambiguity as to
+        whether a particular item belongs to the set or
+        not.
+   -example
+      -set of all students enrolled in math 261001 for
+        fall 2017
+         -well defined
+   -example
+      -Set of all great guitarists.
+         -great is subjective, not well defined
+
+   -Integers
+      -Z 
+         -this is the character used to usually define
+           integers
+      -{...-2,-1,0,1,2,...}
+      -(textbook denotes the positive integers with
+        capital P
+
+
+   -Rational Numbers
+      -Q = numbers that can be represented as a fraction
+        of two integers.
+      -The decimal representation of a rational number
+        will either terminate or repeat.
+
+
+   -Irrational Numbers
+      -Q^1 Real numbers that can't be represented as a
+        fraction of two integers
+      -Examples include pi, e, sqrt 2, sqrt 3
+
+
+   -Real Numbers
+      -R = all decimal numbers (the rational and
+        irrational numbers together)
+
+
+
+   -Every integer is a rational number
+   -Every rational number is a real number
+   -Every integer is a real number
+   -Every irrational number is a real number
+
+
+   -set  A is a proper subset of set B
+      -if every element of set A is also an element of
+        set B, but the sets are not equal C there's
+        atleast one element of B that is not an element
+        of A
+
+
+   [Methods of writing a set]
+      -1) Word descriptions
+      -2) list notation/enumeration
+         -{ comma separated list of items }
+      -3) Set builder notation
+         -{ x |  }
+            -{
+               -set
+            -x
+               -label for an arbitrary item in the set
+            -|
+               -such that
+            -  
+            -| }
+               -criteria x must adhere to to be in the
+                 set
+         -example
+            -Q = {p/q | pEZ and qEZ and q!= 0}
+
+   -Example
+      -{...,-1,0,1,2,3}
+      -{x | xEZ and x <= 3}
+
+
+   -Empty Set
+      -{}
+      -null set
+      -0 with / through it
+
+   -Cardinality
+      -the number of unique items in a set
+      -|s|
+      -n(s)
+      -unique items in s
+
+
+{{ Order does not matter, Duplicates dont matter }}
+-in terms of sets

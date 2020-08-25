@@ -1,0 +1,21 @@
+
+===========================================================
+	[FILE: server_list.txt]
+	[DATE CREATED: Thu Jan 26 12:40:13 2017]
+	[Title: Winthrop unix server list]
+
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	TIMESTAMPSTR:  Thu Jan 26 12:37:06 2017 
+	Last Save:     Thu Jan 26 12:40:21 2017 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+ On Campus
+       salem
+       abernathy
+       austin
+       houston
+ Off Campus
+       reno

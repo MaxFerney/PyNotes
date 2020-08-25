@@ -1,0 +1,96 @@
+Purpose
+	Taking the data of the temperature of the world may give us different
+	 answers about global warming
+	To discuss the methods for measuring earth's temperature
+
+Question at Issue
+	What is the source of global warming, if not primarily greenhouse
+	 gases?
+	What can we do with this data in relation to global warming?
+	What does this information mean?
+	
+	how accurate are our means of measuring temperature over millenia?
+	does global warming exist?
+Assumptions
+	Greenhouse Gases are not the primary cause of global warming
+	//most of this is raw factual data
+Implications and Consequenses
+	Using tree rings is not the best method in determining temperature
+	 because it can only be used for decades rather than annual
+Information
+	Many proxies to measure the temperature of earth
+	majority of tree data comes from mid to high latitude zones
+Concepts
+	Climate/global warming
+	Temperatures
+	Accuracy
+	Proxy Data
+		not direct measurement
+		>Substitutes< (ie for thermometer)
+Conclusions
+	Many methods are used to by climate scientists to determine the
+	 cause of and past history of earth's climates
+Point of View
+	National Academy of Sciences
+		- thermal borehole technique
+		- dendroclimatology for decadal rather than annual
+	Dendroclimatologists
+		- study tree ring structure for climate
+	Raney
+		- Material Science PHD
+		- Author
+		- Different methods of collecting temperatures
+	Mann
+		- 1998 was hottest year in millenium
+	Jones
+		- Exceeded resolution of data is at best imprudent
+
+Alternatives
+
+Context
+
+
+
+
+
+
+
+============================================
+Standards Check
+============================================
+
+V Clear
+	gave examples with thorough explanations
+	lots of examples
+V Accurate
+	*deals with using evidence to make point
+	scientific background and part of a think tank
+V Important, Relevant
+	mentions greenhouse gases and global warming, but not important
+V Sufficient
+	What does the information mean?
+	does not elaborate on why it is important
+	is there more to explain?
+	*we have to trust because of his scientific background and published
+V Deep and Broad
+	breadth
+		covered about 4 different methods for measuring temperatures
+		think of breadth like point of view
+			ie, using different stand points
+	depth
+		gave examples and how each method worked, along with flaws
+		the depth is gray areas
+			ie, flaws, strengths, complexities. not one or other
+V Precise
+	*deals with how specific you get in your reasoning
+	1998 was hottest year
+	0.04 degrees
+	science wants precision
+	
+	Problematic
+		uses .04 celsius and .1 celsius, why not use farenheight
+V Reasonable Overall
+	
+
+
+

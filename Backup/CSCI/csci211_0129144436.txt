@@ -1,0 +1,550 @@
+
+===========================================================
+	[FILE: csci211..txt]
+	[DATE CREATED: Mon Jan  8 14:01:29 2018]
+	[Title: Assembly]
+
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	TIMESTAMPSTR:  Mon Jan  8 14:00:20 2018 
+	Last Save:     Mon Jan  8 14:03:43 2018 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+--[Computer Organization/Architecture]--
+   -logic gates
+      -and
+      -or
+      -not
+   -processor
+   -memory
+   -io interface
+
+   [Instructions]
+      -instrctions are in memory
+         -fetch instruction, then execute it
+            -fetch execute cycle
+         -More detailed
+            -fetch instruction
+            -fetch operands
+            -execute instruction
+            -save result
+            -determine next instruction
+   [Processor Components]
+      -Datapath
+         -Hardware that electrons flow through to accomplish
+           an instruction
+      -Control
+         -Tells hardware what to do and when to do it
+      -Registers
+         -Small amount of memory (32 4-bte for FIPS) that can
+           be operated upon
+         -This is also known as RAM or Rapid
+           Access Memory
+      -one byte can hold 256 numbers
+      -32 bits or 4 bytes in a word
+   [What's Inside]
+      -Everything n the computer is represented with 0s
+        and 1s (on-off)
+         -integers
+         -characters
+         -boolean
+         -float
+         -instructions
+
+      -Bits are bits
+         -it determines how to use it by the context or
+           how it is used
+         -does not know anything about data types
+   [Languages]
+      -Machine Language
+         -Just 0s and 1s
+         -very hard to program
+      -Assembly
+         -Symbolic for machine language
+         -Easy to create a program to translate from
+           assembly language to machine language (almost
+           1 to 1)
+         -Keeps track of variables' addresses
+   [Why Learn Assembler]
+      -Understand what the machine does
+         -helps you learn to be a better guesser
+      -Needed to write a compiler (431)
+      -Needed to build CPUs
+      -Faster to execute
+      -to determine timeing
+      -Gives you the power to access anything
+      -Maintaining older systems
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	TIMESTAMPSTR:  Wed Jan 10 13:55:01 2018 
+	Last Save:     Wed Jan 10 13:55:04 2018 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+   [Why not use Assembly]
+      -tedious
+      -error prone
+      -slow to write
+      -machine dependent
+      -good compilers produce fast code already
+   [MIPS CPU]
+      -Used in many systems
+         -SGI workstations
+         -Sony PS2
+         -Dish Network set top box
+         -Tivo DVR
+         -Pioneer Plasma TV
+         -HP Color laser printer
+         -Many More
+         -These CPUs are mostly in embeded machines
+   [MIPS Layout]
+      -Control
+      -Register file (32 registers with 32 bits each)
+         -it is like a file cabinent for the registers,
+           so not an individual file
+      -ALU
+         -Arithmetic Logic Unit
+         -Does as it sounds
+      -Memory
+         -32 bit adresses (2^32 bytes addressable = 4Gb)
+      -Program Counter (PC)
+         -where to fetch
+         -holds address of next instructions
+      -Instruction Register
+   [Control Unit]
+      -Sends the proper control signals to each
+        component to accomplish instruction
+   [Register File]
+      -a group of registers
+      -input
+         -which register(5 bits)
+         -read or write
+         -32 bit value (for write)
+         -5 bits for register(2^5 = 32 different things)
+         -outputs a 32 bit value for read
+      [Register Conventions]
+         -$0 = 0
+         -$1 = used by assembler
+         -$2,$3 = functions return values
+         -$4-$7 = arguments to a funciton
+         -etc
+
+         -There are no local variables
+            -conventions to deal with this
+   [Other Components]
+      -ALU
+         -Performs arithmetic and logic (and, or, shift)
+      -PC
+         -Program Counter
+            -Addresses of next instruction
+      -Memory
+         -32 bit addresses
+         -addresses a byte (8 bits)
+            -ie, cannot buy one egg, but must buy a
+              carton
+         -Some instructions use a Word (4 bytes),
+           Halfword (2 bytes), or byte operands
+         -All instructions are 4 bytes (on MIPS)
+            -PC = PC+4
+   [Instruction Format]
+      -Opcode
+         -First 6 bits
+         -up to 64 opcodes then
+      -3 formats
+         -R type
+            -Opcode all 0's
+            -(short for registers)
+            -Three 5-bit fields for registers (2 for
+              operand, one for results)
+            -5 bit shift amount (for shift instructions)
+            -6 bit function code
+               -these are the 6 extra bits
+               -used for add, subtract, compare, etc.
+               -up to 64 different instructions or 4
+                 type
+
+         -I type
+            -still 6 bit opcode
+            -two 5bit register numbers
+               -two compares
+            -16bit value as the third operand
+            -can go only up to 64,000
+               -2^16
+
+         -J type
+            -jump
+            -still 6 bit opcode
+            -a 'goto' function
+            -there are no for loops in assembly
+
+            -Jump instructions
+            -26 bit address field (64 million)
+
+
+
+
+
+
+--[MIPS Format]--
+   [Statement format]
+      -MIPS assembly language  have the following format
+         -label:opcode operand,operand,operand #comment
+      -label identifies the statement and is optional
+      -opcode is the command
+      -there may be 0-3 operands depending on the
+        instructoin
+      -commentss are optional but helpful
+      -comments can be on a line by themselves
+
+      -Whitespace is as you'd like to have
+
+
+   [Command Formats]
+      -To make sure you use the proper command, look at
+        the operands and their data type
+      -some commands take 3 registers as operands
+      -some take an actual number (immediate) as one of
+        the operands
+      -some operands are a label
+
+  lets translate x=y+7-z;
+
+  assembler:
+
+    .text
+  lw    $t0,y  #loadword
+  addi  $t0,t0,7 #add 7 and save it
+  lw    $t1, z
+  sub   $t0,$t0,$t1
+  sw    $t0,x
+  li    $v0,10
+  syscall
+    .data
+  x:.word	0
+  y:.word	0
+  z:.word	0
+   #have to load into $v0,10 then have syscall
+    #this defines the end of the code
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	TIMESTAMPSTR:  Mon Jan 22 13:59:05 2018 
+	Last Save:     Mon Jan 22 13:59:09 2018 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+
+-Can use hexadecimal to shorthand binary
+
+-k bits
+   -can make 2^k numbers
+
+   -2^k-1 negative ||| 2^k-1 positive
+
+[Sign Magnitude]
+   +=0
+   -=1
+   -3 = 100011
+   6  = 000110
+   well added gets 101001, which is -9
+
+   [2s Compliment]
+      To negate:
+         Flip bits
+         add one
+
+         000110 = 6
+         flip:
+            111001
+                +1
+            ^^^^^^
+            111010 = -6
+
+         add 3
+         11
+
+            111010 = -6
+            000011 = +3
+            ^^^^^^
+            111101 = -3
+               how?
+               flip bits
+               000010
+                   +1
+               000011 = 3
+
+
+         negation
+         001101
+         ------
+         110010
+             +1
+         ^^^^^^
+         110011
+         ------
+         001100
+             +1
+         ^^^^^^
+         001101
+            the last one is the first as the last,
+              negating it twice
+
+
+
+
+   negating 0
+   000000
+   111111
+       +1
+   1|000000
+
+   with sign magnitude, +0 is 000000, -0 is 100000
+
+   32 -numbers, 31 positive numbers, 1 0
+   111111=-1
+   100000=-32
+   011111=+31
+
+
+
+######################################################
+   22+22
+
+   010110
+   010110
+   ^^^^^^
+   101100
+      unsigned its 44
+      signed its negative
+   Signed means using 2s compliment
+   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+   if a negative and positive are added signed, it will
+     never overflow
+   if two positives are added 6 bit signed, and it is
+     over a value of 31, it will overflow
+
+
+   with unsigned, if carry out in left most position,
+     that is overflow
+   with signed addition, only have overflow if both
+     operands have same sign, and result has a different
+     sign
+
+   carry out for signed is Irrevelant
+                            ^^^^^^^^^^
+
+   signed addition, if different signs, there will
+     never be overflow
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	TIMESTAMPSTR:  Wed Jan 24 13:48:53 2018 
+	Last Save:     Wed Jan 24 13:55:24 2018 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+
+--[Mips]--
+   [Multiplication]
+      it multiplies the contents of two registers
+         stores lower 32 bits of the result in the low
+           register and the upper 32 bits in the high
+           register
+         how to work with high and low
+            move from high
+               mfhi reg
+            move from low
+               mflo reg
+
+   [Division]
+      When we divide there is a quotient and a
+        remainder (becuase integers
+      Divide (div) takes 2 registers, divides the first
+        by the second, and places the quotient in Low and
+        the remainder in High
+      Quotient in Low
+      Remainder in High
+      Divide unsigned (divu) treats the values as
+        unsigned positive values. there is a multiply
+        unsigned (multu) also
+      to get mod(%), you just get the high
+
+
+   [EXAMPLE]
+  x=y*(x+312)/z
+  k=xmod5
+
+  --assembler--
+  lw $t0,x
+  addi $t0,312
+  lw $t1,y
+  mult $t1,$t0
+  mflo $t0
+  lw $t1,z
+  div $t0,$t1
+  mflo $t0
+  sw $t0,x
+  li $t1,5
+  div $t0,$t1
+  mfhi $t0
+  sw $t0,k
+
+  #the first addi should be:
+  #addi $t0,$t0,312
+  #but also can do
+  #addi $t0,312
+  #this is allowed because it was initialized first
+
+   when doing the multiply and divide, always check low
+     and hi
+   [commands]
+   0>
+      la
+         load address
+         loads items at a memory address, good for
+           strings
+      li
+         load immediate
+      lw
+         load word
+      sw
+         store word
+
+   [Basic Branching]
+      branch instructions have the format:
+         Branchop	reg, label
+      the branchops can be:
+         bgez - branch if greater or equal to 0
+         bgtz - branch if greater than 0
+         blez - branch if less or equal to 0
+         bltz - branch if less than 0
+      branchop takes a register and a label
+      can branch to variable name, but do not do so
+      Branch is used for jumping to an instruction
+      [Equality]
+         Branch on equality uses
+            op reg, reg, label
+         ops are
+            beq (branch equal to)
+            bne (branch not equal to)
+
+      [Macro Branches]
+         beqz reg label
+         bge reg,reg,label
+         bgt reg,reg,label
+         ble reg,reg,label
+         blt reg,reg,label
+         bnez reg,label
+         b label
+
+
+   [Control Stuctures]
+      [if]
+         if (a<b)
+            x=a+1;
+            y=b-a;
+         a=a+2;
+      assembly
+  lw	$t0,a
+  lw	$t1,b
+  bge	$t0,t1,pos1
+  addi	$t2,$t1,1
+  sw	$t2,x
+  sub	$t2,$t1,$t0
+  sw	$t2,y
+  pos1:addi $t0,$t0,2
+      [else]
+         basically
+         branch conditional, label el
+         above the el label, branch to last label
+            b last
+         so if not going to else, then continue with
+           the first statement. if going to the else,
+           then branch to the else statement
+
+      [While loop]
+         while a<b
+            a=a+1
+            b=b-1
+         ASSEMBLY
+  lw t0,a
+  lw t1,b
+  rep: bge t0,t1,out
+  addi t0,t0,1
+  addi t1,t1,-1,
+  b rep
+  out: sw t0,a
+  sw t1,b
+
+
+
+      [For loop]
+         for i in 100
+            sum+=i
+            even+=2
+         ASSEMBLY
+  add $t0 $0,$0
+  li $ti,100
+  lw $t2,sum
+  lw $t3,even
+  loop:add $t2,$t2,$t0
+  addi $t3,$t3,2
+  addi $t0,$t0,1
+  blt $t0,$t1,loop
+  sw...i,sum,even
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	TIMESTAMPSTR:  Mon Jan 29 14:03:01 2018 
+	Last Save:     Mon Jan 29 14:04:24 2018 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+
+   [Macro Instructions]
+      allows for smaller and faster instruction set
+
+      ie
+         mov $t1, $t2
+         it is actually add $t1, $0, $t2
+      britton appendix d
+
+
+Syscall Command
+   syscall can do many operations
+   each operation is given a number
+   syscall expects to find the operation number in
+     register $v0
+   arguments being sent are in $a0 and maybe $a1
+
+   programs dont write to devices, they ask permission
+     from os to do so
+
+   print integer: 1
+   print string:  4
+   read integer:  5
+   read string:   8
+   terminate:    10
+
+   {{ readwrite example in catchup powerpoint }}
+
+Strings
+   ascii and asciiz
+   .asciiz will have null terminator at end of the
+     string
+   .ascii will not, but it can be manipulated
+
+Commands
+   La - Load address of a variable (different from lw)
+   li - Loads immediate argument into a register.
+     because of the  instruction fromat, the value must
+     fit into 16  bits
+   lui- Loads the upper 16 bits of a register with the
+     16 bits in the immediate field. sets lower 16 bits
+     to 0
+   Ori- Logical or of a register with a 16 bit
+     immediate opperand
+

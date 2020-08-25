@@ -1,0 +1,37 @@
+	[FILE: study guide 01.txt]
+	[DATE CREATED: Wed Sep 16 21:46:03 2015]
+	[Title: Psychology Test Study Guide]
+
+-Wilhelm Wundt
+--->
+  -first concept of psychology
+  -first lab
+  -chronoscope-first lab experiment
+  --->
+    -tested reaction time
+    -<--
+  -<--
+-Current Perspectives:
+--->
+  -ChBp
+input bullet point: 1
+  1ChBp
+input bullet point: 1.
+  1.ChBp
+input bullet point: -
+  1-TITLELINE
+input title:
+
+-Current Perspectives
+--->
+  -neuroscience
+  -evolutionary
+  -congitive
+  -behavioral
+  -psychodoynamic
+  -behavior genetics
+  -social/cultural
+  -
+  -<--
+-Population Vs Sample
+-

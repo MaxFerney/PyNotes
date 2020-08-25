@@ -1,0 +1,3 @@
+	[FILE: new file test.txt]
+	[DATE CREATED: Tue Mar 29 15:28:52 2016]
+	[Title:  ]

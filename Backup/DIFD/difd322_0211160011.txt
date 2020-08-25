@@ -1,0 +1,357 @@
+
+===========================================================
+	[FILE: difd322.txt]
+	[DATE CREATED: Mon Jan 13 13:18:49 2020]
+	[Title: difd 322]
+
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	TIMESTAMPSTR:  Thu Jan 16 15:39:32 2020 
+	Last Save:     Thu Jan 16 15:39:34 2020 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+[Information Architecture]
+   organizing, structuring, and labeling
+   Understanding where things are
+   what people find
+   what is around the interface
+   what to expect; what is there to do
+      winthrop website: quick links has all of the
+        links
+      can be viewed as good or bad honestly
+
+   Context, content, and users
+   context
+      business goals, funding, culture, tech, etc
+   content
+      document, data types, volume
+   users
+      audience, etc
+   It's like a bridge builder
+
+[User Experience]
+   Making things work together seamlessly
+   sometimes known as Customer Experience
+      others say Experience Design
+   meeting the needs of the customer that allows
+     them to seamlessly achieve their goal
+   process of creating products and meaningful
+     experiences
+
+   understand context of use ->
+      specify user requirements ->
+         design solutions ->
+            evaluate against requirements
+
+   example, different types of juicers
+      some are easy to use, some are more effective,
+        some are simply fun
+
+   They Design Experiences
+    ^^^^^^^^^^^^^^^^^^^^^^^
+
+   UX is like using the item or website
+               ^^^^^
+
+
+[User Interaction]
+   How the user faces the system is User Interface
+   how the system acts on the user is User
+     Interaction
+   Basically like anything a user might interact
+     with
+   History
+      1970s
+         Command Line Interface
+      1980s
+         first GUI was developed by Xerox PARC
+         using icons
+      1984
+         Apple Macintosh personal Computer'
+
+   Basically Any Input from the user
+                  ^^^^^
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	TIMESTAMPSTR:  Tue Jan 21 15:35:55 2020 
+	Last Save:     Tue Jan 21 15:36:33 2020 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+--[Methodologies]--
+
+[Card Sorting]
+   Open and closed card sorting
+   [Open]
+      organize topics from content within website
+        into groups.
+      create categories
+      users group categories with content using
+        terms or labels
+   closed
+      predefined categories, just organizing them
+   categorization of the thoughts of the user
+   language of the user
+   discovering content and unknown
+Prototyping
+   research, production, preliminary, etc
+   sort of a visual of the idea, that can be shown to
+     others
+
+   learn by making
+      double check yourself
+   learn by failing
+      what didn't work
+   design with users
+      you translate the users need as they critique.
+   pitch ideas
+   share ideas
+      multidisciplinary
+      different viewpoints
+   test ideas
+   learn problem more
+   find questions
+      elaborate more questions
+   find solutions
+      better solutions
+
+
+   [Rapid Prototyping]
+      fast
+      not clean
+      for feedback purposes
+           ^^^^^^^^
+
+      should be rough
+      it will go into review
+      this will give you feedback
+      then use the feedback for refining
+      then Repeat the process
+
+   [Paper Prototyping]
+      Test potential problems
+         simple tasks to do
+      anticipate user
+      make each action of the task
+         catch all steps of the process
+         usability
+
+      because it is paper, you can ask a broader range
+        of users to test it (like elderly)
+      allow them draw things on the prototype
+      gives them more power and easier use of the site
+      ask what they remember, how they do things
+         what they remember of the site
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	TIMESTAMPSTR:  Thu Jan 23 15:27:58 2020 
+	Last Save:     Thu Jan 23 15:28:05 2020 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+--[Persona]--
+   common language to talk about the customer
+   represents distinct group of people
+   no standard format for persona
+   have been used for almost 20 years, mostly in the
+     field of user experience
+   [How to come up with group]
+      topic of stacks books in persona
+      might fall into a categories
+         data driven
+            deep analysis certain pattern emerged
+         institutional
+            organization target audience
+            be sure it works for current purpose
+         procedural
+            persona roles based on customer lifecycle
+            reflect their lives
+   its NOT just demographics
+      specific to an imagined user
+      persona is a fictional description of a person
+        which is nonetheless realistic
+      instead invent a person that doesnt exist
+      can combine important qualities of multiple
+        representatives of your group
+      this is based on surveys, demographics, etc
+   collecting data
+      market research
+      statistic analysis
+      user interviews
+      focus groups
+      contextual inquiries
+      collect information and generate hypotheses
+      validate hypotheses by means of survey
+   [What is it made of]
+      Name
+         give them a name that you randomly select from
+           phone book or online link
+      classification
+         try ot describe the person using one or very
+           few terms such as learner or bank account hawk
+      motivation
+         people who have similar needs are motivated by
+           those needs and form a group of users.
+         all the personas together make up the
+           motivations of people have to visit the site
+         what features should support motivations of
+           the user
+            calendar?
+            interactivity
+            share?
+      User behaviors
+         how user gets or send information
+         use action terms to describe the behavior
+      Scenarios
+         realistic scene that sets stage between site
+           and user
+            consider information the user may already
+              have
+            give some context
+               first timem home buyer and uses online
+                 banking
+               needs to check mortgage payment dates
+            what do they do with the information they
+              get from the interaction
+            try starting scenario sentence with
+               i am concerned about... so I need to...
+      Quotes
+         adding actual quotes from users will help to
+           ground the information in research as well as
+           add realistic imporession
+         do NOT just make them up  that smacks of your
+           bias
+         "If I send a customer service request, how
+           long will it take to get a real response"
+      Demographic info
+         information about demographic should still be
+           specific to a persona
+            not
+               jane is 18-25 yr old female
+            rather
+               jane is 21 and about to move to a
+                 college
+      technology skill
+         what is the level of comfort that the user has
+           wth a computer/smart phone/ electronic device
+         How much human contact to people want when
+           dealing with the organization
+         how good are they with tech?
+      Persona background
+         difference between representation of user and
+           a typical user
+         peronal background should add something to the
+           scenario
+      Photos
+         real photo
+         imagees of users that came to your research is
+           useful, but may remind you of a powerful
+           personality
+         be sure to get release information from the
+           people in the photo
+         do NOT use an illustration
+         helps make user seem real
+   [Who will use a persona]
+      web designers
+      stakeholders
+      helps to describe personas to people who aren't
+        used to them
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	TIMESTAMPSTR:  Tue Jan 28 15:41:45 2020 
+	Last Save:     Tue Jan 28 15:41:54 2020 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+--[Usability Testing]--
+   Seperate from paper prototyping sorta
+   evaluate a product/service by testing with
+     representative user
+   identify any usability problems to collect
+     qual/quant data determine the participants
+     satisfaction with the product
+   [Good Usability]
+      Simple and natural
+      speaking user's language
+      minimize memory load
+      support recal
+      constructive error messages
+      clear exits
+      support recall
+      shortcuts
+      give feedback
+      prevent errors
+      thrive consistency
+   [What to observer]
+      can they complete the task
+      how they complete a task
+      how long it takes
+      how satisfied are they
+      identify changes
+      analyze performance to know if it met your
+        usability objectives
+   [Why Usability Test]
+      Usability issues
+         all the things you typically find inn
+           testing...
+         confusing concepts
+         poor terminology
+         layout problems
+         lack of feedback
+      Missing (or non-specified) functional
+        requirements
+         needs that dev team is not aware of
+         team may mistake assumptions
+      Preference for one design alternative
+         sometimes bias towards a specific design
+      Priorities
+         no company has unlimited resources - paper
+           prototyping can sepearate got to haves from
+           nice to haves
+      issues outside the user interface
+         product is more than User Interface
+         brand and company's reputation are important,
+           as well as the context in which the product
+           will be used
+         can uncover issues beyond the user interface
+      don't make something look fancy if its actually
+        cheap, that will confuse everyone
+   [Benefits of Usability Testing]
+      Good for interative design process
+      can be small groups to get major problems
+        discovered
+      insight into the users' habits, approaches new
+        ways of looking at the site
+      >The Science and Art of User Experience at
+        Google<
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	TIMESTAMPSTR:  Tue Feb 11 15:39:59 2020 
+	Last Save:     Tue Feb 11 15:40:09 2020 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+--[Mind Mapping and Scenario Writing]--
+   [Mind Mapping]
+      graphical way to represent ideas and concepts
+      visual thinking that helps structure info
+      maps out ideas
+      [Usage]
+         note taking
+         planning
+         problem solving
+         brainstorming
+         presenting information
+         research
+         jogging creativity
+         gaining insight on complex subjects
+         studying and memorization
+      [Organize information]
+         show relationships among different pieces of
+           the whole
+         Can be like brainstorming map
+         grouping things together
+         subject -> idea -> sub ideas

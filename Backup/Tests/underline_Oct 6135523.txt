@@ -1,0 +1,19 @@
+
+===========================================================
+	[FILE: underline.txt]
+	[DATE CREATED: Thu Oct  6 13:54:50 2016]
+	[Title: Underline test]
+
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	TIMESTAMPSTR:  Thu Oct  6 13:54:21 2016 
+	Last Save:     Thu Oct  6 13:54:55 2016 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+line
+line 2
+this is the string to be underlined
+             ^^^^^^                   
+lets see if it worked

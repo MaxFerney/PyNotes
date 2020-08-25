@@ -1,0 +1,138 @@
+
+	TIMESTAMPSTR:  [Sat Oct 10 14:22:08 2015]
+	#####Last Save: [Sat Oct 10 14:22:56 2015]#####
+
+ 
+ 
+ asdf
+ asdf
+ asdfasdf
+ dkajsdfa
+   I.It works again
+   I.again
+      A.lets now try the test text wrap again
+      B.asdl;fka eldkfsdjfa sekjaoxdijaoie asedkfjaos asdofiijaelajdf
+      B.um
+   I.asdf
+   II.lets try the text wrap system YET AGAIN
+      A.testing.. BEGIN
+      B.ldaskjle dslfjalsdkjfa sdlkfjalsdkjf aldkfjad
+ asdlfjaelakjdlfakjdf asdlkfjalekjd faldkfj
+
+      B.I dont think it works.. uuuhhs
+   III.asdlf
+      A.asdf 
+      B.asdf
+      C.asdf
+      D.lasdjf
+        01.asdf a;lsdfj
+        02...-asdlfjasd
+      E.adsf asdlfja
+      F.<-
+   IV.a;df
+   I.again
+   II.lets do this agiain
+      A.wo hoo
+      B.I really hope this works
+   III.asdf
+   IV.dj awkse dfalsje eoaodi falsejdf alsdk aeaodijf asekdjf
+ alsdjafosidj falsdjkfalsaejld f
+
+   IV.asdkjfaoseidf 
+   V.did it work?
+   VI.ald fasdfj alsdkjf aldkjfaosedfaldkfjased
+ faidjfalsaejdasdjfali alsdkfjaeidjf aldjkflaskdjfald
+ fladjflasdj faldkjfaldkfjladf asdlfjalsjf shiheiighs
+ rif o4930 dsjrd fkjasd fasdf
+
+   VI.uhg
+   I.asdfja sdlfkj
+      A.aldf 
+      B.lasdkjfoaie a
+        01.asdf ja;ekjdf a;lsdkjf;alsdjf alsdkjfalsejk
+       aoidfjalsdjfalsd kfasdkjf adlkfjalke a;ldjf al;dkj
+       felaj dl;fj ad;kfj akk
+
+        01.as dffkadff
+   I.asdjfa;s 
+   II.again
+      A.adfalekjad
+      B.asdl;fja aidj flakjeafdkjxfasdf a;lejoaidjf
+      aldfjalsefjoaifja
+
+      B.nope
+   I.trying again
+   II.I REALLY HOPE THIS WORKS
+   III.asdlfj
+      A.;aldkj
+      B.as;efja osdifja okj aosdijfoajdf asdkjfaose
+      asdofjaseojfa;ldf
+
+      B.noooo
+   I.alsdkj
+   II.asld=-->
+      A.sdkf
+      B..._
+        01.asdlf
+        02.asdkjfa ;sdkfale dlafjslxk  l;kjlkjadk
+       ao4jaldjaosdfasdf
+
+      C.alsdkf a
+      D.asdlfasdfo
+        01.asldkjfa skdfj lasdj foaij dkfadfga; eoi foaisdfoasfjja
+       df
+
+        01.alsdf 
+        02.well, its broken
+      E.asdf
+      F.aldf
+        01.asdlf
+          i.asdfkjasd
+        02.asdfjalsdf
+        03.asdof
+        04.,,_
+          i.asdlfja
+   III.asdkfj
+   IV.WELL IT WORKS, BUT ITS KINDA BROKEN
+
+	TIMESTAMPSTR:  [Wed Oct 14 07:53:33 2015]
+	#####Last Save: [Wed Oct 14 07:53:38 2015]#####
+
+   I.a title
+   I.Hello world
+      A.hi
+      B.asdf
+        01.jj
+        02.adsf
+      C.asdf
+        01.asdf
+
+	TIMESTAMPSTR:  [Fri Oct 16 16:43:54 2015]
+	#####Last Save: [Fri Oct 16 16:50:10 2015]#####
+
+   I.What if(by daniel sokol)
+   II.--->
+      A.fat man and the trolley car
+        01.push a fat man off a bridge to save 5 people
+        02.or dont do anything, letting the 5 die
+      B.trolley car
+        01.flip a switch
+           i.leave it, 5 people die
+           ii.move it, 1 person dies
+      C.cave explorers
+        01.5 people stuck in a flooding cave
+        02."big jack" gets stuck in the only exit
+           i.they can use dynamite to blow him away
+           ii.they dont
+              a.jack lives, the 4 die
+           iii.they do
+              a.jack dies
+              b.the 4 live
+      D.Thomson's Violinist
+        01.you are kidnapped by the music appreciation
+        02.society
+        03.
+        04.You are hooked up to a world famous violinist
+           i.if you stay, he will live and so will you
+           ii.otherwise, he will die
+        05.are you obligated to stay?

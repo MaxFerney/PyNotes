@@ -1,0 +1,1046 @@
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	TIMESTAMPSTR:  Tue Jan  8 12:25:56 2019 
+	Last Save:     Tue Jan  8 12:25:58 2019 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	TIMESTAMPSTR:  Thu Jan 10 12:24:52 2019 
+	Last Save:     Thu Jan 10 12:24:56 2019 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+--[Digital Society]--
+   What is a digital society
+   What is the relationship between technology and
+     social change?
+   what does it mean, from a social perspective, that
+     things are digital
+
+   [Digital Society]
+      Result of Digital Media + Society
+      Digital Media
+         Internet, Websites, Social Media
+      Digital media have put their mark on society
+      People are always shaping new media
+         How they use it
+         adapt it
+         resist it
+      No consensus on this desscription
+      Other terms
+         Information society
+         Post-industrial society
+         Network Society
+      But does it matter what we call it?
+   [Media Everywhere]
+      Media includes tools, channels, platforms used to
+        obtain, create &share information
+         people communicate & interact through media
+      often a connection between media and social
+        change
+      Media influences how people relate to the world
+        and understand
+      this has happened throughout history
+         Printing press
+         Television
+         Internet
+
+      Scholars always interested in the relationship
+        between media and reality
+      How is learning affected by media type
+         TV vs YouTube
+         Newspaper vs Twitter
+      Do we behave differently
+         Phone call vs text
+         email vs a tweet
+
+      Is it good or bad?
+      Tech historian Melvin kranzberg(1986)
+         tech is neither good nor bad, nor is it
+           neutral
+      Media Theorist marshal mcluhan(1962)
+         Externalization of our senses
+         world has become a computer, electronic brain
+         technology numbs human awareness
+      Is society worse because of technology?
+      Are we dumber because of technology??
+   [What is Digital?]
+      Digital requires math
+      Digital requires computing (binary code)
+      binary system
+         invented by leibniz (1600s)
+         code of zeros and ones (present vs non-
+           present)
+         Basis for everything digital
+            Smartphones (smart anything)
+      Idea of computer programming dates back to 1800s
+         Charles babbage
+            father of the computer
+            Difference engine (1822) mchanical
+              calculator
+            analytical engine (1837) general purpose
+              computer
+         Ada lovelace
+            First computer programmer
+            Notes (1842): "The engine might compose
+              elaborate and scientific pieces of music of
+              any degree of complexity or extent"
+
+      Computers invented to solvve math problems, but
+        capabilities exceed math
+      Computers store and transmit date
+         com networks (friendships)
+         process text (writing and authors)
+         process sound (musicians)
+      Digitalization of society & people
+         Computers do many things
+         we can carry & wear them
+
+      When we thing of digital society
+         do we thing of math
+         or binary code
+         or computing
+      Computer historian paul ceruzzi (2003)
+         As far as the public face is concerned,
+           'computing' is the least important thing
+           computers do
+   [Theory: Games between people]
+      Sociologiest daniel bell (1970s)
+         post industrial society
+         information society
+      Society Dominated by Extractive work
+         pre industry: Farming
+         industrial revolution: factories
+         Second half of 20th century: information
+           activities
+      When work becomes automates people move on
+      bell sees modern work as services or "games
+        between people
+         Sees most modern jobs as information work
+         thus: "Information professionals" hold the
+           most prominent jobs
+
+   [Theory: Blip Culture]
+      Futurist Alvin Toffler (70s-80)
+      argued audiences would become de-massified
+        (smaller)
+      new media would lead to narrowcasting
+      bedlam of blip culture
+         small pieces of content of electronic media
+            news clips
+            song lyrics
+            commercieals
+         Would force people to be more active in
+           piecing things together themselves
+
+   [Theory: Optimism for Opportunity]
+      Bell and toffler saw these new societies
+        optimistically
+      They predicted
+         more learning: rise of knowledge experts
+         more democracy
+         more personal development
+         more personal enjoyment
+         death of industrialism and the rise of a new
+           civilization
+         no more manual work
+         people would be friendly and intelectual
+         an end of radical politics
+         people would no longer be reduced to numbers
+           (big data?)
+
+      Many of their predictions are true, but...
+      are people just "digital labor"
+         are we an information society
+         are there non-information jobs
+         has industrial capitalism been replaces by
+           information capitalism
+         can you think of any sector where digital
+           information isn't vital?
+         are we reduced to information (big data) more
+           than ever?
+
+   [Theory: Compress time and space]
+      digital society makes time and space less
+        important
+      we text, chat, or email we dont have to be in the
+        same place or respond immediately
+      industrialism more confined by time and schedules
+      digital society physical presense is less
+        important
+      is this really new?
+
+   [Theory: Criticism of imformation society]
+      Based on marxist theory
+      sociiologist manual castells (1996)
+         network society
+         digital tech may have changed things, but
+           society is still based on capitalist
+           industrialism
+      Jabes beniger (1986)
+         Control revolution
+         Develomnets in late 1990s havent caused big
+           society change
+         result of rapid change in tech
+      Does it matter how we label society
+
+   [History: The Internet]
+      Global network of computers
+      enables an umnmeasurable amount of social
+        activity
+      feels like it has been around forever
+      but wasnt widely available until mid 1990s
+      not easily used until creation of World Wide Web
+        (1991) Basis ofor digital media
+
+      Late 1950s, height of cold war
+      eisenhow launched project in response to sputnik
+        (1957)
+      Computer systems that could survive neclear
+        attack
+         rely on a decentralized network
+      funded by ARPA
+      called ARPAnet (later called NET) (late 60s)
+      Based on packet switching
+         Broke messages down into smaller pieces that
+           moved through multiple paths
+
+      Dev of internet was a collab
+         grad students and programmers working through
+           rcfs, message boards, memos
+      72: email introduced
+      74: term internet first used
+      late 80s: nsf takes control of internet
+      91: www deved by tim berners lee
+      93: mosiac browser
+      95: internet opened to commercial interests
+      98: all countries worldwide join the network
+
+   [Media Ecology: Environments]
+      Media Ecology
+         Study of media, tech, comms, and how they
+           affect human environsments and affairs
+         internet is a vital part of digital society
+         thus internet is a medium because its an
+           environment
+         its an environment b/c its a medium
+      Media ecologists argue a medium is any symbolic
+        structure or social environment
+         Mediums provide ways of relating to the world
+           witout limits
+         from this perspective many things can be
+           mediums
+            newpapers, tv, coffee shops, classrooms,
+              etc
+
+   [Media Ecology: Social Structures]
+      Sociologist anthony giddens
+         social structures have two dimensions
+            rules exist in social systems (or societies
+            resources and symbols exist people can draw
+              from society
+         mcluhan
+            defined media as extensions of our senses
+               become aware of the world
+            medium is the message
+               how we see the world
+         Might explaining differences in old vs young
+            nspaper readers vs internet users
+
+   [Media Ecology: Symbols]
+      Every medium or environment has a set of rules or
+        codes
+         language or vocabulary (net-speak)
+         example: posting to twitter or instagram
+            knowledge of hashtags or filters
+            when and how to use them 
+            Master these rules
+            know these roles
+            socialized into the medium or environment
+      <=
+
+   [Media Ecology: Etangled media]
+      content of medium is always another medium
+         internet includes tv or newpaper or radio
+         tv might include a theatrical play and so on
+      remediation
+         digital media continuously absorbs and
+           repurposse other forms of media
+            everything is a remix
+      mediatization
+         media have becomme increasingly entangled in
+           our relity, accentuated by digital technology
+      Media logic
+         media through their routines influence other
+           institutions, culture, and society
+         media influences social interaction
+           communication
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	TIMESTAMPSTR:  Tue Jan 15 12:28:16 2019 
+	Last Save:     Tue Jan 15 12:28:17 2019 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+--[Social Media]--
+   [Key Questions:]
+      How have social media developed?
+      What is web 1.0 vs web 2.0?
+      How do sociology theories help us understand
+        social media?
+      What are networked publics?
+
+   [Key Concepts]
+      Society is held together by structures
+      People perform social actions
+         cooperate, interact with other, become
+           individuals
+      Networked publics
+         changes from digital media have connected and
+           mobilized people in  new ways
+      Networked individualism
+         People interact through individually centered
+           networks that are more open and diverse than
+           ever before
+
+   [Web 1.0]
+      First version of the internet
+         email, web page display
+      World Wide Web, HTML
+      Traditional web pages
+         allows for little interaction
+         clickable links
+         users consume content passively (assumption)
+      Transition to web 2.0 begins early 2000s
+      Achievements
+         Greater content access
+         Dot-com consumerism
+
+   [Web 2.0]
+      Difference between old and new web centers on
+        participants becoming creators of content
+      Allows for new levels of interaction
+      User-created content
+         blogs
+         social networking
+         Wikis (wikipedia)
+         Creativity (youtube)
+         Other tools (tagging, sharing, liking,
+           remixes, mashups)
+
+      All media is social, but...
+      Digital social platforms have transformed
+        information and communication
+      Social Media
+         Collections of friends
+         Profiles
+         Interacting (or reacting)
+            Liking, disliking, commenting, sharing
+            Massaging or chat functions
+            Following or "friending"
+
+   [Social Media Timeline]
+      Bulletin Beard Systems (BBS)
+         meeting places
+         file sharing
+         aming
+         post messages
+      CompuServe (U.S., 1969-2009)
+      Minitel (France, 1978-2012)
+         Both Pre-web
+         included chats
+         discussion forums
+
+      America Online (AOL, 1990s)
+         Member creted communities
+         searchable member profiles
+         chatrooms & instant messaging
+      Six Degrees(1997-2001)
+         User profiles
+         "friending"
+      Classmates.com (1995)
+      Blogs (web logs, 1998-99)
+         Open Diary, LiveJournal, Blogger
+         "Blogosphere" - Sharing links, Comments
+
+      Friendster (2002) and Myspace (2003)
+         First surge in social media
+      LinkedIn(2003)
+         Business Professionals
+      Facebook(2004)
+         TheFacebook
+         Harvard students
+         1.6 billion users
+      Twitter (2006)
+         Microblog
+         300 million users
+      Others:
+         Youtube (videos)
+         Flickr & instagram (photos)
+         Tumblr, pinterest & snapchat (variations)
+
+   Media researcher David Gauntlett (2011)
+      Social media seldom defined by tools, but as
+        broad platforms
+   Example: YouTube
+      Framework for participation
+         its a platform, wide range of content
+         no guideline for what should be shared
+      Content-agnostic
+         variety in user content, no-one knows or cares
+           about all of it
+         big news outlet vs a regular person
+      Community Features
+         Communication, Connections, Promotion through
+           video
+
+   [Theory]
+      [Social Facts]
+         Sociaologist emile durkheim
+            rules of sociological method (1895)
+         We do things not always because we want to,
+           but because we know we should
+            how to behave as sibling, spouse, citizen
+            we are told these duties through education
+              by society
+         Society is "Super-individual"
+            Society is more than people (or
+              individuals)
+            society is larger, consisting of building
+              blocks
+            Social structures exist (or rules)
+
+         Are social media (or the internet) part of
+           this super-individual realm?
+         media can be seen as social
+            result of social processes between people
+            posting a picture, creating a profile
+               there are social structures (or rules)
+         Durkheim (1895)
+            there are ways of acting, thinking and
+              feeling which possess the remarkable
+              property of existing outside the
+              consciousness of the individual.
+            individuals use tools (or resources) to
+              extending intosociety
+         Do we behave differently based on the social
+           platform
+            can we behave freely
+            are we restrained by rules
+            forced to behave certain ways?
+
+      [Social Actions]
+         max weber (1922)
+         social relations are constituted by a form of
+           social actions that are meaningful
+         however, not everything people (or crowds) do
+           are social
+            putting up umbrella during a shower
+         Tension between social actions vs crowd
+           actions
+            "Clicktivisim" - Crowd behaviors, not
+              genuine social interactions
+         Thus, most things we do on social media are
+           social actions
+
+      [Social Cooperation]
+         German sociologiest ferdinant tonnies (1887)
+            gemeinschraft - what holds society together
+            society is merely people coexisting
+            but community is the canguage, customs,
+              beliefs to produce coherence & unity
+            society is more than the sum of its parts
+         Karl Marx & Friedrich Engels (1932)
+            Co-operation - fundamental to human
+              existence, society
+            something becomes social when several
+              people work together to produce it
+            co-operation is a productive force
+         Both ideas emphasize "Social" as people doing
+           creative things together
+
+      [Social Presence]
+         Sociologist georg simmel (1910)
+         saw sociality as individuals working towards
+           shared forms of thinking, talking or acting
+         people are composed out of reciprocal
+           relationships to others
+         the full complexity of a person can never
+           fully be represented in society
+         social presence always distorted by "mask" we
+           wear socially in front of others
+            "We are all fragments... of ourselves"
+
+         simmel warned of alienation
+            a person's move towards society can never
+              be complete
+         "The tragedy of culture"
+            in every social setting there's something
+              tragic
+            social tools are limited so its impossible
+              to fully represent one's self
+         The abstract person vs the real person
+            abstract person - social media mediates our
+              identity through our profile
+            real person - content we create or
+              circulate obscures who we really are
+         its impossible to fix definite meaning on
+           tings
+         reality has an infinite number of possible
+           meanings
+
+      [Self Presentation]
+         Social psychologist erving goffman (1959_
+            described self presentation using
+              dramaturgical metaphor
+               in our social lives we paly various
+                 roles, on different stages, using
+                 different scripts
+               people in society are the audience
+               front region - the stage, what is seen
+               back region - backstage, behind the
+                 curtain, unseen
+               Example: Instagram
+                  share a photo in the fron region
+                  but its created, edited, cropped in
+                    the back region
+                  we can control the audience (public
+                    vs private accounts)
+         "Access to these regions is controlled in
+           order to prevent the audience from seeing
+           backstage and to prevent outsiders from coming
+           into a performance that is not addressed to
+           them."
+
+         Goffman (1959))
+            expressive equiptment - tools to create our
+              personal front
+            impression management - creating, molding
+              our image
+         in a social context:
+            people work together to define and make
+              sense of social situations
+            people must agree (even if unsaid) on
+              certain rules of interation
+            what is seen as good or bad behavior
+         Socialogist pierre bourdieu (1990)
+            Logic of practice - agreements how to
+              behave
+               agreements may vary
+               there is some solidarity & familiarity
+                 to such agreements
+         Some will "accept definitional claimms made by
+           others"
+         thus, "we make social together"
+         social structures - formal & informal rules
+           that define social settings
+
+         Gibson (1977
+         theory of affordances
+         the properties of an object define how it
+           should be used
+            we sit in a chair
+            take pictures with a camera
+         assumptions
+            technology causs certain social actions
+              but...
+            technology  is shaped by social actions
+            technology relies on "action
+              possibilities"that can be realized
+              depending on the abilites of the individual
+            people can create social action trough as
+              media tools or the platform allows
+
+      [Networked Publics]
+         cultural anthropologist mimi ito (2008)
+            based on descriptions of digitization of
+              media
+            increased discussion of networking and
+              communication between people
+         networked public
+            a set of social, cultureal, and
+              technological transformations that have
+              followed fromm the transition to a society
+              where digitally networked media are central
+              to communicaiton
+            patterns of media useage haveent changed
+              completely
+            but people are more networked and mobilized
+              through media
+            we communicate more through large,
+              elaborate networks
+            these systems often bypass conventional
+              media
+               example: learning news from twitter vs a
+                 news outlet (tv, radio, print)
+
+         Media ecology: netwokred public
+         personal media
+            requires participants to be both recievers
+              and producers
+            the reader is the writer
+         marshall mcluhan and barrington nevit (1972)
+            we live in an age of simultaneity rather
+              than sequence
+            we start with the effects before the
+              product
+            the consumer becomes the producer
+
+         Personal media, other terms:
+            prosumers
+            produsage
+            user generated or user created
+         people are neither producers or consumers in
+           the useual sense
+         goods and services
+         available trhough a mae of media channels
+         diital media is more participatory
+         old and new media tend to coexist, rather than
+           replace each other
+
+      [Networked Individualism]
+         Rainie and wellman (2012)
+         emphasizes move from traditional social
+           arrangements to more fragmented, diverse, and
+           networked ways of communicating
+         based on individualism because each person is
+           at the center of their own network
+         digital social platforms shift the focus from
+           communities towards people and connections
+
+      [Imagined Communities]
+         Benedict Anderson (1983)
+         Similar to a networked public
+         used to explain the social construct of
+           nations
+         most people in a nation never meet or know its
+           other member
+         yet the image of the nation exists in the mind
+         these connections (feelings of community) are
+           built throught media
+            social media
+            other technology
+
+   [Example: Meme]
+      Meme
+         Dawkins (1970s) coined the term
+         derives from greek term "Mimema" meaning
+           "someting whcih is imitated"
+         Mix of images, videos, concepts, phrases
+
+
+--[Exercise: Memes]--
+   Keep Calm and Carry on
+      To tell someone to calm down, 
+      Created as propaganda during WWII to keep the
+        british population calm
+      Theory that this applies to:
+         Remixing
+         Networked Publics
+            Personal media: Reader is the writer
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	TIMESTAMPSTR:  Thu Jan 17 12:28:52 2019 
+	Last Save:     Thu Jan 17 12:28:57 2019 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+--[Cyber Debates]--
+   how has the internet changed society
+   better or worse off b/c of the internet
+   cyber optimist/cyber pessimist
+   Digital revolution
+      mid-late 90s
+      aura of magic
+      most people saw only the good
+      believed there would be a revolution in social
+        life
+      Playing field would be moreso leveled
+      predictions that it would create a "global
+        village"
+         connect with the rest of the world easily
+         sharing media
+      how knowledge would spread
+      more tolerant
+      internet was like the printing press, gunpowder
+         revolutionized society and technology
+   Cyberspace
+      scifi writer
+      came from book called neuromancer
+      consentual hallucination of people connected to a
+        network of computers
+      It is a theoretical environment
+      "Virtual"
+   over time
+      people become more skeptical
+      in winter of 2000, nasdaq hits its low
+         recession
+      Skepticis
+         tracking
+         the first websites that made money were
+           gambling and porn
+      Revolt of the nerds
+         James curren
+         first wave
+            late 80s, early 90s, internet was being
+              born with military.
+            programmers reject idea of copyright
+            embrace idea of open source
+         second wave
+            creation of wikipedia
+            about participation
+               being collaborative, sharing, collection
+                 of knowledge
+            also brought "bad"
+               wikileaks
+               anonymous (hacker group)
+      Concept of digital divide
+         digital haves and have-nots
+         Are we less free if we have less access to the
+           internet
+            less opportunities
+               Job Hunting
+            tienamen square
+               man in front of tank in china in protest
+               all info on this is blocked in china
+             Digital Divide 
+
+      Technological determinism
+         as tech advances, society advances
+         technology is just a tool
+            can be used for good and bad
+
+      In person socialization has isolated us
+         it can make face to face conversations more
+           difficult
+      Internet centrism
+         technological properties of internet will
+           become important to society
+         more interactivity
+         >>Technology does not shape society, but
+           society shapes technology<<
+      Technopoly
+         1992
+         cyberpessimist view
+         coming evolving tech
+         it alters our interests, our ideas about
+           community, takes us over, commands culture
+         erases moral center of society
+      Technological Solutionism
+         mindlessly embrace technology to fix ills in
+           society
+      Being Digital
+         1995
+         cyberoptimistic view
+         putting down in book form; ideas that people
+           had for the internet
+         unseen solutions seen possible in the book
+         decentralization of power is principle in
+           society
+         participatory mindset
+         people would work in harmony together
+         3 ingredients
+            access
+            mobility
+            ability to create change
+      Digital Native
+         Digital immigrant
+         mark penski
+         early 2ks
+         young people, born after 1980, are digital
+           natives
+         these people are native speakers of the
+           language of technology
+      Andrew keen
+         Digital vertigo
+            social media hasnt empowered people
+            divided us
+            weakened us
+            superficial network just makes up lonelier
+      richard stole
+         high tech heretic
+            online connections create illusions of real
+              companionship
+      sherry terpal
+         alone together
+            mobile devices force us to focus on device
+            digital communication is preffered over
+              face to face communications
+      andrew keen
+         cult of the amateur
+         internet is not the answer
+            monkeys running the show
+            "Everyone's an expert"
+         the filter bubble
+         gallows
+         you are not a gadget
+      reoccurring themes in pessimism
+         sloppyyness
+         overloading knowledge
+         no experience
+         dumbs us down
+         disconnects us from people
+
+   Cyber Optimist
+      Collective intelligence
+      intelligence is a product of people collectively
+        working together
+      book
+         wisdom of crowds
+         champions collective thinking
+      Cognitive surplus
+         connecting, sharing, pooling resources;
+           creates more creativity
+      Monkeys running show actually create more surplus
+      texts
+         infotopia
+            2006
+            information overload
+            internet allows diverse groups of people to
+              participate and create things
+            open source technology
+         reinventing science
+            new era of how knowlegde would be generated
+         making is connecting
+            all these tools in web 2.0 allow people to
+              share and create online
+            get together and connect
+      Liberation
+      empowerment
+      openness
+      creativity
+--[innovation excercise]--
+   optimist or pessimist
+      optimist
+   digital innovation
+      what impact did it have on society
+      was it helpful or harmful
+         provide examples
+   What would on the scholars we discussed say about it
+   theory or concept applies to the innovations
+
+
+   optimist
+      Open source technology
+         It allowed collaboration and free software to
+           those unable to buy some softwares.
+            apache web server
+            open office
+            mozilla firefox
+            linux OS
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	TIMESTAMPSTR:  Tue Jan 22 12:37:11 2019 
+	Last Save:     Tue Jan 22 12:37:16 2019 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+--[Chapter 4]--
+   Interaction and identity
+      anonymity
+      invisibility
+   Computer Mediated communication
+      Digital society has introduced new features for
+        interaction
+      internet and social media might share
+        characteristics with older media
+         printed words
+         recorded sounds and images
+      however, new features available
+         tweets, memes, GIFs
+      New characteristics have changed
+         how we see ourselves
+         how we interact
+   Interactivity
+      Interaction
+         can be defined as what happes when people do
+           things in relation to each other
+      Social actions
+         behavior that is oriented towards the behavior
+           of others
+         adjusting our conduct to carry the social
+           process
+         interactions are mutual
+      interactive communication envirionments (digital
+        society
+         participants can control or modify the
+           environment
+         roles of sender and reciever are
+           interchangable
+      interactivity may also refer to human-computer
+        interaction
+
+      Social interactivity
+         Digital media extendsinteractivity
+         social interactivity of digital media
+            enables people to communicate and relate to
+              each other
+            people can interact though new ways
+            different users will not share the same
+              experience to specific content, but can
+              collectively construct the text through
+              shared discussions
+            internet and social media allow large
+              groups to "make meaning" by transformiing
+              content
+
+         Mikael wiberg (2004)
+         ->interaction society
+         more fitting than information society
+         web 2.0 more about social interaction, than
+           information storage and processing
+         today computing is about several people
+           interacting through several computers
+         this enables people to develop social networks
+
+         Make meaning
+            gif vs jif
+            pronounciation debate
+            graphics interchange format
+            after he announced the pronounciation: jif,
+              17000 tweets and 50 news articles on it
+              went out
+   Body vs Content
+      Digital media has chnaged society
+         we can argue how much or good vs bad
+         emergence of new social phenomena
+      new communication vs old
+         emails are similar to letters
+         skype is similar to phone calls
+         youtube is similar to tv
+      are there new wyas of communication that are
+        purely digital
+      ways that wouldn't exst in a non-digital world
+
+      tim jordan (2013)
+         internet allowed "different identiies, bodies,
+           and types of messges"
+      face to face vs distance
+         face to face linked to body
+         communicaiton at distance (including
+           electronic ) still linked to body
+            signature, handwriting, voice serve as
+              identity markers
+            makes communication more stable
+      digital comm much less linked to identity markers
+         makes communication uch less stable
+         no link to physical body
+
+      symbolic content is more important that then
+        physical body in the digital age
+      other ways oto identify the speaker
+         Internet wspeak, emoticons, emojis
+         these are more important to identify the
+           sender
+      example: when email is hijacked bby spambots
+         often easy to decode this
+         friends dont usually send ads
+         other markers reveal the jijacking
+         online massages are legitimied through style
+           and content
+            rather than body and voice
+      tus digital communication is disembodied
+         lacking of physical presence
+         separate from the body
+
+   real vs virtual identity
+      initially believed, the disembodied nature of the
+        internet, made it possible for people to be
+        andyone or anything they want
+      was assumed people lack the resources to identify
+        people
+      culture of simulation
+         serry turkle (1990)
+         people constructthemselves online through
+           social interaction
+         anonymous interaction allows peopel to be
+           close to or far from their real self
+      online identities
+         idea that digital media users leave their
+           bodies behind
+
+      No one knows your a dog
+         1993: new yorker
+         on the internet, no one knows your a dog
+         disconnect: real vs virtual identities
+            embodied self vs disemodied
+         fabricated hybrids of machine and organism
+         identity no longer natural
+         cyborg identities
+         post-gender world
+
+      web 1.0
+         more anonymous
+         chatrooms and bulletin boards
+         landscape centered on topics and interests
+      web 2.0
+         identities are not free floating
+         we communicate with who we know
+         offline identity
+         is often obvious
+         landsape centered on social connections
+         internet anchored in physical world
+         anonymity hasn't created "fantasy selves"
+      if people dont know if your a dog or not, they
+        might be less interested in interacting with you
+
+      Out of sync
+         digital communication can be asynchronous
+            not happening in rela time
+         conversationational relaxati0on
+            more time to by more stategic
+            enables self presentaiton and self
+              censorship
+            communication is still quite fast
+            ce can respond when it suits us
+         asynchronicity allows
+            large roups to have sustained interaction
+            we don't have to deal with the immediate
+              reactions of others
+
+         john suler (2004_
+            makes us disinhibited
+            makes us feel safer
+            formulate thoughts freely
+            online interaction can be more democratic
+              than face-to-face
+            role of status and authority is minimized
+            skill in communication determinesinfluence
+            people will say and do things they  wouldnt
+              offline
+         Online disinhibition offect
+            people are less restrained, express
+              themselves more openly
+         advantages: participation, intamacy, self
+           disclosure
+         disadvantages: hate speech, discrimination
+
+   out of sight (invisibility
+      digital society makes us largely invisible
+         we are often unseen, nor do we see others
+           online
+      social presence theory
+         sense of awareness of an interaction partner
+           is very important for the social effects
+         increased social presence leads to better
+           perception of the person we communicate with
+      assumptions:
+         lack of verbal cues,, increased uninhibited
+           communication
+         computer mediated communication allows greater
+           disclosur of intimate or provate information
+         online invisibility means we dont  have to
+           worry about our physical appearance
+
+      mckenna and bargh (2000)
+         online interaction is less superficial
+         physical appearance doesnt stop relatioships
+           from getting off the round
+         internet can foster relationships that might
+           not eistin real life
+         study found people who met first online liked
+           each better, than those who met face to face
+           first

@@ -1,0 +1,1780 @@
+	TIMESTAMPSTR:  Tue Aug 23 14:00:27 2016 
+	Last Save:     Tue Aug 23 14:00:33 2016 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+--[Intro to Economics]--
+   Scarce Goods
+      Cant have all we want at no cost
+   Free Goods
+      Can have all we want at no cost
+   scarcity leads to choices
+
+
+Definition of Economics
+   The study of how to best allocate scarce resources
+   ----------------------------------------------
+
+      resources
+         anything used in prodution of something else
+
+resources
+   Land
+   Labor
+   Capital
+   Entrepreneurship
+
+   Land
+      Naturally Occuring
+         minerals and ore, timber
+   Labor
+      Workers
+   Capital
+      Manufacured Resources
+         (not naturally occuring)
+      types of capital
+         Physical
+            materials
+         Human
+            knowledge
+            training
+            gained from education process
+   Entrepreneurship
+      one that puts the land, labor, and capital
+        together to create something with them
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	TIMESTAMPSTR:  Thu Aug 25 14:10:39 2016 
+	Last Save:     Thu Aug 25 14:10:41 2016 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+
+
+3 Basic Allocation Questions
+   What to Produce
+   How to Produce
+   For Whom to Produce
+
+   What to produce
+      Want to produce most valuable combination of
+        goods and service
+         Allocated Efficiency
+
+   How to Produce
+      Want to produce in least cost way
+         dont use any more scarce resources than needed
+         Technical Efficiency
+
+   For Whom to Produce
+      Want to be fair
+
+
+
+   What to produce:
+      Opporitunity cost
+         what we must give up or sacrifice to get
+           something
+         Value of next-best alternative
+
+         making choice of what to spend
+         choosing what to do with time for example
+                                  1 hour
+            read economics         30 pp
+            play racquetball      3 games
+
+            opporitunity cost of 30 pp of econ = 3
+              games of racquetball
+            opporitunity cost of 1 page of econ = 1/10
+              game of racquetball
+
+
+
+            8 hours
+
+            8 hrs          econ pp            games
+                             240                0
+                              0                 24
+                             120                12
+
+            when graphed, the line created of the
+              combinations is known as:
+               Production Possibilities Curve (PPC)
+                  Shows combinations of goods and
+                    servces that can possibly be
+                    produced... If all resources are used
+                    efficiently
+                  The PPC shows the maximium possible
+                    combinations withh the given
+                    resources. possibilities are either
+                    on the curve or below the curve
+
+
+
+
+                  Factors that can cause PPC to shift
+                     1)Change in Number of Resources
+                        increase or decrease in
+                          resources
+                     2)Change in Technology
+                        technology can increase
+                          productivity, reduce labor, and
+                          improve efficiency
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	TIMESTAMPSTR:  Thu Aug 25 14:48:02 2016 
+	Last Save:     Thu Aug 25 14:48:05 2016 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	TIMESTAMPSTR:  Tue Aug 30 13:56:54 2016 
+	Last Save:     Tue Aug 30 13:56:59 2016 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+specialization increases our production of goods and
+  services
+
+
+--[Specialization]--
+
+                     good x            good y
+
+   annie             10 units          30 units
+
+   lawrie            8 units           40 units
+
+
+   annie has abolute advantage in x
+   lawrie has absolute advantage in y
+
+   opporitunity cost of producing 1 x
+      annie       3y
+      lawrie      5y
+
+   Opporitunity cost of producing 1 y
+      annie       1/3x
+      lawrie      1/5x
+
+   annie is low cost producer of x
+   lawrie is low cost producer of y
+
+   By herself Annie could get 3y for an x... To benefit
+     from specialization and trade she would want to get
+     more than 3y for an x
+   By herself Lawrie must give up 5y to get an x... She
+     can benefit from specialization and trade.. if she
+     can get an x for less than 5y
+
+   1x = 4y would benefit both
+      annie wanted more than 3y for an x
+         annie gets 4y instead
+      lawrie wanted an x for less than 5y
+         lawrie gets an x for 4y instead
+
+
+
+
+   example 2
+
+                      Good x         good y
+
+      annie           5 units        25 units
+      laurie          10 units       30 units
+
+      laurie has the absolute advantage in X AND Y
+
+      annie has 1:5
+      laurie has 1:3
+
+       The ratios are important 
+
+      The opp. cost of 1x
+         annie     5y
+         laurie    3y
+
+            annie laurie is the low cost producer of x
+      The opp. cost of 1y
+         annie    1/5x
+         laurie   1/3x
+            annie is the low cost producer of y
+
+      !!!
+      Comparitive Advantage
+         Goes to person with lower opporitunity cost
+      Opporitunity cost:  1x=4y
+      annie gains by getting 1x for 4y instead of 5y
+      laurie gains by getting 4y instead of 3y for an x
+
+
+   example 3
+
+                         good x           good y
+
+      shakira           50 units          10 units
+      adele             40 units          5 units
+
+         1) calculate opporitunity cost for x and y for
+           each
+         2) identify comparative advantage
+         3) identify mutually beneficial trade ratio
+         4) explain how that ratio benefits each
+
+         1) opp costs
+            1x
+               shakira    1/5y
+               adele      1/8y
+            1y
+               shakira    5x
+               adele      8x
+
+            shakira is low cost producer of y
+            adele   is low cost producer of x
+
+         shakira has absolute advantage
+
+         beneficial trade ratio:   6.5x = 1y
+
+         shakira would gain 6.5x per 1y instead of 5x
+           per 1y
+         adele would gain 1y for 6.5x instead of 8x
+
+
+      The Mutually beneficial cost can be ANYTHING
+        between the two costs
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	TIMESTAMPSTR:  Thu Sep  1 13:57:43 2016 
+	Last Save:     Thu Sep  1 13:57:46 2016 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+
+--[Trade]--
+
+   america imports/exporting internationally is only
+     about 15%
+   ^^of trade
+   distance is important in terms of trading
+   canada, china, mexico are the biggest trading
+     nations that america uses
+
+    trading doesnt eliminate jobs, it allocates jobs    for example, textile mills in south carolina were
+     shut down because other countries had a comparative
+     advantage in textiles.
+      the workers that would be allocated would not
+        have the training or would not like to leave the
+        location that they are...
+      *Trade helps the country more than the worker.
+
+   Specialize in what we have comparative advantage in.
+
+
+
+-international trade is a bad thing because it is taking
+  all jobs
+   -Disagree...
+   -International trade is important because other
+     nations can do some things for cheaper. if a person
+     loses their job because of international trade and
+     refuses to allocate to a new job that would be a
+     waste in terms of the nation.
+   -Without trading with other nations, we would need to
+     have all production within the nation, which may
+     take up more space and resources than we have.
+      -if nation A were to have a little, limited amount
+        of resources of all types, they may be able to be
+        self sufficent. while nation B has more of a
+        certain type that nation A would run out of.
+        would it not be beneficial to trade with nation
+        b?
+   -With international trade, it allows a more of a
+     distribution to large resources. though it may
+     allocate jobs for the individual, it benefits the
+     greater good of the nation.
+
+
+prices determine the what, how, and for whom to produce
+
+
+
+--[Demand]--
+
+   Demand: Willingness to Buy
+
+   Depends upon:
+      Price of product
+      Percieved Value
+      Price of Complements
+         (not compliments)
+         car and gas
+         charger and phone
+         etc.
+      Price of Substitutes
+         android/iphone
+         coke/pepsi
+      Income
+      Expectations
+         expecting prices to be higher or lower
+            a new game cost $60 while a year later may
+              only be $30
+
+      # of potential consumers/buyers
+
+  Price (p)
+  |
+  $2
+  |
+  |
+  1.5      *
+  |
+  |
+  $1             *
+  |
+  |
+  |
+  ______2400____3075_____ Quantity (q)
+
+
+   Demand Curve
+      Shows Q people are willing to buy each price
+        assuming all other factors are constant
+
+   All of the things that the willingness to buy
+     depends upon other than price of product are known
+     as the >Demand Shifters<
+
+   Normal Goods
+      Demand moves in the same direction as income
+   Inferior Goods
+      Demand moves in the opposite direction of income
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	TIMESTAMPSTR:  Tue Sep  6 14:01:34 2016 
+	Last Save:     Tue Sep  6 14:01:37 2016 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+
+--[Supply]--
+
+   Willingness to sell
+      Depends upon:
+         Price
+            Profit = total revenue(tr) - total
+              cost(tc))
+         Cost of Production
+            Price of input
+            Technology
+         Expectations
+            same as with consumer demand
+         Profit of Producting Alternative Goods
+            ie: when gas prices go up, then demand for
+              largge cars goes down
+         # of Sellers
+
+  Price (p)
+  |
+  |
+  p1             *
+  |             /
+  |            /
+  |           /
+  p0         *
+  |         /
+  |        /
+  |       /
+  |      /
+  |     /
+  |    /
+  |   /
+  |  /
+  | /
+  |/________q0___q1___Quantity (q)
+
+
+   Shows Q firms are willing to sell at each price
+     assuming all other factors are constant
+   when supply goes down, price goes up. when supply
+     goes up, price goes down
+
+   Point between supply and demand curve is the
+     >Equilibrium Point<
+      Equilibrium Price
+      Equilibrium Quantity
+
+
+
+  P
+  | \   excess supply       / S
+  p1-*---------------------*---
+  |   \                   /
+  |  | \                 / |
+  |     \               /  
+  |  |   \             /   |
+  |       \           /   
+  |  |     \         /     |
+  |         \       /     
+  |  |       \     /       |
+  |           \   /        
+  |  |         \ /         |
+  |equ. p-------*<--------------equilibrium
+  |  |         /|\         |
+  |           /   \
+  |  |       /  |  \       |
+  |         /       \
+  |  |     /    |    \     |
+  |       /           \
+  |  |   /      |      \   |
+  |     /               \
+  |  | /        |        \ |
+  |  Q/       equ. q      \Q
+  |demand              supply
+  | /                       \ D
+  |__________________________________
+
+   Suppose there is an increase in supply
+      supply curve moves to the right
+      price goes down and quantity goes up
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	TIMESTAMPSTR:  Thu Sep  8 14:03:14 2016 
+	Last Save:     Thu Sep  8 14:03:15 2016 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+   as time goes on, price and quantity rise.
+      if demand shifts to the right, then the
+        equilibrium point increases for both price and
+        quantity
+
+
+--[Elasticity of Demand]--
+
+   elasticity of demand:
+      e = (percent change in q demanded)
+          ------------------------------
+          (percent change in p)
+
+
+      if E > 1:
+         demand is elastic
+      if E < 1:
+         demand is inelastic
+      if E = 1:
+         demand is unit elastic
+
+      |
+      |  *
+      |  **
+      |   *
+      |   *
+      |   **
+      |    *
+      |    *
+      |    D*
+      |     *
+      D1***   *
+      |    ** *
+      |      * *
+      |_____________________________________-
+      d1 is more elastic
+      d  is less elastic
+
+      ie.. salt is usually inelastic
+
+      Demand tends to be inelastic if
+         -We spend only very spall part of our income
+           product
+         -No close substitutes are available
+         -We look at very short time periods
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	TIMESTAMPSTR:  Tue Sep 13 14:28:36 2016 
+	Last Save:     Tue Sep 13 14:28:39 2016 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+constitutional assignment
+   healthcare.
+      "Death Spiral"
+      affordable care act tried to get universal health
+        care like the rest of the world
+      behind the death spiral is known as >adverse
+        selection<
+      -------------------
+   ----------------------------------------
+   Elasticity of demand
+
+   tr = pq
+
+      ^      v
+   if p then q
+   if demand is elastic then %changeQ exceeds %changeP &
+     TR will move in same direction as Q
+   if demand is inelastic then %changeP exceeds %changeQ &
+     TR will move in same direction as P
+   if E=1, TR remains constant
+
+   US Price = $46
+   French Price = 40 Euro
+   exchange rate is approx. $1.10 = 1 Euro
+
+   france has better price so US imports, france
+     exports
+test new backup
+   appreceiate - currency saves value
+   deprecieate - currency loses value
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	TIMESTAMPSTR:  Thu Sep 15 13:55:14 2016 
+	Last Save:     Thu Sep 15 13:55:17 2016 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+If Country's Currency appreciates, it will import more
+  and export less
+If Country's Currency Depreciates, it will import less
+  and export more
+What causes D or S of currency curves to shift
+   1)Change in relative percieved value of goods in
+     different countries
+   2)Change in relative prices in different countries
+   3)Change in relative incomes
+   4)Change in relative interest rates
+Suppose the percieved value of european goods falls
+   this lowers us demand for european goods and
+     therefore or eruos.
+   $ appreciates
+   Euro Depreciates
+Suppose the percieved value of US goods falls
+   $ Depreciates
+   Euro Appreciates
+suppose price in canada fall relatve to prices in U.S.
+   supply shifts left, demand shifts right
+   US dollar value depreciates
+
+
+
+
+--[Stocks]--
+   Current price of stock = F (Expected >Future<
+     Profits)
+   these expectations tend to be >Self Fulfilling<
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	TIMESTAMPSTR:  Wed Sep 21 13:59:31 2016 
+	Last Save:     Thu Sep 22 13:26:48 2016 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+--[Stock Market]--
+   Stock prices reflect all known information about the
+     firm
+   <><> random walk-cannot predict some stocks, somewhat like when a walking while drunk, it is unpredictable <><>   To beat the stock market:
+      -Be smarter than the experts
+      -Trade on "inside" information
+         -this IS illegal, but still happens
+      -Get Lucky
+   Things that a stock counsilor/advisor may tell you
+      -Diversify
+         -dont put all your eggs in one basket
+      -Mutual fund
+         -buys shares of multiple different companies
+         -buy a piece of a mutual fund to be divided
+           amongst the fund
+      -Index Fund
+         -Buy a share of every stock in that index
+   <Essay> Question:
+   assuming that you are not buying and do not want to
+     trade illegally, whi is it so difficutlt to beat the
+     stock market
+      stock prices are not always predictable, they can
+        be totally random. I think that the stock market
+        is in a lot of ways like gambling, sometimes you
+        win, sometimes you lose, but those who cheat
+        (inside information) will usually win but it is
+        illegal to do so.
+
+      Only unknown information can change the market
+        (because the experts push the price to what they
+        think it should be
+
+--[Housing Market]--
+   demand and prices went up constantly in the 20th
+     century especially after WWII
+   2002-2006
+   home prices doubled
+   Why?
+      self fulfilling expectations
+      changes in he morgage market
+       Secondary Market 
+
+
+home buyers
+   bough from local lenders
+   local lenders
+      sold mortgages to recieve money from financial
+        firms
+      financial firms
+         sold pieces of mortgage portfolio o mics
+           investors
+         interest would be split up and earned money
+         the investors earned invest on mortgage pieces
+
+   Subprime loans
+      lies to put false info for requesting loans
+   balloon payments
+      low initial payments, push them up later
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	TIMESTAMPSTR:  Thu Sep 22 14:02:07 2016 
+	Last Save:     Thu Sep 22 14:02:10 2016 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+   subprime
+      cut loans to make it affordable
+   compared the housing market to bubbles, they rose,
+     then fell and popped
+   IMAGE: HOUSING2006
+      since values fell, people owed more on loans than
+        they had for house
+
+   Negative Equity-
+      -Owe more on asset then asset is worth
+   15-20% of homeowners had negative equity at this
+     time
+   this also put the people who could build houses out
+     of business because no one would be buying houses
+
+   this created a snowball effect, because no one was
+     buying, and people were getting laid off left and
+     right
+   when the housing market collapsed, it took everyone
+     with it
+
+   May 2007:    4.4% unemployment rate
+   Oct 2009:     10% unemployment rate
+   middle of 2008, united states economy was on the
+     brink of collapse, almost another great depression
+
+   Leverage
+      -Buying assets with borrowed funds
+      asset p=$100
+         rises 10%
+         10% profit
+
+         falls 10%
+         10% loss
+
+      borrow 90, use 10 of own
+         if p rises to 110
+            not 10%, but 100% profit
+            because paid back 90, then have 20 left
+         if p falls to 90
+            100% price loss
+
+      this is what was happening to the us financial
+        firms
+
+
+      Bear Stearns
+      Lehman Brothers
+         billions worth of assets
+         all lost
+         this almost made the US market collapse
+
+         The presidential administrations did a bailout
+           to prevent the major financial firms from
+           collapsing
+
+Should we produce more units of a good?
+   yes, if those units create more value than we could
+     get from alternative goods
+   OR IF THE BENEFIT OR VALUE WE GET EXCEEDS THE
+     OPPORTUNITY COst
+
+Marginal benefit (MB) = additional benefi we get from
+  one more unit of a good
+Marginal Cost (MC) = additional cost incurred by
+  producing one more unit of a good
+For allocated efficiency we should keep producing more
+  units as long as MB >= MC
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	TIMESTAMPSTR:  Tue Sep 27 14:03:57 2016 
+	Last Save:     Tue Sep 27 14:03:59 2016 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+Marginal Benefit.
+   the more of something I get, the less I need another
+     one
+   MARGINAL COST AND BENEFIT IMAGE
+
+   mc of sleeping one extra hr is  2, if what you give
+     up (social media) is valued at 2
+   MC of sleeping a second hr is 8, if what you give up
+     (shower) is valued at 8
+   marginal cost of every additional hour is whatever
+     each hour is
+      study economics = 6428
+      breakfast = 32
+      shower = 8
+      exercise = 17
+      social media = 2
+
+      mc of 1 extra hour is 2
+      mc of 2 extra hours is 8
+      mc .. 3 ........... is 17
+      ......4............ is 32
+      mc of 5 extra hours is 6428
+
+
+      sleeping in for 3 extra hours is 2 + 8 + 17
+
+   allocated efficiency is equilibrium between MB & MC
+
+   UNIT        MB        MC     surplus value(mb-mc)
+    1          40        .....
+   look to excel spreadsheet
+
+   if p=$30, q demanded = 3
+   if p=$25, q demanded = 4
+   ...
+
+   Laissez Faire
+      "Hands Free/Off"
+      Adam Smith
+         wrote in 1776
+         "Invisible Hand"
+   Markets will give us allocated and technical
+     efficiency
+
+   Market Failures
+      1) Fairness
+      2) Poor Competition
+         good results if good competition
+         no competition, then little to no allocated or
+           technical efficiency
+         wassting time
+         mergers that sufficienty cut competition is
+           illegal
+         There should NOT be a free market in Murder
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+      3) External effects
+          none 
+         These occur when someone not involved in a
+           decision is affected by it
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	TIMESTAMPSTR:  Tue Oct  4 14:28:25 2016 
+	Last Save:     Tue Oct  4 14:28:28 2016 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+
+--[Market Failures]--
+   External Costs
+      example
+         MB=12
+         MC to produce=10
+         External Cost=3
+            being polluted
+         MC to Society=13
+
+      Undefined Property Rights
+         "who owns pacific ocean?
+         if nobody owns it, no one will take care of it
+         Tragedy of the commons
+            no one protects it, the commonly owned is
+              not protected.
+         Aquifers
+            people dont own the aquifers, but they can
+              pump water with wells. the aquifers can run
+              out, still unowned and cannot be protected.
+      IMAGE-- EXTERNAL COSTS
+for allocative efficiency, we should produce as long as
+  mb >= mc (to society)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	TIMESTAMPSTR:  Thu Oct  6 14:02:22 2016 
+	Last Save:     Thu Oct  6 14:02:25 2016 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+example
+   mc = 150
+   mb to buyers = 140
+   external benefit = 30
+   Marginal benefit to society: 170
+      it benefits others
+Marginal benefit to society:
+   image: mb to society
+py.EditFile()
+   will consumers buy? yes if mb to buyers >= mc
+      (units 0 to q0)
+   is it allocatively efficient to produce? yes, if mb
+     to society >= mc
+      (units 0 to q1)
+Non-Exclusion
+   cannot exclude people from setting benefits from
+     product even if they do not pay
+
+   Free rider
+      Someone who benefits from product who does not
+        pay
+
+Public Good
+   Non-Exclusion
+   Non-Rivalrous Consumption
+   taxes is using our money as a collective to buy
+     things for us, as a benefit
+   free markets work well if:
+      there are no concerns of fairness
+      there is competition
+
+
+--[Fairness]--
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	TIMESTAMPSTR:  Tue Oct 11 14:01:47 2016 
+	Last Save:     Tue Oct 11 14:01:52 2016 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+--[Fairness]--
+   Inequality has increased between the rich (top 20%)
+     and poor(lower 80%) in income for households
+   technology may be the leading reason for
+     inequality..
+
+
+   Skill-Based Technological Change
+      technology can have different effects on people
+        with different skill levels
+      technology of robots in factories have been
+        taking away jobs from the lower skilled/lower
+        class workers
+
+   Winner-Take-All Markets
+      The small differences in ability creates very
+        large differences in pay
+         think of this like olympic medal winners.
+           silver medal winner may be only a fraction of
+           a second slower, but the gold medalist is the
+           one who will be noticed and remembered.
+         the top of the line of some markets are paid
+           much more than those who come in second
+      instead of local markets, because of technology
+        of past ~40 years, said local markets can become
+        global markets, but that would make other local
+        markets go down.....
+      internet was one of the biggest changes in
+        technology that altered markets.
+
+   Explain why winner take all markets have become
+     increasingly important as a result of technological
+     changes
+      With technological advancements in things such as
+        communication and advanced transportation, winner
+        take all markets have the potential to grow from
+        the local markets to a wider and more easily
+        accessible global market.
+      these global markets give the "winner" the
+        potential to grow on an international level.
+
+   relative and absolute success.
+      absolute would be earning $50
+      relative would be earning $50, but everyone else
+        gets $500
+   relative ability is usually more important than
+     absolute ability.. most of the time
+   incentives are important, redistribution can easily
+     change the incentives of both the top and bottom
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	TIMESTAMPSTR:  Thu Oct 13 14:01:56 2016 
+	Last Save:     Thu Oct 13 14:01:58 2016 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+
+
+
+
+--[Marriage]--
+   Benefits
+      Family
+      Kids
+      Financial
+      Companionship
+      .....sex...
+   Costs
+      Loss of Freedom
+      image: spouse costs
+   Why did supply of wives fall?
+      Better job opportunities for women
+      better birth control options
+      (cost of sex outside of marriage has gone down,
+        which increased the demand for it.)
+   older labor markets required more physical strength
+     than intellectual strength
+   now, labor markets require intellectual strength,
+     physical strength is not as important
+   the standard of the economy of the labor market has
+     changed.
+
+   Why do women have better job opportunities?
+      1)Types of jobs changed
+           -Need brains, Not brawn
+      2)Better birth control
+           -before, there was a higher chance for the
+            woman to get pregnant and need to leave the
+            position for a while
+      3)Better "in home" technology
+           -cooking is faster and easier
+           -laundry is easier and more efficient
+           -cleaning is simpler
+           -doesnt take as long to do any of these things
+           -Now, the women can get a job for the rest of
+            the time that was available because of the
+            time saved from technology
+           -It is more efficient for women to go into the
+            labor force because of the efficiency of the
+            "in home" technology
+
+
+
+winner take all example
+   WAR
+      it will set of a Positional Arms Race
+                       ^^^^^^^^^^^^^^^^^^^^
+         Competing for top position
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	TIMESTAMPSTR:  Tue Oct 18 14:00:39 2016 
+	Last Save:     Tue Oct 18 14:00:41 2016 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+
+      use country a and b
+      weapons cost $30
+      war
+         winner + 100
+         loser  - 100
+      image: Country Matrix
+   in a system of polygamy, its a winner takes all
+     (alpha)
+   with monygamy, it is a more fair system...
+      monogamy*
+   GIFTS BENEFITS COSTS Spreadsheet
+"talk is cheap"
+"revealed preference"
+   ...
+   ex: the price we put on people's lives are more than
+     we are willing to pay for. ie: not giving enough
+     money to save a life.
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	TIMESTAMPSTR:  Thu Oct 20 14:12:54 2016 
+	Last Save:     Thu Oct 20 14:12:59 2016 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+Moral Hazard
+   If people are protected from the adverse effects of
+     some action, the action is more likely to occur.
+HELP
+take risks if benefits cover costs
+LINK
+18% of money is spent on healthcare in US
++++++++++++++++++++++++++++
+++ IMAGE: costs of risks ++
++++++++++++++++++++++++++++
+Universal Access
+ ^^^^^^^^^^^^^^^^                 
+   in other developed nations, they have universal
+     access, which means that healthcare is covered by
+     taxes rather than by the individual or insurance
+United States has Medicaid and Medicare
+   Medicaid is main health insurance, if you dont have
+     a high enough salary, the government pays for it
+   medicare is for people aged 65 and over
+
+Demand Inefficiencies
+   1) Most Americans Demand more than the efficient
+     amount of medical care
+        -say if you walk into a store, and the clerk says
+         that you pay only 20% of whatever you buy. then
+         you would want to buy more. the same thing is
+         applied to >medical care<
+        -IMAGE: medical care payment
+   2)Uninsured demand too little
+        -if you put off going to the doctors, it could
+         end up being a much bigger payment/bill
+   3)HELP
+Supply Innefficiencies
+   1)Fee-For-Services Payment System
+        -paying more than what it really needs. people
+         who lie about services needed.
+        -ie. doctors who say you need thousands of
+         dollars of surgery when it is a minor problem or
+         no problem at all. selling services that are not
+         necessary.
+        -since they have more knowledge about it, we put
+         more trust into them, and they have the ability
+         to manipulate us
+   2)HELP
+        -this is seen more in a free market (like
+         america)
+   3)High Administrative Costs
+        -the first thing you go to the doctor, they ask
+         about your insurance.
+        -~25% of medical costs go to administrative in
+         america
+        -only ~5% of medical costs go to administrative
+         in canada
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	TIMESTAMPSTR:  Tue Oct 25 13:59:47 2016 
+	Last Save:     Tue Oct 25 13:59:50 2016 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+Supply Issues (still under medical care)
+   Uncoordinated Care
+      one doctor not giving or communicating
+        information to another doctor or hospital
+   High prices
+      almost no price shopping in us in medical field
+      there is a tremendous amount of waste of money in
+        the medical field
+   Medicare
+      -Went to Fixed $ Reimbursment to hospitals for
+        treating various ailments
+   Private Insurers
+      -went to Managed Care
+               ^^^^^^^^^^^^                              [Affordable Care Act]
+      -(2010)
+      -Goals:
+++++++++++++++++++++++++++++++++++++++++++++
+++ SPREADSHEET: affordable care act goals ++
+++++++++++++++++++++++++++++++++++++++++++++
+         -Encouraged formation of:
+            -[ACCOUNTABLE CARE ORGANIZATIONS]
+               -reimbursments depend upon "results"
+               -some of them would use social workers
+         -percentage of americans who were uninsured
+           went from 20% to 10% because of the affordable
+           care act
+         -Costs have started to "bend the curve."
+           medical costs are still increasing, but not as
+           fast as they were before, they are going up
+           slower than they were before
+         -A lot of the money was wasted
+            -BUT... eliminating this waste will not stop
+              costs from going up, not in the long run.
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	TIMESTAMPSTR:  Thu Oct 27 14:12:47 2016 
+	Last Save:     Thu Oct 27 14:12:49 2016 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+--[Education]--
+   -Need-Based Aid
+      -basically giving financial aid to only those who
+        dont have a college fund built up
+      -the problem is that some askew these results, and
+        parents would not save because their child could
+        get financial aid anyway
+   -Merit-Based Aid
+      -some aid gives it upon academic standing
+      -some scholarships
+      -(South Carolina Education Lottery)
+         -people who pay for lottery tickets are pretty
+           much paying a tax for the education
+      -this can also affect how teachers/professors
+        grade their students, and affect general grades
+        in high schools and colleges
+      -(2001-2, tuition 4,242 Per Year)
+      -(2016-7, tuition 14,510 Per Year)
+      -for Winthrop University
+      -South carolina education lottery has created a
+        retention problem with college attendance. when a
+        student loses their scholarship, they wont be
+        able to pay and need to drop out.
++++++++++++++++++++++++++++++++++++++
+++ SPREADSHEET: past present goods ++
++++++++++++++++++++++++++++++++++++++
+
+-The reason why products price would go up, is because
+  using old ways is inefficient
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	TIMESTAMPSTR:  Tue Nov  1 13:56:28 2016 
+	Last Save:     Tue Nov  1 13:56:35 2016 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+   -Assessing is becoming more important
+      -its affecting dollars
+      -how do we assess education?
+         -Standardized exams
++++++++++++++++++++++++++++++++
+++ IMAGE: learning from econ ++
++++++++++++++++++++++++++++++++
+         -students today did not do as well as they did
+           20 years ago
+            -this is because there are more people going
+              to college, it is easier to get in and
+              therefore the "middle" or average student
+              is not doing well
+         -standanrdized exams are not a good way to
+           assess education
+         -people are spending less time studying not
+           because of solely laziness, but because there
+           are other things to do.
+            -working jobs to pay off college tuition
+            -extracurricular activities
+         -studying more costly AND less valuable
+         -people who are in classes that are not  what
+           they came to study for usually dont care about
+           those classes and dont study or prepare for
+           it.
+         -These days, The average student does not study
+           as much
+         ->Classes today have much lower standards than
+           they used to, because the cost and benefits of
+           studying has changed<
+         -taking off points for attendance
+         -generally, higher attendance leads to better
+           exam scores
+
+
+   -Under what circumstances are free markets not a good
+     idea/applicable
+      -murder
+      -class attendance
+      -taxpayers are also paying for our education
+      -attendance is not only affecting us but it can
+        also affect others (not just other students)
+   -one thing that has increased recently was:
+   -Teaching things that are PRACTICAL
+                             ^^^^^^^^^
+
+
+      -Production Skills
+       ^^^^^^^^^^^^^^^^^
+
+         -things that seem practical today may be
+           obsolete in 5 years
+         -many people will end up in jobs that do not
+           require your college education
+         -the degree is a "signal" that a person has
+           certain characteristics and if you can get
+           through college you can open the door for a
+           job. it is not what you learned, but can you
+           learn, think, solve problems, communicate. if
+           you passed through college you can do this, no
+           matter what you did in college
+         -in the end, if you are not better at thinking
+           it was a waste
+         -if you can not think new things in new ways,
+           then it was useless and wasted
+         -!!!!!!!!!!!!!
+
+      -Maybe instead of teaching production skills, it
+        would be better to teach how not to be bored
+      -"Consumption Skills"
+        ^^^^^^^^^^^^^^^^^^
+
+         -by studying art, going to an art museum would
+           be much more enjoyable and appreciable then it
+           would be otherwise if you did not know about
+           that art
+         -same thing saying a 3 year old not
+           appreciating bach compared to someone who
+           studied music for 5 years
+      ->>>Stonebreaker has been to the grand canyon
+        about 3 times... Many people are dead<<<
+         -not using skills learned in college in
+           production, but using them in consumption,
+           like by going to museums, grand canyon,
+           listening to music. things become more
+           enjoyable if you know more about them, it is
+           less boring than if you didnt.
+         -most information that is taught and used in
+           exams is usually lost or forgotten, because it
+           is not useful information
+         [[ Music appreciation was a good class to take ]]
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	TIMESTAMPSTR:  Thu Nov 10 14:00:35 2016 
+	Last Save:     Thu Nov 10 14:00:37 2016 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+
+
+
+
+
+######################################################
+
+
+--[Religion]--
+   -How would one measure how religious a country is?
+      -usually by some sort of surveys
+      -religious census
+         -usually asks about belief in god, part of
+           congregation, belief in afterlife, pray on
+           regular basis, etc.
+
+
+   -[Pluralism]
+      -lots of choices
+      -if people dont have many choices, then there will
+        be a decrease in the amount of people being a
+        part of or accepting that, this also applies to
+        religion
+      -Also creates better competition
+      -Religion is a competitive market
+         -ie: groups advertising if they have a sports
+           team, go to retreats, have more opportunities,
+           better programs.
+         -say they have better religious experiences
+      -This Better Competition -----> Better Products
+      ->>Killed a few people in Ukraine with his wife<<
+      -^this may be in iceland...^
+      -like auto companies
+      -religious groups come and go, grow and shrink
+      [test]
+      -done
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	TIMESTAMPSTR:  Tue Nov 15 13:58:46 2016 
+	Last Save:     Tue Nov 15 13:58:52 2016 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+   -To Grow:
+      -Need (1) committed members
+      -and (2) $
+
+   -one of the things that cause some decline to
+     religious organizations is "Free Riders"
+      -sidenote: 20% of the people give 80% of the money
+      -many of these free riders were draining the
+        resources without putting anything in
+      -there were deadspot in the pews of unenthusiasm
+      -if there are a lot of free riders in the church,
+        then when new members come it will be less
+        friendly and they will less likely be willing to
+        come back
+
+      -The most successful churches have high prices:
+        but not of dollars, but of >>Sacrifice and
+        Stigma<<
+
+      -Sacrifice and Stigma
+         -Time and attendance, rather than money
+         -Amish
+            -They have a way of life that is separate
+              from the rest of society
+            -There is a stigma to amish
+            -You can hide being presbyterian pretty
+              easily, but it is obvious if you are amish
+            -No Electricity at all
+         -Jahovas witnesses
+            -No blood transfusions
+            -door to door advertising
+         -No free riders in amish or jahovas witnesses
+         -Mormon
+            -sent on missions, sometimes have to quit
+              college to do so
+            -very giving
+            -expensive giving to group
+            -8% to 9% of income is from the members
+            -pressure to give
+            -people come to the homes, they say that you
+              need to give more money
+            -its very pressuring
+######################################################
+######################################################
+######################################################
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+--[Macroeconomics]--
+   -3 Goals of macroeconomics
+      -1. Economic Strength
+      -2. Full Employment
+      -3. Stable Price Level
+
+      -All of these relate to Gross Domestic Product
+        (GDP)
+      -Gross Domestic Product
+         -Value of all final goods & services produced
+           in a country in a year
+         [Final good]
+            -desk
+            -shirt
+            -final product
+         [Intermediate good]
+            -Cotton --> to make final product of shirt
+            -raw materials
+            -the price of the final product should
+              incorporate the value of the raw materials
+              to make it
+         -Total spending equal total income
+            -if you walk into a store and spend money,
+              that money is someone elses income
+
+
+      -in 2016
+         -hot dogs: 44lbs @ $5
+         -potato chips: 60 bags @ $3
+         -hot dogs gdp is 220
+         -chips gdp is 180
+         -total is 400 nominal gdp
+
+      -2006
+         -30 lbs @ $4 -> $120
+         -40 bags@ $2 -> $80
+         -$200 gdp nominal
+
+
+      [Nominal GDP]
+         -Value output of a year in terms prior of that
+           year
+      [Real GDP]
+         -value output in terms of constant prices
+           typically we use "base" year prices to value
+           output
+      -For base year real GDP = nominal GDP
+
+      -2006 is base price
+         -compare it to 2016 quantities using the 2006
+           prices
+         -44lbs at $4 = $176
+         -60bags at $2 = $120
+         -real gdp in 2016 is $296
+      -economist cares more about the real gdp rather
+        than the nominal
+
+      -most prices are going up at about 3% per year
+      -can do this by comparing prices
+
+      [GDP Price Index]
+         -(Nominal gdp/real gdp) * 100
+      -2006
+         -nominal=200
+         -real=200
+         -200/200 * 100 = 100
+      -2016
+         -nominal=400
+         -real=296
+         -400/296=1.35 *100 = 135
+      -This GDP Price Index is the price increase
+        percentage
+         -the prices have risen 35% from 2006 to 2016
+      -zimbabwe a few years ago had a couple 1000
+        percent inflation, the prices were tripling. they
+        had signs on the doors for restrooms to not use
+        zim bills as toilet paper because it was clogging
+        the sewer system. Zim Bills were cheaper than
+        toilet paper
+
+   -minimum wage today is 7.25
+   -1926 it was 2.30
+
+   -Consumer Price Index (CPI)
+      -current cpi in us is 241
+      -on a 1982-84 base
+      -1976 cpi is 57
+         -means if it cost 100 in base year, it would
+           only cost 57 in 76
+      -241/57
+         -that is about 4.23
+         -from what was $57 in 76 now costs $241 in 16
+         -2.30 * 4.23 is $9.73
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	TIMESTAMPSTR:  Tue Nov 22 13:55:18 2016 
+	Last Save:     Tue Nov 22 13:55:23 2016 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+
+---INPUT 11/17/2016 NOTES HERE--
+
+
+######################################################
+
+
+--[unemployment]--
+   [Structural Unemployment]
+      -Jobs are available
+      -But there is a geographical or skill mismatch
+        between vacancies & unemployed workers
+      -example
+         -if there is a unemployed worker in rock hill
+           and an opening in idaho, how will the rock
+           hill worker work there or even know about the
+           opening
+      -example
+         -unemployed textile worker and there is an
+           opening in the medical field. They dont have
+           the skills, but they could retrain. if they
+           were to retrain it would take years
+
+      [Natural Rate]
+         -a rate of unemployment
+         -will NEVER be 0%, nor should it be
+         -America's unemployment rate is about 5%
+      -about 10 million people are available to work at
+        jobs. Trump pledged to create 25 million. there
+        is a 0% chance of this
+      -in 2008, the natural rate was at 10% during the
+        recession
+         -this was the worst recession since the 1930's
+++++++++++++++++++++++++++++++++
+++ IMAGE: Recession empoyment ++
+++++++++++++++++++++++++++++++++
+
+      -Keynes
+         -argument:
+            -Wages are Not Flexible
+            -prices are flexible
+            -labor market is not like goods market
+            -Wages are sticky
+            -example:
+               -we are employees, we are experiencing a
+                 recession, and employer is having
+                 financial trouble
+               -employer suggests cut 10% of labor costs
+                  -everyone takes 10% wage cut
+                  -layoff/fire 10% of workers
+                     -workers usually have some idea of
+                       who would be cut or be at risk
+               -The majority of workers have invested
+                 interest in their wages
+               -Most of them would resist wage cuts
+               -strawberries dont get the right to vote
+                 and therefore the prices for them can
+                 change
+
+            -this is why wages are sticky. People come
+              and go from employment, but people care for
+              their wages more than others in the long
+              run
+
+            -quote: "In the long run, we are all dead"
+
+            -he made the point that if you take a pill
+              you heal faster, and he suggested that that
+              the economy take a "pill" to heal it. his
+              pill was to push the demand up
+               -how can government move the AD
+                 (aggrigate demand) Curve>
+                  -AD = C + I + G + F
+                  -it can use "fiscal policy"
+                     -1) Change G
+                     -2) Change Taxes
+                  -government can push C or G in the
+                    equation
+                Apparently going to the grand canyon automatically means that you kill people          -Multiplier Effects
+         -Multiplier Effects
+            -if government spending goes up, then more
+              people will be able to spend and recession
+              will solve itself
+
+         -If AD is too low, we get unemployment & to
+           "fix" it we want to expansionary fiscal policy
+           (raise G and/or cut taxes(C))
+         -If AD is too high we get inflation & to fix it
+           use contractionary fiscal policy (cut G and/or
+           raise taxes)
+
+         -for the first one (raise spending and cut
+           taxes)
+            -what if you were asked to double your
+              spending, but half your income.
+         -congress has the right to borrow money (get
+           loans)
+
+         -The US Treasury Department will borrow needed
+           funds to finance a budget deficit
+         -Where do they borrow the money from?
+            -Does this by selling or issuing government
+              bonds
+            -these are "Government Savings Bonds"
+            -this is in essence the government loaning
+              from the people with an interest
+               -a sort of IOU that the government gives
+
+            -the national debt is all of the money that
+              the government has that owes to people with
+              government bonds
+
+
+         [Monetary Policy]
+            -Change money supply to shift AD
+            -Money  is the medium of exchange
+                           ^^^^^^^^^^^^^^^^^^
+            [Medium of Exchange]
+               -Assets that are very liquid are easily
+                 spent
+                  -houses are very solid, not easily
+                    spent
+                  -liquid:
+                     -Cash
+                     -Checking Deposits (debit card,
+                       checks)
+                     -Not credit (basically postponing
+                       the use of cash
+                  -money supply of US is all of the
+                    money (cash and checking deposits)
+                    currently flowing around in the
+                    economy
+
+               -some colonies used tobacco as money.
+                 this caused people to grow it.
+               -To have a solid currency, there has to
+                 be a limit in the supply of it. if it is
+                 easy to acquire then it is useless
+                  -(worthless)
+               -the problem with using gold is that it
+                 could not keep up with the expansion of
+                 the economy
+
+
+               -The wizard of oz is actually an allegory
+                 for the us economy
+                  -Basically it sums up the economic
+                    decisions by the government, not
+                    really even a childrens story will
+                    the meanings behind it
+
+
+               -Federal Reserve System (FED)
+                  -Control money in united states
+                  -Independent Agency
+                   ^^^^^^^^^^^^^^^^^^
+                  -its a government agency, but it is
+                    not run by the government nor is it
+                    under the control of the government.
+                  -Board of Governers (7)
+                     -14 year terms
+                     -the chair has a 4 year term
+                        -they have disproportionately
+                          more power
+                        -the president elects the chair
+                           -trump chaired Janet Yellen
+                           -she has the most economic
+                             power in the world
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	TIMESTAMPSTR:  Tue Nov 29 14:03:14 2016 
+	Last Save:     Tue Nov 29 14:03:17 2016 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+
+
+   -FED
+      -To change the supply of money, the fed uses open
+        market operations
+         -fed buys and sells U.S. government bonds
+      -When congress runs a budget deficit, the U.S.
+        treasury department must borrow the needed funds
+        by selling or issuing government bonds.
+      -The biggest money is in large treasury bills
+        ($100,000 bills)
+         -Most of these bonds are marketable (2 previous
+           lines)
+      -If the fed wants to raise money supply, it will
+        buy government bonds from the bond market
+         -if the bank would want to encourage people to
+           loan, they would decrease price or interest
+           for loans, therefore making the loans cheaper.
+           loans are like the goods that a bank sells
+           itself.
+
+      -The FED pays with a check that gets deposited in
+        a bank (New Money)
+         -This creates "Loanable Funds" in bank 
+            -to encourage borrowing, banks cut interest
+              rates on loans
+               -as interest rates fall, more businesses
+                 will borrow and invest
+                  -This raises AD in economy
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^
+      -change in market ---> change loanable funds ---->
+        interest rate ---> change in I (investments) &
+        change in AD (aggrigate Demand
+
++++++++++++++++++++++++++++++++++
+++ IMAGE: recession employment ++
++++++++++++++++++++++++++++++++++
+
+      -To pull economy out of recession we need to raise
+        AD
+      -Monetary Policy: Fed should buy bonds to increase
+        supply of money
+      -Fiscal Policy: Raise G and/or Cut Taxes
+
+      -2009: $800 Billion fiscal stimulus
+
+
+
+-National Debt
+   -1940: $51 Billion
+   -1945: $260 Billion
+      -World War II
+      -national debt on ARr% of GDP
+         -122%
+   -1980: $909 Billion
+      -gdp%: 33%
+   -(1940 gdp%: 50%)
+   -Income: 100
+   -tax rate: 30%
+   -tax revenue: 30
+
+   -reagan theory:
+      -income 200
+      -tax rate: 20%
+      -tax revenue: 40
+   -this is for the 80s
+
+   -1990: $3206 Billion
+      -GDP%: 56%
+   -2000: $5629 Billion
+      -Debt% 57% (lower percentages are better)
+   -Yesterday: $19898 Billion
+      -104%
+      -this means $60,000 per person
+
+   -some of the big things adding to the debt
+      -2 major tax cuts
+      -2 wars for more than a decade
+      -recession problems
+      -stimulus package
+   -we are at a $20 trillion debt
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	TIMESTAMPSTR:  Thu Dec  1 14:01:56 2016 
+	Last Save:     Thu Dec  1 14:01:58 2016 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+-to who are we in debt
+   -anyone who owns the government bonds
+
+-Internal and external debt
+   -external is outside of the country, internal is to
+     others within the country
+   -almost half the government debt is owned by the
+     government
+   -the U.S. National Debt is a debt that does NOT have
+     to be paid back
+   -the debt keeps getting refinanced to others
+   -the national debt is as old as the nation
+   -(apparently historians think forever is a long time
+   -this debt can be rolled over forever because the
+     government doesn't "die" like an individual does
+
+   -Can increasing the national debt damage or burden
+     future generations?
+      -Yes, (Maybe, but not because paying it back)
+
+      -Increasing the debt can burden the future IFF it
+        results in future generations inheriting a
+        smaller PPC
+         -Production Possibility Curve
+         -the ppc is increased best with capital. but if
+           the capital is damaged by debt then it is
+           harder for the ppc to grow
+
+   [Crowding Out]
+      -Suppose congress raises government spending by
+        $50 million
+      -Treasury Dept must borrow the needed $50 million
+      -This raises the demand for loanable funds
+         -funds that are available to be loaned out
+      -and drives up the rate of interest on loans
+      -As interest rates rises, private businesses are
+        less willing to borrow & invest in capital &
+        technology
+      -Thus, Future Generations inherit less capital &
+        technology & gets smaller PPC
+      ->Not Because Of Needing To Pay Back The Loan<
+
+   -Crowding out is not a problem if:
+      -1) The Deficit Spending mobilizes or Uses
+        unemployed resources
+         -if you have a recession, even though deficit
+           spending and crowding out creates debt, it
+           creates demand and helps the economy recover
+         -because of unemployed resources
+      -2) The Government invests the $ in capital &
+        technology
+         -debt not necessarily bad
+         -as long as the rate of return is better than
+           the rate of interest on those loans then it is
+           a good investment
+         -its where we make those investments
+         -baby boomers are going to pull from the
+           government around 2020
+         -[[We could kill off everyone over age of 65]]
+         -^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+         -a lot of support for [Balance Budget
+           Amendment]
+            -south carolina could either cut spending or
+              raise taxes, so the only feasalbe one was
+              that it was cutting spending. but this made
+              it a bit worse for state employes and made
+              the recession a bit worse
+      -the job creators are the consumers, employers,
+        not the government. the level of demand in the
+        government is based on the consumers

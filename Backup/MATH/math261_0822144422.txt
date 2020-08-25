@@ -1,0 +1,60 @@
+
+===========================================================
+	[FILE: math261.txt]
+	[DATE CREATED: Tue Aug 22 14:14:21 2017]
+	[Title: Discrete Mathematics]
+
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	TIMESTAMPSTR:  Tue Aug 22 14:13:32 2017 
+	Last Save:     Tue Aug 22 14:22:45 2017 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+--[sets]--
+   -set: well defined collection of items
+      -Well defined: there can be no ambiguity as to
+        whether a particular item belongs to the set or
+        not.
+   -example
+      -set of all students enrolled in math 261001 for
+        fall 2017
+         -well defined
+   -example
+      -Set of all great guitarists.
+         -great is subjective, not well defined
+
+   -Integers
+      -Z 
+         -this is the character used to usually define
+           integers
+      -{...-2,-1,0,1,2,...}
+      -(textbook denotes the positive integers with
+        capital P
+
+
+   -Rational Numbers
+      -Q = numbers that can be represented as a fraction
+        of two integers.
+      -The decimal representation of a rational number
+        will either terminate or repeat.
+
+
+   -Irrational Numbers
+      -Q^1 Real numbers that can't be represented as a
+        fraction of two integers
+      -Examples include pi, e, sqrt 2, sqrt 3
+
+
+   -Real Numbers
+      -R = all decimal numbers (the rational and
+        irrational numbers together)
+
+
+
+   -Every integer is a rational number
+   -Every rational number is a real number
+   -Every integer is a real number
+   -Every irrational number is a real number
+

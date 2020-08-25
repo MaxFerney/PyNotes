@@ -1,0 +1,26 @@
+
+===========================================================
+	[FILE: hello world.txt]
+	[DATE CREATED: Tue Sep 26 17:34:25 2017]
+	[Title: this is another test]
+
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	TIMESTAMPSTR:  Tue Sep 26 17:32:59 2017 
+	Last Save:     Tue Sep 26 17:34:34 2017 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+
+   Hello world
+   I am here
+      asdf
+   asdfeasdf
+
+
+   two spaces
+   [the head]
+   dasdf alekfjalsdj eo5i coakrfoadjcaelkj a;kfjasr
+     kjrsfoasdijfase

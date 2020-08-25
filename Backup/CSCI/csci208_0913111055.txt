@@ -1,0 +1,62 @@
+
+===========================================================
+	[FILE: csci208.txt]
+	[DATE CREATED: Wed Aug 23 11:01:24 2017]
+	[Title: Computer Science 208]
+
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	TIMESTAMPSTR:  Mon Aug 28 10:53:18 2017 
+	Last Save:     Mon Aug 28 10:53:20 2017 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	TIMESTAMPSTR:  Wed Aug 30 12:53:05 2017 
+	Last Save:     Wed Aug 30 12:53:13 2017 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+   hello world
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	TIMESTAMPSTR:  Wed Sep  6 11:21:39 2017 
+	Last Save:     Wed Sep  6 11:21:43 2017 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	TIMESTAMPSTR:  Wed Sep 13 10:59:11 2017 
+	Last Save:     Wed Sep 13 11:00:00 2017 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+  #include <iostream>
+
+  class Square{
+  private:
+      int side;
+  public:
+      int area(int side);
+  }
+  int Square::area(int side)
+  {
+  	<-
+      return side*2;
+  }
+
+
+  class Square{
+  private:
+      int side;
+  public:
+      int getArea(int side);
+  }
+  int Square::getArea(int side){
+  	<-
+      return side*2;
+  }

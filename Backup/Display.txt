@@ -1,0 +1,27 @@
+	[FILE: Display.txt]
+	[DATE CREATED: Fri Oct 16 16:39:46 2015]
+	[Title: A sort of showing of the functions]
+
+	TIMESTAMPSTR:  [Fri Oct 16 16:35:37 2015]
+	#####Last Save: [Fri Oct 16 16:40:00 2015]#####
+
++asdf
++this is primary linne
+--[here is my title]--
+[and this is the subtitle]
+=+=
+=+=a
+;)adsf
+   ;)asdf
+   ;)asdf
+      ;)asdf
+         ;)asdfa
+         ;)asdf
+         ;)asdf<--
+         ;)asdf
+      ;)asdf
+  hey
+   asdf
+  
+;)ADF
+;)asdff

@@ -1,0 +1,44 @@
+[FILE: IndentTest.txt]
+*Hello World
+*#>>#
+*hello world 2
+*line 1
+*#>>#
+*indent 1
+*did it work?
+*hello again
+*
+*hi
+*#>>#
+*did it work for once///
+*???
+*hi
+*#<<#
+*new line test 2
+*tab test 1
+*@>>@
+*test>
+*?
+*end
+*test 2
+*quit
+*
+*'quit'
+*testing 2
+*quit
+*'quit'
+*test failed
+*indent lvl 0
+*        indent lvl 1
+*                indent lvl 2
+*the test to select a file from an optional variable is
+successful
+SYSTEM	USER: [Max] HAS JOINED CHAT: IndentTest
+Max: test
+SYSTEM	USER: [Max] HAS LEFT THE CHAT
+SYSTEM	USER: [Max] HAS JOINED CHAT: IndentTest
+SYSTEM	USER: [Max] HAS LEFT THE CHAT
+SYSTEM	USER: [Max] HAS JOINED CHAT: IndentTest
+SYSTEM	USER: [Max] HAS LEFT THE CHAT
+SYSTEM	USER: [Max] HAS JOINED CHAT: IndentTest
+SYSTEM	USER: [Max] HAS LEFT THE CHAT

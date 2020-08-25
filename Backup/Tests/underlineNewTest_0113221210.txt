@@ -1,0 +1,78 @@
+
+===========================================================
+	[FILE: underlineNewTest.txt]
+	[DATE CREATED: Wed Jan 10 14:29:55 2018]
+	[Title:  ]
+
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	TIMESTAMPSTR:  Wed Jan 10 14:29:29 2018 
+	Last Save:     Wed Jan 10 14:30:03 2018 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+-hello world
+ ^^^^^
+
+-hai there
+     ^^^^^
+
+-hello there
+ ^^^^
+
+-a line
+^^^^^^^^^^^^^^^^^^
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	TIMESTAMPSTR:  Thu Jan 11 15:21:13 2018 
+	Last Save:     Thu Jan 11 15:21:31 2018 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+-this is with the normal underline
+                         ^^^^^^^^^
+
+
+-this is with the new underline
+                      ^^^^^^^^^
+
+
+
+-this is a random string of text
+underline
+^^^^^^^^^
+-lets see
+   -lets see about indentations
+
+
+   -under the text will be the underline
+   -under here too
+
+underline string
+^^^^^^^^^^^^^^^^
+-Now i'm over here automatically
+   -does the underline function work indented?
+             ^^^^^^^^^^^^^^^^^^
+
+
+-Now booted back to first indent
+-It does work!
+    ^^^^
+
+-n
+-c
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	TIMESTAMPSTR:  Fri Jan 12 22:09:43 2018 
+	Last Save:     Fri Jan 12 22:11:16 2018 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+-hello world
+-this is with the new test
+   -this one gets rid of the pretext
+   -                             ^^^^^^^
+
+   -now it is in the same indentation afterwards

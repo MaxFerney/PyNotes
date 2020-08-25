@@ -1,0 +1,92 @@
+<< tag string test >>complete
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	TIMESTAMPSTR:  [Thu Feb 11 16:33:49 2016]
+	#####Last Save: [Thu Feb 11 16:34:32 2016]#####
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+failed test
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	TIMESTAMPSTR:  [Mon Feb 15 10:46:11 2016]
+	Last Save: [Mon Feb 15 10:46:28 2016]
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+line 1
+line 2
+ highlight function test 
+   line 3 indent 1
+   line 4 indent 1
+   highlight function test
+   >> tagstring test <<
+   success
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	TIMESTAMPSTR:  [Wed Feb 17 18:35:20 2016]
+	Last Save: [Wed Feb 17 18:46:06 2016]
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+line 1
+line 2
+ highlight function test 
+sucess
+   line 3 indent 1
+   <><> sidenote function test <><>
+   sucess
+   end testing
+line 1
+line 2
+line 3
+highlight
+ highlight function test 
+appears successful
+   line 4
+   line 5
+   sidenote
+   <><> sidenote function test <><>
+   appears successfull
+      line 5
+      line 7
+      tagstring function
+      >> tagstring function test <<
+      appears sucessful
+    highlight test 2 
+textwrap test
+this is an extended line just for the text wrap
+  function to be tested
+   simply to see if the textwrap function works in its
+     entirity
+test end
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	TIMESTAMPSTR:  [Mon Feb 22 09:57:56 2016]
+	Last Save: [Mon Feb 22 10:01:54 2016]
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+search function test
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	TIMESTAMPSTR:  Fri Nov 11 15:57:48 2016 
+	Last Save:     Fri Nov 11 15:58:36 2016 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+line 1
+line 2
+   line 1 indent 1
+   test header
+   [this is the header]
+   success
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	TIMESTAMPSTR:  Fri Apr 14 12:19:12 2017 
+	Last Save:     Fri Apr 14 12:19:43 2017 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+

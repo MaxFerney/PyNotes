@@ -1,0 +1,549 @@
+
+===========================================================
+	[FILE: Csci207.txt]
+	[DATE CREATED: Thu Dec 15 15:50:49 2016]
+	[Title: Introduction to Computer Science C++]
+
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	TIMESTAMPSTR:  Tue Jan 10 12:23:45 2017 
+	Last Save:     Tue Jan 10 12:23:47 2017 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+--[Chapter 1]--
+   -Problem Difinition
+   -Requirements
+   -Specifications
+      -what?
+   -Design
+      -how?
+      -psudocode
+      -language independent
+   -Implementation
+   -Test
+   -Delivery
+   -Maintenance
+
+
+   -Algorithm
+      -set of instructions
+      -flowcharts
+      -Pseudocode
+         -combination of english and syntax for a set of
+           instructions
+         -ie:
+            -prompt user for input
+            -validate input
+            -output number
+            -if (number < 100)
+               -output "less"
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	TIMESTAMPSTR:  Tue Jan 17 12:17:25 2017 
+	Last Save:     Tue Jan 17 12:17:28 2017 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+--[Chapter 2: C++ Basics]--
+
+   [Variables and Data Types]
+      int
+      double
+      float
+      char
+      string
+      bool
+
+      integer
+      double/float
+         fixed point notation
+         decimals
+         double is twice the size of a float
+      char
+         one single character only
+         ''
+         'a', '1', '2', '\n'
+      boolean
+         true or false
+      String
+         NOT built in to c++ normally
+         array of characters
+         contained in ""
+         "hello world"
+         "a"
+         not built into c, but they are built into c++
+           using arrays
+
+         REQUIRES header file
+         #include <string>
+   these datatypes are used to create variables to
+     represent what we need to do in our program
+
+
+   [Variables]
+      like a locker
+      memory addresses used to store items
+      they can only store ONE thing
+      must first assign the variable
+
+      give it a type and a name
+         any of the above data types
+         name is what you come up with
+  int length;
+  int width;
+  int area;
+
+  length = 4;
+  width = 5;
+  area = length * width;
+      int length; <- declaring a variable
+      can declare multiple variables of the same type
+         on the same line, separate with ',' end with
+           ';'
+      int area = length * width;
+         valid because length and width have int
+           variables assigned to them and have been
+           initialized/declared
+      naming conventions of variables
+      can use CamelCase or underscore_variables
+         its personal preference
+
+  int main()
+  {
+      int sum;
+      ...
+      sum = score1+score2;
+      ...
+      return 0;
+  }
+      to make a variable that the programmer or program
+        cannot change later on is the keyword
+         constant
+
+  const int LENGTH = 48;
+   if trying to declare later, then compile error
+     because trying to change the value of a constant
+     variable
+  double number = 2;
+      //this will make it 2.0 as the variable
+
+   [input and output]
+
+      datastream is a sequence of data
+      input stream is for the program to use
+      output stream is the programs output
+
+
+  #include <iostream>
+  using namespace std;
+  int main()
+  {
+      int length,width,area;
+      cout<<"input length: ";
+      cin>>length;
+      cout<<"input width: ";
+      cin>>width;
+      area=length*width;
+      cout<<"Area="<<area;
+      return 0;
+  }
+
+  //can do this for inputs as well
+  cout<<"input length and width";
+  cin>>length>>width
+  //would be separated in input with space or enter
+can do cout<<endl;
+can do cout<<"\n";
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	TIMESTAMPSTR:  Thu Jan 19 12:18:26 2017 
+	Last Save:     Thu Jan 19 12:18:29 2017 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+--[Flow of Control]--
+
+   flow of control
+      order that statements are executed
+   branch
+      lets program choose between two alternatives
+
+   student has hold on account...can not register
+      prompt student if they have hold on an account
+      if student has hold on account
+         student cannot register for class, set
+           register variable to false
+      else (if student has no holds on their account)
+         allow student to register
+
+   [Syntax]
+  if (condition true):
+  {
+
+  }
+  else
+  {
+
+  }
+
+
+      ==
+      !=
+      <=
+      >=
+      braces not required if there is only one line of
+        output code
+  int main()
+  {
+      bool hold;
+      if (hold==true)
+          cout<<"Hold on account. You may not
+          register"<<endl;
+      else
+          cout<<"No hold on account. You may
+          register"<<endl;
+      return 0;
+  }
+
+
+   [Loops]
+
+      needs stopping point
+      closer to #1 with each iteration
+      while and do-while loop
+      counters
+         x=x+1
+         x+=1
+         x++
+         ^^^^^^^^^^
+         these are all valid counters
+         int x=5
+         cout<<x++<<endl;
+         cout<<x
+            this will return 5 then 6
+         another counter is ++x
+      while and do while
+  #include <iostream>
+  using namespace std;
+
+  int main()
+  {
+      int counter=0;
+      char student = 'y';
+
+      while (student=='y')
+      {
+          cout<<"new student. type 'y' or
+          'n'."<<endl;
+          cin>>student
+          counter++
+      }
+      cout<<"Total number of students:
+      "<<counter<<endl;
+      return 0;
+  }
+      loops
+      while loop
+  while (conditional)
+  {
+      code...
+  }
+      with a while loop, there is no guarentee that the
+        loop will be entered.
+      Do while loop, guarentees that the loop will be
+        execuded atleast once
+  do
+  {
+      code...
+  } while (conditional);
+   if statements
+
+      can do multiple booleans
+  if ( (cond 1) && (cond 2) )
+  if ( (class==1) && (gender=='f') )
+  {}
+   and = &&
+   or  = ||
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	TIMESTAMPSTR:  Thu Jan 26 12:37:06 2017 
+	Last Save:     Thu Jan 26 12:37:08 2017 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+Multiway Nested Statements
+   <_
+   example
+  //prompt user to input 10 grades and class
+  //check if passing (70+)
+      //track by class
+  //output freshman through seniors who are passing
+
+  #include <iostream>
+  using namespace std;
+
+  int main()
+  {
+      int fresh, soph, jun, sen;
+      int count = 0;
+      int class_level;
+      while(count<10)
+      {
+          cout<<"input grade and class (1-4)"<<endl;
+          cin>>grade>>class_level;
+          if(grade>=70)
+          {
+              if(class_level==1)
+                  fresh++;
+              if(class_level==2)
+                  soph++;
+              if(class_level==3)
+                  jun++;
+              if(class_level==4)
+                  sen++;
+              else
+              {
+                  cout<<"not a valid entry"<<endl;
+                  count-=1;
+              }
+          }
+          count++;
+      }
+      cout<<"Freshman: "<<fresh<<endl;
+      cout<<"Sophomores: "<<soph<<endl;
+      cout<<"Juniors: "<<jun<<endl;
+      cout<<"Seniors: "<<sen<<endl;
+      return 0;
+  }
+Multiway branch
+   if
+   else if
+   else if
+   else if
+   else
+
+   else if is more efficient
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	TIMESTAMPSTR:  Tue Jan 31 12:52:33 2017 
+	Last Save:     Tue Jan 31 12:52:36 2017 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+
+
+--[Switch Statements and For Loops]--
+   [Switch Statement]
+      a few options
+         1) view checking
+         2) view savings
+         3) exit
+
+         1)display check balance
+         2)display savings balance
+         3)quit
+
+
+  cout<<"enter: ";
+  cin>>choice;
+  if (choice==1)
+      cout<<checking;
+  else if (choice==2)
+      cout<<savings;
+  else
+      break;
+  return 0
+
+
+
+      switch (controlling expression
+      {
+         case constant1:
+            statement sequence 1
+            break;
+         case constant2
+            statement sequence 2
+            break;
+         case constantn:
+            statement sequence n
+            break;
+         default:
+      }
+      NEVER NEST SWITCH STATEMENTS
+      but you can nest it in a loop or a conditional,
+        just dont use the switch in a switch... EVER
+      it is to simplify your code
+  switch(choice)
+  {
+      case 1: cout<<checking
+              break;
+      case 2: cout<<savings
+              break;
+      default:
+  }
+
+
+
+
+
+
+      input (a,b,c,d,f,A,B,C,D,F)
+      increment count of each grade
+      output grade distribution
+      gonna do a while loop
+      students = 0;
+      while(students < max)
+      {
+          cout<<"enter grade";
+          cin>>grade; //char variable
+          switch(grade)
+          {
+              case 'a':  count_a++;
+                         break;
+              case '
+              case 'A': count_a++;
+                        break;
+              case 'b': count_b++;
+                        break;
+              case 'B': count_b++;
+                        break;
+
+
+
+
+              // can do this
+               
+              case 'a':
+
+              case 'A': count_a++;
+                        break;
+              case 'b':
+
+              case 'B': count_b++;
+                        break;
+              // and so on
+              default:
+          }
+          students++;
+      }
+      cout<<"num a's: "<<count_a<<endl;
+  return 0;
+
+
+
+   [Inumerated types]
+      inum
+      it is giving a value its own type
+      example
+
+  inum Days{MON,TUES,WED,THURS,FRI}; //capitals
+  because they are constants
+  int x;
+  Days day;
+  //can do
+  //these are defaults but can be changed
+  inum Days{MON=0,TUES=1,WED=2,THURS=3,FRI=4};
+
+
+
+
+
+   [For loops]
+
+  for (starting pt; stopping; how closer?)
+  {}
+
+  for (students=0; students<max; students++)
+      cout
+      cin
+      switch
+      .
+      .
+      .
+      no need for counter down here
+
+
+
+      Example
+  sum=0
+  for (n=1;n<=10;n++)
+  	<-
+      sum=sum+n
+
+
+  //for a counter that is only  used for the loop;
+  for (int n=1; n<=10; n++)
+
+
+      the counter that is defined INSIDE of the for
+        loop, the counter will not be valid outside
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	TIMESTAMPSTR:  Thu Feb  9 12:23:05 2017 
+	Last Save:     Thu Feb  9 12:23:09 2017 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	TIMESTAMPSTR:  Thu Feb 16 12:33:50 2017 
+	Last Save:     Thu Feb 16 12:33:53 2017 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+--[Top-Down Design]--
+
+   makes them easier overall
+
+--[Predefined Functions]--
+   #include <iostream>
+
+   making a function
+   int main()
+   ...
+   return 0;
+
+   type name(parameters)
+   {
+      code
+      returns whatever a variable determined by the
+        type of function
+   }
+
+   #include <cmath>
+      int x = pow(2,5)
+
+
+   [Random Number Generators]
+      seed the RNG
+         #include <cstdlib>
+         #include <ctime>
+
+         srand(time(0))
+      the rand() function returns a random integer that
+        is greater than or equal to 0 and less than
+        rand_max
+
+
+      Seed RNG
+      Generate RN's
+
+      srand(time(0))
+
+      int num = rand();
+      num = rand();
+
+      this will be random each time num=rand() is
+        called
+
+      to set a range for rand()
+         int die=(rand()%6)+1
+
+            % means how many remainders looking for
+            so %6 is 0-5
+            so doing %6)+1 is 1-6

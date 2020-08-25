@@ -1,0 +1,311 @@
+	[FILE: argument synthesis outline.txt]
+	[DATE CREATED: Sat Nov 14 23:27:43 2015]
+	[Title: not an actual outline, though it is just a pile of ideas]
+
+	TIMESTAMPSTR:  [Thu Nov 12 16:58:46 2015]
+	#####Last Save: [Sat Nov 14 23:28:07 2015]#####
+
+
+
+Topic: Happiness
+  I think that happiness is found... CONTINUE THIS
+   POINT LATER
+  <
+  
+
+
+--[General summary of each article, along with simple citations]--
+[What Suffering Does]
+  Suffering is opposite of happiness
+  ...
+  sets limitations for people, allows them to realize
+   the boundries of their own abilities
+  suffering can change people. "it is not like a
+   disease"(check quote)
+    SIDENOTE
+    I just realized that this doesnt really talk about
+     happiness, just about suffering
+
+[Finding Flow]
+  basically describes happiness as doing what you love
+   to do.
+  (from text)
+    "The qquality of experience as a function of the
+     relationship between challenges and skills. optimal
+     exprience, or flow, occurs when both variables are
+     high
+    "
+  
+  flow is "being in the zone"(546)
+    double check quote
+  being in flow is doing what you love.
+    I love to write computer programs, and I find
+     myself at ease when doing it
+    Whenever I take a break from a project or an
+     assignment, I often write programs in that time.
+    When I am programming, I am in full control, and I
+     love to do it ("flow is between arousal and
+     control")(chart on 547)
+  
+  questions about flow
+  ///
+  statistics
+    find statistics for "finding flow" on page 548
+  you can have find flow in anything that you do, just
+   make sure you are in an environment to do so, ("the
+   right elements are present")
+
+[Pig Happiness]
+  it talks about 5 main forms of happiness
+    happy idiot
+    imcomtetent tottlecap collector
+    deluded fool
+    successful immoralist
+    impossible idealist  
+  each one of these types of "personalities",
+   categories of happiness, are very different from one
+   another, but each one is happy in their own unique
+   way. each one finds happiness in what they do, and
+   what their situation is.
+  people have their own standards of happiness, it is
+   their own belief system.. in a way
+
+[In Pursuit of Happiness]
+  There is no real definition to happiness.
+  happiness is defined by a person themselves.
+    since there is no definition of happiness, it is an
+     immesurable thing
+  anyone can be happy if they do what they think makes
+   them happy.
+  happiness cannot be defined, cannot be measured, it
+   is not biological, it is not genetic..
+    Happiness is a Psychological thing
+    (look into A BALANCED PSYCHOLOGY AND A FULL LIFE)
+
+
+DO A SIDE BY SIDE WITH THE PyOutline.py FILE.
+complete a full outline doing this, expand upon EACH
+ point from this text file
+.
+
+	TIMESTAMPSTR:  [Sun Nov 15 13:29:08 2015]
+	#####Last Save: [Sun Nov 15 13:41:58 2015]#####
+
+
+Facet of happiness:
+--?
+  happiness is when you are doing what you love: your
+    passion
+
+[Happiness: Enough Already]
+  Ed diener:
+    he explained to parliament that happiness should be
+      a measurement, to be able to know the people's
+      sense of well being.
+     'too much happiness may not be a good thing.'
+    his book about against happiness
+    /////////////////
+  Eric Wilson
+    his book about against happines
+    s
+    
+  
+  The happiness movement (took off in the) 1990's
+    2 legitament developments
+      discoveries about the brain activity underlying
+        welleing
+      emergence of "positive psycholgy," whos
+        proponents urged fellow researchers to study
+        happiness as seriously as they did pathological
+        states such as depression
+      THE ABOVE QUOTE NEEDS CITATION AND PROPERLY DEALT
+        WITH
+      (555)
+    ,,_
+    ,,_
+  Ed Diener(again)
+    "But if ou have positive illusions aout your
+      partner, which goes along  withthe highest levels
+      of happiness, you're more likely to commit to an
+      intimate relationship," says diener
+    (556)
+
+Background for thesis
+thesis of main point
+transition from main argument to specific examples
+clarifies key terms)))
+MAYBE include a diagram(such as finding flow
+)
+develops thesis
+opposing view are presented fairly
+counters opposing arguments
+vivid example to aid in the point
+specific evidence for support
+conclusion echoes the thesis without dully repeating
+  it
+
+
+thesis:
+  Happiness is something that can only be experienced,
+    not measured.
+  TRY TO STRENGTHEN THE THESIS
+
+
+
+[Background for thesis]
+  happiness is a state of mind in which we feel at
+    ease, where we as people can feel safe, and where we
+    always want to be. it is something that cannot be
+    measured though, as it differs between each person.
+    (pig happiness) One person can be happy collecting
+    bottle caps other people are happy with being rich,
+    having lots of stuff(try to go into the minimalist).
+    Each person defines it in their own way; some people
+    are happy when they are in total control, while
+    others are happy with having something challenging.
+
+[Thesis Statement]
+  Happiness is a state of mind that con only be
+    experienced. It cannot be measured, because each not
+    everyone experiences happy the same way. (pig
+    happiness examples)
+
+[Body]
+  Different Types of happiness
+    pig happiness
+  
+  how people can be happy in their own unique ways
+
+[Specific Examples]
+  I personally find myself happy when programming
+    relate this to "finding flow"
+  I am happy doing my passion
+  pull an example from the minimalist video
+
+[Trying to point out specific terms for happiness]
+  from "Yes, Money Can Make You Happy
+  "
+  from "A Balanced Psychology and a Full Life"
+  
+
+[Transition into "finding flow"]
+  fit in the graph from "finding flow"
+
+[Explain thesis in more depth]
+  Happiness is just a way to show that we are in a
+    positive state of mind. It tells people that we are
+    full of pleasure and enjoyment. People like to be
+    happy because:
+    people who are happy tend to work better
+    be more productive
+    they can be more positive
+    they are less at stress and not worried
+    people who are happy tend to work better:
+      in article...
+        "The Happy Secret to Better Work"
+        video
+          WATCH IT FOR MORE INFO
+  
+  link this to happy secret ot better work video
+[Opposing views]
+
+--
+  in pursuit of happiness
+    they try to define happiness
+    want a national measurement of happiness for
+      general population
+    
+    have tried to measure happiness
+      explain results
+  
+  what suffering does
+    just mention the fact that it refers to happiness
+      is not health, as suffering is not disease
+    possibly mention this
+  
+  A Balanced Psychology and a Full Life
+    the author states that happiness has 3 defining
+      traits:
+      1.Pleasure(positive emotion)
+      2.Engagement
+      3.Meaning
+    these are the 3 routes to happiness
+      explain in detail each of these to support the
+        author's point in defining happiness
+  
+  Happiness: Enough Already
+    says a pharmaceutical company is working  on a new
+      drig to make you happier
+      (556)
+    "if you're totally satisfied with your life and
+      with how things are going in the world," says
+      Diener, "you don't feel very motivated to work for
+      change. Be wary when people tell you you should be
+      happier."(556)
+    
+    
+    556
+      moderate and extreme levels of happiness, and
+        finding that being happier is not always better.
+      *This is the statistical part*
+    that quote about 4ish bullet points above is
+      incorrect
+    
+    this shows a measurement of happiness (kinda) and
+      also says that being happy isnt always best
+
+[Counter Opposing Argument]
+  Happy Like God
+    "Happiness is not quantitative or measurable and it
+      is not the object of any science, old or new. It
+      cannot be cleaned from empirical surveys or
+      programmed ito individualts through  a combination
+      of behavioral therapy and anti-depressants. If it
+      consists in anything, then I think that happiness
+      is this "feeling of existance", this sentiment of
+      mementary self-sufficiency that is bound up with
+      the experience of time"
+    (560-61)
+  I experience happiness through accomplishing goals
+    and whenever I write my computer programs
+  I find that I am happy when I am experiencing
+    pleasure.
+  
+  A Balanced Psychology and a Full Life
+    What is Happiness Section
+      routes of happiness:
+        pleasure, engagement, and meaning
+      explain how pleasure grants happiness
+  
+  Pursuit of Happiness
+    defines it as:
+      "Pursuit of personal pleasure or an obscure sense
+        of inner contentment"(531)
+    John Stuart Mill
+      "The search for happiness is one of the chief
+        sources of unhappiness,"(531)
+[REVISED THESIS]
+  Happiness is a state of mind that con only be
+    experienced. It cannot be measured, because each not
+    everyone experiences happiness the same way.
+  (new support):
+  Too much happiness can be a bad thing
+    (Happiness, Enough Already)
+  the main cause of unhappiness is trying to find
+    happiness
+    (Pursuit of Happiness)
+[specific evidence for support]
+  in the counter section
+
+[vivid example]
+  The Minimalist Video
+
+[Conclusion]
+  happiness cannot be measured
+    The opposite is suffering
+    Too little is sadness
+    yet too much is not always a good thing
+    it differs from person to person
+    It has many different meanings
+  <
+END

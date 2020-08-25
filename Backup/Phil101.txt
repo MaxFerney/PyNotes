@@ -1,0 +1,39 @@
+
+===========================================================
+	[FILE: Phil101.txt]
+	[DATE CREATED: Mon Aug 15 14:23:21 2016]
+	[Title: Philosophy 101]
+
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	TIMESTAMPSTR:  Wed Aug 24 09:28:06 2016 
+	Last Save:     Wed Aug 24 13:54:46 2016 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+--[Philosophy]--
+   Divisions of Philosophy
+      What is it? Metaphysics (ontology)
+         What is the self
+         What is divinity
+         Does divinity eist
+         what is a mind
+         are we free?
+         ^^examples of metaphysics
+      How do I know? Epistemology (theory of knowledge)
+         What are the sources of my knowledge
+         What method do I need to use to acquire
+           knowledge
+         What, if any, are the limits of my knowing
+      What is it worth? Axiology (value theory)
+         Ethics:
+            -What is a good life?
+            -How should I live?
+            -What criteria should we use to establish
+              our norms
+         Aesthetics
+            -Are therre standards of judgement in taste?
+            -How would we justivfy them?
+      What are the laws of reason? Logic
+         What makes an argument valid

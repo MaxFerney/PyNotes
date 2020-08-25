@@ -1,0 +1,30 @@
+	[FILE: testTime.txt]
+	[DATE CREATED: Thu Sep  3 20:03:04 2015]
+	[Title: TimeStampTest]
+*testing line 1
+*testing line 2
+*testing line 3
+
+
+TIMESTAMPSTR:  [Thu Sep  3 20:02:06 2015]
+
+*test line 4
+*test line 5
+
+
+TIMESTAMPSTR:  [Thu Sep  3 20:02:06 2015]
+
+*test 2
+*test 3
+
+
+TIMESTAMPSTR:  [Fri Sep  4 07:52:56 2015]
+
+
+	TIMESTAMPSTR:  [Tue Sep 22 16:56:18 2015]
+	#####Last Save: [Tue Sep 22 16:56:47 2015]#####
+
++asdf
+
+	Last Save: [Tue Sep 22 16:56:52 2015]
+

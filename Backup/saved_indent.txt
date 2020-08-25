@@ -1,0 +1,37 @@
+
+===========================================================
+	[FILE: saved_indent.txt]
+	[DATE CREATED: Mon Apr 11 10:43:48 2016]
+	[Title: 0.3.08 Saved Indent Test]
+
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	TIMESTAMPSTR:  Mon Apr 11 10:39:44 2016 
+	Last Save:     Mon Apr 11 10:44:27 2016 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+line
+1
+line 3
+line 4
+   line 5 ind 1
+   line 6 ind 1
+      line 7 ind 2
+      line 8 ind 2
+line 1
+line 2
+      line 3 indent 2
+      line 4 indent 2
+broke
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	TIMESTAMPSTR:  Wed Apr 13 09:50:58 2016 
+	Last Save:     Wed Apr 13 09:51:22 2016 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+line 1
+   line 2
+      line 3

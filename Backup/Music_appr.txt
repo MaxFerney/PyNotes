@@ -1,0 +1,199 @@
+[FILE: Music_appr.txt]
+-key of f has Bb, and starts on f note
+-key of b has Bb and Eb, starts on Bb
+-key of e has Bb, Eb, and Ab, starts on Eb
+-key of a has Bb, 
+-
+-2 3 4 5 6 7 1
+-B E F D G C F
+-(all notes above are flat)
+-(Goes in pattern)
+-F C G D A E B
+-key of g# is F#
+-key of d# is F#, C#
+-(tonic is first note of a scale)
+-key of a# is F, C, G
+-key of e# is F, C, G, D
+-6 7 1 2 3 4 5
+-F C G D A E B
+-(all notes above are sharp)
+-(the above statement is False0
+-
+-
+-Time Signatures;
+-Main: 
+-4 3 2
+-4 4 4
+-
+-4:4 = 4 beats per measure
+-3:4 = 3 beats per measure
+-2:4 = 2 beats per measure
+-top number=how many beats
+-bottom number=how many quarter notes per measure
+-above statement is False
+-if bottom note is 4, then quarter note
+-if bottom note is 8, then eigth note
+-use terms
+-phrase
+-pitch
+-unison
+-interval
+-dynamics
+-tempo
+-chromatic
+-chord
+-arpeggio
+-timbre
+-monophony
+-homophony
+-polyphony
+-composer, piece, how it affected emotionally
+SYSTEM	USER: [Max] HAS JOINED CHAT: Music_appr
+SYSTEM	USER: [Max] HAS LEFT THE CHAT
+SYSTEM	USER: [Max] HAS JOINED CHAT: Music_appr
+SYSTEM	USER: [Max] HAS LEFT THE CHAT
+*
+*Matthew dersey, viola
+  *october 5, 7:30pm
+  *Wont have class that night
+  *this will be the class
+*
+
+	TIMESTAMPSTR:  [Mon Sep 14 16:59:30 2015]
+	Last Save: [Mon Sep 14 17:21:15 2015]
+
+*
+*read chapter 4 and 5
+*within the next 2 weeks
+  *by 9/28/15
+  *medieval music
+
+	Last Save: [Mon Sep 14 17:50:18 2015]
+
+
+	TIMESTAMPSTR:  [Mon Oct 12 08:49:21 2015]
+	#####Last Save: [Mon Oct 12 17:04:02 2015]#####
+
+--[Chapter 6: The Baroque Era]--
++orfeo
++at the time, most performers were also teachers
++
++most important instrument of this time: harpsicord
+  +forerunner of piano
++
++corelli
++antonio vivalli
++
++Harmonic progression
+  +some chords have an attraction to other chords.
+  +stringing sequences of chords together
++notes layed upon eachother to make changing chords
++
++Circle of fifths
++antonio vivaldi*
++
++the music goes from italian to northern european, with
+ bach and handel
++Bach
+  +organ music
+  +a lot of lutheran music
+  +vocal music
+    +most of it is related to god
+  + woodwind and brass instruments
+  +well tempered clavier
+  +
++George Frideric Handel
+  +before audience, music depended on royalty paying for
+   it
+  +He wrote mostly opera
+  +
+  +opera
+    +oratorio
+      +it was the only type of opera that the church
+       allowed
+      +most of these were performed in theaters, rather
+       than cathedrals
++toccata and fugue in d minor
++(organ song)
++
++2 page paper
+  +about artist, or genres
+  +2 full pages, no header, size 10 font, times new
+   roman
+  +pick person, piece, genre, group(castrata)
+    +how harpsicord is different from piano
+    +^probably topic
++
++look through chapter 7
++for the paper, read all of chapter 8
++chapter 6*
++it is due in 2 weeks by email, on blackboard
+
+	TIMESTAMPSTR:  [Mon Nov 16 16:59:45 2015]
+	#####Last Save: [Mon Nov 16 16:59:51 2015]#####
+
+
+
+Pushkin
+can be in any format
+   can be list
+
+   paper
+
+questions that must be answered
+   birth/death date
+   birth country
+      where they move to
+   school & teachers
+   what major instrument they used
+   Genre(opera, ballet, songs)
+   Did they have Patrons?
+   (in a simple list)
+      Names of pieces
+      10 of their most famous pieces
+         out of the list, listen to one of them
+   2 page review
+   also death country
+
+   DUE IN 2 WEEKS
+   (November 30)
+
+
+should look like:
+
+   2 full pages of text
+   size 12 font
+   double space
+
+
+
+--
+chapter 11
+   debussy
+   straunsky
+   baetok
+   shostakarch
+   britten
+   ives
+   copland
+   gershwin
+   ////////
+   Gershwin
+
+
+
+explain everything about Gershwin
+one person explains everythin
+the other person explains the song
+   where they commisioned
+   fun stuff about it
+
+one discusses the composer
+one discusses a song
+the presentation will last 15 minutes
+
+
+find every fact about it
+find the "fun stuff"
+803-524-6052
+

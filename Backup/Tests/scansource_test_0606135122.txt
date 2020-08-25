@@ -1,0 +1,23 @@
+
+===========================================================
+	[FILE: scansource_test.txt]
+	[DATE CREATED: Tue Jun  6 13:48:25 2017]
+	[Title: Just a show program]
+
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	TIMESTAMPSTR:  Tue Jun  6 13:46:37 2017 
+	Last Save:     Tue Jun  6 13:48:49 2017 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+      <0
+      hey ther
+   that was interesting
+   I also have a word wrap function that is
+     automatically activated when the character runs over
+     any divisible of the column 60
+
+
+   and here too

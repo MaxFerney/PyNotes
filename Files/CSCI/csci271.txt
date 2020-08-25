@@ -1,0 +1,392 @@
+
+===========================================================
+	[FILE: csci271.txt]
+	[DATE CREATED: Mon Jan 13 13:17:56 2020]
+	[Title: csci 271]
+
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	TIMESTAMPSTR:  Tue Jan 14 12:28:07 2020 
+	Last Save:     Tue Jan 14 12:28:10 2020 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+test line
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	TIMESTAMPSTR:  Thu Jan 16 13:23:03 2020 
+	Last Save:     Thu Jan 16 13:23:06 2020 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+--[Algorithms]--
+   [Greatest Common Divisor]
+      one at a time. yes. just one at a time. and stop
+        at 36
+         most innefficient
+         but gets job done. it is one algorithmm
+      start with smaller of two numbers, and start
+        going downwards
+         first one you'll find will be the greatest
+      prime factors
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	TIMESTAMPSTR:  Fri Jan 17 13:20:51 2020 
+	Last Save:     Fri Jan 17 13:20:54 2020 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+   Design strategies
+      brute force, divide and conquer
+      greedy approach
+      divide and conquer
+      decrease and conquer
+      backtracking
+      branch and bound
+      iterative improvements
+      space and time tradeoffs
+      dynamic programming
+      transform and conquer
+   how good is it?
+      Time efficiency
+      Space efficiency
+   is there better ways?
+      optimization
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	TIMESTAMPSTR:  Tue Jan 21 13:01:06 2020 
+	Last Save:     Tue Jan 21 13:01:09 2020 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+side note: multithreading is on the programmer side.
+  all the cores in the world don't matter if the program
+  cannot use more than one thread
+
+Analyze
+   to break down into components or essential features
+   we'll look more towards an algorithm's efficiency
+   [Efficiency]
+      Speed
+         time efficiency
+            very important
+      Space
+         simplicity
+      successful algorithms:
+         simplicity
+         maintainability
+         generality
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	TIMESTAMPSTR:  Thu Jan 23 12:38:25 2020 
+	Last Save:     Thu Jan 23 12:38:27 2020 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+--[Analysis]--
+[test]
+   fail
+[test]
+   fail
+--[TEST]--
+   success
+
+
+
+--[Analysis]--
+   [time vs space efficiency]
+      focus of former
+         inprove speed more than space
+         space problems often include memory leaks
+      space/speed issues are evolving
+         emergence of fast and cheap flash memory is
+           changing parameters on which solutions are
+           judged and tradeoffs made
+         flash memory vs hard disk dkrives
+   [Measuring size of input]
+      Algorithm runs longer on larger inputs
+      characterize running time of algorithm as a
+        function of the input size
+      time efficiency starts to matter when the input
+        size is large
+      often, sthe size of the numbers (Magnitude) is
+        measured by number of bits
+         b= floor(log(2,n))+1
+            number of digits in the number
+   [Measuring Running Time]
+      want to find metric that is independent of a
+        particular implementation
+         meaning seperate from:
+            computer
+            language
+            etc
+      basic operation
+         contributes most towards running time of the
+           algorithm
+            usually: them most time consuming operation
+            sorting: key comparison
+            numerical: multiplication or division
+      [Theoretical analysis of time efficiency]
+         time efficiency is number of repetitions of
+           the basic operation as a function of input
+           size
+         basic operation:
+            operation that contributes most toward the
+              running time of the algorithm
+         An approximation
+         great for relative comparisons: double input
+           size
+            relative comparison is independent of
+              constant for time of basicis operation
+            multiplicative constant
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	TIMESTAMPSTR:  Fri Jan 24 12:35:45 2020 
+	Last Save:     Fri Jan 24 12:35:53 2020 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+         doubling input size could make the time take
+           4x longer
+      example formulas
+         exact
+            c(n) = n(n-1)/2
+         indicating order of growth with specific
+           multiplicative constant
+            c(n) ~ 0.5n^2
+         indicating order of growth with unknown
+           multiplicative constant
+            c(n) ~ cn^2
+
+   Order of growth
+      how much faster will algorithm run on a computer
+        that is twice as fast
+      how much longer does it take to solve a problem
+        of double input size
+   case scenarios
+      worst case
+         max over inputs of size n
+      best case
+         minimum over inputs of size n
+      average case
+         average over inputs of size n
+            number of times the basic operation will be
+              executed on typical input
+            not average of worst and best
+            expected number of basic operations
+              considered as a random variable
+               under some assumption about the
+                 probablility of distribution of all
+                 possible inputs
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	TIMESTAMPSTR:  Tue Jan 28 12:38:40 2020 
+	Last Save:     Tue Jan 28 12:46:08 2020 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+   Summary
+      Establishing order of growth
+         lim(n->infinity) T(n)/g(n) =
+            0
+               order of growth of t(n) < order of
+                 growth of g(n)
+            c > 0
+               order of growth of t(n) = order of
+                 growth of g(n)
+            infinity
+               order of growth of t(n) > order of
+                 growth of g(n)
+         examples
+            10n vs n^2
+               goes towards 0
+            n(n+1)/2 vs n^2
+               1/2
+               that means they have the same order of
+                 growth
+
+basic efficiency class
+   1
+      constant
+   log n
+      logarithmic
+   n
+      linear
+   n log n
+      n-log-n or linearithmic
+   n^2
+      quadratic
+   n^3
+      cubic
+   2^n
+      exponential
+   n!
+      factorial
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	TIMESTAMPSTR:  Thu Jan 30 12:32:40 2020 
+	Last Save:     Thu Jan 30 12:32:42 2020 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	TIMESTAMPSTR:  Fri Jan 31 12:37:56 2020 
+	Last Save:     Fri Jan 31 12:37:58 2020 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+   General plan for analysis
+      decide of parameter n indicating (input size)
+      identify algorithm's (basic operation)
+      determine (worst), (average), and (best) cases
+        for input size n
+      set up a sum for the number of times the basic
+        operation is executed
+      simplify the sum using standard formulas and
+        rules (see appendix a)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	TIMESTAMPSTR:  Tue Feb  4 12:50:15 2020 
+	Last Save:     Tue Feb  4 12:50:18 2020 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	TIMESTAMPSTR:  Thu Feb  6 12:42:15 2020 
+	Last Save:     Thu Feb  6 12:42:18 2020 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+   Empirical Analysis
+      where are bottlenecks
+      where to spend more time improving
+      figure out what problems would have the most
+        benefits to solve
+      where the most time is being spent in the program
+      first build the program, then optimize for
+        efficiency
+      Sample inputs
+         worse vs typical
+            random or not
+         what sizes to test?
+            typically test a pattern of input sizes
+            e.g., douple input size, can analyze
+              results to guess at efficiency class
+
+
+      [Scatterplot]
+         compute ratios
+         m(n)/g(n) should converge to constant (for
+           correct g(n))
+         m(2n)/m(n) for double input size
+      extrapolation
+         thrashing
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	TIMESTAMPSTR:  Fri Feb  7 13:15:15 2020 
+	Last Save:     Fri Feb  7 13:15:16 2020 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+Put counter as if j>=0 count++ after the while loop as
+  well
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	TIMESTAMPSTR:  Tue Feb 18 13:14:41 2020 
+	Last Save:     Tue Feb 18 13:14:43 2020 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+--[Brute Force]--
+   Straightforward, usually based directly on problems
+     statement and definitions of the concepts involved
+      computing n!
+      computing a^n where n is nonnegative
+      multiplying 2 matrices
+      Searching for key of a given value in a list
+   [Selection Sort]
+      scan array to find smallest element and swap it
+        with first element
+      then statring with second element scan elements
+        to right of that
+      i(0<=i<=n-2)
+      this algorithm is good for space efficiency. it
+        sorts the array itself, and does not create
+        another array to sort
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	TIMESTAMPSTR:  Fri Feb 21 12:35:08 2020 
+	Last Save:     Fri Feb 21 12:35:12 2020 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	TIMESTAMPSTR:  Fri Feb 28 13:28:48 2020 
+	Last Save:     Fri Feb 28 13:28:50 2020 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+Time efficiency for non-recursive algorithms
+   same as normal
+   set up sum
+   simplify sum
+Time efficiency for recursive algorithm
+   input size and basic operation
+   check whether number of times is the basic operation
+      best worst average
+   set up recurrence relation
+   solve recurrence (or atleast the order of growth)
+      (by backward substitutions or another method)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	TIMESTAMPSTR:  Tue Mar 10 13:36:56 2020 
+	Last Save:     Tue Mar 10 13:36:59 2020 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+--[Graphs]--
+   Graph Traversal
+      Depth First Search (DFS) and Breadth-First Search
+        (BFS)
+      Depth-First
+         goes through as order as possible by values
+         DFS
+         count = 0
+      Breadth-First
+         goes through each possiblitity first, then by
+           the first of each sub-branch and so on
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	TIMESTAMPSTR:  Thu Mar 26 12:54:35 2020 
+	Last Save:     Thu Mar 26 12:54:37 2020 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+Stable
+   2 5 8 | 5(1)
+   Stable
+      2 5 5(1) 8
+   Unstable
+      2 5(1) 5 8
+      if the sorter finds the element or EQUAL then
+        swap.
+      this causes instability, which takes an extra
+        action and swaps equal values
+Space Efficiency
+   in place
+      sorts using the array provided
+   out of place
+      creates a new array
+
+Source Removal algorithm
+   works on directed graphs
+   removes ones with no incoming edges first
+   does not work on cycles
+

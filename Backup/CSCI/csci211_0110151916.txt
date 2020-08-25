@@ -1,0 +1,229 @@
+
+===========================================================
+	[FILE: csci211..txt]
+	[DATE CREATED: Mon Jan  8 14:01:29 2018]
+	[Title: Assembly]
+
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	TIMESTAMPSTR:  Mon Jan  8 14:00:20 2018 
+	Last Save:     Mon Jan  8 14:03:43 2018 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+--[Computer Organization/Architecture]--
+   -logic gates
+      -and
+      -or
+      -not
+   -processor
+   -memory
+   -io interface
+
+   [Instructions]
+      -instrctions are in memory
+         -fetch instruction, then execute it
+            -fetch execute cycle
+         -More detailed
+            -fetch instruction
+            -fetch operands
+            -execute instruction
+            -save result
+            -determine next instruction
+   [Processor Components]
+      -Datapath
+         -Hardware that electrons flow through to accomplish
+           an instruction
+      -Control
+         -Tells hardware what to do and when to do it
+      -Registers
+         -Small amount of memory (32 4-bte for FIPS) that can
+           be operated upon
+         -This is also known as RAM or Rapid
+           Access Memory
+      -one byte can hold 256 numbers
+      -32 bits or 4 bytes in a word
+   [What's Inside]
+      -Everything n the computer is represented with 0s
+        and 1s (on-off)
+         -integers
+         -characters
+         -boolean
+         -float
+         -instructions
+
+      -Bits are bits
+         -it determines how to use it by the context or
+           how it is used
+         -does not know anything about data types
+   [Languages]
+      -Machine Language
+         -Just 0s and 1s
+         -very hard to program
+      -Assembly
+         -Symbolic for machine language
+         -Easy to create a program to translate from
+           assembly language to machine language (almost
+           1 to 1)
+         -Keeps track of variables' addresses
+   [Why Learn Assembler]
+      -Understand what the machine does
+         -helps you learn to be a better guesser
+      -Needed to write a compiler (431)
+      -Needed to build CPUs
+      -Faster to execute
+      -to determine timeing
+      -Gives you the power to access anything
+      -Maintaining older systems
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	TIMESTAMPSTR:  Wed Jan 10 13:55:01 2018 
+	Last Save:     Wed Jan 10 13:55:04 2018 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+   [Why not use Assembly]
+      -tedious
+      -error prone
+      -slow to write
+      -machine dependent
+      -good compilers produce fast code already
+   [MIPS CPU]
+      -Used in many systems
+         -SGI workstations
+         -Sony PS2
+         -Dish Network set top box
+         -Tivo DVR
+         -Pioneer Plasma TV
+         -HP Color laser printer
+         -Many More
+         -These CPUs are mostly in embeded machines
+   [MIPS Layout]
+      -Control
+      -Register file (32 registers with 32 bits each)
+         -it is like a file cabinent for the registers,
+           so not an individual file
+      -ALU
+         -Arithmetic Logic Unit
+         -Does as it sounds
+      -Memory
+         -32 bit adresses (2^32 bytes addressable = 4Gb)
+      -Program Counter (PC)
+         -where to fetch
+         -holds address of next instructions
+      -Instruction Register
+   [Control Unit]
+      -Sends the proper control signals to each
+        component to accomplish instruction
+   [Register File]
+      -a group of registers
+      -input
+         -which register(5 bits)
+         -read or write
+         -32 bit value (for write)
+         -5 bits for register(2^5 = 32 different things)
+         -outputs a 32 bit value for read
+      [Register Conventions]
+         -$0 = 0
+         -$1 = used by assembler
+         -$2,$3 = functions return values
+         -$4-$7 = arguments to a funciton
+         -etc
+
+         -There are no local variables
+            -conventions to deal with this
+   [Other Components]
+      -ALU
+         -Performs arithmetic and logic (and, or, shift)
+      -PC
+         -Program Counter
+            -Addresses of next instruction
+      -Memory
+         -32 bit addresses
+         -addresses a byte (8 bits)
+            -ie, cannot buy one egg, but must buy a
+              carton
+         -Some instructions use a Word (4 bytes),
+           Halfword (2 bytes), or byte operands
+         -All instructions are 4 bytes (on MIPS)
+            -PC = PC+4
+   [Instruction Format]
+      -Opcode
+         -First 6 bits
+         -up to 64 opcodes then
+      -3 formats
+         -R type
+            -Opcode all 0's
+            -(short for registers)
+            -Three 5-bit fields for registers (2 for
+              operand, one for results)
+            -5 bit shift amount (for shift instructions)
+            -6 bit function code
+               -these are the 6 extra bits
+               -used for add, subtract, compare, etc.
+               -up to 64 different instructions or 4
+                 type
+
+         -I type
+            -still 6 bit opcode
+            -two 5bit register numbers
+               -two compares
+            -16bit value as the third operand
+            -can go only up to 64,000
+               -2^16
+
+         -J type
+            -jump
+            -still 6 bit opcode
+            -a 'goto' function
+            -there are no for loops in assembly
+
+            -Jump instructions
+            -26 bit address field (64 million)
+
+
+
+
+
+
+--[MIPS Format]--
+   [Statement format]
+      -MIPS assembly language  have the following format
+         -label:opcode operand,operand,operand #comment
+      -label identifies the statement and is optional
+      -opcode is the command
+      -there may be 0-3 operands depending on the
+        instructoin
+      -commentss are optional but helpful
+      -comments can be on a line by themselves
+
+      -Whitespace is as you'd like to have
+
+
+   [Command Formats]
+      -To make sure you use the proper command, look at
+        the operands and their data type
+      -some commands take 3 registers as operands
+      -some take an actual number (immediate) as one of
+        the operands
+      -some operands are a label
+
+  lets translate x=y+7-z;
+
+  assembler:
+
+    .text
+  lw    $t0,y  #loadword
+  addi  $t0,t0,7 #add 7 and save it
+  lw    $t1, z
+  sub   $t0,$t0,$t1
+  sw    $t0,x
+  li    $v0,10
+  syscall
+    .data
+  x:.word	0
+  y:.word	0
+  z:.word	0
+   #have to load into $v0,10 then have syscall
+    #this defines the end of the code

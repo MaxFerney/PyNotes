@@ -1,0 +1,428 @@
+
+===========================================================
+	[FILE: difd141.txt]
+	[DATE CREATED: Tue Jan  9 15:32:48 2018]
+	[Title: Web Application Design]
+
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	TIMESTAMPSTR:  Thu Jan 11 15:31:30 2018 
+	Last Save:     Thu Jan 11 15:32:27 2018 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+-test
+
+--[Structure]--
+
+
+--[Text]--
+   <sup>superscripts</sup>
+   <sub>subscripts</sub>
+
+
+   <br /> this is a break. there is no end tag, this
+     tag means it is closing
+
+   Horizontal Rules
+      <hr />
+      just a horizontal line between paragraphs
+      or elements
+
+   <em> for emphasis
+   <blockquote> contains a quote
+   <strong> type of emphasis, basically a bold
+
+   <blockquote cite="somesite.com"> <p>a small
+     paragraph</p> </blockquote>
+   <acronym>
+   <cite>
+   <dfn> definition </dfn>
+
+   <address><p><a href="somesite.org">
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	TIMESTAMPSTR:  Tue Jan 16 15:39:54 2018 
+	Last Save:     Tue Jan 16 15:39:55 2018 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+
+--[Lists]--
+   [ordered]
+      <ol><li></li></ol>
+   [unordered]
+      <ul><li></li></ul>
+   [Definition List]
+      <dl>
+         <dt></dt>
+         <dd></dd>
+      </dl>
+
+   [Nested Lists]
+      <ul>
+         <li>
+         <li>
+         <ul>
+            <li>
+            <li>
+         </ul>
+         <li>
+      </ul>
+0>
+      <ul> <li> <ul><li></li></ul> </li> </ul>
+
+
+--[Links]--
+   <a href="somesite.org">link text</a>
+   [Internal Links]
+      <a href="index.html">Home</a>
+
+      to go from parent to child
+         child/file.html
+      to go from child to parent
+         ../file.html
+
+   [Email]
+      <a href="mailto: jon@example.org"> email jon </a>
+         this will use the default mail program.
+         if one is not set up this will not work
+            ie: the lab computers wont work if you
+              click on the mailto link
+
+   [New Window]
+      <a href="example.com" target="_blank">link</a>
+
+   [Link to same page]
+      <a href="#someID">some teleport</a>
+      <h2 id="someID">teleport location</h2>
+
+
+
+--[Images]--
+   put images in an image folder
+   <img src="images/imageName.jpg" alt="ScreenReader"
+     title="this will be the description when one hovers
+     over it."/>
+
+   can put width="px" height="px" in here
+
+   can also do one or the other, as it will fix itself
+
+   can place an image wherever you'd like
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	TIMESTAMPSTR:  Tue Jan 23 15:39:27 2018 
+	Last Save:     Tue Jan 23 15:39:29 2018 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+
+--[Tables]--
+   <table>
+      <tr>
+         <td>item</td>
+         <td>item</td>
+      </tr>
+      <tr>
+         <td>item</td>
+         <td>item</td>
+      </tr>
+   </table>
+
+
+   table
+      table row
+         table data
+         table data
+      table row
+         table data
+         table data
+      <table data is basically a column>
+
+
+   <th> table heading </th>
+   <th scope="col">some header</th>
+
+   scope="col" is a column
+   can do <th scope="row">
+   this makes the items in the row be under scope of
+     row
+
+   [Spanning]
+      can use <td colspan="2">the two column cell</td>
+      also can use <td rowspan="2"> for an item taking
+        up two rows</td>
+
+   <thead>
+   <tbody>
+   <tfoot>
+
+   [Width and spacing]
+      <table width="400" cellpadding="10"
+        cellspacing="10"
+      <th width="150">somehead</th>
+
+   <table border="2" bgcolor="#hexdec"> all the
+     stuff</table>
+
+
+--[Markup]--
+   [Comments]
+      <!-- this is a comment line -->
+      <!--
+      can also do
+      multipe
+      lines
+      --> 
+
+   [ID Attribute]
+      p id="pullquote">
+   [Class Attribute]
+      <p class="important">
+      <p class="important addmitance">
+         can use multiple classes to have multiple
+           class affects
+
+   [Div tag]
+      <div id="header">
+      everything inside here
+      </div><!--header-->
+
+   [Span]
+      <span class="gallery">some text here</span>
+      can do this in middle of items, like in the
+        middle of a paragraph. CANNOT do this with a div
+
+   [Iframes]
+      <iframe width="450" height="350" src="google.com"
+        frameborder="0" scrolling="0"></iframe>
+      nothing between the two
+      basically an object from another page put in
+        here, sort of like a small blip of google map on
+        a page
+
+   <meta name="description" content"an essay on
+     installation art" />
+   <meta name="robots" content="nofollow"/>
+   page descriptors basically
+
+   [Escape Characters]
+      <p>&copy; my text</p>
+      &lt=less than
+      &gt=greater than
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	TIMESTAMPSTR:  Thu Jan 25 15:34:48 2018 
+	Last Save:     Thu Jan 25 15:34:51 2018 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+
+--[Containers]--
+   Block level elements
+      individual containers
+   Inline Elements
+      <em>, <i>, <b>, ,<img>, etc
+
+   Division Element
+      holds elements together
+   Span Element
+      can be used inside a block level element
+
+
+
+--[Sound and Video]--
+   <audio> </audio>
+   good to organize inside of folders like images
+   can use single or double quote, like python
+   <audio> <source src="source" type="audio/type"/>
+   <audio autoplay>
+      autoplays on startup
+   <audio controls>
+      gives controls to user
+      can put in text if it fails
+      embed
+         good for old browsers
+         <embed height=... width=...
+           src="audio/soundfile.mp3" />
+
+   [Video]
+      same thing
+      mp4, webm, ogg(ogv)
+      poster element is basically thumbnail for video
+        before it plays
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	TIMESTAMPSTR:  Tue Jan 30 15:29:50 2018 
+	Last Save:     Tue Jan 30 15:29:54 2018 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+--[Forms]--
+   name value pairs
+   Form
+      Action
+         this sends the information to this location
+         <form action="http://example.com/join.php">
+         form controls
+         </form>
+      Method
+         is a get or a post
+         post is used for username password
+         use get
+      input
+         type="text" name="username" size="15"
+           maxlength="30"
+         type="password"
+            this hides input as you put it in
+      textarea
+         name="comments" cols="20" rows="4"
+      Radio buttons
+         can only select one type
+         type="radio" name="genre" value="rock"
+           checked="checked"/> rock
+         checked sets a default
+      Check boxes
+         type="checkbox".... name=... value=...
+         checked also works for checkboxes
+      Dropdown list
+         <select name="devices">
+         <option value="ipod"
+           selected="selected">ipod</option>
+         </select>
+         can do multiple selects
+      Upload/Browse
+         method post
+         <input type="file"name="user-song"/>
+         <input type="submit"value="upload"/>
+      Subscribe
+      Submit
+         input type="submit" value="subscribe"/>
+         whatever the action link is, when pushing
+           submit button it will send it to the action
+           link
+      Hidden controls
+         input type="hidden" name="bookmark"
+           value="lyrics"/>
+         can put in where user came from
+      Labelling form controls
+         can put a label around an input or a name.
+         label can use for="id name" to use an inputs'
+           id attribute
+      Grouping Elements
+         can use <fieldset> </fieldset>
+         inside fieldset can use <legend to name
+           fieldset
+      Form validation
+         if someone leaves something blank
+         in input: required="required"
+      Date Input
+         input type="date"
+      Email/Website validation
+         type="email"
+         type="url"
+      Search
+         type="search"... placeholder="Enter
+           keyword..."/>
+      Make sure to:
+         use method get
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	TIMESTAMPSTR:  Thu Feb  1 16:20:03 2018 
+	Last Save:     Thu Feb  1 16:20:05 2018 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	TIMESTAMPSTR:  Tue Feb  6 15:38:15 2018 
+	Last Save:     Tue Feb  6 15:38:17 2018 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+css
+   link href="css/styles.css" type="text/css"
+     rel="stylesheet"
+   internal style sheet
+      <style type="text/css"> stylings </style>
+   selectors
+      universal *{}
+      type h1,h2,h3{}
+      class .note{} p.note{}
+      id #introduction{}
+   cascade
+      first rule will apply. if there is another rule
+        after, it overwrites the first rule
+   Opacity
+      use rgb as well because rgba is not always
+        supported
+   {{ Favorite word: Graceful Degregation }}
+
+   font-size
+      do by px,
+      by %
+      by em
+      1.3 em
+         how much space is taken by the character 'm'
+   text transformation
+      text-transform: uppercase; (lowercase,
+        capitalize)
+   text decoration
+      text-decoration: none; (gets rid of underline)
+   line height
+   letter/word spacing
+   text align
+      justify: goes from one end to the other
+   text indent
+   styling links
+      link
+      visited
+      hover
+      active
+
+      these can be used not just on anchors, but also
+        on text
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	TIMESTAMPSTR:  Thu Feb  8 15:35:42 2018 
+	Last Save:     Thu Feb  8 15:36:15 2018 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+   letter-spacinng
+   word-spacing
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	TIMESTAMPSTR:  Tue Feb 13 15:35:32 2018 
+	Last Save:     Tue Feb 13 15:35:35 2018 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+--[Boxes]--
+   [borders]
+      if multiple px set up in border
+      goes:
+         top
+         right
+         bottom
+         left
+      can do this with colors as well
+      can only do this if using border width or border
+        color, or border-thing
+      CANNOT do this if using shorthand (border:1px
+        solid)
+
+   [Centering Content]
+      text-align: center;
+      paragraph:
+         make it smaller, then center it
+            margin: 10px auto 10px auto
+   [Block to inline]
+      li {display: inline;}
+      li.item{display:none;}
+      making an item inline will put it horizontally

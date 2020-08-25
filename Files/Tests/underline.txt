@@ -1,0 +1,44 @@
+
+===========================================================
+	[FILE: underline.txt]
+	[DATE CREATED: Thu Oct  6 13:54:50 2016]
+	[Title: Underline test]
+
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	TIMESTAMPSTR:  Thu Oct  6 13:54:21 2016 
+	Last Save:     Thu Oct  6 13:54:55 2016 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+line
+line 2
+this is the string to be underlined
+             ^^^^^^                   
+lets see if it worked
+indent 1 worked
+multiline test shall be a test to see if the string
+  shall work for multiple lines and the textwrap function
+                                              ^^^^^^                                                    ...
+miserably failed
+line 1 indent 2 test
+   indent 2
+   now see if the string will underline here
+                   ^^^^^^                         
+bullet point reduced to first indent, does not save
+  indent.
+further testing and editing may be required
+underline indent 2 successful.
+BUGS
+   textwrap completely breaks it AND does not work
+      places spaces before the bullet, I dont know how
+        to fix this.. perhaps put the '\n' before the
+        bullet to ensure that it is fixed.. or perhaps
+        only after the string.
+   indentation needs work
+      if the bullet was indented, then the next line
+        shall be reset to no indentation whatsoever.
+      is that understandable in this case?
+               ^^^^^^^^^^^^^^                             see?
+it just breaks it

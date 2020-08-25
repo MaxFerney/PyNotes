@@ -1,0 +1,1160 @@
+[FILE: csci207_notes01.txt]
+-Hello World
+-'user namespace std' goes directly under #include
+statement
+-THIS IS CHAPTER 2
+--#include is a preprocessor directive
+-<< is insertion operator
+-above statement is for output
+-# starts a preprocessor directive, (may not always be
+include)
+-C++ is case sensitive
+-cout stands for Console Output
+-for new line:
+-<<"str"<<endl;
+-<<"str\n";
+-if last thing output is variable, use endl
+-Escape keys:
+-\n, \t, \a(makes sound), \b(backspace, \r(return), \\,
+\', \
+-last above is \"
+->> is extraction operator
+-above statement is used for input
++the preprocessor directive is not part of C++ language
+and is not seen by the compiler
++-use .h at end of header files
++-       #include <iostream.h>
++-char letter
++-^      ^
++-|      variable name
++-data type
++
++
++'a' = character constant
++"Hello" = string literal
++12 = integer constant
++3.14 = floating-point constant
++
++names should indicate the use of the identifier
++must begin with alphabetical character or _, followed
+by alphabetic, numeric, or _. alphabetic characters may
+be upper- or lowercase
++can use CamelCase or under_score
++cannot use . begin with number or use $
++Integers
++>can be signed or unsigned
++>>12    -6      +3
++>available in dirfferent sizes:
++>>short, int, and long
++>>size of short<=size of int<=size of long
++a variable is signed unless unsigned is specified
++Floating-Point Integers:
++>12.45          -3.8
++>stored as float, double, or long double
++fixed point(decimal notation) or scientific notation
++int rainfall = 3.88
++>displays 3
++Characters:
++>'y' is single character literal
++String Class:
++>#include <string>
++>string name;
++>name = "george";
++>cout<<"My name is "<<name;
++(Character literal is not often used)
+SYSTEM	USER: [Max] HAS JOINED CHAT: csci207_notes01
+SYSTEM	USER: [Max] HAS LEFT THE CHAT
+*[new date]
+*
+*bool
+*>bool allDone = true;
+*>false is 0, true is 1
+*
+*
+*Size of a data type
+*>sizeof operator
+*>>double amount;
+*>>cout<<"a float is stored in "<<sizeof(float)<<"
+bytes\n";
+*
+*assigning variables:
+*...
+*
+*scope
+*>variable cannot be used before it is defined
+*
+*Arithmetic operators:
+*>used for performing numeric calculations
+*
+*13/5 = 2
+*13/5.0 = 2.6
+*2/4 = 0
+*2.0/4 = 0.5
+*% requires integers, not float
+*
+*
+*testing a new line
+
+
+TIMESTAMPSTR:  [Fri Sep  4 09:03:54 2015]
+Last Save: [Fri Sep  4 09:06:02 2015]
+
+
+TIMESTAMPSTR:  [Tue Sep  8 12:21:36 2015]
+Last Save: [Tue Sep  8 12:23:39 2015]
+*10/1 is midterm date
+*
+*
+*CHAPTER 3
+*
+*can use expressions like:
+*> (2*(l+w));
+*expressions should be stored in variables so they may
+be used later
+
+
+TIMESTAMPSTR:  [Tue Sep  8 12:39:27 2015]
+Last Save: [Tue Sep  8 12:53:31 2015]
+*can do lw (is l*w)
+*cmath header file
+*>pow()
+*
+*Data Type Conversion and Type Casting
+*>order of data types
+*long double
+*double
+*float
+*unsigned long
+*long
+*unsigned int
+*int
+*^int is lowest
+
+
+TIMESTAMPSTR:  [Tue Sep  8 12:39:27 2015]
+Last Save: [Tue Sep  8 13:06:12 2015]
+*test
+
+
+TIMESTAMPSTR:  [Tue Sep  8 12:39:27 2015]
+Last Save: [Tue Sep  8 13:07:33 2015]
+*char, short, unsigned short>> are automatically
+promoted to int
+*data type conversion>
+*>> static_cast<data type>(value)
+*>>static_cast<int>(4.2);
+*>>>//the above statement displays 4
+*
+*overflow and underflow
+*whenn assigning a value that is too large(overflow) or
+too small(underflow) to be held in a variable
+*overflow example
+*
+*short int num = 32767
+*cout<<num;      //32767
+*num = num + 1;
+*cout<<num;      //-32768
+*
+
+
+TIMESTAMPSTR:  [Tue Sep  8 12:39:27 2015]
+Last Save: [Tue Sep  8 13:22:40 2015]
+*Named Constants
+*>also called constant variables
+*>cannot be changed during progrm execution
+*>used for representing constant values with descriptive
+names
+*const double TAX_RATE...
+*const int NUM_STATES=50;
+*>often named in uppercase letters
+
+
+TIMESTAMPSTR:  [Tue Sep  8 12:39:27 2015]
+Last Save: [Tue Sep  8 13:27:23 2015]
+*
+*constants vs define
+*
+*c-style of naming constants
+*#define NUM_STATES 50
+*^no semicolon at end
+*it is not a c++ statement, it is a directive
+*
+*multiple and combined assignments
+*>x=y=z=5;
+*>x=(y=(z=5));
+*
+*Valid operators:
+*>+=, -=, *=, /=, %=
+
+
+TIMESTAMPSTR:  [Tue Sep  8 12:39:27 2015]
+Last Save: [Tue Sep  8 13:37:21 2015]
+*new notes
+--[Chapter 4: Making Decisions]--
+*>, <, >=, <=, ==, !=
+
+	TIMESTAMPSTR:  [Tue Sep 15 12:31:22 2015]
+	Last Save: [Tue Sep 15 12:41:17 2015]
+
+*conditionals
+*
+*12 > 5
+  *true
+*7 <= 5
+  *false
+*
+*if (condition)
+*{
+  *statement1
+  *statement2;
+  *...
+  *statementn;
+*}
+*if (condition) is true:
+  *statements in body are executed
+*if (condition) is false:
+  *statements in body are skipped
+*
+*if (score >= 60)
+  *cout<<"you passed. "<<endl;
+*if (score >= 90)
+*{
+  *grade = 'a'
+  *cout<<"wonderfl job!" <<endl;
+*}
+*
+*if is a keyword, it must be lowercase
+*condition must be in ()
+*do not place ; after condition
+*dont forget {} around a multi-statement body
+*
+*flag:
+  *a variable that signals a condition
+  *usually  implemented as bool
+  *the flag value can be both set and tested with if
+   statements
+     *meaning:
+    *ture: condition exists
+    *false: the condition does not exist
+  *example:
+    *bool validMonths = true;
+    *
+    *if (months < 0)
+      *validMonths = false;
+    *
+    *if (validMonths)
+      *moPayment = total / months;
+*
+*integer flags
+  *int variables can be used as flags
+  *remember that 0 is false
+  *any other value means true
+    *int allDone = 0;
+    *
+    *if(count > max_students)
+      *allDone = 1;
+    *if (allDone)
+      *cout<<"task finished";
+*
+*
+*if/else statement
+  *allows choice between statements depending on
+   whenther (condition) is true of false
+     *format: 
+    *if (condition)
+      *statement set 1
+    *else
+      *statement set 2
+
+	Last Save: [Tue Sep 15 13:05:25 2015]
+
+  *example
+  *if passed:
+    *congrats
+  *else:
+    *shame
+*
+*comparison with floating point numbers
+  *better to use greater that or less than
+    *because of accuracy
+*
+*if/else if statements
+  *chain of if statements that test in order until one
+   is found to be true
+   *
+  *if()
+  *else if 
+  *else if()
+  *{}
+*
+*use trailing else
+  *can be used with if/else if statement when all of the
+   conditions are false
+   *
+*if ():
+  *{}
+*else if ()
+  *{}
+*else if ()
+  *{}
+*else
+  *{}
+*
+
+	Last Save: [Tue Sep 15 13:14:35 2015]
+
+*
+*munue driven program
+*menu
+  *display list of numbered of lettered choices for
+   actions
+     *input user;s selection of number of letter
+  *test user selection if (condition)
+    *if a match, then execute code to carry out desired
+     action
+         *if not, then test with next (condition)
+*
+*
+*
+
+	Last Save: [Tue Sep 15 13:27:33 2015]
+
+*nested if statement
+*if (score < 100)
+*{
+  *if (score > 90)
+    *grade = 'a'
+*}
+
+	Last Save: [Tue Sep 15 13:31:15 2015]
+
+*14-18
+*driving age 16
+*
+*example
+  *cout<<"input driving age: "<<endl;
+  *cin<<age<<
+  *#########################
+  *
+  *int age;
+  *if(age<=18)
+    *driving and voting = true
+  *
+  *##################
+  *if (age >= 16)
+    *if (age >= 18)
+      *voting and driving
+    *else:
+    *driving
+  *cant drive or vote
+  *^^^ make this an else statement
+
+	Last Save: [Tue Sep 15 13:41:23 2015]
+
+
+	Last Save: [Tue Sep 15 13:42:02 2015]
+
+
+	TIMESTAMPSTR:  [Thu Sep 17 12:29:41 2015]
+	#####Last Save: [Thu Sep 17 12:44:30 2015]#####
+
+--[Logical Operators]--
++&& = and
++|| = or
++! = not
++(x>y) && (y>z)
++x>y>z
++
++!(x<=z)
++better to include each expression in its own ()
++)
++
++Logical Precedence
+  +Heighest to lowest
+  +!
+  +&&
+  +||
+ ((500>=4) && (4>=15))
++
+ ((y <= 500) && (y >= 15))
++
++Must use variable in logical expression first
+[validating user input]
++
++#############
++variables inside of {} are local
++conditional operators
+  +short if else
+  +?
+  +:
+  +x < 0 ? y = 10 : z = 20;
+  +if x<0, then y=10, else z = 20
+[Switch Statement]
+ switch(IntExpression)
+   case = exp1: statement set 1;
+   case exp2: statement set 2;
+   ...
+   case expn: statement set n
+   default:   statement set n+1;
+ }
+ 
+ break
+ (escapes from current block of code/scope
+ )
++
++needs break statement after each case, in above code
++
++default is optional, but recommended
++exp1 through expn must be constant integer type
+ expressions
+ +default is else
++for each case, use break
+ switch(gender)
+ {
+   case 'f': cout<< "female";
+             break;
+   case 'm': cout<< "male";
+             break;
+   default : cout<< "invalid gender";
+ }
++
++everything below the case is executed is false
+ 
+ switch(gender)
+ {
+ --->
+ --->
+   case 'f' || 'F': cout << "female";
+                    break
+   case 'm' || 'M': cout << "male";
+                    break
+   default        : cout << "invalid gender";
+ }
+ 
+ cannot do || like that
+ 
+ 
+ switch(gender)
+ [
+   --
+ {
+   case 'f':
+   case 'F': cout<<"female";
+   	     break;
+   case 'm':
+   case 'M': cout<<"male";
+             break;
+   default : cout<<"invalid gender";
+ }
+ 
+ This Works
+ 
+ /* enter choice
+ 1 view transcript
+ 2 view financial aid
+ 3 view meal plan
+ 4 exit
+ */
+ 
+ //choice predefined
+ 
+ switch(choice)
+ {
+   case 1: cout<<"view transcript";
+           break;
+   case 2: cout<<"view fin aid;
+   	   break;
+   case 3: cout<<"view meal plan";
+   	   break;
+   case 4: cout<<"goodbye";
+   	   break;
+   	   //end function
+   	   //
+   default:cout<<"invalid input";
+ }
+ 
++
++
++
++A switch statement is classified under if else
+ statements
+ +
++never use{} inside of switch statement
++
++Enum
+  +datatype created by programmer
+  +contains a set of named constant integers
+  +format:
+     enum name {val1, val2, ... valn};
+  +examples
+    +enum Fruit {apple, grape, orange};
+    +enum Days {Mon, Tue, Wed, Thur, Fri};
+  +enum is a keyword
+  +example 2:
+    +enter choice
+    +1. drinks
+    +2. produce
+    +3. canned goods
+    +4. exit
+    +
+    +enum Inventory {DRINKS, PRODUCE, CANNED GOODS}
+    +
+    +inventory choice;
+    +switch(choice)
+      +case drinks: drink_count += 1;
+      +		    break;
+      +case produce: produce_count += 1;
+      +		    break;
+      +case canned: canned_count += 1;
+      +		    break;
+      +default:
+    +}
+  +snack = orange
+  +if (workDay == Wed)
+  +Days workDay, vacationDay
+  +no quotes
+  +you put it as high up as possible
+  +asdf
+  +TITLELIINE
+--[Random Title]--
++
++
+
+	TIMESTAMPSTR:  [Tue Sep 22 12:14:55 2015]
+	#####Last Save: [Tue Sep 22 12:23:07 2015]#####
+
++
++
+--[Chapter 5: Looping]--
++
+[5.1]
++while loop
+  +Loop: part of program that may execute > 1 time, it
+   repeeats
+  +while loop
+    +while(condition)
+    +{statement(s);}
+  +the {} can be omitted if there is onluy one statement
+   in the body of the loop
++SUBTITLEl
+[5.2]
++
++While loop is a pretest loop
+  +first check if condition is met
++
++...
++...
++...
+[5.2]
++input validation with while loop
+  +prompt for and read in data
+  +use a while loop to test if data is valid
+  +enter the loop only ifdata is not valid
+  +inside the loop, display error message and prompt the
+   user to re-enter the daya
+  +the loop will not be exited until the user enters
+   valid data
+
+	Last Save: [Tue Sep 22 13:06:02 2015]
+
+ prompt user with question to continue
+ 
+ str = ""
+ str = ''
+ while (!(str == 'y'))
+ {
+ 
+   .....
+ 
++
++
++
++
++
++prefix mode
++x = ++ y
+  +y is incremented to to, then 2 is assigned to x
+  +x = --y
+  +y is decremented to 1, then 1 is assigned to x
++
++increment/decrement
++
+  +result = num1++ + --num2
++
++counters
+  +counter: variable that is incremented or decremented
+   each time a loop repeats
+  +can be used to control execution of the loop(loop
+   control variable)
+  +must be initialized before entering loop
+  +may be incremented/decremented either inside the loop
+   or in the loop test
++
++the do-while loop
+  +do-while: a post test loop(condition is evalueated
+   [after] the loop executes)
+  +format:
+ do
+ { 1 or more statements;
+ } while (condition);
+                    ^the semicolon is required after
+ the do
++
+ char choice;
+ do
+ {
+   	cout<<"y=yes, n=no: continue?";
+ 	cin>>choice;
+ } while (choice == 'y');
++
++toupper or tolower funciton
++for uppercase and lowercase
++toupper(choice) == 'Y');
++tolower(choice) == 'y')
+
+	TIMESTAMPSTR:  [Thu Sep 24 12:44:08 2015]
+	#####Last Save: [Thu Sep 24 12:44:32 2015]#####
+
++
+--[Chapter 5: Looping]--
++
+[For Loop]
++
+  +pretest loop that executes zero or more times
+  +good for counter-controlled loop
+  +
+  +format:
+  +for( initialization; test; update )
+  +{    1 or more statements;
+  +}
+  +initialization = counter
+  +test = condition
+  +update = increment or decrement of counter
+  +
+  +example: 
+    +for (count = 1; count <= 5; count++)
+    +{    cout<<"Hello"<<endl;
+    +}
+    +for initialization, can do int count=1
+  +
+  +can do:
+    +for (int sum = 0, num = 1; num<=10; num++)
+    +    sum += num;
+  +
++Keeping a running total
+  +running total: accumulated sum of numbers from each
+   repetition of loop
+  +accumulator: variable that holds running total
++
++Sentinels
+  +sentinel: a value in a list of values that indicaties
+   the end of the list
+  +example
+    +... while (points != -1) # -1 is the sentinel
++
++Which loops to use:
+  +while, pretest loop
+  +do-while, post test loop
+  +for, pretest loop
++
++
+[Nested Loops]
++
+  +a nested loop is a loop inside the body of another
+   loop
+  +example:
+    +for..row
+      +for..col
+  +
+  +if break is used, it will only break out of scope
++
++Continue Statement
+  +can use continue to go to end of loop and prepare for
+   next repetition
+    +while and do while loops go to the test and repeat
+     the loop if test condition is true
+    +for loop goes to update step, then tests, and
+     repeats loop if test condition is true
+  +use sparingly - like break, can make program logic
+   hard to follow
++
+ value for every month of year, create program that
+ tallies total number of days in each month. only use
+ two for statements
+ enum months{jan, feb, mar, apr, may, jun, jul, aug,
+ sep, oct, nov, dec};
+ //////
+ enum months{jan, feb, mar, apr, may, jun, jul, aug,
+ sep, oct, nov, dec}
+ months jan=31, feb=28, mar=31, apr=30, may=31, jun=30,
+ jul=30, oct=31, nov=30, dec=31;
+ ///
+ for (int month=1; month<13; month++)
+ {
+     for(int day=0.)
+
+	TIMESTAMPSTR:  [Tue Sep 29 12:19:07 2015]
+	#####Last Save: [Tue Sep 29 12:23:11 2015]#####
+
++hello
+
+	TIMESTAMPSTR:  [Tue Oct  6 12:27:14 2015]
+	#####Last Save: [Tue Oct  6 12:28:20 2015]#####
+
+ asdf
+ ;l
+  asdf
+--[Chapter 6: Functions]--
++Predefined Functions
++#################
++
++predefined: include
++programmer defined: function
++
++random numbers:
+  +v1 = rand() % 100; // 0-99
+  +v2 = rand() % 100 + 1; // 1-100
+  +v3 = rand() % 30 + 1985; // 1985-2014
+  +
+  +this is a psuedo random number generator
+  +cout<< rand() % 7+1 <<endl;
+  +6+1, not 7+1
+  +
++Top-Down Design
+  +predefined functionsj
+    +sqrt function
+      +the_root = sqrt(9,0);
+      +
+      +the_root will contain 3.0
+    +
+    +
+    +c++ comes with libraries of predefined functions
+  +
+  +function call suyntax
+    +function_name(argument_list)
+    +{}
+  +
+  +#include <cmath>
+  +<cstdlib>
+  +<ctime>
+  +random and time
+  +
+  +random number generator
+    +#include <cstdlib>
+    +#include <ctime>
+    +srand(time(0));
+    +
+    +rand();
+    +srand is seed
+    +you must seed the random number generator only once
+    +then you may call the function
+    +
+    +YOU ONLY SEE THE RANDOM NUMBER GENERATOR 1 TIME IN
+     YOUR CODE
+    +
+    +NEVER PUT THIS IN A LOOP
+    +
+    +RAND_MAX is already defined
+    +
+  +--->
+    +
+    +,,_
+  +random numbers
+    +2 dice
+      +(rand() % 10) + 11;
+      +0 to 9        + 11
+      +11 to 20
+    +
+    +15 <= x < 45
+      +(rand() % 30) + 15;
+      +0 - 29        + 15
+      +15 - 44
+    +
+    +guess between 1 and 100
+      +(rand() % 100) + 1;
+      +rand() generates 0 to rand_max, and % scales it
+       between 0 and whatever comes after the %.
+      +adding the + 1 after it shifts the entire range
++--->
+    +0 to 100
+      +(rand() % 101)
+
+	TIMESTAMPSTR:  [Thu Oct  8 12:32:36 2015]
+	#####Last Save: [Thu Oct  8 12:35:19 2015]#####
+
+--[Programmer Defined Functions]--
+  (rand() % 219) + 2
+  2 <= x <= 220
+  
+  1 <= x <= 93
+  (rand() % 93) + 1
+  
+  23 <= x <= 53
+  (rand() % 31) + 23
+  ////
+  23 < x < 53
+  (rand() % 29) + 24
+  
+CODEEXIT
+[adf]
+--[Programmer Defined Functions]--
++cin.get() will include whitespace
++
++iomanip header file allows formatting
++can do cin.get(ch) or ch = cin.get
++getline(cin, str)
++string str = "test";
++int size = str.length()
++
+--[Programmer Defined Functions]--
+  +Type_returned Function_name(paramter_list);
+  +//comment describing what function does
+  +
+  +
+  +for function definition
+    +type function(parameter)
+    +{code}
+  +for function declaration
+    +type function(parameter);
+    +//comment what function does
+    +notice how there is a semicolon on this one
+  +declaration
+    +underneath header file and namespace
+    +it is the 'what' of the program
+    +the type is what is returned
+  +Definition
+    +#include
+    +declarations
+    +int main()
+    +{}
+    +goes below int main function
+    +int sum(int num1, int num2)
+    +{}
+    +{int sum = num1 + num2;
+    + return sum;
+    +}
+    +,--
+    +can do
+      +int main()
+      +{
+CODEEXIT
+  int main()
+  {
+   int mysum, x=4, y=7;
+   mysum = sum(x, y);
+   return 0;
+   ,,_
+  }
+CODEEXIT
++--->
+  +function  call
+    +use inside of int main
+    +like in example above
+  +if it has semicolon, it is a declaration
+  +
+[type]
+  +all functions need a return statement, except the
+   void function
++Functions are a great way to clean up and simplify code
++when dealing with functions in declaration, you can do
+ (int, int) for parameters, it is still not recommended
+
+
+  #include <iostream>
+  #include <string>
+  using namespace std;
+  
+  string winner(char p1, char p2);
+  //determines the winner
+  
+  int main()
+  {
+    char p1, p2
+    cout<<"input p1 choice";
+  
+  }
+  
+  int winner(char p1, char p2)
+  {
+    int winner = 0
+    if (p1 == 'r' && p2 == 's' ||
+        p1 == 'p' && p2 == 'r' ||
+        p1 == 's' && p2 == 'p')
+      
+    return winner
+  }
+  
+  
+  
+
+	TIMESTAMPSTR:  [Tue Oct 13 12:24:39 2015]
+	#####Last Save: [Tue Oct 13 12:43:42 2015]#####
+
+--[Functioons]--
++void functions
++--->
+  +they return absolutely nothing
++
++
+[Call By References]
+  +A single & is a reference
+    +can do &first
+    +this display the actaul memory address of the
+     variable: first
+    +doing cout<<first outputs value
+    +doing cout<<&first outputs memory adress
+  +Call-by-value is not adequate when we need  sub-task
+   to obtain input values
+    +call-by-value means that the formal parameters
+     recieve the values of the arguments
+    +to obtain input values we need to  change the
+     variables that are arguments to the function
+  +elampble
+  +example*
+    +void get_input(double& f_variable)
+  +call-by-reference
+    +call by reference works almost as if the argument
+     variable is substituted for the formal parameter,
+     not the argument's value
+    +in reality, the meory location of the argument
+     variable is given to the formal parameter
+    +so if in a function, you use something like int&
+     num1, it will automatically change the acutal value
+     of that
+  void input(int& age)
+  {
+    cout<<"input age";
+    cin>>age;
+  }
++
+
+	TIMESTAMPSTR:  [Thu Oct 22 12:29:09 2015]
+	#####Last Save: [Thu Oct 22 12:29:20 2015]#####
+
+--[I/O Streams]--
+is input and output
+[File I/O Streams]
+  #include <fstream>
+    iostream is only for keyboard input/output
+  
+  for input/output
+    name the stream
+      like naming variable
+      ifstream variablename
+        ifstream is variable type
+    output
+    --.
+      ofstream 
+      out_stream
+    input
+      ifstream
+      in_stream
+      use to pull from a file
+    to open a file
+      in_stream.open("infile.dat");
+  example
+  int num1, num2;
+  in_stream>>num1>>num2;
+  ^ in_stream is just the variable that is set
+  inputting takes the variables from a file, and moves
+   it to the variables in in_stream
+  
+  
+  ofstream out_stream;
+  out_stream.open("outfile.dat");
+  
+  out_stream << "num1="<<num1<<"num2="<<num2;
+  outputting writes to the file itself
+  
+  outputting
+    if file does not exist, create a new file
+    this writes to a file, not append to it
+  closing a file
+    this disconnects the stream from te file
+    you would call
+      in_stream.close()
+      or whatever your variable is
+  objects
+    can have more than one file open at a time
+  calling a member function
+  for opening with paths
+    open(~/csci207/labs/lab7/file)
+    open(../lab7/file)
+  fail and exit
+    use immediately following the call to open, check
+     that the operation was successful:
+      instream.open("stuff.dat");
+      if( in_stream.fail())
+      {
+        cout<<"input file opening failed.\n";
+        exit(1);
+      }
+  The user has nothing to do with the file input/output
+  use ios::app
+    if file does not exist, it creates a new file
+    
+    outStream.open("important.txt", ios::app);
++ChBp
+  #include <fstream>
+  using namespace std;
+  
+  int main()
+  {
+    ifstream fin;
+     
+    ofstream fout;
+    
+    fin.open("hw/hw3/hw3.txt")
+    fin.close()
+    fout.open("hw/hw5/output.txt")
+    fout.close()
+    return 0;
+  }
+  
+  needs to also
+   #include <cstdlib>
+maniputaling input and output
+tream names as arguments
+stream+
+stream names as arguments
+  must be call-by-reference
+  example
+    void make_neat(ifstream& messy_file, ofstream&
+     neat_file)
+  cannot be by value, because it would be copied
+   otherwise, rather than the exact file
+in_stream>>variable
+  is boolean and writes to variable
+  example
+  while(in_stream>>next)
+  {
+  	sum = sum + next;
+  	count++;
+  }
+  
+  student grades
+
+	TIMESTAMPSTR:  [Thu Nov  5 13:02:38 2015]
+	#####Last Save: [Thu Nov  5 13:02:42 2015]#####
+
+--[ARRAYS]--
+[Parallel Arrays]
+  two or more arrays that contain related data
+  subscript is used to compare data
+    name[0, 1, 2] average[0, 1, 2] grade[0, 1, 2]
+    name[i], average[i]
+  
+  typedef
+  ---
+    creates alias for simple data type
+    format
+      typedef existingType newName
+    example
+      typedef unsigned int Uint;
+      Uint tests[ISIZE]; // array of unsigned ints
+2 dimensional arrays
+  int array[row][column]
+  assign value to array[2][3]
+  void getExams(int[][Num_Columns], int)
+    when using functions, the number of columns is
+     required
+
+	TIMESTAMPSTR:  [Tue Nov 10 12:43:27 2015]
+	#####Last Save: [Tue Nov 10 12:43:37 2015]#####
+
+Look up video rather than go to class on thursday
+check out VisualStudio
+--[String Class]--
+[c-strings]
+  char s[11];
+  null character
+    \0
+    this makes it a c-string, rather than an array of
+     characters
+  to declare a c-string
+    char my_message[20] = "Hi there.";
+      using this method, the compiler automatically
+       adds the null character
+    OR
+    char short_string[]="abc";
+      this also automatically adds the null character
+    A null character must be included in the character
+     array to declare it as a C-string
+  c-string error
+    cannot do char string[] = {'a','b','c'};
+  if the null character is overwritten, then it does
+   not act like a string anymore
+  initialization
+  --.
+    needs to be initialized as a c-string, not later
+  
+  assignment of cstring
+    #include <cstring>
+    
+    ...
+    char a_string[11];
+    strcpy(a_string, "Hello");
+    
+    solution for out of index strcpy
+      char another_string[10];
+      strncpy(another_string, a_string_variable, 9);
+      
+      this copies up to 9 characters into another
+       string
+      <
+      
+  alternative
+    #include <cstring>
+    
+    strcmp
+    --
+      compares 2 C-strings
+      returns 0 if they are equal
+      <00
+    length
+    --
+      int x = strlen(a_string);
+    strcat concatenates the 2 strings
+      char str_var[20] = "the rain";
+      strcat(str_var, "in spain";
+      <
+    can do strncat
+  CANNOT add a null character to an existing character
+   array
+  arguments
+    c-strings are still arrays
+  
+  c-string input
+    reading an entire line
+      getline
+        getline has 2 arguments
+          string, length
+      char a[80];
+      cout<<"enter input: \n";
+      cin.getline(a, 80);
+      cout<<a<<"end of output";
+      ---------
+      ,--
+    one character must be reserved for the null
+     character
+  getline and files
+    in_stream>>c_string;
+      cuts off at whitespace
+    in_stream.etline(c_string, 80);
+    
+    outputting
+      out_stream<<c_string;
+  can convert numeric strings to number values
+  
+    a to i
+    atoi("1234") returns integer 1234
+    atof("9.99") returns float   9.99
+    these are in cstdlib
+    --.
+      atoi
+      atol
+      atof
+
+	TIMESTAMPSTR:  [Tue Dec  1 12:25:46 2015]
+	#####Last Save: [Tue Dec  1 12:25:53 2015]#####
+

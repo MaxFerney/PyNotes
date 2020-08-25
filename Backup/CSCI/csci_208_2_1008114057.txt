@@ -1,0 +1,595 @@
+
+===========================================================
+	[FILE: csci_208_2.txt]
+	[DATE CREATED: Tue Aug 21 12:32:16 2018]
+	[Title:  ]
+
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	TIMESTAMPSTR:  Mon Aug 27 10:54:54 2018 
+	Last Save:     Mon Aug 27 10:56:55 2018 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+--[The software process]--
+   [Software Engineering]
+      a disciplined approach to the design production,
+        and maintenance of computer programs
+      [Software Life Cycle]
+         Problem analysis
+         requirements elicitation
+         High- and low-level design
+         implementation of the design
+         testing and verification
+         Delivery
+         Operation
+         Maintenance
+   [Programmer Toolboxes]
+      Hardware: computers and other devices
+      software...
+   [Algorithm]
+      logical sequcence of descrete steps
+   [Goals of Quality Software]
+      it works
+      it can be modified without excessive time and
+        effort
+      it is reusable
+      it is completed on time and within budget
+   [Quality Software Works]
+      requirements: describe the service it proides
+      specification: written document that tells what a
+        program does, but not how
+      it must do everything explained in the
+        specification
+   [Quality software can be modified]
+      changes may occur during the design, coding, and
+        testing phases
+      bug fixes and small changes are made during the
+        maintenance phase
+      easily modified programs are readable, well
+        documented, aand easily understood by other
+        humans
+   [Quality software is reusable]
+      spend extra effort to make components more
+        general now in order to save time later
+      using code that is already designed implemeted ,
+        and tested allows programmers to focus on the
+        rest of the program
+      this does not require extra effort during
+        specification and design phases
+   [sOFTWARE sPECIFICATIONS]
+      The specification describes what servicees a
+        program should provide based on the users'
+        requirements
+      scenario: sequence of events describing one
+        complete execution of the program
+      usefull questions:
+         what is the expected input and output
+         how will errors be handled
+         how will the program be used
+   [Program Design]
+      a program's specification describes what a
+        program does, not how it does it
+      disign phase: evaluating how a program will
+        accomplish its specified task
+   [Abstraction]
+      A model of a complex system that includes only
+        the essential details
+      programs are abstractions
+      simplify work by hiding complex details
+   [Information Hiding]
+      the practice of hiding the details of a module
+        with the goal of controlling access to the
+        details of a module
+      Module: a cohesive system subuinit that performs
+        some share of the work
+      Iformation hiding allows programmers to focus on
+        one module at a time
+      each module should serve a single purpose
+   [Stepwise Refinement]
+      approaching a problem in stages, step by step
+      Top down
+         break problem into pieces, ddeferring details
+           as long as possible
+      bottom up
+         focus on details first and build up to the
+           high level components
+      fuctional decomposition
+         approach a program as a set of cooperating
+           functions
+      round trip gestalt
+         top down with emphasis on objects and data
+   [Visual tools]
+      abstraction, information hiding, and stepwise
+        refinement help manage complexity
+   [Design approaches]
+      [Top Down Design]
+   [Object Oriented design]
+      divide and conquer, but break down the program
+        into things instead of tasks
+      the design consists of objects, which are defined
+        by classes
+   [Verification of software correctness]
+      testing: executing a program with input designed
+        to find errors
+      debugging: investigation and removing known erros
+        from a program
+      Acceptance test: testing in a real environment
+        with real data
+      Regression test: testing athat a program is still
+        correct after being modified
+   [Verification and validation]
+      is testing enough?
+      Verification: checking that a program fulfills
+        its specification
+         are we doing the job right?
+      validation: checking that the program fulfills
+        its intended purpose
+         are we doing the right job?
+   [Run Time Errors]
+      Robustness: theability of a program to recover
+        from an error
+      run time erros can often be found with sufficient
+        testing
+      errors should be hangled gracefully instead of
+        allowing the program to crash
+   [Preconditions and postconditions]
+   precondition : condition that must be true before an
+     operation is executed
+   postcondition: a condition that will be true after
+     an operation is executed
+
+   Design First, Program Second
+   ^^^^^^        ^^^^^^^
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	TIMESTAMPSTR:  Wed Aug 29 10:59:56 2018 
+	Last Save:     Wed Aug 29 11:00:05 2018 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+
+--[Diffferent Views of Data]--
+   Data abstractions
+      separate our logical view of data from the
+        computer's implementation view
+   Data are the nouns of the programming world
+   [Data Abstraction]
+      logical view
+         what are the possible values
+         what are the operations on this data
+      implementation view
+         how is the data used
+         how is it stored in memory
+         how can it be implemented in c++
+   [Data Encapsulation]
+      Encapsulation separates the representation of
+        data from applications that use the data at the
+        logical level
+      the physical representation is hidden behind an
+        interface for interacting with the data
+      abstract data types
+   [Data Structures]
+      collection of data elements with operations that
+        store and manipulate individual elements
+         can be decomposed into individual elements
+         the arrangement of elements in the structure
+           is significant
+         arrangement and access of elemments can be
+           encapsulated
+      used to implement ADT's
+         Abstract Data Types
+   [Example: Library as an ADT]
+      library's data elements are the books
+      adt interfact: users can check books in or out,
+        reserve books, pay fines
+      data sstructure: can order books randomly,
+        alphabetically by title, or use the dewey decimal
+        system
+      users dont need to know how the library organizes
+        the books
+   [Data from different levels]
+      Application (user) level
+      Logical (abstract) level
+      Implemenation (programming) level
+      [Data levels of a library]
+         application level: library building itself
+         logical level: books
+         implementation: how to represent books and
+           make operations work for the books
+   [ADT Operator categories]
+      constructors: create new objects of an adt
+      transformers: change internal state of the object
+      observers: view state of the object
+      iterators: for the sequential processing of
+        elements
+   [Composite Data type]
+      stores a collection of indivudual data
+        componenets under one name and allows access to
+        indivudual components
+      two forms
+         unstructured: not organized wwith respect to
+           eachother (classes)
+         Structured: organized and affects how they are
+           accessed (arrays)
+   [Structs]
+      also known as records
+      struct: finite collection of elements that are
+        called members or fields
+      can be members are accessed using named selectors
+        such as mystruct.fieldname
+         can also be used to assign values to fields
+  
+  struct weather
+  {
+      string month;
+      int temp;
+  }
+  weather myweather;
+  weather newtemps;
+  myweather.month = "january";
+  myweather.temp = 55;
+
+
+
+   Struct Example
+
+
+  struct person
+  {
+      string first_name;
+      string last_name;
+      int ssn;
+      double height;
+      double weight;
+      char gender;
+  }
+  person student1;
+  student1.first_name = "john";
+  student1.last_name = "doe";
+  student1.ssn = 123456789;
+  student1.height = 68;
+  student1.weight = 150;
+  student1.gender = 'm';
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	TIMESTAMPSTR:  Wed Sep  5 10:58:16 2018 
+	Last Save:     Wed Sep  5 11:13:11 2018 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+--[Classes]--
+[3 types of files]
+   Specification (header)
+   Implementation
+   Client
+
+   Structs are always public
+   Classes are not so simple
+
+   [Class]
+      Data
+      Operations
+
+      Classes are Private. This means that the data
+        cannot be directly accessed. can only
+        manipulate the data in a class is directly in
+        the class or using a function
+   Class Student
+      Data
+         ID (int)
+         first, last(string)
+         class, gender (char)
+      Functions
+         getID
+         changeID
+         getFirst
+         changeFirst
+         ...
+         ...
+         changeGender
+      Must have a Public: and a Private:
+   all of the above is meant for the speifications file
+   should be called student.h
+
+   implementation file should include the code of the
+     functions.
+
+   [Implementation File]
+      Student.cpp
+
+      int class::function(parameters)
+      {
+      }
+      #include "student.h" at the top of the file
+      #include <iostream>
+      #include <string>
+      using namespace std;
+      //all of these should be at the top of the file
+        above the int class
+
+      int student::getID()
+      {
+         return ID;
+      }
+      void student::changeID(int value)
+      {
+         ID = value;
+      }
+   [Client File]
+      #include <iostream>
+      #include "Student.h"
+      using namespace std;
+
+      int main
+      {
+         Student newStudent;
+         newStudent.changeID(5423);
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	TIMESTAMPSTR:  Mon Sep 10 11:15:37 2018 
+	Last Save:     Mon Sep 10 11:15:39 2018 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+--[Inheritance]--
+   [Class initialization]
+      .h
+      public:
+         void initialize (int num, name1,name2,rank);
+         //description of function
+  .cpp file
+      void Student::initialize(int num, string
+      name1, string name2, char rank){
+          ID = num1;
+          first = name1;
+          last = name2;
+          class = rank;
+          };
+   [Inheritance]
+      Vehicle
+         Boat
+         Wheeled Vehicle
+            Car
+               Sedan
+               2-door
+            Bicycle
+      the more indented ones are child classes, the
+        ones above them are parent classes
+
+   parent class: exchange
+   child class:  student
+   class Exchange:public student
+   {
+      public: void initialie (int num, string name1,
+        string name2, char rank, string univ, string
+        origin)
+      //passing in ID, first, last class, school,
+        country
+   Parent class: student
+   Child class: exchange
+   class <child> : public <parent>
+   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   void exchange: initialize (int num.... other 5 vars)
+   {
+      student::initialize(num,name1,name2,rank);
+      country = origin;
+      school = univ;
+   }
+   [Try-Catch Error block]
+      try{
+         //code that could make an error
+         throw string("an error has occured")
+      catch(
+         //exeution continues here
+         cout<<message<<endl;
+         return 1;
+      }
+      catch(string message)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	TIMESTAMPSTR:  Wed Sep 12 11:20:48 2018 
+	Last Save:     Wed Sep 12 11:20:51 2018 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+
+[Namespaces]
+   prevents repeaded names from clashing by scoping
+     the identifiers
+   [Accessinginng identifiers]
+      scope resolution operator "::"
+         MyNames::GetData()
+      using declarations
+         using MyNames::GetData
+            this means instead of using
+              MyNames::getData(), you can use just
+              getData()
+   [Rules for namespace std]
+      qualify for identifier in heading of function
+   Algorithms
+      comparing execution time
+      varies greatly between different computers
+      campare number of instructions: varies greatly
+        due to different languages, compilers,
+        programminng styles...
+      big-o notation
+         notation refering to number of steps
+      Common orders of magnitude
+         o(1)
+         o(log2n)
+         o(n)
+         o(nlog2n)
+         o(n^2)
+         o(n^3)
+         o(2^n)
+         biggest magnitude dominate
+
+
+
+--[Lists]--
+   add items
+   delete items
+   change items
+   view items
+   size (know how big it is)
+   instead of view... find an item
+   getItems off the list
+   -----
+   putItem
+   deleteItem
+   findItem
+   getItem
+   resetItem
+      start over from the beginning
+   makeEmpty
+   isFull
+   isEmpty
+   class constructors
+      essentially and initialize function
+
+   Constructors
+      class constructor
+   observers
+      isFull,isEmpty,findItem
+   iterators
+      resetList,getnextItem
+   transformers
+      putItem,deleteItem,makeEmpty
+   unsortedLists
+   [Unsorted Lists]
+      private variables:
+         items
+         length
+         currentpos
+      public variables:
+         putItem(location)
+         deleteItem(location)
+         findItem(location)
+         isFull() -> bool
+         lisEmpty() -> bool
+         resetList() -> transformer
+            this puts length at -1
+            reason for this:
+               getNextItem() should be next called
+                 funciton
+         getNextItem() -> gets next item
+         deleteItem(location)
+            if item is in last location, reduce length
+              by one
+            if not
+               BECAUSE IT IS UNSORTED
+                  swap item with last item in array,
+                    then decrement length by one
+                Swapping items because unsorted list             list[temp_loc] = info[length-1]
+            ^^^^^^^^S W A P^^^^^^^^^^^^^^^^
+         makeEmpty
+            set length to first item
+               which should be 0
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	TIMESTAMPSTR:  Mon Sep 24 11:20:13 2018 
+	Last Save:     Mon Sep 24 11:20:16 2018 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+
+
+--[Pointers]--
+   Sole Purpose of a pointer is to store the memory
+     address of a variable of that corresponding type
+   int* ptr_int
+      this creates a pointer called ptr_int
+      because this is an int, it can ONLY point to
+        another integer
+   ptr_int = &num
+   ptr_int = num
+      this should not make an error, but you should
+        NEVER save a variable to a pointer
+   cout<<*ptr_int
+      this dereferences the pointer, therefore it will
+        return the value stored in the memory address of
+        ptr=int
+
+  int* ptr_int; //add 1050
+  float* flt_ptr; //add 2000
+
+  ptr_int = new int;
+  flt_ptr = new float;
+
+  *ptr_int = 100
+  *flt_ptr = 40.2
+  //ptr int is now saved at new int (1010)
+  //flt_ptr is now saved at new float (2042)
+   delete ptr_int;
+   this does NOT delete what is in the pointer, it
+     deletes the memory address of the pointer
+   ptr_int = new int;
+
+   <><> For every pointer created, you must delete it <><>   for every new [ptr] called, you must call a delete
+     function that de-allocates the memory
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	TIMESTAMPSTR:  Wed Oct  3 10:55:38 2018 
+	Last Save:     Wed Oct  3 10:55:41 2018 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	TIMESTAMPSTR:  Mon Oct  8 11:07:18 2018 
+	Last Save:     Mon Oct  8 11:07:20 2018 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+--[Unsorted Linked List]--
+   int* variable
+   variable=new int
+
+   must haves:
+      itemtype
+      current position
+      length
+      info
+
+   [Struct]
+      holds item type, info, and link
+
+  struct NodeType
+  {
+      ItemType item;
+      NodeType* next;
+  };
+      The NodeType next variable is a pointer that
+        points to the next item
+   [Unsorted Class]
+      Length
+      current pos
+      NodeType (struct}
+      struct NodeType; //forward declaration
+      class Unsorted
+      {
+         private:
+            .
+            .
+         public:
+            .
+            .
+      };
+
+      [Functions]
+         [Insert]
+            1) Empty
+               listptr = 0
+            2) First Item
+               temp pointer
+                  used to create dyn all. node
+               list pointer points to next node
+
+               syntax
+                  temp->item=2;
+                  temp->next=listptr->next

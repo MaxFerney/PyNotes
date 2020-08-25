@@ -1,0 +1,112 @@
+
+===========================================================
+	[FILE: Math Notes.txt]
+	[DATE CREATED: Thu May 26 10:34:04 2016]
+	[Title: summer school]
+
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	TIMESTAMPSTR:  Thu May 26 10:38:24 2016 
+	Last Save:     Thu May 26 10:38:53 2016 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+--[1.5: Graphs of Functions]--
+   example 8
+      a) (-inf, inf)
+
+   zero = x-intercept
+   zero = 0
+
+   ex. 16
+      f(x) = 3x^2 + 22x - 16
+      0 = 3x^2 + 22x - 16
+      0 = (3x-2)(x+8)
+      x=2/3 or x = -8
+
+   ex. 18
+      f(x) = x^2 - 9x + 14
+                  4x
+      ----------
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	TIMESTAMPSTR:  Tue May 31 11:07:06 2016 
+	Last Save:     Tue May 31 11:07:10 2016 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+even functions
+   symmetry about y-axis
+   if is even when, for each x in the domain of
+     f,f(-x)=f(x)
+   if f(x) == f(-x), its even
+   if the function is opposite, then it is odd
+--[1.6]--
+[A Library of Parent Functions]
+   constant
+      y=4
+   identity
+      y=x
+   squaring
+      y=x^2
+      parabola
+   cubing
+      y=x^3
+      symmetrical x
+   squar root
+      y=sqrt(x)
+   reciprocal
+      y=1/x
+   absolute value
+      y=|x|
+      looks like a parabola, but a v shape instead of a
+        u shape
+   step functions
+   ...
+      they look like steps
+      step function symbol is [[]]
+         ie: [[-2]]
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	TIMESTAMPSTR:  Wed Jun  1 11:21:11 2016 
+	Last Save:     Wed Jun  1 11:21:14 2016 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+--[transformations of functions]--
+[1.7]
+   vertical stretching and shrinking
+   stretching
+      2x^2
+   shrinking
+      1/2 x^2
+   moving functions along x and y axis
+
+
+
+--[1.8: combinations of functions, composite functions]--   (f+g)(x) = f(x) + g(x)
+   (f-g)(x) = f(x) - g(x)
+   (fg)(x)  = [f(x)g(x)]
+   (f/g)(x) = f(x)/g(x)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	TIMESTAMPSTR:  Thu Jun  2 11:21:23 2016 
+	Last Save:     Thu Jun  2 11:21:26 2016 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+--[1.9: inverse functions]--
+   let f and g be to functions such that :
+      f(g(x)) = x for every x in the domain of g
+      and
+      g(f(x)) for every domain of f.
+
+      under these condtions, the function of g is the
+        inverse function of the f.
+      the function g is denoted by f^-1 (read
+        "f-inverse")
+         so f(f-1(x)) = x and f-1(f(x)) = x
+         the domain of f must be equal to the range of
+           f-inverse, and the range of f must be equal to
+           the domain of f-inverse

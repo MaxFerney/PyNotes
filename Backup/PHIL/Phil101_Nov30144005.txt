@@ -1,0 +1,1381 @@
+
+===========================================================
+	[FILE: Phil101.txt]
+	[DATE CREATED: Mon Aug 15 14:23:21 2016]
+	[Title: Philosophy 101]
+
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	TIMESTAMPSTR:  Wed Aug 24 09:28:06 2016 
+	Last Save:     Wed Aug 24 13:54:46 2016 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+--[Philosophy]--
+   Divisions of Philosophy
+      What is it? Metaphysics (ontology)
+         What is the self
+         What is divinity
+         Does divinity eist
+         what is a mind
+         are we free?
+         ^^examples of metaphysics
+      How do I know? Epistemology (theory of knowledge)
+         What are the sources of my knowledge
+         What method do I need to use to acquire
+           knowledge
+         What, if any, are the limits of my knowing
+      What is it worth? Axiology (value theory)
+         Ethics:
+            -What is a good life?
+            -How should I live?
+            -What criteria should we use to establish
+              our norms
+         Aesthetics
+            -Are therre standards of judgement in taste?
+            -How would we justivfy them?
+      What are the laws of reason? Logic
+         What makes an argument valid
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	TIMESTAMPSTR:  Wed Aug 31 13:52:23 2016 
+	Last Save:     Wed Aug 31 13:52:26 2016 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+--[What is Philosophy]--
+   (means love of wisdom)
+
+   The Goals of Philosophy
+      Truth
+         The account (logos) of everything
+            Theoretical (a third-person or neutral
+              account)
+      Goodness
+            Practical (a first-person account of how to
+              live well)
+
+   Three Questions
+      Metaphysics: What is it?
+         alfred north whitehead
+            starts from ground: particular obsrvation
+            flight: imaginative generalization
+            lands for renewed obervation  by rational
+              interpretation
+
+            use generalization for better understanding
+              of observations
+
+      Epistemology: How do I know?
+         Walter Kaufmann:
+            "the intensity of great philosophy and
+              poetry is abnormal and subversive: it is
+              the enemy of habit, custom, and all
+              stereotypes. The motto is always that what
+              is well known is not well known at all
+              well."
+               to challenge what is known
+               what is so commonly known may be
+                 questioned as it is usually generally
+                 accepted rather that questioned
+         Denis Diderot:
+            "The first step toward truth is doubt."
+               known for accumulatint all knowledge
+                 into an encyclopedia...
+         William Halverson:
+            "Philosophy is man's quest for the unity of
+              knowledge: it consists in a perpetual
+              struggle to create the concepts in which
+              the universe can be concieved as a universe
+              and not a multiverse."
+               description of reality: different fields
+                 may describe it in different ways of the
+                 same reality.
+               Halverson says quest is to unify these
+                 descriptions.
+      Value Theory: What is it worth?
+         Plato:
+            "And is not philosophy the practice for
+              death?"
+               philosophy is "preparing the soul" for
+                 death
+                  belief that knowledge is kept with
+                    soul after death.
+         Marx:
+            "The Philosophers have only interpreted the
+              world, in various ways. The point, however,
+              is to change it."
+               saying that goal of philosophy is to try
+                 to find the good.
+
+
+   Empiricism and Rationalism
+      Empiricism:
+         using senses. actuality
+         means to experience
+      Rationalism:
+         logic and thought
+         Reason
+
+      university of paris
+         challenged aristotle's theory of motion
+         new observations showed the aristotle could be
+           wrong
+         (1300's)
+      Descartes: think about observing the sun or a
+        tower in the distance
+         what contribution does reason make? whyy must
+           it do so?
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	TIMESTAMPSTR:  Wed Sep  7 14:02:33 2016 
+	Last Save:     Wed Sep  7 14:02:35 2016 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+--[Truth and Logic]--
+   Truth Value Analysis
+      Determines if the information in the premises is
+        accurate, correct, or true (is it a true or false
+        statement?)
+         -"is it raining"
+   Logical Analysis
+      Determines the strength with which the premises
+        support the conclusiion (is it a valid or invalid
+        argument?)
+         -Premises:
+            a)it is raining
+            b)when it rains, games are postponed
+         -Conclusion
+            -Therefore, the game is postponed
+
+
+   Deductive and Inductive Arguments
+      Deductive argument
+         ONe in which it is claimed that:
+            -The conclusion follows necessarily from the
+              premises
+            -True premises make it impossible for the
+              conclusion to be false
+      Inductive argument
+         one in which it is claimed that:
+            -The premises make the conclusion probable
+            -True premises make it improbalbe for the
+              conclusion to be false
+      Key words/pphrases
+         Deductive:
+            necesarily, certainty, definitely
+         Inductive:
+            Probably, likely, unlikely, plausible
+      Strength of argument
+         Deductive:
+            conclusion necessarily true
+         iinductive:
+            conclusion only probably true
+      Types of arguments
+         deductive:
+            mathematics, geometry, definitions
+         inductive:
+            legal, moral, statistical, scientific
+
+
+      Deductive reasoning begins with premises and
+        shows that conclusion must follow.
+         the inference is "timeless" or always the case
+         the premise does not require experience
+            -a priori
+               knowing things without prior experience
+   Inductive reasoning begins with examples from
+     experience and draws conclusions about what further
+     experience will probably yield.
+            A posteriori
+         it makes a generalization from the past to
+           predict the future.
+            -a)a1 is b
+            -b)a2 is b
+            -c)a3 is b
+            -therefore, all a's are probably b.
+
+
+
+      Deductive reasoning
+         Socrates is a man.
+         all men are mortal
+         therefore socrates is mortal
+
+         S is M.
+         All M are P.
+         Therefore, S is P is valid
+         invalid:
+            s is m
+            all d are m
+            therefore, s is d.
+            INVALID
+
+
+
+   Two Valid Conditional Arguments
+      Modus Ponens
+      (affirming the antecedent)
+         -if P, then Q.
+         -P.
+         -therefore, Q.
+      Modus Tollens
+      (denying the antecendent)
+         -if P, then Q.
+         -not Q.
+         -therefore, P is not Q
+   Valid Deductions?
+      denying the antecedent
+         if p,then q
+         not p
+         therefore, not q
+      affirming the consequent
+         if p,then q
+         q
+         therefore, p
+
+      valid.. invalid..
+
+   Necessary and Sufficient Conditions
+      Sufficient condition
+         -That which is enough for something to be the
+           case; when the truth of the antecedent
+           guarantees the truth of the consequent
+      Necessary condition:
+         -That which is >Required or mandatory< for
+           something to be the case; the falsity of the
+           consequence ensures the falsity of the
+           antecedent
+
+   Reductio ad absurdum
+      if you are asked to show p is true, you could
+        show it by way of a reductio ad absurdum
+         -start by assuming P is not true.
+         -then show that assumption leads to an absurd
+           conclusion (i.e., one that contradicts the
+           assumption).
+         -then conclude the original assumption (P is
+           not true) was false
+         -so p is true after all
+
+   Abductive reasoning
+      reasoning from the bresent backwards to what best
+        explains the present.
+      also, a posteriori
+      abductive is also probative
+
+
+   Logical Fallacies
+      Ad hominem
+      argument from authority
+      arguing in a circle
+         begging the question
+      argument from ignorance
+      false dilemma
+      slippery slope
+      straw man argument (rad herring)
+      genetic fallacy
+      inconsistency
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	TIMESTAMPSTR:  Wed Sep 21 13:50:34 2016 
+	Last Save:     Wed Sep 21 13:50:37 2016 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+--[The Self]--
+   [[ Locke ]]
+      Substance and Properties
+      Substance
+         My Dog
+      Properties
+         brown and white, getting old, losing hearing
+
+      Substance
+         in general, bearer of the properties, that
+           which has the properties
+      Properties
+         the properties are what we can know about a
+           substance; Lock is an >Empiricist<. Properties
+           are our access to knowing what something (its
+           substance) is.
+
+
+      Human Being
+         the kind of substance that bears or has the
+           broperties of a human being
+         [Properties]
+            Biological attributes of Homo Sapiens
+              (physical description)
+      Person
+         the kind of substance that bears or has the
+           properties of a person
+         [Properties]
+            Intelligence, Reason, Reflection
+            Self-consciousness
+
+         Substance (the 'what' someone is)
+         the same over time?
+         [Properties]
+            Changing experiences
+            Judging by my experiences-the properties to
+              which I have access, I might say no.
+            But as an intelligent being, I have MEMORY. Note
+              that I am able to access my memory be being SELF-
+              CONSCIOUS
+            Memory (through self-consciousness) ties my changing
+              experiences together; it is the thread that unites
+              my different experiences to one substance-which is
+              my >self<.
+      Tabula rasa
+
+      Ambiguity of "self-consciousness"
+         In self-consciousness,
+            -Am I conscious of my self (the substance)?
+            -or of the properties of my self (my experiences-both
+              present and remembered)?
+            -it seems like a strong answer to say the former-my
+              self,
+            -but a strict empiricist might say we only have
+              access to the properties which whatever is being
+              presented in the "theater" of the mind.
+
+
+   [[ Hume ]]
+      The strict empiricist
+      his motto:
+         -"no impression, no idea"
+      in other words, our ideas are emptyy  or
+        imaginary unless they are based on actual
+        experiences or impressions from the senses.
+      be careful in assuming that our ideas name real
+        things.
+         (think of obvious mistakes like attributing a
+           cause when there was only coincidence: since I
+           wore this hat my favorite team won, therefore
+           wearing the hat made the team win. Hume's rule
+           says: dont believe in something unless you
+           really experienced it-in this case, the >real
+           connection< between the events involved.)
+      We have the habit of grouping our impressions to
+        form our ideas. the grouping techniques are:
+
+         -resemblance
+         -Contiguity
+         -Cause and effect
+      This habit leads us to believe in the identity
+        over time of various substances.
+         -E.g., that is the same chair that was here
+           yesterday
+         -strictly speaking, I can only say,, the
+           impressions I have today >resemble< the
+           impressions I had yesterday.
+         -i cannot see (or sense) its underlying
+           substance, only its changing properties.
+
+
+      What about the self?
+         -Be an empiricist and think about your
+           experience: notice the multitude of fleeting
+           impressions.
+            -"I never catch myself at any time without a
+              perception, and never obseve any thing but
+              the perception."
+   [[ Kant ]]
+      concepts without sensations are empty;
+         reading a tour guide
+      Sensations without concepts are blind.
+         traveling with no background knowledge.
+      (first rationalist, second empiricist
+      rationalist
+         critique of rationalists' ideas:
+            productis of the imagination that need to
+              apply to some object of experience in order
+              for them to have meaning
+         the self as a substance-is it just imaginary?
+      empiricist
+         .... refer to powerpoint
+
+      Hume is right (about one thing)
+         our ideas do not (and cannot) apply to any
+           object of experience are "empty." That is, we
+           can think about them, but we cannot say we
+           know what they are (or what thy correspond to
+           in reality , if anything).
+            ie. round square
+      For example, the totality of the universe (all
+        space and all time).
+      we can think this idea, but we can never know it(
+        have cognition of it.
+      it is a useful idea for organizing our experience
+        of finie things, but it is beyond our cognitive
+        capacity to know
+      .. powerpoint
+
+      However, we can't be strict empiricists:
+         When we focus on our sensations (as
+           empiricists encourage), we will notice that
+           some mental contributions were necessary or
+           required.
+         its like watching a movie then noticing the
+           set, the lighting, the sound, the
+           choreography, etc.
+         the "background" that gives an appearance
+         these background requirements are the a priori
+           contributions of the mind.
+         ==?
+         a priori=beforehand and necessary
+         try to imagine space with nothing in it.
+         try to imagine an object (eg, a table) that is
+           not in space.
+         if you cant do the latter, it shows us that
+           the idea of space (or form of space) is
+           required to be having sense experience of
+           objects in the theater
+            if you imagine a table, the would the table
+              be in empty space (the mind)
+         transcendental philosophy looks for these
+           necessary features that make experience
+           possible. and strict empiricism will not find
+           them
+      what about the self?
+         notice that your experiences are >unified<:
+            sights go together with sounds.
+            all of them belong to me
+            manifold experience.
+            no matter what else they are, they are
+              always experienced-by-me.
+            the "I think" must accompany all my
+              representations.
+            thus a notion of the "self" in this sense
+              is required even to be a strict empiricist
+                   _________________
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	TIMESTAMPSTR:  Wed Oct  5 14:24:51 2016 
+	Last Save:     Wed Oct  5 14:30:30 2016 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+--[Ontological and Cosmological Arguments]--
+[Anselm and Aquinas]
+
+   a posteriori: based on premises derived from
+     experience
+      ontological
+   a priori: based on premises independent of
+     experience
+      learning, pythaorean theorem
+      synthetic a priori
+      ontological
+   (a posteriori is cosmological)
+   Induction
+      a posteriori
+      reasoning that preicts the future based on past
+        experience
+   abduction
+      a posteriori
+      reasoning to the best explanation of the present
+   dedction
+      a priori
+      reasoning that presurves truth, makes premises..
+
+   >> ONtological argument <<
+      ontos [greek] = "being"
+      claims to be an a priori deductive proof of god's
+        existence
+      raises philosophical problems:
+         is existence a property
+         what is the ontological status of a possible
+           but non=existent being?
+            ie: the reality of an intensional concept
+              withno members in its extension
+      reductio ad absurdum argument
+         to prove p, assume not p.
+         show that not p leads to a contradiction
+         conclude p
+      anselm's argement
+         to prove god, assume not god
+         show that god does not exist leads to
+           contradiction
+         conclude existence of god
+
+      St. Anselm (1033-1109)
+      ^^^^^^^^^^
+         define god as "that than which nothing greater
+           can be conceived"
+            that is, te Greatest Concieved Being (GCB)
+      Proof
+         1)Suppose that the reatest concievable being
+           (gcb) exists in the mind alone (and not in
+           reality)
+         2)Existence in reality is greater than existence
+           in the mind alone
+         3)We can concieve of this GCB existing in
+           realiity as well as in the mind
+         4)Therefore, we can concieve of a being that is
+           greater than the GCB. (From 1,2, and 3)
+              -that is saying greater than the greatest.
+         5)But this is impossible for it is a
+           contradiction.
+         6)therefore, it is false that a gcb exists in
+           the mind alone and not in realit. so a gcb
+           must exist in reality as well as in the mind.
+           this being is, by definition, god.
+         7)ORDERED END
+
+      Gaunilo's Objection:
+         The same argument could show that the most
+           perfect island must exist.
+            that seems suspicious...
+         what does the "greatest" mean?
+            if "greatest" refers to a measurable
+              quantity (such as "the highest mountain"
+              then it is an empty concept
+      anselm's reply
+         true, but od's greatness is not measurable in
+           this way
+            god's goodness is not quantifiable in this
+              sense
+
+      Immanuel kant's (1781) objection:
+         being or existence is not a property like
+           "blue" or "heavy"
+         we are asked to compare two items in anselm's
+           proof:
+            1. the gcb that exists in the mind but not
+              reality
+            2. the gcb that esists in the mind and in
+              reality
+            but what is that first one? is it a
+              possible but non-existing being.
+               it exists, yet does not exist
+               this sounds like a paradox
+            also, what about the second one? we are
+              forced to suppose that god exists in
+              reality in order  to evaluate this
+              comparison, but that is Circular Reasoning
+                            ^^^^^^^^^^^^^^^^^^
+cosmological is on powerpoint..
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	TIMESTAMPSTR:  Wed Oct 12 14:06:11 2016 
+	Last Save:     Wed Oct 12 14:06:13 2016 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+
+--[Problem of Evil]--
+[Unit 6]
+   JL Mackie and the logical problem of evil
+      mackies thesis
+      ...
+      argument
+         1) God Exists
+         2) if god exists, then god is omnipotent
+         3) if something is omnipotent, it can do
+           anything
+         4) if god exists, then god can do anything (2,
+           3)
+
+         5) if god exists, then god is wholly good.
+         6) if something is wholly good, it always
+           eliminates as much evil as it can
+         7) if god exists, then god eliminates as much
+           evil as god can (5,6)
+         8) if god exists, then god eliminates all evil
+           (4,7)
+         9) if god exists, then there is no evil (8)
+         10) there is no evil (1, 9)
+         11) Some evil exists
+         Contradiction: There is evil and there is no
+           evil (10,11)
+
+
+      Logical Problem of Evil
+         Discussionn of the argument:
+         1) god exists and is omnipotent and wholly
+           good
+         2) evil exists
+         is there a third statement that is necessarily
+           true to amake (1) and (2) explicitly
+           contradictory?
+         8) god will prevent all evil
+         necessarily true?
+            no, what if the evil is required to bring
+              about a greater or outweighing good?
+         8a) god will prevent the occurrence of any
+           evil that is not required to bring about a
+           greater good.
+         necessarily true?
+         --?
+            perhaps, but are 1 and 2 now contradictory
+              using 8a? no
+
+         Defense
+         ^^^^^^^
+            shows that propositions could be
+              consistent, ie, that there is a way that
+              they might go together though we cannot say
+              for sure that they do.
+         theodicy:
+         ^^^^^^^^
+         --?
+         -_>
+            shows they are consistent for such and such
+              reasons, ie, in effect purports to know
+              god's reasons.
+         summary: if a good and all powerful god might
+           have to permit some evils to produce
+           outweighing goods that mackie had failed to
+           leave out in trying to prove contradiction
+           between 1 and 2
+   [[ Evidential Problem ]]
+      Pointless Evils
+
+         Are there evils that do not serve a purpose?
+           that are not required to produce a greater or
+           outweighing good?
+            -If so, then is (8a) true?
+         pointless evils: such of the fawn that dies in
+           agony in the forest
+
+
+
+         Definition: A Pointless Evils is one that has
+           no purpose; that is, it is not required to
+           bring about a greater or outweighing good.
+         definition: An Evidential Argument is
+           inductive... Probability
+
+         modus tollens
+            if god exists, there are no pointless evils
+            probably there are pointless evils
+            therefore, probably, god does not exist
+         modus ponens
+            defenses: GE Moore Shift
+            If god exists, there are no pointless
+              evils.
+            Probably god does exist
+            therefore, probably, there are no pointless
+              evils.
+         Stephen wykstra-gods infinite purposes would
+           be inscrutable to us
+         john hick-soul making theodice (gives a new
+           perspective)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	TIMESTAMPSTR:  Wed Oct 19 14:02:59 2016 
+	Last Save:     Wed Oct 19 14:03:02 2016 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+
+--[Faith and Reason]--
+[Unit 7]
+   {{ pascal, clifford, and james }}
+
+   Enlightnment assumption:
+      all beliefs should be judged in the court of
+        reason ad deemed acceptable only if they are
+        supported by reason or evidence
+         john lock on religion: "whatever god hath
+           revealed, is certainly true:...but whether it
+           be a revelation or no, reason must judge."
+           "reason must be our last guide and judge in
+           everything"
+   however, Genuine religious belief seems to be based
+     on faith, i,e.,
+      -it is freely decided
+      -      ^^^^^^^^^^^^^^
+      -it involves unconditional acceptance
+      -            ^^^^^^^^^^^^^^^^^^^^^^^^
+   -Conundrum: if reason and evidence were the basis of
+     religious belief,
+      -Either the belief would be provablebeyond
+        question--no room for free decision
+      -Or the belief would be merely probable--no way
+        for unconditional acceptance
+
+
+   [Two types of rational beliefs]
+      [Epistemic rationality]
+         A's belief that P is epistemically rational
+           iff A has (good) evidence for thinking P true
+            rational belief=good evidence and reason
+      [Pragmatic rationality]
+         A's belief that P is pragmatically rational
+           iff believing P is beneficial for A
+            rational belief = "useful-to-believe"
+              beliefs
+            ie: arriving early is beneficial
+            good thinking, "I know I am going to do
+              well in the class"
+               no reason or evidence, just belief
+   Can pragmatic rationality help solve the conundrum?
+      by challenging the enlightenment assumption
+   New Conundrum: are the two types of rationality ever
+     at odds with one another? that is, can a belief be
+     rational in one sense but not in the other?
+
+
+
+   [Pascal]
+      Pascals wager
+         god exists:
+            belief: +infinity
+            nonbelief: -infinity
+         god does not exist:
+            belief: small loss
+            nonbelief: small gain
+      Sources of belief:
+         Reason
+            1) Body (senses): exemlars--athletes and
+              kings
+            2) mind (reason): exemplars--scientists and
+              philosophers
+         Passion
+            3) Heart(passion/feeling/desire/love/intuit
+              ion): exemplars--religious prophets and
+              mystics
+      Pascal's challenge to enlightenment thought:
+         we should permit the heart to shape our
+           beliefs; do not trust reason to be sufficient.
+
+
+   [Clifford]
+      williams k. clifford--"the ethics of belief"
+         "Is it wrong to always, everywhere, and for
+           everyone, to believe anything upon
+           insufficient evidence." (e.g., ship-owner
+           negligence)
+         why?
+            (constructing false reality based upon a
+              lie)
+            what the ship owner did was morally wrong,
+              even if the ship did make it.
+            doing something subtle is thought to be the
+              cause to something else larger, creating a
+              belief.
+               believing without good evidence
+            ie: superstitions, luck, witch burning
+            note: being rational is a matter of ethics,
+              how one ought to think and form beliefs.
+            without that habit, our credulity could
+              lead us back to superstition and magic
+            bad habits can be "contageous"
+      thus, two enlightenment rules for belief
+        formation:
+         1) never overrule reason or evidence just
+           because passion urges it.
+         2) remain neutral if reason or evidence is
+           absent or inconclusive
+      by these rules, theism or atheism (assuming
+        reason and evidence) should be agnostic
+
+
+   [William James]
+      agrees with clifford's rule 1:
+         we should not believe something if reason or
+           evidence shows otherwise, just because of our
+           passions, whishes, desires, iinterests,
+           preferences, etc.
+      disagrees with clifford's rule 2:
+         we have the right to believe something if
+           there is no evidence either way and if the
+           decision is a genuin option, ie: living,
+           momentous, forced
+
+            living (vs dead)
+            momentous
+               1) irreversible
+               2) important
+            Forced
+               must make a choice
+            why fear of error is more dominant over us
+              than the quest for truth?
+            ----------
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	TIMESTAMPSTR:  Wed Oct 26 14:06:46 2016 
+	Last Save:     Wed Oct 26 14:06:52 2016 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+--[Faith and Reason]--
+   -[Kierkegaard, Feuerbach, and Nietzsche]
+   -[Unit 8]
+
+   -[Kierkegaard]
+      -Object and Subject
+
+      -Object (thing outside of the subject that is
+        known or believed)
+         -can the object of faith (God or whatever is
+           deeped sacred or holy) be known with
+           "objective certainty"?
+         -folly of proof: begging the question
+         -Ideal interpretation-ambiguity of evidence
+            -is it or not?
+            -will it be or not?
+            [[ Remember the evidential problem of evil ]]
+      -Subject (knower, believer, one who is committed)
+         -think of pascal and w. james:
+            -in absence of certain knowledge about
+              ultimate matters, we can live with doubt
+              that is either indifferent or filled with
+              desire.
+            -e.g., I doubt I'll ever be as good a person
+              as _______, so who cares.
+            -vs. I doubt I'll ever be as good a person
+              as _______, but I hope I will be.
+         -Leap to Faith as a doubt with desire
+          ^^^^^^^^^^^^^
+
+            -"Subjective truth" as authenticity and
+              continual commitment
+
+         -Can the subject be an object? Can "subjective
+           truth" be turned into "objective truth"?
+            -think of the suubject as an unfinished
+              product-always on the make. One's
+              commitments can never be guaranteed or
+              simply finished and permanent.
+               -e.g., Marriage Vows
+
+
+
+   -[Feuerbach]
+      -(along idea that religion is a "human product")
+      -(humans "anthropomorphise" their own god)
+      -(we lose value in ourselves to our god)
+      -(loss of human values, becoming irrational)
+      -(revision of religion, to solve these problems)
+
+
+      -Feuerbach criticizes the belief in a supernatural
+        god. how so and what does he propose instead
+         -[Externalization] (psychological projection):
+            -anthropomorphic images of supernatural
+              divinity
+
+         -[Alienation]
+            -Life bereft of value or holiness
+
+         -[Reinternalization]
+            -participation in the sacred
+            -value (and love) redirected towards fellow
+              human beings
+
+      [[ By the way, this pattern describes all human activity: externalization, alienation, reinternalization ]]         -can think about all activities in this way
+      -Why will that(reinternalization) happen?
+         -We overcome our [false consciousness] by
+           coming to see ourselves as the source of
+           religious images. Divinity is, after all,
+           >Within Us< rather than "out there." thus his
+           religion is >>Humanist<<
+         -[Humanist]
+            -seeing ourselves as source of religion
+              rather than praise or worship a
+              higher/transcendant being
+
+
+
+
+   -[Neitzsche]
+      -Nietzsche's madman claims that the "death of God"
+        as vast consequences to all facets of human life.
+        Explain what ou think he means.
+
+      -Imagery of Modern Dislocation:
+       ^^^^^^^
+
+         -The sponge to wipe away the entire horizon
+         -unchained this earth from its sun
+         -whither are we moving?
+         -plunging continually
+         -backward, sideward, forward, in all directions
+         -still any up or down?
+         -(we still dont know which direction to go to
+           in life)
+         -straying as throug an infinite nothing
+         -breath of empty space
+         -become colder
+         -night continually closing in on us
+
+         -Think of "religion" as "being at home." This
+           is >homelessness<. (The universe seems darker,
+           colder, infinity, indifferent to us,
+           purposeless, amoral, etc.)
+            -we ourselves as humans created this feeling
+              of homelessness
+
+      -Psychology of Guilt and Anxiety:
+       ^^^^^^^^^^
+
+         -Murderers of all murderers
+         -who will wipe this blood off us?
+         -what water is there for us to clean ourselves?
+         -what festivals of atonement
+         -this deed to great for us
+         -must we ourselves not become gods?
+
+         -but do the Moderns in  marketplace recognize
+           their deed? Are they aware of their guilt?
+            -(No--Still alienated, still in false
+              consciousness, still need comfort of old
+              religious feeling of being at home, but now
+              have to pretend it's okay without the
+              religion that made that feeling possible
+              and convincing.)
+            -we have only been a part of the universe
+              for a miniscule amount of time
+
+      -Nietzsche on Morality
+      -In neitzsche's view, the moral code of the judeo-
+        christian tradition is largely based on
+        ressentinent (resentment, envy, and
+        vengefulness). explain why he thinks so.
+         -Morality of the Powerful
+            -Self-aggrandizing values-the values of the
+              elite ("natures masters")
+               -honor
+               -courage/success
+               -political power
+               -revenge
+               -wealth
+               -sensuous pleasure
+               -clever lying
+         -Morality of the Weak
+            -selfless values-the values of the oppressed
+              ("nature's slaves")
+               -humility
+               -meekness
+               -disdain for power
+               -turning the other cheek
+               -blessed are the poor
+               -asceticism
+               -truthfulness
+            -^^Socrates^^
+      -good (1) sself aggrandizement
+      -good (2) self sacrifice
+      -bad=self-sacrivice
+      -evil=self-aggrandizement
+
+      -ressentiment(the motive behind the change
+         -the weak/poor get to be "good" and praise-
+           worthy
+         -the powerful/elite are punished for being
+           "evil"
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	TIMESTAMPSTR:  Wed Nov  9 13:48:15 2016 
+	Last Save:     Wed Nov  9 13:48:19 2016 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+[Unit 9]
+
+
+
+
+
+
+[Unit 9]
+--[What is it worth?]--
+[Aristotle and Bentham]
+
+   -[Aristotle]:
+      -[Virtue Ethics]
+         -What is a human being? (anthropos)
+            -the "rational animal" (zoon echon logan)
+            -(animal having word)
+         -All human activity is directed towards...
+            -Some Good or Other
+         -The word for the highest good of human life
+           is...
+            -eu -> good
+            -dima -> god, blessings
+
+            -eudimania -> Good blessings
+
+            -Pleasure?
+               -we fail to be efficient, may lose
+                 pleasure
+               -ie: drug addiction that leads to
+                 negative results
+            -Honor?
+               -Avoiding shame
+               -relying on other opinions of you.
+                  -those opinions can easily change
+            -Wealth?
+               -can lead to greed
+               -fail to appreciate other things in life
+               -become dependant on wealth (which can be
+                 lost)
+               -fear of losing wealth
+               -leads to accumulate more and more
+            -Eudiamonia
+               -achieving the highest good
+            -Eudaimonia is...
+               -an instrumental good or an intrinsic
+                 good?
+                  -intrinsic
+                  -Instrumental
+                     -used to get something beyond it
+                     -No end
+                  -Intrinsic
+                     -is an end, or goal
+               -Dependent on others or self-sufficient?
+                  -self-Sufficient
+               -involves only a feeling of happiness of
+                 involves an activity or function
+               -?
+                  -if it were to only be a feeling, then
+                    it would not be a life worth of
+                    living, doing nothing at all
+                  -therefore it is an activity or
+                    function, as they bring you to that
+                    eudaimonia or happiness
+            -Virtue (arete) as a fulfillment of function
+              to achieve an end.
+               -"virtuoso"
+
+               -Intellectual virtues: learned
+               -Moral Virtues: acquired by practice
+               -intellectual
+                  -learning critical thinking
+                  -how to learn (study)
+                  -how to communicate...
+                  -cognitive
+               -Moral
+                  -courageous
+                     -no matter how hard one learns it,
+                       it cannot be done without training
+                       it
+                  -charitable
+                  -"Second Nature"
+                     -when a habit becomes so engrained
+                       into a person, that habit becomes
+                       part of the character overall
+                     -ie: military training-react to
+                       certain situations in certain ways
+                       through training
+
+
+            -Aristotle's education
+               -intellectual ('book learning')
+                  -learning concepts
+               -moral
+                  -training
+                  -making good judgements
+                  -instilling habits
+
+
+      -[Cardinal Virtues]
+         -1) Prudence
+            -also known as practical wisdom, is the most
+              important virtue for aristotle
+            -We need this wisdom to make good judgements
+              in uncertain conditions. It is the skill
+              and habit of choosing the right eans to
+              achieve a worthy end.
+            -note that ethical life is not simply
+              "following rules" or some kind
+            -good judgements that are context dependent
+                                      ^^^^^^^^^^^^^^^^^
+         -2) Temperance
+            -Self control
+            -moderation
+            -a good life requires one  to master ones
+              passions and be moderate in the use of
+              pleasurable things.
+         -3) Justice
+            -Fairness
+            -it requires recognizing what is good for
+              the community and respecting the rights of
+              each member of it
+         -4) Courage
+            -"Moderation or abservance of the mean with
+              respect to fellings of fear and confidence"
+            -a good life must confront our fears in the
+              right way
+
+         -Virtue as mean between extremes
+            -eg. courage as a mean between cowardice and
+              rash violence
+
+            -frequency, degree, duration, people,
+              provoking circumstances
+            -other examples: enjoying life;being
+              generous; having self-esteem
+
+
+   -[Bentham]
+      -[Consequentialist Ethics]
+
+         -refers to consequence of action
+
+         -making choices based on consequence of action
+
+         -Psychological Hedonism
+            -Humans are motivated excusively by the
+              wishes to experience pleasure and to avoid
+              pain
+
+         -Utility
+            -Pleasure (happiness) or the avoidance of
+              pain
+            -(aka Utilitarianism)
+
+         -Principle of Utility
+            -Act so as to produce the greatest happiness
+              in the greatest number.
+
+
+            -Problem: Incommensurability of values
+               -comparing items of different values
+               -like eating something vs watching a
+                 movie
+               -Money a sort of way of setting values
+               -apples to oranges, gallons of  milk to
+                 movie tickets
+               -how can we compare one form of utility
+                 to another?
+
+
+            -Factors to measure in determining utility
+
+            [[ Simple Hedonic Calculus (table) ]]
+
+            -the CPI
+               -consumer price index
+               -uses "hedonic quality adjustments" to
+                 account for changes in products
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	TIMESTAMPSTR:  Wed Nov 16 13:48:06 2016 
+	Last Save:     Wed Nov 16 13:49:07 2016 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+--[Kant and Korsgaard]--
+[Unit 10]
+
+   [Deontological Ethics]
+      -What makes an act right?
+         -Consequensialist answer: the consequences
+           or result of the act
+            -Outcomes such as pleasure or happiness
+              (or eudaimonia
+         -Deontological answer: the act is right if
+           it is...
+            -1) a duty prescribed by the moral law
+                  ^^^^
+
+            -2) done with a good will (good intention)
+                            ^^^^^^^^^
+
+            -3) disinterestedly, no matter consequence
+                ^^^^^^^^^^^^^^^
+
+               -try to put on a "Veil of Ignorance" to
+                 ignore personal interests and take the
+                 community view
+
+      -Moral Truth-necessary
+         -Not contingent
+            -Not dependent on human nature and desire
+               -(vs. Hume)
+            -Not dependent on instrumental value, that
+              it secures non-moral goods such as pleasure
+              or happiness (vs. aristotle, hobbes,
+              bentham, mill)
+
+      -Examples
+         -shopkeepers
+            -first doesnt b/c it is bad for business
+            -second doesnt cheat because of sympathy for
+              others
+            -third doesnt cheat because it is wrong
+            -Lesson: Motive or intention matters (the
+              [ground] of your actions)
+            --_>
+               -the outcome is the same, but the
+                 important part is the motive, doing it
+                 purposely or doing it accidentally
+               -this is absent in the consequentialist
+                 view
+
+
+         -Murder Story
+            -Very similar to skyrim theif and hunter
+              encounters: friend asks to hide from
+              murderer and hides in basement
+            -then murderer comes and asks about said
+              friend
+            -lie to murderer, possibly saving friend
+            -tell murderer truth, letting friend die
+            -Lesson: What lies in our hands is good
+              intention itself.
+               -Be mature: accept your limits.
+                ^^^^^^^^^
+
+      -What about conflicts of duties?
+                  ^^^^^^^^^^^^^^^^^^^
+
+         -consider conflict between:
+            -L: Do not lie
+            -P: Always protect innocent life
+            -since both are true but incompatible, we
+              must choose which is more important in a
+              given situation. (choose the [Prima Facie]
+              duty or all-things-considered duty)
+   [Categorical Imperative, Parts I, II, & III]
+
+      [I. Universalization]
+         -act only on that maxim whereby you can at the
+           same time will that it would become a
+           universal law
+            -i.e., an action is moral iff you can make
+              your reason for acting into a rule that
+              everyone can follow.
+               -failures of universalization:
+                  -e.g., "a lying promise"
+         -Main point: do not count yourself as special
+           or exceptional. when you do, you know you're
+           being inconsistent.
+
+      [II. Principle of ends]
+         -treat others (and oneself) always as an end
+           and never merely as a means.
+            -main point: do not expoit, manipulate,
+              abuse people because people have dignity
+              and intrinsic value.
+         -question
+            -does kant neglect other sources of value -
+              animals, children, alzheimer patients,
+              etc.?
+
+      [III. Principle of autonomy]
+         -every rational being is able to regard herself
+           as a maker of universal law; that is, one does
+           not need an external authority, be it God, the
+           state, one's culture, or anyone else, to
+           determine the nature of the moral law.
+            -Main Point: moral laws can be known by us
+              and will only be legitimate if they are
+              self-legislated rather than imposed. you
+              aren't being moral unless you are self-
+              legislating
+         -Heteronomy - rule by another
+            -herd mentality (milgram shock experiment,
+              stanford prison experiment)
+            -instincts and desires ("external" drives) -
+              alwyas empirical
+         -Main Point: actions are moral only if the
+           subject has reasons for acting and counts
+           those reasons as the ground of action
+
+
+         -sort of making sure you are not being pushed
+           around or pushing others around
+
+
+   [Background on Christine Korsgaard]
+      -Veneer Theory
+         -human nature as inherently sinful and
+           "animalistic"
+         -Opposed by Frans de Waal and Christine
+           Korsgaard
+
+         -frans de waal's russian doll model
+            -(PAM = perception-action mechanism)
+   [Christine Korsgaard]
+      -Critique of "Pure Self-Interest"
+         -most people still have sympathy for family or
+           friends
+      -Humans and nonhuman animals: how much is morality
+        a break with our animal past?
+         -continuities
+         -discontinuuities
+      -Lower Scale
+         -plants
+         -heart
+         -causal process
+         -like machine
+      -Middle Scale
+         -PAM (perception-action mechanism)
+         -spider
+         -fish
+         -autopilot
+      -Higher Scale
+         -Cognitive awareness of self and its purposes
+           or ends
+         -now motive or intention is explicityly
+           involved
+         -and so Autonomy is possible
+                 ^^^^^^^^
+
+         -Second order desires and evalueations are
+           possible
+            -I find myself wanting X, but is wanting X a
+              good reason to act? (I am aware of my
+              desire as the ground of action and can
+              evaluate it)
+
+
+      -Cause -> Reason -> Ground of reasons
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	TIMESTAMPSTR:  Wed Nov 30 13:58:53 2016 
+	Last Save:     Wed Nov 30 13:58:56 2016 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+
+
+--[Kierkegaard]--
+   [The Crowd]
+      -abstractions are not specific
+      -Abstraction
+      -Untruth
+      -Problem of conformity
+      -Abdication of responsibility
+         -am I making my decisions or are others making
+           them for me
+
+   [The Singular Individual]
+      -more than abstract labels or roles
+      -The Locus of responsibility
+         -not like the patterns that we follow everyday
+         -more of what is "my decision", not just what
+           we are supposed to do.
+
+   [Authenticity]
+      -The "Prize"
+      -A paradox and a challenge: "to be yourself"
+         -it is a challenge because society can
+           influence us, there is a pressure to conform
+         -like telling a chair to be a chair, that is
+           easy. for humans it is more difficult because
+           humans have the ability to shape themselves,
+           make decisions, use logic, create and develop,
+           etc..
+         -To be a human is to exist, to change, to
+           choose, to become, to be free
+         -we are sculptors, creators
+[Sartre]
+   -our "facticity" (i.e., the universal conditions
+     of human existence)
+      -the merchant of death is dead (le marchand de
+        la mort est mort.)
+      -albert nobel had an obituary for his brother
+        but the newspaper accidentally wrote that it
+        was for albert rather than him

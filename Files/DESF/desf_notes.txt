@@ -1,0 +1,7 @@
+
+===========================================================
+	[FILE: desf_notes.txt]
+	[DATE CREATED: Tue Aug 21 12:29:58 2018]
+	[Title: Design Fundamentals of Computer Imaging]
+
+

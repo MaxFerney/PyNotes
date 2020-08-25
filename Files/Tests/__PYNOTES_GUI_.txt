@@ -1,0 +1,7 @@
+SYSTEM	USER: [max] HAS JOINED THE CHAT
+SYSTEM	USER: [max] HAS LEFT THE CHAT
+SYSTEM	USER: [max] HAS JOINED THE CHAT
+max: found the bottom
+max: good
+max: goodbye
+SYSTEM	USER: [max] HAS LEFT THE CHAT

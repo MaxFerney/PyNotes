@@ -1,0 +1,93 @@
+
+===========================================================
+	[FILE: Csci207.txt]
+	[DATE CREATED: Thu Dec 15 15:50:49 2016]
+	[Title: Introduction to Computer Science C++]
+
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	TIMESTAMPSTR:  Tue Jan 10 12:23:45 2017 
+	Last Save:     Tue Jan 10 12:23:47 2017 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+--[Chapter 1]--
+   -Problem Difinition
+   -Requirements
+   -Specifications
+      -what?
+   -Design
+      -how?
+      -psudocode
+      -language independent
+   -Implementation
+   -Test
+   -Delivery
+   -Maintenance
+
+
+   -Algorithm
+      -set of instructions
+      -flowcharts
+      -Pseudocode
+         -combination of english and syntax for a set of
+           instructions
+         -ie:
+            -prompt user for input
+            -validate input
+            -output number
+            -if (number < 100)
+               -output "less"
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	TIMESTAMPSTR:  Tue Jan 17 12:17:25 2017 
+	Last Save:     Tue Jan 17 12:17:28 2017 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+--[Chapter 2: C++ Basics]--
+
+   [Variables and Data Types]
+      int
+      double
+      float
+      char
+      string
+      bool
+
+      integer
+      double/float
+         fixed point notation
+         decimals
+         double is twice the size of a float
+      char
+         one single character only
+         ''
+         'a', '1', '2', '\n'
+      boolean
+         true or false
+      String
+         NOT built in to c++ normally
+         array of characters
+         contained in ""
+         "hello world"
+         "a"
+         not built into c, but they are built into c++
+           using arrays
+
+         REQUIRES header file
+         #include <string>
+   these datatypes are used to create variables to
+     represent what we need to do in our program
+
+
+   [Variables]
+      like a locker
+      memory addresses used to store items
+      they can only store ONE thing
+      must first assign the variable
+
+      give it a type and a name
+         any of the above data types
+         name is what you come up with

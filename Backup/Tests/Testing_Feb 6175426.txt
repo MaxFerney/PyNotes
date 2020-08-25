@@ -1,0 +1,21 @@
+
+===========================================================
+	[FILE: Testing.txt]
+	[DATE CREATED: Mon Feb  6 17:53:35 2017]
+	[Title: this is a test]
+
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	TIMESTAMPSTR:  Mon Feb  6 17:51:19 2017 
+	Last Save:     Mon Feb  6 17:53:43 2017 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+hello world
+-?
+   this is a line
+   or is this
+      perhaps
+   this is an interesting narrative
+or im here

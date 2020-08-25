@@ -1,0 +1,262 @@
+
+===========================================================
+	[FILE: Phil101.txt]
+	[DATE CREATED: Mon Aug 15 14:23:21 2016]
+	[Title: Philosophy 101]
+
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	TIMESTAMPSTR:  Wed Aug 24 09:28:06 2016 
+	Last Save:     Wed Aug 24 13:54:46 2016 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+--[Philosophy]--
+   Divisions of Philosophy
+      What is it? Metaphysics (ontology)
+         What is the self
+         What is divinity
+         Does divinity eist
+         what is a mind
+         are we free?
+         ^^examples of metaphysics
+      How do I know? Epistemology (theory of knowledge)
+         What are the sources of my knowledge
+         What method do I need to use to acquire
+           knowledge
+         What, if any, are the limits of my knowing
+      What is it worth? Axiology (value theory)
+         Ethics:
+            -What is a good life?
+            -How should I live?
+            -What criteria should we use to establish
+              our norms
+         Aesthetics
+            -Are therre standards of judgement in taste?
+            -How would we justivfy them?
+      What are the laws of reason? Logic
+         What makes an argument valid
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	TIMESTAMPSTR:  Wed Aug 31 13:52:23 2016 
+	Last Save:     Wed Aug 31 13:52:26 2016 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+--[What is Philosophy]--
+   (means love of wisdom)
+
+   The Goals of Philosophy
+      Truth
+         The account (logos) of everything
+            Theoretical (a third-person or neutral
+              account)
+      Goodness
+            Practical (a first-person account of how to
+              live well)
+
+   Three Questions
+      Metaphysics: What is it?
+         alfred north whitehead
+            starts from ground: particular obsrvation
+            flight: imaginative generalization
+            lands for renewed obervation  by rational
+              interpretation
+
+            use generalization for better understanding
+              of observations
+
+      Epistemology: How do I know?
+         Walter Kaufmann:
+            "the intensity of great philosophy and
+              poetry is abnormal and subversive: it is
+              the enemy of habit, custom, and all
+              stereotypes. The motto is always that what
+              is well known is not well known at all
+              well."
+               to challenge what is known
+               what is so commonly known may be
+                 questioned as it is usually generally
+                 accepted rather that questioned
+         Denis Diderot:
+            "The first step toward truth is doubt."
+               known for accumulatint all knowledge
+                 into an encyclopedia...
+         William Halverson:
+            "Philosophy is man's quest for the unity of
+              knowledge: it consists in a perpetual
+              struggle to create the concepts in which
+              the universe can be concieved as a universe
+              and not a multiverse."
+               description of reality: different fields
+                 may describe it in different ways of the
+                 same reality.
+               Halverson says quest is to unify these
+                 descriptions.
+      Value Theory: What is it worth?
+         Plato:
+            "And is not philosophy the practice for
+              death?"
+               philosophy is "preparing the soul" for
+                 death
+                  belief that knowledge is kept with
+                    soul after death.
+         Marx:
+            "The Philosophers have only interpreted the
+              world, in various ways. The point, however,
+              is to change it."
+               saying that goal of philosophy is to try
+                 to find the good.
+
+
+   Empiricism and Rationalism
+      Empiricism:
+         using senses. actuality
+         means to experience
+      Rationalism:
+         logic and thought
+         Reason
+
+      university of paris
+         challenged aristotle's theory of motion
+         new observations showed the aristotle could be
+           wrong
+         (1300's)
+      Descartes: think about observing the sun or a
+        tower in the distance
+         what contribution does reason make? whyy must
+           it do so?
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	TIMESTAMPSTR:  Wed Sep  7 14:02:33 2016 
+	Last Save:     Wed Sep  7 14:02:35 2016 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+--[Truth and Logic]--
+   Truth Value Analysis
+      Determines if the information in the premises is
+        accurate, correct, or true (is it a true or false
+        statement?)
+         -"is it raining"
+   Logical Analysis
+      Determines the strength with which the premises
+        support the conclusiion (is it a valid or invalid
+        argument?)
+         -Premises:
+            a)it is raining
+            b)when it rains, games are postponed
+         -Conclusion
+            -Therefore, the game is postponed
+
+
+   Deductive and Inductive Arguments
+      Deductive argument
+         ONe in which it is claimed that:
+            -The conclusion follows necessarily from the
+              premises
+            -True premises make it impossible for the
+              conclusion to be false
+      Inductive argument
+         one in which it is claimed that:
+            -The premises make the conclusion probable
+            -True premises make it improbalbe for the
+              conclusion to be false
+      Key words/pphrases
+         Deductive:
+            necesarily, certainty, definitely
+         Inductive:
+            Probably, likely, unlikely, plausible
+      Strength of argument
+         Deductive:
+            conclusion necessarily true
+         iinductive:
+            conclusion only probably true
+      Types of arguments
+         deductive:
+            mathematics, geometry, definitions
+         inductive:
+            legal, moral, statistical, scientific
+
+
+      Deductive reasoning begins with premises and
+        shows that conclusion must follow.
+         the inference is "timeless" or always the case
+         the premise does not require experience
+            -a priori
+               knowing things without prior experience
+   Inductive reasoning begins with examples from
+     experience and draws conclusions about what further
+     experience will probably yield.
+            A posteriori
+         it makes a generalization from the past to
+           predict the future.
+            -a)a1 is b
+            -b)a2 is b
+            -c)a3 is b
+            -therefore, all a's are probably b.
+
+
+
+      Deductive reasoning
+         Socrates is a man.
+         all men are mortal
+         therefore socrates is mortal
+
+         S is M.
+         All M are P.
+         Therefore, S is P is valid
+         invalid:
+            s is m
+            all d are m
+            therefore, s is d.
+            INVALID
+
+
+
+   Two Valid Conditional Arguments
+      Modus Ponens
+      (affirming the antecedent)
+         -if P, then Q.
+         -P.
+         -therefore, Q.
+      Modus Tollens
+      (denying the antecendent)
+         -if P, then Q.
+         -not Q.
+         -therefore, P is not Q
+   Valid Deductions?
+      denying the antecedent
+         if p,then q
+         not p
+         therefore, not q
+      affirming the consequent
+         if p,then q
+         q
+         therefore, p
+
+      valid.. invalid..
+
+   Necessary and Sufficient Conditions
+      Sufficient condition
+         -That which is enough for something to be the
+           case; when the truth of the antecedent
+           guarantees the truth of the consequent
+      Necessary condition:
+         -That which is >Required or mandatory< for
+           something to be the case; the falsity of the
+           consequence ensures the falsity of the
+           antecedent
+
+   Reductio ad absurdum
+      if you are asked to show p is true, you could
+        show it by way of a reductio ad absurdum
+         -start by assuming P is not true.
+         -then show that assumption leads to an absurd
+           conclusion (i.e., one that contradicts the
+           assumption).
+         -then conclude the original assumption (P is
+           not true) was false
+         -so p is true after all

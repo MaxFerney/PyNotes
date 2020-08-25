@@ -1,0 +1,16 @@
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	TIMESTAMPSTR:  Mon Jan 14 19:54:43 2019 
+	Last Save:     Mon Jan 14 19:54:45 2019 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+body {font}
+background:
+   h1{background: url('../images/filename.jpg');}
+[Fonts]
+   Helvetica, arial, sand-serif
+   Want multiple backup fonts
+      fallback fonts
+<link rel="stylesheet" type="text/css"
+  href="css/filename.css" media="screen">
