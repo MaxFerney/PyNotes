@@ -45,10 +45,10 @@ def startUp():
         print("""
         --------------------
         Welcome to PyNotes V0.5.05
-        
+
         This program is used to take notes
         and save them to a simple text document
-        
+
         Author: Max Ferney
         if you have any questions or concerns
         about this program, you may email
@@ -62,6 +62,7 @@ def startUp():
         if you would like to though still.
 
         Eventually properly set up on github...
+        [this is first attempt using with github]
         --------------------
 
         for help, type py.help()
@@ -83,7 +84,7 @@ def quickstart(path,
                file=None,
                end_time='00:00'):
     global py
-    
+
     py = PyNotes()
     py.end_time = end_time
     py.cd()
@@ -94,20 +95,20 @@ def quickstart(path,
     if system:
         py.sf(file, show_text=False)
         py.EditFile()
-        
-        
-    
-    
+
+
+
+
 
 def notes():
-    
-    
+
+
     #Wed Oct 28 08:34:13 2015
     day = time.asctime()[:3]
     hour = time.asctime()[11:13]
     minute = time.asctime()[14:16]
     str_time = time.asctime()[11:16]
-    
+
     day = day.lower()
     hour = int(hour)
     minute = int(minute)
@@ -122,17 +123,17 @@ def notes():
         minutes += (time_hour * 60) + time_min
 
         return minutes
-        
+
 
     def is_in_time(days=['mon', 'tue', 'wed', 'thu', 'fri'],
                    starttime='08:00',
                    endtime='21:30',
                    minutes_before_start=30):
-        
+
         start_minutes = convert_time(starttime)
         current_minutes = convert_time(str_time)
         end_minutes = convert_time(endtime)
-        
+
         for d in days:
             if day == d:
                 if current_minutes >= (start_minutes - minutes_before_start) and \
@@ -155,7 +156,7 @@ def notes():
     else:
         print("you are not in class right now.")
         print("use: quickstart(path) to see notes.")
-        
+
 
 
 
@@ -164,8 +165,7 @@ def convert_to_min(time_string):
     minute = int(time_string[3:])
     total = (hour*60) + minute
     return total
-    
-    
+
+
 def clear(lines=30):
     for i in range(lines):print()
-
