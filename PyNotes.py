@@ -38,7 +38,7 @@ class PyNotes:
     last_indented_level = 0
     column_width=55
     end_time='00:00'
-    
+
     text = ""
 
     def __init__(self):
@@ -77,11 +77,11 @@ class PyNotes:
 
         AllLines=True
         lines=200
-        
+
         if self.FileName == None:
             print("[ERROR: NO FILE SELECTED]")
             print("Use sf() to select a file.")
-            
+
         else:
             FileName = self.FileName
             with open(FileName, 'r') as f:
@@ -92,14 +92,14 @@ class PyNotes:
         DisplayText = ""
         counted_lines = 0
         lastIndex = 0
-                
+
         if sts:
             lastIndex = text.rfind('TIMESTAMPSTR')
             DisplayText = text[lastIndex:]
             if Display:
                 # \t is for tab before time
                 print('\t', end='')
-                
+
         else:
             DisplayText = self.text
 
@@ -153,7 +153,7 @@ class PyNotes:
                section_length=100,):
         #maybe use better linear search method.
         #could do binary search by word order
-        
+
         # Initialize Variables
         reset_index = False
         if string == '':
@@ -163,13 +163,13 @@ class PyNotes:
         index = self.text.find(stringUpper, self.lastIndex)
         index2 = self.text.find(stringLower, self.lastIndex)
         #Why use multiple variables for case sensitivity?
-        
+
         # Set Index
         if index < index2 and index != -1:
                 self.lastIndex = index
         elif index2 < index and index2 != -1:
                 self.lastIndex = index2
-                
+
 
         # Reset Index
         else:
@@ -182,7 +182,7 @@ class PyNotes:
         print(self.text[self.lastIndex-section_length:
                         self.lastIndex+section_length])
         print('\n\t\t-----------substring-----------\n')
-    
+
         # Reset Variables / Reset Index
         if not reset_index:
             print(str(self.lastIndex))
@@ -193,7 +193,7 @@ class PyNotes:
             self.lastIndex = 0
             print('#\n#\n#Message Text Variable: Reset String\n#\n#')
             reset_index=False
-            
+
     def NewFile(self, name, TITLE=' ', Type='txt'):
         file = name + "." + Type
         dateCreated = time.asctime()
@@ -220,7 +220,7 @@ class PyNotes:
     def EditFile(self, file='', system=False, message="",
                  system_vars={'end_time':'00:00'}):
         end_time=system_vars['end_time']
-        
+
         def testchar(string):
             try:
                 string = int(string)
@@ -251,7 +251,7 @@ class PyNotes:
 ##            print("BP:      " + str(bp))
 ##            print("PRETEXT: " + str(pretext))
             return return_var
-                
+
 
 
 
@@ -259,7 +259,7 @@ class PyNotes:
         if len(file)>0:
             self.sf(file)
         self.readF(sts=True)
-        
+
         #this reads from last timestamp, not whole text
         if self.FileName == None:
             return None
@@ -269,16 +269,16 @@ class PyNotes:
         width = 55
         #NEW WIDTH VARIABLE HERE
         width = self.column_width
-        
+
         # Initial Variables
         try:
             print()
             bp = input('input bullet point: ')
             #create predefined variable custom error
             bp = testchar(bp)
-        
+
             #text for saving
-            
+
             SaveText = str(input('type(y/n) for TimeStamp text: ')) #controls if last save text is turned on
             savebool = False
             if SaveText == 'y':
@@ -289,12 +289,12 @@ class PyNotes:
             last_indent_ask = input('start from last indent(y/n): ')
             if last_indent_ask == 'y':
                 indent_bool = True
-                
+
         except KeyboardInterrupt:
             print("#####\tBroken out of the function!\t#####")
             return None
 
-        
+
         #lenI is length of the bullet point string
         lenI = 1
 
@@ -315,11 +315,11 @@ class PyNotes:
         ordered_ind_lvl = 0
         temp_bp = bp
         start_order = False
-        
+
         with open(file) as f:
             t = f.read()
         f.close()
-        
+
         if not system:
             #pretext is the bullet and space before a string
             pretext = bp
@@ -346,22 +346,22 @@ class PyNotes:
                             'LINEBREAK',
                             'UNDERLINE',
                             'LINK']
-            
-            user_errors = ['--->', '<---',     
-                            '0>', '<0',       
-                            '==>', '<==',       
-                            '--',   
-                            ',--', '--.',       
-                            '-->>', '<<--',     
-                            '>', '<',           
+
+            user_errors = ['--->', '<---',
+                            '0>', '<0',
+                            '==>', '<==',
+                            '--',
+                            ',--', '--.',
+                            '-->>', '<<--',
+                            '>', '<',
                             '--:', ':--']
-            
+
             print("""
             to end input: type 'DONE' or press Ctrl+c
             to indent: type '-->'
             to dedent: type '<--'
             to see more functions: type 'HELP'
-                
+
             """)
             # Functions
             def edit_functions():
@@ -386,7 +386,7 @@ class PyNotes:
                 to note a link: type 'LINK'
 
                 to see this page: type 'HELP'
-                    
+
                 """)
             def specialPoints():
                 for i in range(1, 9):
@@ -435,12 +435,12 @@ class PyNotes:
                 new_string = ''
                 for l in lines:
                     index = lines.index(l)
-                    
+
                     #single line
                     if index == len(lines)-1:   #if index is length of lines
                         new_string += l + '\n'  #line
                     #multiple lines
-                    else:                        
+                    else:
                         new_string += l + '\n' +  pretext[:-lenI] + '  '
                         #line
                         #\n
@@ -460,7 +460,7 @@ class PyNotes:
                     string_index = last_string.index(utext)
                 except ValueError:
                     string_index=-1
-                    
+
                 under=''
                 first=''
                 last=''
@@ -481,9 +481,9 @@ class PyNotes:
     ##                for i in range(string_index+len(utext)):
     ##                        last+=' '
     ##                string = first+under+last + '\n'
-                
+
                     string = first+under+'\n'
-                
+
                 variables=[string, string_index, [first,under,last]]
                 return variables
 
@@ -530,8 +530,8 @@ class PyNotes:
                 #fix numbers indentation..
                 #fix bp recovery
                 #do blank line
-                
-                
+
+
                 #Reset
                 if start_order:
                     ordered_ind_lvl = ind_lvl
@@ -597,10 +597,10 @@ class PyNotes:
                 spaces = var[1]
                 width = var[2]
                 pretext = var[4]
-                
-                
 
-                            
+
+
+
             #This checks if the last time modified was on
             #the same date as the current date..
             #This is to separate your notes by day.
@@ -615,13 +615,13 @@ class PyNotes:
                     return True
                 else:
                     return False
-                    
+
 
             timestampstring = "TIMESTAMPSTR: "+\
                               ' '+\
                               str(self.InitializeTimeStamp)+\
                               ' '
-            
+
             if not lastDateMatches('TIMESTAMPSTR'):
                 long_line = ''
                 for s in range(54):
@@ -636,8 +636,8 @@ class PyNotes:
                 t += long_line + '\n\n\n'
 
     ####################--LOOP--####################
-         
-            while 1: 
+
+            while 1:
                 try:
                     if pretext == '' :
                         pretext = bp
@@ -669,12 +669,12 @@ class PyNotes:
                         pretext = var[6]
 
 
-                        
+
                     string = input(str(pretext))
                     lenI = len(bp)
 
-                    
-                    
+
+
                     #key_commands
                     if string == 'DONE':
                         break
@@ -722,8 +722,8 @@ class PyNotes:
                     elif string == 'HELP':
                         edit_functions()
                         print()
-                    
-                    #title        
+
+                    #title
                     elif string == 'TITLELINE':
                         ind_lvl = 0
                         pretext = ''
@@ -748,7 +748,7 @@ class PyNotes:
                         tagging = var[1]
                         string = var[2]
                         pretext = var[3]
-                        
+
                     #codemode
                     elif string == 'CODEMODE':
                         ind_lvl = 0
@@ -765,7 +765,7 @@ class PyNotes:
                         specialPoints()
 
                     #tell the time until class ends
-                    elif string == 'TIME':                        
+                    elif string == 'TIME':
                         current_time = str(time.asctime())[11:16]
                         end_time = self.end_time
                         cminutes = convert_to_min(current_time)
@@ -806,8 +806,8 @@ class PyNotes:
                         string=border+'\n'+\
                                 '++ '+ltype.upper()+': '+lname+' ++'+'\n'+\
                                 border+'\n'
-                            
-                            
+
+
 
                     #tag string
                     elif string == 'TAGSTRING':
@@ -882,11 +882,11 @@ class PyNotes:
                             pretext = var[6]
                             start_order = var[7]
                             lenI = var[8]
-                            
+
                     elif string == 'ORDERED END':
                         ordering = False
 ##                        bp = temp_bp #this breaks it
-                        
+
 
 
                     #Text Wrap
@@ -897,21 +897,21 @@ class PyNotes:
                         width = var[1]
                         pretext = var[2]
                         lenI = var[3]
-                        
-                            
-                    
+
+
+
                     #does not write key commands
                     key_match = 1
                     self.last_indented_line = lenI
                     self.last_indented_level = ind_lvl
-                    
+
                     for k in key_commands:
                         if string == k:
                             key_match -= 1
-                            
+
                     if key_match < 1:
                         t += ''
-                        
+
 
                     #finalizes text variable "t"
                     #creates "last_string" variable
@@ -919,7 +919,7 @@ class PyNotes:
                         if string == '':
                             t += '\n'
                             last_string = '\n'
-                            
+
                         elif len(string) > width:
                             t += pretext + string
                             last_string = pretext + string
@@ -930,10 +930,10 @@ class PyNotes:
                         last_string_array.append(last_string)
 
 
-                #Break Loop    
+                #Break Loop
                 except KeyboardInterrupt:
                     break
-                    
+
             else:
                 t += 'SYSTEM\t'+message+'\n'
 
@@ -945,7 +945,7 @@ class PyNotes:
             t += '\n\tLast Save: [' + \
                  time.asctime() + \
                  ']\n\n'
-            
+
 
         #Ask to backup file
         try:
@@ -956,7 +956,7 @@ class PyNotes:
         except KeyboardInterrupt:
             backup=True
             print('---Keyboard Interrupted---')
-            
+
         #Save File
         with open(file, 'w') as f:
             f.write(t)
@@ -964,7 +964,7 @@ class PyNotes:
 
         #Write to file backup location too, if backup=True
         if backup:
-            
+
             #Changes file name in backup
             month_int=str(time.gmtime().tm_mon)
             if len(month_int)<2:
@@ -980,21 +980,21 @@ class PyNotes:
             #backup path
             f_index=str(self.path).rindex('\\')
             folder = self.path[f_index+1:]
-            
+
             currentCwd = self.cwd
             os.chdir(self.MainCwd)
             os.chdir('Backup')
-            
+
             try:
                 os.mkdir(folder)
                 os.chdir(folder)
             except FileExistsError:
                 os.chdir(folder)
-            
+
             new_filename = file[:-4]+\
                            '_'+time_string+\
                            '.txt'
-            
+
             with open(new_filename, 'w') as f:
                 f.write(t)
             f.close()
@@ -1008,9 +1008,9 @@ class PyNotes:
             self.text = text
         f.close()
 
-        
 
-    
+
+
     def lp(self):
         self.UPL()
         print("##########---FOLDERS---##########")
@@ -1029,7 +1029,7 @@ class PyNotes:
             ------Bugs------
             01  ###FIXED###
                 Indentation with numbered bullets
-                
+
                 getting rid of it breaks numbered indent
                     but fixes overall indent
                 keeping it breaks overall indent
@@ -1075,9 +1075,9 @@ class PyNotes:
                     value error. Now it doesnt, but it's a
                     bit glitchy without it.
 
-            
 
-            
+
+
 
 
             ''')
@@ -1160,12 +1160,12 @@ class PyNotes:
             display all TITLELINEs
             add tags
             allow the user to search for a title/tags
-            
+
 
         Look into Ipython/jupyter
             ipython is a website for Jupyter
-        
-        ###Custom Made Warning    
+
+        ###Custom Made Warning
         import warnings as w
         >>> w.showwarning("message", Warning, "mod", 21)
 
@@ -1179,7 +1179,7 @@ class PyNotes:
                 place a text file in the corresponding
                 subject
 
-        
+
         ##Add a command to entirely delete the above line
             make it easy not to mistake it, or call it
             accidentally
@@ -1196,7 +1196,7 @@ class PyNotes:
 
         --->>>Tables and simple graphs (for econ)
 
-        
+
 
 
         0.3.04
@@ -1208,11 +1208,11 @@ class PyNotes:
         0.3.03
         Allow subtitle to be indented
 
-        0.3.05.1    
+        0.3.05.1
         add a numbered bullet point function
             input number of bullets
         self.NewFile() now selects the file when created
-            
+
         0.3.05
         Simplified self.readF() function
             got rid of useless code
@@ -1230,7 +1230,7 @@ class PyNotes:
 --------------------------------------------------
         0.3.09
         Fall 2016 Semester
-        0.3.09.1 
+        0.3.09.1
         Include a time for classes
             current time, time until end
             implement this with notes function
@@ -1238,14 +1238,14 @@ class PyNotes:
         0.3.09.2
         give editfile a "class" mode
             -will determine time remaining
-            
+
         0.3.10
         Completion of 0.3.09.x
         0.3.10.1 (planned) #IMPORTANT
         for backup, keep multiple files stored
             use different names based on time it was saved
             No overwriting the backup file.
-            
+
         0.3.11
         Completion of 0.3.10.x
             back up files are now actual backups
@@ -1266,7 +1266,7 @@ class PyNotes:
             #screenshot picture by pressing s to save it.
         #just name it in the notes, then just find the
             file in the folder
-            
+
         0.3.12
         Completion of Backup folders
         Completion of PyPaint opening files
@@ -1284,7 +1284,7 @@ class PyNotes:
         link to excel/google sheets
 
 
-        
+
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
                          !0.4.00!
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
@@ -1314,7 +1314,7 @@ class PyNotes:
             Do this in a similar fashion as the link
             function.
 
-            
+
         0.4.02
         -2017 Spring Semester
         0.4.02.1
@@ -1442,16 +1442,16 @@ class PyNotes:
         0.2.04
         -File/pdf opener? tkinter project perhaps
 
-        
 
-        
-        
-        
-        
-        
-        
-        
-                     
+
+
+
+
+
+
+
+
+
         ''')
 
 
@@ -1469,9 +1469,9 @@ class PyNotes:
         readF()
         -Reads the current file, and stores it
         in variable: [text].
-        
+
         sf(filename)
-        -Selects a file. This file is stored and saved 
+        -Selects a file. This file is stored and saved
         until a new file is selected.
 
         cd(path)
@@ -1552,10 +1552,10 @@ class PyNotes:
                '---------Time Stamp: ' + str(self.InitializeTimeStamp) + '\n' +\
                '---------Version: v' + str(self.version) + '\n' +\
                '---------Version Log: ' + '\n'
-               
-        
 
-        
+
+
+
 
 '''
 #functions
@@ -1591,10 +1591,10 @@ def startUp():
         print("""
         --------------------
         Welcome to PyNotes V0.5.05
-        
+
         This program is used to take notes
         and save them to a simple text document
-        
+
         Author: Max Ferney
         if you have any questions or concerns
         about this program, you may email
@@ -1627,7 +1627,7 @@ def quickstart(path,
                file=None,
                end_time='00:00'):
     global py
-    
+
     py = PyNotes()
     py.end_time = end_time
     py.cd()
@@ -1638,20 +1638,20 @@ def quickstart(path,
     if system:
         py.sf(file, show_text=False)
         py.EditFile()
-        
-        
-    
-    
+
+
+
+
 
 def notes():
-    
-    
+
+
     #Wed Oct 28 08:34:13 2015
     day = time.asctime()[:3]
     hour = time.asctime()[11:13]
     minute = time.asctime()[14:16]
     str_time = time.asctime()[11:16]
-    
+
     day = day.lower()
     hour = int(hour)
     minute = int(minute)
@@ -1665,17 +1665,17 @@ def notes():
         minutes += (time_hour * 60) + time_min
 
         return minutes
-        
+
 
     def is_in_time(days=['mon', 'tue', 'wed', 'thu', 'fri'],
                    starttime='08:00',
                    endtime='21:30',
                    minutes_before_start=30):
-        
+
         start_minutes = convert_time(starttime)
         current_minutes = convert_time(str_time)
         end_minutes = convert_time(endtime)
-        
+
         for d in days:
             if day == d:
                 if current_minutes >= (start_minutes - minutes_before_start) and \
@@ -1705,7 +1705,7 @@ def notes():
     else:
         print("you are not in class right now.")
         print("use: quickstart(path) to see notes.")
-        
+
 
 
 
@@ -1714,8 +1714,8 @@ def convert_to_min(time_string):
     minute = int(time_string[3:])
     total = (hour*60) + minute
     return total
-    
-    
+
+
 def clear(lines=30):
     for i in range(lines):print()
 
