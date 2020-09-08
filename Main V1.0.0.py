@@ -145,14 +145,8 @@ def notes():
     #classes
 
     #Computer Science
-    if is_in_time(['mon', 'wed'],'12:30','13:45',15):
-        quickstart('CSCI', True, 'csci441.txt', '13:45')
-    #Algorithms
-    elif is_in_time(['tue', 'thu', 'fri'],'12:30','13:45',15):
-        quickstart('CSCI', True, 'csci271.txt', '13:45')
-    #Digital Information Design
-    elif is_in_time(['tue', 'thu'],'15:30','16:45',15):
-        quickstart('DIFD', True, 'difd322.txt', '16:45')
+    if is_in_time(['tue', 'thu'],'12:30','13:45',15):
+        quickstart('CSCI', True, 'csci475.txt', '13:45')
     else:
         print("you are not in class right now.")
         print("use: quickstart(path) to see notes.")
@@ -169,3 +163,14 @@ def convert_to_min(time_string):
 
 def clear(lines=30):
     for i in range(lines):print()
+
+
+def StartLoop():
+    while True:
+        print("""
+        Type 'help' for more commands. Basic Commands:
+        notes | quickstart | cd | sf | edit
+
+        """)
+
+#StartLoop()
