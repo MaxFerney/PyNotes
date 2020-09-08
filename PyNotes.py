@@ -25,7 +25,7 @@ ORIGINAL_CWD = os.getcwd()
 #classes
 class PyNotes:
     FileName=None
-    MainCwd = 'C:\\Users\\ferne\\documents\\Python\\PyNotes'
+    MainCwd = 'C:\\PyNotes'
     cwd = None
     path = None
     cpaths = []
