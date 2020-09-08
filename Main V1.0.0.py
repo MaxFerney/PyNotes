@@ -167,10 +167,65 @@ def clear(lines=30):
 
 def StartLoop():
     while True:
-        print("""
-        Type 'help' for more commands. Basic Commands:
-        notes | quickstart | cd | sf | edit
+        try:
+            print("""
+            Type 'help' for more commands. ctrl+c to quit. Basic Commands:
+            notes | quickstart | cd | sf | edit
 
-        """)
+            """)
+            String = input(">>>")
+            if (String.lower() == "notes"):
+                notes()
+            elif (String.lower() == "quickstart"):
+                Param1 = input("Path: ")
+                quickstart(Param1)
+            elif (String.lower() == "help"):
+                print("""
+
+                notes
+                quickstart
+                help
+                cd
+                sf
+                lp
+                readf
+                newfile
+                editfile
+                clear
+
+                """)
+            elif (String.lower() == "readf"):
+                Param1 = input("STS (True | False): ")
+                if Param1.lower() == "true":
+                    Param1 = True
+                else:
+                    Param1 = False
+                py.readF(Param1)
+            elif (String.lower() == "cd"):
+                Param1 = input("Path: ")
+                py.cd(Param1)
+            elif (String.lower() == "lp"):
+                py.lp()
+            elif (String.lower() == "sf"):
+                Param1 = input("FileName (with extension): ")
+                py.sf(Param1)
+            elif (String.lower() == "newfile"):
+                Param1 = input("FileName (without extension): ")
+                Param2 = input("Title: ")
+                Param3 = input("Extension (default=txt): ")
+                py.NewFile(Param1, Param2, Param3)
+            elif (String.lower() == "editfile"):
+                Param1 = input("FileName (optional): ")
+                py.EditFile(file=Param1)
+            elif (String.lower() == "clear"):
+                clear()
+            else:
+                print("Something went wrong...")
+
+
+
+        except KeyboardInterrupt:
+            print("To open again, type StartLoop()")
+            break;
 
 #StartLoop()
